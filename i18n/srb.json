@@ -1,53 +1,53 @@
 {
   "home": {
-    "alert": "",
+    "alert": "За сада су доступне само Eнглеска и Xоландска верзија. Одлучио сам да не додам аутоматски друге језике, јер немам времена. Али ти можеш помоћи. ;-)",
     "all_questions_card": {
-      "button": "",
-      "content": "",
-      "title": ""
+      "button": "Одговорите на сва питања",
+      "content": "Идите на листу свих питања.",
+      "title": "Сва питања"
     },
-    "collaborate": "",
+    "collaborate": "Помозите у додавању нових језика",
     "random_questions_card": {
-      "button": "",
-      "content": "",
-      "count": "",
-      "title": ""
+      "button": "Одговорите на {{count}} питања",
+      "content": "Идите на листу насумичних питања",
+      "count": "# Питања",
+      "title": "Насумична питања"
     },
     "rules_card": {
-      "button": "",
-      "content": "",
-      "title": ""
+      "button": "Иди на правила",
+      "content": "Идите на листу свих правила. Одавде можете добити сва питања у вези са изабраним правилом.",
+      "title": "Правила"
     },
-    "subtitle": "",
-    "title": ""
+    "subtitle": "Проверите своје знање о правилима игре. <br> Питања о ИХФ правилима игре која важе од <b>1. Јула 2024.</b>",
+    "title": "Добродошли"
   },
   "languages": {
-    "en": "",
-    "label": "",
-    "nl": ""
+    "en": "Енглески",
+    "label": "Језик",
+    "nl": "Холандски"
   },
   "main": {
-    "title": ""
+    "title": "ИХФ каталог питања"
   },
   "navigation": {
-    "home": "",
-    "questions": "",
-    "rules": ""
+    "home": "Почетна",
+    "questions": "Питања",
+    "rules": "Правила"
   },
   "questions": {
-    "calculate_score": "",
-    "title": ""
+    "calculate_score": "Прикажи бодове",
+    "title": "Сва питања"
   },
-  "questions_random_new": "",
+  "questions_random_new": "{{count}} нових питања",
   "random_questions": {
-    "title": ""
+    "title": "Насумична питања"
   },
   "rules": {
-    "title": ""
+    "title": "Правила"
   },
   "score_overview": {
-    "score": "",
-    "title": "",
-    "wrong_questionNumbers": ""
+    "score": "Ваши бодови:",
+    "title": "Резултат",
+    "wrong_questionNumbers": "Питања на која сте одговорили <u>погрешно</u>:"
   }
 }
