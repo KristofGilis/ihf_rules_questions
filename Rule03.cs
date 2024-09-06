@@ -24,7 +24,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Колико боја може имати лопта?",
                     QuestionNumber = "3.1",
                     Answers =
                     [
@@ -35,7 +35,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "1",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -45,7 +45,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "2",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -55,7 +55,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "3",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -65,7 +65,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "неограничено",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -79,7 +79,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PharseSrb = "",
+                    PharseSrb = "Коју од наведене четири лопте треба да одаберу судије за утакмицу мушкараца?",
                     QuestionNumber = "3.2",
                     Answers =
                     [
@@ -90,7 +90,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 57 цм – тежине 450 грама",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -100,7 +100,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 58 цм – тежине 400 грама",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -110,7 +110,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 59 цм – тежине 425 грама",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -121,7 +121,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 60 цм – тежине 500 грама",
                             AnswerNumber = "d"
                         }
                     ]
@@ -134,7 +134,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PharseSrb = "",
+                    PharseSrb = "Коју од наведене четири лопте треба да одаберу судије за утакмицу жена?",
                     QuestionNumber = "3.3",
                     Answers =
                     [
@@ -145,7 +145,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 53 цм – тежине 350 грама",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -155,7 +155,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 54 цм – тежине 300 грама",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -165,7 +165,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 55 цм – тежине 425 грама",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -175,7 +175,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Обима 56 цм – тежине 375 грама",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -190,7 +190,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PharseSrb = "",
+                    PharseSrb = "Судије су донеле одлуку да се унесе резреврна лопта у игру. Када ће прва лопта бити поново коришћена?",
                     QuestionNumber = "3.4",
                     Answers =
                     [
@@ -201,7 +201,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "За време следећег прекида",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -213,7 +213,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Она не може бити поново коришћена, изузев ако је резервну лопту немогуће користити",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -223,7 +223,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Када судије нађу потребу за њено поновно коришћење",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -234,7 +234,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PharseSrb = "",
+                            PharseSrb = "Ако једна од екипа затражи њено поновно коришћење",
                             AnswerNumber = "d"
                         }
                     ]
