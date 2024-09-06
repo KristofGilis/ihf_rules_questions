@@ -7,6 +7,7 @@ public class AnswerDto
     public string? PhraseFr { get; init; }
     public string? PhraseSvn { get; init; }
     public string? PhraseDe { get; init; }
+    public string? PhraseSrb { get; init; }
     public string AnswerNumber { get; init; } = default!;
     public bool Correct { get; init; }
 }
