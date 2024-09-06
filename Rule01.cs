@@ -13,6 +13,7 @@ public static partial class Rules
             NameFr = "L'aire de jeu",
             NameSvn = "Igrišče",
             NameDe = "Die Spielfläche",
+            NameSrb = "Игралиште",
             RuleNumber = "1",
             Questions =
             [
@@ -23,6 +24,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Које димензије игралишта прописују Правила игре?",
                     QuestionNumber = "1.1",
                     Answers =
                     [
@@ -33,6 +35,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "40 x 20 м",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -43,6 +46,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "42 x 20 м",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -52,6 +56,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "38 x 18 м",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -61,6 +66,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Дужина између 38 и 42 метра, ширина између 18 и 22 метра",
                             AnswerNumber = "d"
                         }
                     ]
@@ -72,6 +78,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Које су захтеване унутрашње димензије гола?",
                     QuestionNumber = "1.2",
                     Answers =
                     [
@@ -82,6 +89,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "1,92 x 2,92 м",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -91,6 +99,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "2,00 x 3,00 м",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -101,6 +110,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "2,05 x 3,05 м",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -110,6 +120,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "2,08 x 3,08 м",
                             AnswerNumber = "d"
                         }
                     ]
@@ -121,6 +132,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Колико је широка гол линија између статива?",
                     QuestionNumber = "1.3",
                     Answers =
                     [
@@ -131,6 +143,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "5 цм",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -140,6 +153,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "6 цм",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -149,6 +163,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "8 цм",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -159,6 +174,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "10 цм",
                             AnswerNumber = "d"
                         }
                     ]
@@ -170,6 +186,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "Које од следећих тврдњи везане за простор за почетно бацање су тачне?",
                     QuestionNumber = "1.4",
                     Answers =
                     [
@@ -180,6 +197,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Састоји се од круга пречника 3 метра",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -189,6 +207,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Састоји се од круга пречника 4 метра",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -200,6 +219,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Простор за почетно бацање може бити простор другачије боје у односу на терен за игру",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -210,6 +230,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Простор за почетно бацање може бити кружна линија",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -220,6 +241,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "Коришћење простора за почетно бацање је обавезно за сва рукометна такмичења",
                             AnswerNumber = "e"
                         }
                     ]
