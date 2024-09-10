@@ -26,7 +26,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман ЦРНИ 1 зауставља шут на гол и почиње противнапад, притом својим левим стопалом прелази линију голмановог простора. Исправна одлука?",
                     QuestionNumber = "5.1",
                     Answers =
                     [
@@ -37,7 +37,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -47,7 +47,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -57,7 +57,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Понављање голмановог бацања после звиждука",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -72,7 +72,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман БЕЛИ 12 стоји изван свог голмановог простора, у пољу за игру. Примајући лопту од саиграча, голман БЕЛИ 12 направи корак уназад у властити голманов простор, а другом ногом остане у пољу за игру. Исправна одлука?",
                     QuestionNumber = "5.2",
                     Answers =
                     [
@@ -83,7 +83,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -93,7 +93,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -103,7 +103,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -114,7 +114,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Два минута искључења за голмана БЕЛОГ 12",
                             AnswerNumber = "d"
                         }
                     ]
@@ -128,7 +128,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман БЕЛИ 12 брани шут и баца се на лопту која иде у смеру поља за игру. Голман БЕЛИ 12 хвата лопту и клизне преко линије голмановог простора, а затим дода лопту у поље за игру свом саиграчу. Исправна одлука?",
                     QuestionNumber = "5.3",
                     Answers =
                     [
@@ -139,7 +139,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -149,7 +149,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекидања",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -159,7 +159,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голманово бацање за БЕЛУ екипу А после звучног сигнала",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -174,7 +174,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман ЦРНИ 1 зауставља шут на гол. Лопта се котрља према пољу за игру. У покушају да спречи да лопта дође до играча БЕЛОГ 15 који је чека на линији голмановог бацања, он одбије лопту ногом баш пре него што је играч БЕЛИ 15 дохвати, и тако је избаци преко гол-аут линије. Исправна одлука?",
                     QuestionNumber = "5.4",
                     Answers =
                     [
@@ -185,7 +185,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -195,7 +195,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -206,7 +206,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -217,7 +217,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивно кажњавање за голмана ЦРНОГ 1 зато што је угрозио противника",
                             AnswerNumber = "d"
                         }
                     ]
@@ -231,7 +231,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман БЕЛИ 12 не успева да задржи лопту под контролом. Лопта у голмановом простору иде према аут линији. Голман игра ногом и избаци лопту преко гол-аут линије. Исправна одлука?",
                     QuestionNumber = "5.5",
                     Answers =
                     [
@@ -242,7 +242,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голманово бацање за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -252,7 +252,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -263,7 +263,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Аут за ЦРНУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -273,7 +273,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивна казна против голмана",
                             AnswerNumber = "d"
                         }
                     ]
@@ -287,7 +287,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман БЕЛИ 1 брани шут. Лопта се котрља према пољу за игру, где ЦРНИ 6 чека сам да је подигне. Голман БЕЛИ 1 успева да заустави лопту ногом, кад она дође на линију голмановог простора. Исправна оглука?",
                     QuestionNumber = "5.6",
                     Answers =
                     [
@@ -298,7 +298,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голманово бацање за БЕЛУ екипу после звиждука",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -308,7 +308,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивна казна против БЕЛОГ 1",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -318,7 +318,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -329,7 +329,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "d"
                         }
                     ]
@@ -343,7 +343,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "ЦРНИ 18 шутира на гол. Шут је изблокиран од БЕЛОГ 7, тако да лопта промени правац и иде јасно изван гол линије (унутар голмановог простора). Голман БЕЛИ 1 трчи за лоптом и помаже јој, ногом, да пређе гол-аут линију. Исправна одлука?",
                     QuestionNumber = "5.7",
                     Answers =
                     [
@@ -354,7 +354,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голманово бацање за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -365,7 +365,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Аут за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -375,7 +375,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -385,7 +385,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Опомена БЕЛОМ 1",
                             AnswerNumber = "d"
                         }
                     ]
@@ -399,7 +399,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман ЦРНИ 12 скочи увис у свом голмановом простору да ухвати дуго додавање према играчу БЕЛОМ 7. ЦРНИ 12 хвата лопту док је у ваздуху и доскаче једном ногом у голманов простор, а другом у поље за игру, држећи лопту у рукама. Из те позиције дода лопту до играча ЦРНОГ 3. Исправна одлука?",
                     QuestionNumber = "5.8",
                     Answers =
                     [
@@ -410,7 +410,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екупу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -420,7 +420,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -430,7 +430,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -440,7 +440,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Корекција голмановог бацања после звучног сигнала",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -455,7 +455,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 9 додаје лопту своме голману БЕЛОМ 1, који стоји у пољу за игру. БЕЛИ 9 је на исправан начин ометан, зато баца лопту превише високо, тако да је голман БЕЛИ 1 принуђен да се врати назад и уђе у голманов простор једном ногом, у тренутку хватања лопте. Исправна одлука?",
                     QuestionNumber = "5.9",
                     Answers =
                     [
@@ -466,7 +466,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -476,7 +476,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -486,7 +486,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -496,7 +496,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -511,7 +511,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Судије досуђују слободно бацање за БЕЛУ екипу, испред линије голмановог простора БЕЛЕ екипе. Голман БЕЛИ 1 стоји једном ногом у голмановом простору, а другом у пољу за игру. Он додаје лопту играчу БЕЛОМ 8 који постиже гол. Исправна одлука?",
                     QuestionNumber = "5.10",
                     Answers =
                     [
@@ -522,7 +522,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Гол за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -533,7 +533,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Понављање слободног бацања изван голмановог простора БЕЛЕ екипе",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -543,7 +543,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу испред голмановог простора БЕЛЕ екипе",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -553,7 +553,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голманово бацање за ЦРНУ екипу",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -563,7 +563,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "e"
                         }
                     ]
@@ -577,7 +577,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Судија је досудио кораке играчу ЦРНОМ 21. ЦРНИ 21 спушта лопту на тло, на линију голмановог простора БЕЛЕ екипе. Голман БЕЛИ 12 жели брзо да изведе бацање. Он се ослања једном руком о тло у пољу за игру, али истовремено је једним стопалом у голмановом простору. Из овог положаја он додаје лопту играчу БЕЛОМ 3 који почиње контранапад, који се завршава голом за БЕЛУ екипу. Исправна одлука?",
                     QuestionNumber = "5.11",
                     Answers =
                     [
@@ -588,7 +588,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Понављање слободног бацања за БЕЛУ екипу после звиждука",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -599,7 +599,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Гол за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -609,7 +609,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу, јер је слободно бацање за БЕЛУ екипу изведено на неправилан начин",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -619,7 +619,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "d"
                         }
                     ]
@@ -633,7 +633,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Голман ЦРНИ 1 је напустио свој голманов простор. Он скаче у пољу за игру и хвата додавање од свог саиграча док је у ваздуху. Затим пада, са оба стопала, у свој голманов простор. Исправна одлука?",
                     QuestionNumber = "5.12",
                     Answers =
                     [
@@ -644,7 +644,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -654,7 +654,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голманово бацање за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -664,7 +664,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -675,7 +675,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -685,7 +685,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "e"
                         }
                     ]
@@ -699,7 +699,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Лопта је на поду, одмах изван голмановог простора БЕЛЕ екипе. Голман БЕЛИ 1 стоји унутар голмановог простора и подиже лопту, да би спречио противника да је узме. Исправна одлука?",
                     QuestionNumber = "5.13",
                     Answers =
                     [
@@ -710,7 +710,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -721,7 +721,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -731,7 +731,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивна казна за БЕЛОГ 1",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -741,7 +741,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Нема интервенције, зато што је ово дозвољено",
                             AnswerNumber = "d"
                         }
                     ]
