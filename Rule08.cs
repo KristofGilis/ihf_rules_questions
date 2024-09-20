@@ -26,7 +26,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "За време контранапада БЕЛЕ екипе, ЦРНИ 7 улази на терен као прекобројни играч, хвата БЕЛОГ 5 и тако спречи јасну ситуацију за постизање гола. Исправна одлука?",
                     QuestionNumber = "8.1",
                     Answers =
                     [
@@ -37,7 +37,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 7",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -49,7 +49,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 7 без писане пријаве (црвени картон показан од стране судија)",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -61,7 +61,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 7 са писаном пријавом (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -72,7 +72,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -82,7 +82,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -97,7 +97,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "ЦРНИ 8, који није унесен у записник утакмице, стиже касније и право из свлачионице утрчава на терен. Он спречи јасну ситуацију за постизање гола, гурајући у леђа БЕЛОГ 6, који је био у скок-шуту, тако да БЕЛИ 6 изгуби контролу над телом. Исправна одлука?",
                     QuestionNumber = "8.2",
                     Answers =
                     [
@@ -108,7 +108,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -119,7 +119,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
