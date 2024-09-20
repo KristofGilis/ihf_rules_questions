@@ -131,7 +131,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 8 без писане пријаве (црвени картон показан од стране судија)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -143,7 +143,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 8 са писаном пријавом (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -155,7 +155,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивна казна против одговорног представника ЦРНЕ екипе",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -170,7 +170,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "На путу у свлачионицу за време паузе између два полувремена, званичник Б БЕЛЕ екипе приговара судијама на неспортски начин. Званичник А БЕЛЕ екипе је већ кажњен опоменом за време првог полувремена. Исправна одлука?",
                     QuestionNumber = "8.3",
                     Answers =
                     [
@@ -181,7 +181,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења за званичника Б БЕЛЕ екипе",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -194,7 +194,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација званичника Б БЕЛЕ екипе (црвени картон показан од стране судија)",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -204,7 +204,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛА екипа почиње друго полувреме са једним играчем мање у пољу за игру на 2 минута",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -215,7 +215,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Ниједна казна није могућа; Писани извештај",
                             AnswerNumber = "d"
                         }
                     ]
@@ -229,7 +229,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 6 је већ два пута био кажњен са 2 минута искључења. Сада БЕЛИ 6 прави погрешну замену. Која је исправна одлука, ако се он екстремно неспортски понаша, после судијске одлуке о погрешној замени?",
                     QuestionNumber = "8.4",
                     Answers =
                     [
@@ -240,7 +240,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против БЕЛОГ 6",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -253,7 +253,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 6 без писане извештај (црвени картон показан од стране судија)",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -265,7 +265,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 6 са писаним извештајем (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -276,7 +276,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛА екипа ће бити редукована за једног играча у пољу за игру на 2 минута",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -286,7 +286,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛА екипа ће бити редукована за два играча у пољу за игру на 2 минута",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -296,7 +296,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛА екипа ће бити редукована за једног играча у пољу за игру на 4 минута",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -311,7 +311,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 2 је искључен на 2 минута, али званичник А БЕЛЕ екипе га пошаље натраг у поље за игру након једног минута. Пре него што се огласи мерилац времена, БЕЛИ 2 спречава јасну прилику за постизање гола ЦРНЕ екипе. Исправна одлука?",
                     QuestionNumber = "8.5",
                     Answers =
                     [
@@ -322,7 +322,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу и додатна временска казна за играча БЕЛОГ 2",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -334,7 +334,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу и додатна временска казна за БЕЛОГ 2 и БЕЛА екипа се даље редукује за остатак временске казне БЕЛОГ 2",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -346,7 +346,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац, дисквалификација БЕЛОГ 2 и БЕЛА екипа се даље редукује за остатак временске казне БЕЛОГ 2 (црвени картон показан од стране судија)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -358,7 +358,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац, дисквалификација БЕЛОГ 2 и екипа А се даље редукује за остатак временске казне БЕЛОГ2; писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -373,7 +373,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "За време напада БЕЛЕ екипе пивот БЕЛИ 7, који нема лопту у поседу, блокира ЦРНОГ 4 својим телом. Исправна одлука?",
                     QuestionNumber = "8.6",
                     Answers =
                     [
@@ -384,7 +384,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -394,7 +394,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивна казна против БЕЛОГ 7",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -404,7 +404,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља без прекида",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -419,7 +419,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Крило БЕЛИ 4 има јасну ситуацију за постизање гола. ЦРНИ 7 покушава да одузме лопту из његове руке, али га удари по подлактици. Лопта промаши гол. Исправна одлука?",
                     QuestionNumber = "8.7",
                     Answers =
                     [
@@ -430,7 +430,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -440,7 +440,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -451,7 +451,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 7",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -461,7 +461,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Опомена за ЦРНОГ 7",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -471,7 +471,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Нема прогресивне казне против ЦРНОГ 7",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -486,7 +486,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 6 је у контранападу, голман ЦРНИ 12 напусти голманов простор да би освојио лопту, али се судари са БЕЛИМ 6. Међутим, одбрамбени играч ЦРНЕ екипе је могао да заустави БЕЛОГ 6 на исправан начин. Исправна одлука?",
                     QuestionNumber = "8.8",
                     Answers =
                     [
@@ -497,7 +497,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 12",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -507,7 +507,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 12 (црвени картон показан од стране судија)",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -518,7 +518,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -529,7 +529,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -541,7 +541,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 12 са писаним извештајем (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "e"
                         }
                     ]
@@ -555,7 +555,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 2 жели да дода лопту саиграчу на другој половини терена, али му саиграча држи ЦРНИ 5. ЦРНИ 5 већ има опомену, након што је натрчао на противника без лопте. Исправна одлука?",
                     QuestionNumber = "8.9",
                     Answers =
                     [
@@ -566,7 +566,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -577,7 +577,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 5",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -588,7 +588,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 5 (црвени картон показан од стране судија)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -598,7 +598,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Писани извештај (плави картон показан од стране судија)",
                             AnswerNumber = "d"
                         }
                     ]
@@ -612,7 +612,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Лопта долази до пивотмена БЕЛОГ 9 који сам стоји испред линије голмановог простора. За шутерску руку га повлачи отпозади ЦРНИ 2. Исправна одлука?",
                     QuestionNumber = "8.10",
                     Answers =
                     [
@@ -623,7 +623,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -633,7 +633,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -644,7 +644,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључење против ЦРНОГ 2",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -654,7 +654,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 2 (црвени картон показан од стране судија)",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -666,7 +666,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Писани извештај (плави картон показан од стране судија)",
                             AnswerNumber = "e"
                         }
                     ]
@@ -680,7 +680,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Убрзо након што је БЕЛИ 9 опоменут због гурања у првом минуту утакмице, ЦРНИ 7 држи пивота БЕЛЕ екипе (није јасна ситуација за постизање гола). Исправна одлука?",
                     QuestionNumber = "8.11",
                     Answers =
                     [
@@ -691,7 +691,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -702,7 +702,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -712,7 +712,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Опомена за ЦРНОГ 7",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -723,7 +723,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења ЦРНОГ 7",
                             AnswerNumber = "d"
                         }
                     ]
@@ -737,7 +737,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 4 добије лопту код голмановог простора противника и испред њега је само голман. Пре него што БЕЛИ 4 покуша да постигне гол, ЦРНИ 7 га повуче за дрес са леђа и обори га, након чега БЕЛИ 4 губи лопту. Исправна одлука?",
                     QuestionNumber = "8.12",
                     Answers =
                     [
@@ -748,7 +748,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Опомена за ЦРНОГ 3",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -758,7 +758,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 3",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -769,7 +769,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 3 (црвени картон показан од стране судија)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -779,7 +779,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -789,7 +789,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -803,7 +803,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Када се играч мора дисквалификовати (црвени или црвени и плави картон показани од стране судија)?",
                     QuestionNumber = "8.13",
                     Answers =
                     [
@@ -814,7 +814,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За прекршај који угрожава здравље противника",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -825,7 +825,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За екстремно неспортско понашање на терену и ван њега",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -836,7 +836,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За поновљено неспортско понашање на терену",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -846,7 +846,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За неправилну замену током издржавања казне (није јасна ситуација за постизање гола)",
                             AnswerNumber = "d"
                         }
                     ]
@@ -860,7 +860,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "За време контранапада БЕЛОГ 5, званичник Ц ЦРНЕ екипе утрчава са клупе у правцу свог голмановог простора. БЕЛИ 5 се збуни тако да престане да трчи. По мишљењу судије БЕЛИ 5 је имао јасну ситуацију за постизање гола. Званичник Ц који је начинио прекршај није додирнуо противничког играча са лоптом; најкраћа удаљеност између њега и БЕЛОГ 5 била је отприлике 10 метара. Исправна одлука?",
                     QuestionNumber = "8.14",
                     Answers =
                     [
@@ -871,7 +871,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -882,7 +882,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -892,7 +892,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -905,7 +905,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација званичника Ц ЦРНЕ екипе (црвени картон показан од стране судија)",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -917,7 +917,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација званичника Ц ЦРНЕ екипе; писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -928,7 +928,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "ЦРНА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -943,7 +943,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛА екипа је у контранападу. БЕЛИ 5 жели да дода лопту БЕЛОМ 7 који је сам испред линије голмановог простора ЦРНЕ екипе. Када БЕЛИ 5 баци лопту, званичник Д ЦРНЕ екипе утрчава на терен и хвата лопту. Исправна одлука?",
                     QuestionNumber = "8.15",
                     Answers =
                     [
@@ -954,7 +954,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -964,7 +964,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -975,7 +975,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења званичника Д ЦРНЕ екипе",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -987,7 +987,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација званичника Д ЦРНЕ екипе без писаног извештаја (црвени картон показан од стране судија)",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -999,7 +999,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација званичника Д ЦРНЕ екипе; писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -1010,7 +1010,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "ЦРНА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -1025,7 +1025,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Које се од наведених радњи дефинишу као екстремно неспортско понашање које ће бити кажњено дисквалификацијом за писаним извештајем (црвени и плави картон показани од стране судија)?",
                     QuestionNumber = "8.16",
                     Answers =
                     [
@@ -1036,7 +1036,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Поновљена одбрана стопалом или потколеницом од стране играча у пољу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1046,7 +1046,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Званичник спречава јасну ситуацију за постизање гола",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1057,7 +1057,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Пљување на другу особу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1068,7 +1068,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Поновљено одуговлачење игре у циљу трошења времена",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1082,7 +1082,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Док су улазили у халу у којој се игра утакмица судије сретну ЦРНОГ 4 који је у спортској опреми, али који није уписан у записник утакмице. ЦРНИ 4 је прокоментарисао “не опет ти идиоти!”. Играо се 12. минут утакмице, ЦРНИ 4 је додат у записник утакмице као 14. играч своје екипе. То су судије уочиле. Исправна одлука?",
                     QuestionNumber = "8.17",
                     Answers =
                     [
@@ -1095,7 +1095,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација без писаног извештаја ЦРНОГ 4 (црвени картон показан од стране судија)",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1105,7 +1105,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "ЦРНА екипа се редукује на терену за једног играча у трајању од 2 минута",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1115,7 +1115,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "ЦРНА екипа наставља без редукције играча на терену",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1128,7 +1128,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 4, писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1141,7 +1141,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "ЦРНА екипа може додати другог играча да комплетира своју екипу до броја од 14 играча",
                             AnswerNumber = "e"
                         }
                     ]
@@ -1155,7 +1155,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Након досуђеног слободног бацања за БЕЛУ екипу, званичник Ц ЦРНЕ екипе улази у поље за игру вичући “Али, то је требало бити слободно бацање за нас!”. Ниједан званичник ЦРНЕ екипе претходно није кажњен. Исправна одлука?",
                     QuestionNumber = "8.18",
                     Answers =
                     [
@@ -1168,7 +1168,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Одговорни представник ЦРНЕ екипе мора одвести званичника Ц напоље из хале",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1180,7 +1180,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења противн званичника Ц ЦРНЕ екипе, ЦРНА екипа је редукована за једног играча на терену на 2 минута",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1190,7 +1190,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Опомена за званичника Ц ЦРНЕ екипе",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1201,7 +1201,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1216,7 +1216,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 3 је добио опомену за прекршај у пољу за игру, који се прогресивно кажњава. После наставка игре и након што је замењен, БЕЛИ 3 вређа судије с клупе за резервне играче. Исправна одлука?",
                     QuestionNumber = "8.19",
                     Answers =
                     [
@@ -1229,7 +1229,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација за БЕЛОГ 3 без писаног извештаја (црвени картон показан од стране судија) и БЕЛА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1241,7 +1241,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 3 са писаним извештајем (црвени и плави картон показани од стране судија) и БЕЛА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1254,7 +1254,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против БЕЛОГ 3 и БЕЛА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1264,7 +1264,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1279,7 +1279,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "За време контранапада БЕЛИ 4, који већ има опомену, повлачи ЦРНОГ 9 за дрес. Упркос томе ЦРНИ 9 успева да дода лопту ЦРНОМ 8 који постиже гол. Судије желе накнадно да казне БЕЛОГ 4, али он тада већ седи на клупи за резервне играче. Исправна одлука?",
                     QuestionNumber = "8.20",
                     Answers =
                     [
@@ -1292,7 +1292,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против БЕЛОГ 4; БЕЛА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1305,7 +1305,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛИ 4 не сме да игра следећа 2 минута, али екипа у пољу комплетна",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1315,7 +1315,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Казна више није могућа",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1327,7 +1327,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 4 (црвени картон показан од стране судија) БЕЛА екипа се редукује за једног играча на терену на 2 минута",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1341,7 +1341,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Када треба дисквалификовати играча (црвени или црвени и плави картон показани од стране судија)?",
                     QuestionNumber = "8.21",
                     Answers =
                     [
@@ -1352,7 +1352,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За грубо неспортско понашање",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1365,7 +1365,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За спречавање јасне ситуације за постизање гола блокирањем шута или додавања намерним коришћењем стопала",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1375,7 +1375,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За неправилну замену у току трајања временске казне (није јасна ситуација за постизање гола)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1387,7 +1387,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "За неспуштање лопте кад је досуђено слободног бацања за противничку екипу (није у последњих 30 секунди)",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1401,7 +1401,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "ЦРНА екипа је у нападу, БЕЛИ 11 одузима лопту ЦРНОМ 6 прекршајем опасним по здравље ЦРНОГ 6. За време прекршаја још су БЕЛИ 7 и БЕЛИ 8 између ЦРНОГ 6 и гола БЕЛЕ екипе. Исправна одлука?",
                     QuestionNumber = "8.22",
                     Answers =
                     [
@@ -1412,7 +1412,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против БЕЛОГ 11",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1422,7 +1422,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација за БЕЛОГ 11 (црвени картон показан од стране судија)",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1433,7 +1433,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за ЦРНУ екипу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1443,7 +1443,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1458,7 +1458,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Који од наведених прекршаја морају бити кажњени дисквалификацијом са писаним извештајем у складу са Правилима игре (црвени и плави картон показани од стране судија)?",
                     QuestionNumber = "8.23",
                     Answers =
                     [
@@ -1470,7 +1470,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Званичник екипе други пут улази у поље за игру без дозволе",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1480,7 +1480,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Званичник екипе покушава да присили своју екипу да напусти утакмицу",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1493,7 +1493,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Када извођач седмерца погоди голмана у главу, а да голман није померао главу у правцу лопте",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1505,7 +1505,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Након судијске одлуке играч демонстративно баца лопту на трибине",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1515,7 +1515,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Играч изван терена пљуне на гледаоца",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -1530,7 +1530,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 3 је искључен на 2 минута због прекршаја и седи на клупи. За време извођења аута у близини клупе, БЕЛИ 3 опсује судије. Исправна одлука?",
                     QuestionNumber = "8.24",
                     Answers =
                     [
@@ -1541,7 +1541,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против БЕЛОГ 3",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1553,7 +1553,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 3 без писаног извештаја (црвени картон показан од стране судија) која проузрокује моменталну редукцију БЕЛЕ екипе за једног играча на терену на 2 минута",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1563,7 +1563,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛА екипа се редукују за једног играча на терену на 4 минута",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1575,7 +1575,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 3 са писаним извештајем (црвени и плави картон показани од стране судија) која проузрокује моменталну редукцију БЕЛЕ екипе за једног играча на терену на 2 минута",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1590,7 +1590,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Разочаран грешком, БЕЛИ 3 удари саиграча у лице. Исправна одлука?",
                     QuestionNumber = "8.25",
                     Answers =
                     [
@@ -1601,7 +1601,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Ништа, јер је напао саиграча",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1611,7 +1611,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против БЕЛОГ 3",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1623,7 +1623,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација за БЕЛОГ 3 (црвени картон показана од стране судија)",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1635,7 +1635,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација БЕЛОГ 3 са писаним извештајем (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1650,7 +1650,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Улазећи у дворану судије сретну ЦРНОГ 4 који је већ обучен у дрес и који им довикне: “Ма, не опет ови идиоти!“. Судије су утврдиле да се ЦРНИ 4 налази у записнику утакмице. Исправна одлука?",
                     QuestionNumber = "8.26",
                     Answers =
                     [
@@ -1661,7 +1661,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 4 на почетку утакмице",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1673,7 +1673,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 4 без писаног извештаја (црвени картон показан од стране судија) и ЦРНА екипа се редукује за једног играча на терену на 2 минута, на почетку утакмице",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1685,7 +1685,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 4 са писаним извештајем (црвени и плави картон показани од стране судија) и ЦРНА екипа може користити 14 играча на утакмици",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1698,7 +1698,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 4 са писаним извештајем (црвени и плави картон показани од стране судија) и ЦРНА екипа може користити 14 играча на утакмици, али се редукује за једног играча на терену на 2 минута, на почетку утакмице",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1712,7 +1712,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "На загревању пре утакмице БЕЛИ 3 и голман ЦРНИ 1 се нехотице сударе. Изнервирају се и ЦРНИ 1 удари БЕЛОГ 3. БЕЛИ 3 му одмах узврати. Оба играча су унесена у записник утакмице. Исправна одлука?",
                     QuestionNumber = "8.27",
                     Answers =
                     [
@@ -1725,7 +1725,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 1 са писаним извештајем (црвени и плави картон показани од стране судија) и 2 минута искључења против БЕЛОГ 3; Екипе могу користити 14 играча",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1737,7 +1737,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 1 и БЕЛОГ 3 са писаним извештајем (црвени и плави картон показани од стране судија) екипе могу користити 14 играча на утакмици, али обе екипе се редукују за једног играча на терену на 2 минута на почетку утакмице",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1749,7 +1749,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Оба играча добијају 2 минута искључења које мора бити издржано на почетку утакмице. Писани извештај",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1761,7 +1761,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 1 и БЕЛОГ 3 са писаним извештајем (црвени и плави картон показани од стране судија); Екипе могу корисити 14 играча на утакмици",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -1776,7 +1776,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 9 изводи скок-шут. ЦРНИ 5 га са леђа хвата за шутерску руку и повлачи надоле. ЦРНИ 10 и ЦРНИ 11 се налазе између БЕЛОГ 9 и гола ЦРНЕ екипе. Исправна одлука?",
                     QuestionNumber = "8.28",
                     Answers =
                     [
@@ -1787,7 +1787,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1798,7 +1798,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Семерац за БЕЛУ екипу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1810,7 +1810,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација без писаног извештаја за ЦРНОГ 5 (црвени картон од стране судија)",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1821,7 +1821,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против ЦРНОГ 5",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1833,7 +1833,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација са писаним извештајем за ЦРНОГ 5 (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "e"
                         }
                     ]
@@ -1847,7 +1847,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Који од наведених прекршаја мора бити кажњен дисквалификацијом (црвени картон показан од стране судија)?",
                     QuestionNumber = "8.29",
                     Answers =
                     [
@@ -1859,7 +1859,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Званичник улази у поље за игру други пут без дозволе",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1871,7 +1871,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Играч који трчи у контранапад је повучен и оборен. Ситуација није нарочито опасна.",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1884,7 +1884,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац изведен у лице голмана који се не помера у правцу лопте",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1896,7 +1896,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Након судијске одлуке играч у знак протеста баца лопту на трибине",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1909,7 +1909,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Голман напушта голманов простор и хвата лопту, али приликом кретања изазове судар са противником који трчи у контранапад",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -1924,7 +1924,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 9 је дисквалификован после трећег искључења на 2 минута. У тренерци седа у први ред гледалишта уз аут линију, насупрот простору за замену играча. Тачно испред њега, у ЦРНИ 3 направи посебно опасан прекршај против БЕЛОГ 10. Повређен играч остаје на поду. Пре него што су судије могле да казне ЦРНОГ 3, БЕЛИ 9 утрчи у поље за игру и ударцем обара ЦРНОГ 3. Исправна одлука?",
                     QuestionNumber = "8.30",
                     Answers =
                     [
@@ -1935,7 +1935,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1948,7 +1948,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 3, писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1959,7 +1959,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛИ 9 више не учествује у утакмици, није могућа напомена",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1969,7 +1969,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Писани извештај о понашању БЕЛОГ 9",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1982,7 +1982,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација без писаног извештаја за ЦРНОГ 3 (црвени картон показан од стране судија)",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -1994,7 +1994,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "БЕЛИ 10 мора напустити терен после указане медицинске помоћи и може се вратити после трећег напада БЕЛЕ екипе",
                             AnswerNumber = "f"
                         }
                     ]
@@ -2006,7 +2006,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Опомена ће бити дата за:",
                     QuestionNumber = "8.31",
                     Answers =
                     [
@@ -2019,7 +2019,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прекршај у којем је акција усмерена углавном или сасвим ка телу противника",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -2030,7 +2030,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прекршај приликом извођења неког од бацања противничке екипе",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -2042,7 +2042,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Неспуштање лопте на тло код досуђеног прекршаја против екипе која је имала лопту у поседу",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -2054,7 +2054,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Покушај голмана да обави замену када је противник спреман за извођење седмерца",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -2067,7 +2067,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Шта се сматра неспортским понашањем?",
                     QuestionNumber = "8.32",
                     Answers =
                     [
@@ -2080,7 +2080,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Бацање лопте у главу одбрамбеног играча који се не креће у правцу лопте",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -2092,7 +2092,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Пасиван став голмана током извођења седмерца, када је очито да он не покушава да брани шут",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -2102,7 +2102,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Покушај обмане судије симулирањем",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -2113,7 +2113,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Активно блокирање шута на гол коришћењем ноге или потколенице",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -2124,7 +2124,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Поновљени улазак у голманов простор, из тактичких разлога",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -2135,7 +2135,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Реванш после прекршаја",
                             AnswerNumber = "f"
                         }
                     ]
