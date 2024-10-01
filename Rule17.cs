@@ -25,7 +25,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Судије нису сагласне око тога која екипа треба да изведе аут. Исправна одлука?",
                     QuestionNumber = "17.1",
                     Answers =
                     [
@@ -36,7 +36,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судија у пољу одлучује",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -46,7 +46,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судија код гола одлучује",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -56,7 +56,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Двојица судија доносе заједничку одлуку после консултације",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -67,7 +67,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -78,7 +78,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Нема тајм-аута, аут се изводи после звиждука",
                             AnswerNumber = "e"
                         }
                     ]
@@ -92,7 +92,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Аутоматски сигнал за крај утакмице на семафору не ради. Мерилац времена није видео проблем и не реагује, иако је време већ истекло. Ко у том случају треба да означи завршетак утакмице?",
                     QuestionNumber = "17.2",
                     Answers =
                     [
@@ -103,7 +103,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Само записничар",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -113,7 +113,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Само судија у пољу",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -123,7 +123,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Само делегат",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -133,7 +133,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Само један од судија",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -143,7 +143,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Само мерилац времена",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -153,7 +153,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Мерилац времена, делегат или један од судија",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -168,7 +168,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "ЦРНИ 2 направи прекршај. Судија у пољу досуђује дисквалификацију ЦРНОГ 2 (црвени картон показан од стране судија)и слободно бацање. Судија код гола досуђује 2 минута искључења против ЦРНОГ 2 и седмерац. Како треба казнити играча и како наставити утакмицу?",
                     QuestionNumber = "17.3",
                     Answers =
                     [
@@ -179,7 +179,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута икључења против ЦРНОГ 2",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -189,7 +189,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација ЦРНОГ 2 (црвени картон показан од стране судија)",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -200,7 +200,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -210,7 +210,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -223,7 +223,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "У случају недоумице, ко одлучује о тачности мерења времена?",
                     QuestionNumber = "17.4",
                     Answers =
                     [
@@ -234,7 +234,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Мерилац времена и записничар",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -244,7 +244,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судије доносе заједничку одлуку",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -255,7 +255,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Мерилац времена",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -265,7 +265,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судије и мерилац времена доносе заједничку одлуку",
                             AnswerNumber = "d"
                         }
                     ]
@@ -277,7 +277,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Које казне треба образложити у записник утакмице?",
                     QuestionNumber = "17.5",
                     Answers =
                     [
@@ -289,7 +289,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Све дисквалификације, осим оних након трећег искључења на 2 минута",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -299,7 +299,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Све казне, осим опомена",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -309,7 +309,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Сва искључења и све дисквалификације",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -321,7 +321,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификације за опасне прекршаје или грубо неспортско понашање у последњих 30 секунди утакмице, ако је то имало за циљ да спречи противника у стварању шансе за постизање гола",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -331,7 +331,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификације због екстремно неспортског понашања",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -344,7 +344,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Сваку прогресивну казну за време последњих 30 секунди утакмице, ако је прекршај имао за циљ да спречи противника у стварању шансе за постизање гола",
                             AnswerNumber = "f"
                         }
                     ]
@@ -356,7 +356,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Коме је допуштено да се обраћа судијама за време игре?",
                     QuestionNumber = "17.6",
                     Answers =
                     [
@@ -367,7 +367,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Сваком играчу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -377,7 +377,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Сваком званичнику",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -387,7 +387,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Одговорном представнику екипе",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -398,7 +398,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Капитену екипе",
                             AnswerNumber = "d"
                         }
                     ]
@@ -412,7 +412,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Судије имају различито мишљење о преосталом времену до краја утакмице. Судија код гола, који је првоименовани судија, мисли да је остало 50 секунди, док судија у пољу каже 42 секунде. Исправна одлука?",
                     QuestionNumber = "17.7",
                     Answers =
                     [
@@ -423,7 +423,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Примењује се дуже време - 50 секунди",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -433,7 +433,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Првоименовани судија одлучује - 50 секунди",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -443,7 +443,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судија у пољу одлучује - 42 секунде",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -453,7 +453,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судије треба да донесу заједничку одлуку",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -468,7 +468,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Који судија је на почетку утакмице у пољу, а који код гола?",
                     QuestionNumber = "17.8",
                     Answers =
                     [
@@ -479,7 +479,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Првоименовани судија је судија у пољу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -489,7 +489,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Првоименовани судија је судија код гола",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -500,7 +500,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судије ће жребати да одлуче ко ће где бити",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -510,7 +510,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судије су слободне да одреде ко ће где бити",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -525,7 +525,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Судије су се мимоишле у одлукама, после судара између два играча. Судија у пољу показује прекршај у нападу, док судија код гола указује на прекршај одбрамбеног играча. Исправна одлука?",
                     QuestionNumber = "17.9",
                     Answers =
                     [
@@ -536,7 +536,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Одлука судије код гола се поштује",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -546,7 +546,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Одлука судије у пољу се поштује",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -557,7 +557,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Судије се договарају и долазе до заједничке одлуке",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -568,7 +568,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Обавезан тајм-аут",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -580,7 +580,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут је обавезан само ако је заједничка одлука против екипе која је у нападу",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -592,7 +592,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тајм-аут није обавезан ако судије користе електронску опрему за међусобну комуникацију",
                             AnswerNumber = "f"
                         }
                     ]
