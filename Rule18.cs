@@ -26,7 +26,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Шта Правила игре прописују у погледу поделе посла између мериоца времена и записничара?",
                     QuestionNumber = "18.1",
                     Answers =
                     [
@@ -39,7 +39,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Контролу уласка и изласка замена врши само мерилац времена",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -51,7 +51,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Генерално, само мерилац времена треба да прекине игру, када је то неопходно",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -64,7 +64,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Записничар мора да свира када уочи да је замена ушла на терен прерано",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -76,7 +76,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Ако нема јавног мерења времена, мерилац времена информише екипе о времену игре или о томе колико је још времена остало да се игра",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -89,7 +89,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Рачунање броја напада када је играч у обавези да паузира 3 напада, после указане медицинске помоћи на терену, је заједнички задатак за мериоца времена и записничара",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -104,7 +104,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛИ 5 је у јасној ситуацији за постизање гола. Званичник А БЕЛЕ екипе вређа мериоца времена. Мерилац времена свира баш када је БЕЛИ 5 спреман да шутира. Ову ситуацију је регистровао само мерилац времена. Исправна одлука?",
                     QuestionNumber = "18.2",
                     Answers =
                     [
@@ -115,7 +115,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за ЦРНУ екипу",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -125,7 +125,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Казна против званичника А БЕЛЕ екипе",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -135,7 +135,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Слободно бацање за БЕЛУ екипу",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -146,7 +146,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Седмерац за БЕЛУ екипу",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -156,7 +156,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Писани извештај",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -171,7 +171,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Одговорни представник БЕЛЕ екипе вређа записничара, а да то судије и делегат нису приметили. Када је игра следећи пут прекинута, записничар обавештава судије о томе што се догодило. Исправна одлука?",
                     QuestionNumber = "18.3",
                     Answers =
                     [
@@ -184,7 +184,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација одговорног представника БЕЛЕ екипе; Писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -194,7 +194,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против одговорног представника БЕЛЕ екипе",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -204,7 +204,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Писани извештај",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -215,7 +215,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Опомена одговорном представнику БЕЛЕ екипе",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -225,7 +225,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Лична казна није могућа",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -240,7 +240,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛА екипа има лопту на линији 9 метара ЦРНЕ екипе. Технички делегат прекида игру и објашњава судијама да га је званичник А ЦРНЕ екипе вређао. Исправна одлука?",
                     QuestionNumber = "18.4",
                     Answers =
                     [
@@ -251,7 +251,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Упозорење званичнику А ЦРНЕ екипе, писани извештај",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -263,7 +263,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Дисквалификација званичника А ЦРНЕ екипе, писани извештај (црвени и плави картон показани од стране судија)",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -276,7 +276,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља слободним бацањем за БЕЛУ екипу код простора за замену играча ЦРНЕ екипе",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -288,7 +288,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља слободним бацањем за БЕЛУ екипу са линије слободног бацања ЦРНЕ екипе",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -303,7 +303,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "БЕЛА екипа има лопту на линији слободног бацања ЦРНЕ екипе. Мерилац времена прекида утакмицу и каже судијама да га је званичник А БЕЛЕ екипе вређао. Ову ситуацију је регистровао само мерилац времена. Исправна одлука?",
                     QuestionNumber = "18.5",
                     Answers =
                     [
@@ -314,7 +314,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Писани извештај",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -325,7 +325,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "2 минута искључења против званичника А БЕЛЕ екипе, писани извештај",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -337,7 +337,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља слободним бацањем за ЦРНУ екипу, код простора за замену играча БЕЛЕ екипе",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -349,7 +349,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Игра се наставља слободним бацањем за БЕЛУ екипу, са линије слободног бацања ЦРНЕ екипе",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -364,7 +364,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "За време утакмице одговорни представник БЕЛЕ екипе више пута долази скроз до записничког стола и одатле саветује своје играче на терену. Док то чини, он протестује против одлука судија. Услед буке у хали судије то нису приметиле. Исправна одлука?",
                     QuestionNumber = "18.6",
                     Answers =
                     [
@@ -377,7 +377,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Мерилац времена тренутно прекида игру и обавештава судије о лошем понашању одговорног представника БЕЛЕ екипе",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -389,7 +389,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Мерилац времена чека следећи прекид игре и обавештава судије о лошем понашању одговорног представника БЕЛЕ екипе",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -400,7 +400,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Прогресивна казна против одговорног представника БЕЛЕ екипе",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -410,7 +410,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Казна није могућа",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -425,7 +425,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Када треба мерилац времена/записничар да информише судије о прекршајима правила о простору за замену играча, које судије нису регистровале?",
                     QuestionNumber = "18.7",
                     Answers =
                     [
@@ -436,7 +436,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Тренутно",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -446,7 +446,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "У време следећег прекида игре",
                             AnswerNumber = "b",
                             Correct = true
                         }
@@ -461,7 +461,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
-                    PhraseSrb = "",
+                    PhraseSrb = "Ако технички делегат прекине игру, због прекршаја учињеног од стране БЕЛЕ екипе а при томе је лопта у игри, да ли се игра наставља поседом лопте за ЦРНУ екипу?",
                     QuestionNumber = "18.8",
                     Answers =
                     [
@@ -472,7 +472,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Да",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -483,7 +483,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "",
+                            PhraseSrb = "Не",
                             AnswerNumber = "b"
                         }
                     ]
