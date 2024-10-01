@@ -13,6 +13,7 @@ public static partial class Rules
             NameFr = "Le Jet de 7 mètres",
             NameSvn = "7-Metrovka",
             NameDe = "Der 7-m-Wurf",
+            NameSrb = "Седмерац",
             RuleNumber = "14",
             Questions =
             [
@@ -25,6 +26,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.1",
                     Answers =
                     [
@@ -35,6 +37,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -46,6 +49,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -58,6 +62,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -69,6 +74,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -82,6 +88,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.2",
                     Answers =
                     [
@@ -92,6 +99,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -101,6 +109,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -110,6 +119,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -120,6 +130,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -129,6 +140,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -143,6 +155,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.3",
                     Answers =
                     [
@@ -153,6 +166,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -162,6 +176,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -171,6 +186,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -185,6 +201,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.4",
                     Answers =
                     [
@@ -195,6 +212,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -204,6 +222,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -214,6 +233,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -223,6 +243,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -237,6 +258,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.5",
                     Answers =
                     [
@@ -247,6 +269,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -256,6 +279,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -265,6 +289,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -275,6 +300,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -288,6 +314,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.6",
                     Answers =
                     [
@@ -298,6 +325,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -307,6 +335,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -316,6 +345,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -326,6 +356,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -339,6 +370,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.7",
                     Answers =
                     [
@@ -349,6 +381,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -358,6 +391,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -367,6 +401,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -376,6 +411,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d",
                             Correct = true
                         }
@@ -390,6 +426,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.8",
                     Answers =
                     [
@@ -400,6 +437,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -410,6 +448,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -419,6 +458,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -428,6 +468,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -441,6 +482,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.9",
                     Answers =
                     [
@@ -451,6 +493,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -460,6 +503,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -470,6 +514,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -479,6 +524,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -492,6 +538,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.10",
                     Answers =
                     [
@@ -502,6 +549,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -511,6 +559,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -521,6 +570,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -535,6 +585,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.11",
                     Answers =
                     [
@@ -545,6 +596,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -554,6 +606,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -565,6 +618,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -575,6 +629,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -586,6 +641,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e"
                         }
                     ]
@@ -599,6 +655,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.12",
                     Answers =
                     [
@@ -609,6 +666,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -618,6 +676,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -628,6 +687,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -637,6 +697,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -648,6 +709,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -662,6 +724,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.13",
                     Answers =
                     [
@@ -672,6 +735,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -681,6 +745,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -693,6 +758,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -703,6 +769,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -715,6 +782,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.14",
                     Answers =
                     [
@@ -726,6 +794,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -738,6 +807,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -749,6 +819,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -759,6 +830,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -772,6 +844,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.15",
                     Answers =
                     [
@@ -782,6 +855,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -792,6 +866,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -801,6 +876,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -811,6 +887,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -824,6 +901,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.16",
                     Answers =
                     [
@@ -834,6 +912,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -843,6 +922,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -855,6 +935,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -866,6 +947,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -878,6 +960,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e",
                             Correct = true
                         }
@@ -892,6 +975,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.17",
                     Answers =
                     [
@@ -902,6 +986,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -911,6 +996,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -920,6 +1006,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         }
@@ -934,6 +1021,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.18",
                     Answers =
                     [
@@ -944,6 +1032,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -954,6 +1043,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -963,6 +1053,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -972,6 +1063,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -985,6 +1077,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.19",
                     Answers =
                     [
@@ -995,6 +1088,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1006,6 +1100,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1016,6 +1111,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1025,6 +1121,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1038,6 +1135,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.20",
                     Answers =
                     [
@@ -1048,6 +1146,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a",
                             Correct = true
                         },
@@ -1058,6 +1157,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1067,6 +1167,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1076,6 +1177,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         }
                     ]
@@ -1089,6 +1191,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.21",
                     Answers =
                     [
@@ -1099,6 +1202,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1108,6 +1212,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1118,6 +1223,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1128,6 +1234,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1138,6 +1245,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e"
                         }
                     ]
@@ -1151,6 +1259,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.22",
                     Answers =
                     [
@@ -1161,6 +1270,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1170,6 +1280,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b"
                         },
                         new AnswerDto
@@ -1179,6 +1290,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1188,6 +1300,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d"
                         },
                         new AnswerDto
@@ -1197,6 +1310,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e",
                             Correct = true
                         },
@@ -1207,6 +1321,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "f",
                             Correct = true
                         }
@@ -1221,6 +1336,7 @@ public static partial class Rules
                     PhraseFr = "",
                     PhraseSvn = "",
                     PhraseDe = "",
+                    PhraseSrb = "",
                     QuestionNumber = "14.23",
                     Answers =
                     [
@@ -1231,6 +1347,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1240,6 +1357,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "b",
                             Correct = true
                         },
@@ -1250,6 +1368,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "c"
                         },
                         new AnswerDto
@@ -1259,6 +1378,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "d",
                             Correct = true
                         },
@@ -1269,6 +1389,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "e"
                         },
                         new AnswerDto
@@ -1278,6 +1399,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
+                            PhraseSrb = "",
                             AnswerNumber = "f",
                             Correct = true
                         }
