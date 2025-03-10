@@ -1340,7 +1340,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "Коме је дозвољено да учествује у тај-брејк извођењу седмераца?",
+                            PhraseSrb = "Сви играчи који су уписани у записник утакмице",
                             AnswerNumber = "a"
                         },
                         new AnswerDto
@@ -1362,7 +1362,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "Играчи који нису били дисквалификовани",
+                            PhraseSrb = "Играчи који не издржавају казну од два минута кад је завршен продужетак",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -1373,7 +1373,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "Играчи који нису били дисквалификовани",
+                            PhraseSrb = "Играчи који су добили дозволу судија",
                             AnswerNumber = "d"
                         }
                     ]
