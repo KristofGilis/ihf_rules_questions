@@ -3207,7 +3207,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "Екипни тајм-аут за БЕЛУ екипу",
+                            PhraseSrb = "Зелени картон се враћа БЕЛОЈ екипи",
                             AnswerNumber = "c",
                             Correct = true
                         },
@@ -3229,7 +3229,7 @@ public static partial class Rules
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
-                            PhraseSrb = "Утакмица се наставља слободним бацањем за ЦРНУ екипу",
+                            PhraseSrb = "Утакмица се наставља слободним бацањем за БЕЛУ екипу",
                             AnswerNumber = "e"
                         }
                     ]
