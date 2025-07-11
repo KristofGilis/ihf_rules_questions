@@ -1314,8 +1314,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Тренутно искључење ЦРНОГ 3 и седмерац за БЕЛУ екипу",
-                            AnswerNumber = "b",
-                            Correct = true
+                            AnswerNumber = "b"
                         },
                         new AnswerDto
                         {
@@ -1341,7 +1340,8 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Сачекати исход гол шансе, затим 2 минута искључења за ЦРНОГ 3 и одредити бацање према ситуацији",
-                            AnswerNumber = "d"
+                            AnswerNumber = "d",
+                            Correct = true
                         }
                     ]
                 },
@@ -3911,7 +3911,7 @@ public static partial class Rules
                 new QuestionDto
                 {
                     Phrase =
-                        "The score is 29:29 with 10 seconds left in the match. Goalkeeper WHITE 12 executes a goalkeeper throw and passes the ball to WHITE 11. WHITE 11 sees that WHITE 9 is in a free position at the goal-area line of BLACK team. He passes the ball to WHITE 9. Before WHITE 9 takes a shot on goal, the timekeeper interrupts the game because of a faulty substitution. BLACK 2 has entered the court before BLACK 4 has left it. What is the correct decision?",
+                        "The score is 29:29 with 10 seconds left in the match. Goalkeeper WHITE 12 executes a goalkeeper throw and passes the ball to WHITE 11. WHITE 11 sees that WHITE 9 is in a free position at the goal-area line of BLACK team. He passes the ball to WHITE 9. Before WHITE 9 takes a shot on goal, the delegate interrupts the game because of a faulty substitution. BLACK 2 has entered the court before BLACK 4 has left it. What is the correct decision?",
                     PhraseNl =
                         "De stand is 29:29 met nog 10 sec te spelen in de wedstrijd. Doelman WIT12 voert een uitworp uit en speelt de bal naar WIT11. WIT11 ziet dat WIT9 in een vrije positie staat aan de doelgebied lijn van team ZWART. Hij speelt de bal naar WIT9. Vooraleer WIT9 naar doel kan werpen, onderbreekt de tijdwaarnemer het spel voor een foutieve wissel. ZWART2 is op het speelveld gekomen vooraleer ZWART4 dit heeft verlaten. Wat is de correcte beslissing?",
                     PhraseFr = "",
@@ -3974,6 +3974,121 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "Дисквалификација за ЦРНОГ 2 (црвени картон показан од стране судија)",
                             AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
+                        }
+                    ]
+                },
+                new QuestionDto
+                {
+                    Phrase =
+                        "It is possible to use the video replay in this match. WHITE team is in a counterattack. WHITE 7 has the ball at the centre line. In that moment BLACK 9 enters the court as an additional player. WHITE 7 plays the ball to WHITE 11 who has a clear chance of scoring. At that moment the delegate whistles because of the additional player on the court. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "4.62",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "Use the video replay to see who entered the court as an additional player and to see when the player entered.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for BLACK 9",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "Disqualification without written report for BLACK 9 (red card is shown by the referees)",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "Disqualification with written report for BLACK 9 (red and blue cards are shown by the referees)",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Free throw for WHITE team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "7-metre throw for WHITE team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "g",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "h",
+                            Correct = true
                         }
                     ]
                 }

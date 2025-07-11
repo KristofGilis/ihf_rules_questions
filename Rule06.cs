@@ -1397,6 +1397,104 @@ public static partial class Rules
                             Correct = true
                         }
                     ]
+                },
+                new QuestionDto
+                {
+                    Phrase = "BLACK 5 takes a shot on goal. Goalkeeper WHITE 12 saves the ball. During the save, WHITE 12 hits his head against the goalpost and falls to the floor injured. BLACK 3 catches the rebound from the goalkeeper’s save and has a clear chance of scoring at the goal-area line of WHITE team. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "6.25",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "Advantage for BLACK 3.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Interrupt the match immediately.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a 7-metre throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The referees may give permission for two persons from BLACK team to enter the court to give medical treatment for WHITE 12.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "After receiving medical treatment, WHITE 12 must leave the court and can only re-enter following the third attack of his team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "g",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "After receiving medical treatment, WHITE 12 can continue playing without leaving the court.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "h"
+                        }
+                    ]
                 }
             ]
         };

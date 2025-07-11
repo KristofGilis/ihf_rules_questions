@@ -153,7 +153,8 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекидања",
-                            AnswerNumber = "b"
+                            AnswerNumber = "b",
+                            Correct = true
                         },
                         new AnswerDto
                         {
@@ -163,8 +164,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за БЕЛУ екипу А после звучног сигнала",
-                            AnswerNumber = "c",
-                            Correct = true
+                            AnswerNumber = "c"
                         }
                     ]
                 },
@@ -429,7 +429,8 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Игра се наставља без прекида",
-                            AnswerNumber = "b"
+                            AnswerNumber = "b",
+                            Correct = true
                         },
                         new AnswerDto
                         {
@@ -449,8 +450,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Корекција голмановог бацања после звучног сигнала",
-                            AnswerNumber = "d",
-                            Correct = true
+                            AnswerNumber = "d"
                         }
                     ]
                 },

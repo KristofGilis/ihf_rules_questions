@@ -3709,6 +3709,275 @@ public static partial class Rules
                             AnswerNumber = "f"
                         }
                     ]
+                },
+                new QuestionDto
+                {
+                    Phrase =
+                        "(Electronic team time-out is used in the game). WHITE team are in attack, and the score is 31:31. With 20 seconds left in the match, WHITE 7 scores a goal. Official A from BLACK team runs to the timekeeper’s table to push the buzzer to request a team time-out. Before official A is able to push the buzzer, BLACK 10 gets up from the bench and pushes the buzzer just before BLACK team execute the throw-off. What is the correct decision?",
+                    PhraseNl =
+                        "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb =
+                        "",
+                    QuestionNumber = "2.55",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "Team time-out for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "No team time-out for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a throw-off for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a free throw for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a 7-metre throw for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Official A from WHITE team can choose between 7-metre throw and free throw.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Progressive punishment for official A from BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "g"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for BLACK 10.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "h",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "Disqualification without written report for BLACK 10 (red card shown by the referees).",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "i",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "BLACK team will lose one team time-out.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "j"
+                        }
+                    ]
+                },
+                new QuestionDto
+                {
+                    Phrase = "It is possible to use the video replay in this match, and an electronic team time-out system is in use. With 20 seconds left of the match WHITE 7 runs with the ball in his hands. The referees whistle steps against WHITE 7. WHITE 7 holds on to the ball for 2 seconds before putting it on the floor. Just as BLACK 4 picks up the ball, official B of BLACK team presses the buzzer to request a TTO. The referees decide to use the VR to check a possible violation of rule 8:11a. During the VR review, they see that WHITE 7 only took three steps. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "2.56",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "It is okay to use the video replay.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Team time-out starts immediately for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Decision about team time-out is postponed until after VR.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "After VR, team time-out for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "After VR, no team time-out for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Disqualification without written report for WHITE 7 (red card shown by the referees).",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "g"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for WHITE 7.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "h"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "i"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a 7-metre throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "j"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "k",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "BLACK team will lose one team time-out",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "l"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Progressive punishment for official B of BLACK team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "m"
+                        },
+                    ]
                 }
             ]
         };

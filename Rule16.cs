@@ -1532,6 +1532,192 @@ public static partial class Rules
                             AnswerNumber = "e"
                         }
                     ]
+                },
+                new QuestionDto
+                {
+                    Phrase =
+                        "BLACK 11 scores a goal. While shooting, he is pushed from the side by WHITE 10, so that he partially loses body control. The referees give a 2-minute suspension for WHITE 10. WHITE 10 leaves the court. The referees give the signal for the subsequent throw-off, and before the throw is executed, WHITE 9 enters the court as an additional player. The delegate whistles and the clock is stopped. The public clock shows 1 minute and 58 seconds left of the suspension for WHITE 10. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "16.24",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for WHITE 9.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "WHITE team is reduced by two players on the court for 2 minutes.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "For 1 minute and 58 seconds WHITE team is reduced by two players on the court. After 1 minute and 58 seconds the first suspension lapses and WHITE team is reduced by one player on the court for another 2 seconds.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a throw-off for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a free throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
+                        }
+                    ]
+                },
+                new QuestionDto
+                {
+                    Phrase = "WHITE team are in possession of the ball, and the ball is in play. Official B from WHITE team complains about a missing suspension for BLACK team. The delegate interrupts the game and official B is given a yellow card. Because of this punishment and before the game is restarted, he complains again, and the referees give him a 2-minute suspension. Official B then calls the referee an “idiot”. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "16.25",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "WHITE team is reduced by one player on the court for 4 minutes.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "WHITE team is reduced by two players on the court for 2 minutes.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "WHITE team is reduced by one player on the court for 2 minutes.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Disqualification without written report for official B from WHITE team (red card shown by the referees).",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Disqualification with written report for official B from WHITE team (red and blue cards shown by the referees).",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Later in the match, it is possible to give a yellow card and/or a 2-minute suspension to another official from WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Yellow card, 2-minute suspension and disqualification noted in the match report.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "g"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for WHITE team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "h"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for BLACK team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "i",
+                            Correct = true
+                        }
+                    ]
                 }
             ]
         };

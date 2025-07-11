@@ -491,7 +491,8 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Гол за ЦРНУ екипу",
-                            AnswerNumber = "a"
+                            AnswerNumber = "a",
+                            Correct = true
                         },
                         new AnswerDto
                         {
@@ -501,8 +502,7 @@ public static partial class Rules
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Слободно бацање за БЕЛУ екипу",
-                            AnswerNumber = "b",
-                            Correct = true
+                            AnswerNumber = "b"
                         },
                         new AnswerDto
                         {
@@ -526,7 +526,19 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Бацање је исправно изведено зато што су судије својим звиждуком одобрили правилну позицију играча за извођење бацања",
-                            AnswerNumber = "d"
+                            AnswerNumber = "d",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The referees should have waited until the thrower was inside the throw-off area with the ball and all his body before giving the whistle signal for the execution of the throw-off",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
                         }
                     ]
                 },
@@ -895,8 +907,7 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање, а друго стопало није ван простора и на противничкој половини терена",
-                            AnswerNumber = "a",
-                            Correct = true
+                            AnswerNumber = "a"
                         },
                         new AnswerDto
                         {
@@ -935,7 +946,17 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb =
                                 "Када извођач има бар једно стопало и лопту унутар простора за почетно бацање, друго стопало није ван простора нити на противничкој половини терена, али су саиграчи извођача унутар простора за почетно бацање на противничкој половини терена",
-                            AnswerNumber = "d",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "When the thrower is inside the throw-off area with his entire body and the ball.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
                             Correct = true
                         }
                     ]

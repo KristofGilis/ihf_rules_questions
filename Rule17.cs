@@ -176,7 +176,7 @@ public static partial class Rules
                     [
                         new AnswerDto
                         {
-                            Phrase = "2-minute suspension for BLACK 2",
+                            Phrase = "If no joint decision is reached, 2-minute suspension for BLACK 2",
                             PhraseNl = "2-minuten uitsluiting voor ZWART2",
                             PhraseFr = "",
                             PhraseSvn = "",
@@ -186,7 +186,7 @@ public static partial class Rules
                         },
                         new AnswerDto
                         {
-                            Phrase = "Disqualification of BLACK 2 (red card shown by the referees)",
+                            Phrase = "If no joint decision is reached, disqualification of BLACK 2 (red card shown by the referees)",
                             PhraseNl = "Diskwalificatie van ZWART2 (rode kaart getoond door de scheidsrechter)",
                             PhraseFr = "",
                             PhraseSvn = "",
@@ -197,7 +197,7 @@ public static partial class Rules
                         },
                         new AnswerDto
                         {
-                            Phrase = "Free throw",
+                            Phrase = "If no joint decision is reached, free throw",
                             PhraseNl = "Vrije worp",
                             PhraseFr = "",
                             PhraseSvn = "",
@@ -207,13 +207,23 @@ public static partial class Rules
                         },
                         new AnswerDto
                         {
-                            Phrase = "7-metre throw",
+                            Phrase = "If no joint decision is reached, 7-metre throw",
                             PhraseNl = "7m-worp",
                             PhraseFr = "",
                             PhraseSvn = "",
                             PhraseDe = "",
                             PhraseSrb = "Седмерац",
-                            AnswerNumber = "d",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The referees must try to reach a joint decision",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
                             Correct = true
                         }
                     ]

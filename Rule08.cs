@@ -3683,6 +3683,18 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "Голманово бацање за ЦРНУ екипу",
                             AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
                         }
                     ]
                 },
@@ -3751,6 +3763,18 @@ public static partial class Rules
                             PhraseDe = "",
                             PhraseSrb = "Гол за БЕЛУ екипу",
                             AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "The delegate should have waited until the clear chance of scoring was over before interrupting the game",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
                         }
                     ]
                 },
@@ -5647,6 +5671,173 @@ public static partial class Rules
                             PhraseSrb =
                                 "Након указане медицинске помоћи БЕЛИ 1 мора напустити терен и може се вратити тек након истека 3 напада своје екипе",
                             AnswerNumber = "g"
+                        }
+                    ]
+                },
+                new QuestionDto
+                {
+                    Phrase =
+                        "With 10 seconds left in the match, BLACK team are in attack. While the ball is in play, BLACK 10 intentionally hits WHITE 7 in the face with his elbow. WHITE 7 falls to the floor and lies there injured. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "8.80",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "Disqualification without written report for BLACK 10 (red card shown by the referees).",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "Disqualification with written report for BLACK 10 (red and blue cards shown by the referees).",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a free throw for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The game is restarted with a 7-metre throw for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "The referees may give permission for two persons from WHITE team to enter the court to assist WHITE 7.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase =
+                                "After receiving medical care on the court, WHITE 7 must leave the court and can only re-enter following the third attack of his team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "g"
+                        }
+                    ]
+                },
+                new QuestionDto
+                {
+                    Phrase = "WHITE team play with empty goal. BLACK 7 intercepts a pass and takes a shot at the empty goal. WHITE 4 catches the ball while he is running just outside the goal area. He is not able to stop and enters the goal area with both feet and the ball in his hands. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "8.81",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "Free throw for BLACK team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "7-metre throw for BLACK team",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Progressive punishment for WHITE 4",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for WHITE 4",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "No punishment",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f"
                         }
                     ]
                 }

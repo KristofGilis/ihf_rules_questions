@@ -1508,6 +1508,82 @@ public static partial class Rules
                             AnswerNumber = "c"
                         }
                     ]
+                },
+                new QuestionDto
+                {
+                    Phrase = "BLACK team score a goal. The referees whistle for the subsequent throw-off. Before the ball has left the hand of the thrower, there is a whistle signal from the timekeeper. WHITE 5 has entered the court before WHITE 6 has left the court. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "15.27",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "Time-out.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for WHITE 5.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for WHITE 6.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Since the ball was out of play at the moment of the whistle the match is restarted with a throw-off for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "The match is restarted with a free throw for WHITE team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "f"
+                        }
+                    ]
                 }
             ]
         };

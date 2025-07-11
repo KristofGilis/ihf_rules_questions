@@ -1435,6 +1435,71 @@ public static partial class Rules
                             Correct = true
                         }
                     ]
+                },
+                new QuestionDto
+                {
+                    Phrase = "WHITE team are playing without a goalkeeper. BLACK 9 intercepts a pass and takes a shot on the empty goal. WHITE 4 jumps from outside the goal area, and – while in the air over the goal area – catches the ball and lands inside the goal area with the ball in his hands. What is the correct decision?",
+                    PhraseNl = "",
+                    PhraseFr = "",
+                    PhraseSvn = "",
+                    PhraseDe = "",
+                    PhraseSrb = "",
+                    QuestionNumber = "14.24",
+                    Answers =
+                    [
+                        new AnswerDto
+                        {
+                            Phrase = "Free throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "a"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "7-metre throw for BLACK team.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "b",
+                            Correct = true
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "No punishment for WHITE 4.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "c"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "Yellow card for WHITE 4.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "d"
+                        },
+                        new AnswerDto
+                        {
+                            Phrase = "2-minute suspension for WHITE 4.",
+                            PhraseNl = "",
+                            PhraseFr = "",
+                            PhraseSvn = "",
+                            PhraseDe = "",
+                            PhraseSrb = "",
+                            AnswerNumber = "e",
+                            Correct = true
+                        }
+                    ]
                 }
             ]
         };
