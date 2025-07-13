@@ -1,0 +1,682 @@
+﻿{
+  "RuleNumber": "15",
+  "Name": "",
+  "Questions": [
+    {
+      "QuestionNumber": "15.1",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.2",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.3",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.4",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.5",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.6",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.7",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.8",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.9",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.10",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.11",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.12",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.13",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.14",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.15",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.16",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.17",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.18",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.19",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.20",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.21",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.22",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.23",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.24",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.25",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.26",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

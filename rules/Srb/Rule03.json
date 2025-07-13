@@ -1,0 +1,110 @@
+﻿{
+  "RuleNumber": "3",
+  "Name": "Лопта",
+  "Questions": [
+    {
+      "QuestionNumber": "3.1",
+      "Phrase": "Колико боја може имати лопта?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "неограничено",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.2",
+      "Phrase": "Коју од наведене четири лопте треба да одаберу судије за утакмицу мушкараца?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Обима 57 цм – тежине 450 грама",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Обима 58 цм – тежине 400 грама",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Обима 59 цм – тежине 425 грама",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Обима 60 цм – тежине 500 грама",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.3",
+      "Phrase": "Коју од наведене четири лопте треба да одаберу судије за утакмицу жена?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Обима 53 цм – тежине 350 грама",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Обима 54 цм – тежине 300 грама",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Обима 55 цм – тежине 425 грама",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Обима 56 цм – тежине 375 грама",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.4",
+      "Phrase": "Судије су донеле одлуку да се унесе резреврна лопта у игру. Када ће прва лопта бити поново коришћена?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "За време следећег прекида",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Она не може бити поново коришћена, изузев ако је резервну лопту немогуће користити",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Када судије нађу потребу за њено поновно коришћење",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ако једна од екипа затражи њено поновно коришћење",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

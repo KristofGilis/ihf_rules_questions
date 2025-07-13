@@ -1,0 +1,697 @@
+{
+  "RuleNumber": "15",
+  "Name": "Algemene Richtlijnen voor de Uitvoering van de Worpen (Beginworp, Inworp, Uitworp, Vrije Worp, 7m-worp)",
+  "Questions": [
+    {
+      "QuestionNumber": "15.1",
+      "Phrase": "Bij het uitvoeren van een uitworp, zwiert doelverdediger WIT13 de bal naar achter op een wijze dat de bal de doellijn overschrijdt tussen de doelpalen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team WIT na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.2",
+      "Phrase": "20 seconden voor het einde van de speeltijd, leidt team WIT met 20:19. Doelverdediger WIT12 neemt zijn tijd om een uitworp uit te voeren, de bal vooruit en achteruit stuitend in het doelgebied. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp tegen team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Fluitsignaal voor uitworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Waarschuwingsteken voor passief spel tonen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.3",
+      "Phrase": "De scheidsrechters hebben een vrije worp gegeven voor team ZWART aan de vrijeworplijn van team WIT. Wanneer alle spelers correct opgesteld staan, fluiten de scheidsrechters. Vooraleer de bal de hand van de werper verlaten heeft, overschrijden twee van zijn medespelers de vrijeworplijn van team WIT. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Herhaling van de vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Met fluitsignaal voor de herneming",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Zonder fluitsignaal voor de herneming",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.4",
+      "Phrase": "Doelman team WIT12 staat met de bal in de hand in het doelgebied, klaar om een uitworp uit te voeren. Aanvaller ZWART6 speelt met open hand de bal weg. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Herhaling van de uitworp met fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART6",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.5",
+      "Phrase": "Aan team WIT werd een inworp toegekend. WIT8 voert de inworp uit als een directe worp op doel. De bal treft de doelpaal en springt terug naar WIT8, die hem vangt en in het doel werpt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Herhaling van de inworp met fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.6",
+      "Phrase": "Doelman ZWART12 stopt een worp op doel. Hij wil onmiddellijk een tegenaanval inzetten, maar laat de bal vallen zodat deze de doellijn overschrijdt in het doel van team ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp hernemen na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Inworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.7",
+      "Phrase": "WIT6 voert een inworp uit in de richting van zijn eigen doelverdediger. Doelverdediger WIT1 bemerkt dit te laat, waardoor de bal in het doel belandt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Herhaling van de inworp voor team WIT met fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.8",
+      "Phrase": "WIT7 voert de inworp uit en de bal treft de scheidsrechter. WIT7 neemt de bal weer op en werpt de bal in het doel van team ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Herhaling van de inworp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.9",
+      "Phrase": "Vrije worp voor team WIT. Na een correcte opstelling van alle spelers legt WIT10 de bal neer, om enkele aanwijzingen te geven. ZWART7 neemt de bal snel op en gaat in tegenaanval. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hernemen vrije worp voor team WIT na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT, waarschuwing voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT, 2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.10",
+      "Phrase": "ZWART9 wil een vrije worp uitvoeren maar WIT11 staat slechts op 2 meter afstand van de bal en probeert de uitvoering te belemmeren. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Persoonlijke bestraffing voor WIT11, vrije worp voor team ZWART na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Positie van WIT11 corrigeren en vrije worp na fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.11",
+      "Phrase": "Vrije worp voor team ZWART aan de vrijeworplijn van team WIT. De scheidsrechters zien over het hoofd dat speler ZWART8 zich tussen de doelgebiedlijn en de vrijeworplijn bevindt. ZWART8 krijgt de bal toegespeeld en scoort. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hernemen van de vrije worp voor team ZWART na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Waarschuwing voor ZWART8",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.12",
+      "Phrase": "Doelman ZWART12 voert een uitworp uit in de richting van het doel van de team WIT. Geen enkele speler van een van de teams raakt de bal en hij gaat in het doel van team WIT. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Inworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Waarschuwing voor doelman ZWART12 wegens onsportief gedrag",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.13",
+      "Phrase": "Speler WIT5 heeft reeds een waarschuwing en tweemaal een 2-minutenuitsluiting gekregen. Wanneer team ZWART een vrije worp uitvoert, interfereert hij met de uitvoering van de worp door zijn afstand niet te houden. Dit is de eerste keer dat hij dit doet. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor WIT5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Geen bestraffing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Derde 2-minutenuitsluiting voor WIT5 en diskwalificatie (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.14",
+      "Phrase": "Kort voor het einde van de wedstrijd, leidt team WIT met 24-23. Een vrije worp wordt toegekend aan team WIT op ongeveer 1 meter buiten de vrijeworplijn van team ZWART. Alle spelers hebben de juiste plaats ingenomen en de scheidsrechter fluit voor de uitvoering van de vrije worp. WIT10, die de worp uitvoert, neemt een stap vooraleer de bal zijn hand verlaten heeft. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.15",
+      "Phrase": "WIT14 wil een vrije worp (zonder fluitsignaa",
+      "Answers": [
+        {
+          "AnswerNumber": "l",
+          "Phrase": "uitvoeren aan de vrijeworplijn van team ZWART. Hij bevindt zich (net als zijn medespeler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "in de juiste positie. Voor de bal de hand van WIT14 heeft verlaten, lopen WIT13 en WIT15 over de vrijeworplijn naar de doelgebiedlijn. Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correctie",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.16",
+      "Phrase": "Doelverdediger ZWART1 voert een uitworp uit. De bal raakt de scheidsrechter en gaat terug naar doelverdediger ZWART1 die ondertussen zijn doelgebied heeft verlaten. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Herhaling van de uitworp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voorteam WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.17",
+      "Phrase": "Bij de uitvoering van een vrije worp, beweegt ZWART11 zijn arm met de bal volledig over de zijlijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Inworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT en verbale vermaning voor ZWART11",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.18",
+      "Phrase": "Doelverdediger WIT1 stopt de bal net voor de doellijn. Wanneer hij de bal naar WIT4 wil werpen, valt de bal uit zijn hand en overschrijdt de eigen doellijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-meterworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Herneming van de uitworp voor team WIT na fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.19",
+      "Phrase": "Team WIT neemt een beginworp. De veldscheidsrechter geeft het fluitsignaal voor de uitvoering van de worp. WIT13 neemt de bal uit de hand van WIT9 die klaar stond voor de uitvoering van de beginworp. WIT13 doet dit omdat hij ziet dat WIT7 en WIT3 in gunstige positie lopen op de speelveldhelft van de tegenstander. WIT13 gooit de bal naar WIT7 die een doelpunt scoort. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correctie: herhaling van de beginworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verbale waarschuwing voor WIT13",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Verbale waarschuwing voor WIT13 en WIT7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.20",
+      "Phrase": "(Zonder beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De score is 30-30 op 4 seconden voor het wedstrijdeinde. Team WIT scoort 30-31. Team ZWART wil een snelle beginworp uitvoeren. ZWART10 staat met één voet achter en met de andere net voor de middellijn. Zonder fluitsignaal werpt ZWART10 de bal in het doel van team WIT. Het automatisch signaal van de klok weerklinkt voor het einde van de wedstrijd. Correcte beslissing?",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hernemen van de beginworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Resultaat van de worp afwachten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Einde van het spel, geen doelpunt",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.21",
+      "Phrase": "Vrije worp voor team WIT aan de vrijeworplijn van team ZWART. WIT7 voert de vrije worp uit terwijl hij, zoals zijn medespelers, correct buiten de vrijeworplijn staat. De vrije worp wordt snel uitgevoerd zonder fluitsignaal, maar vooraleer de bal de hand van WIT7 verlaten heeft overschrijden zowel WIT9 als WIT18 de vrijeworplijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correctie",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART; waarschuwing voor WIT9 of WIT18",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.22",
+      "Phrase": "Met welke van de volgende worpen kan men niet scoren in het eigen doel?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Inworp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Beginworp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.23",
+      "Phrase": "Speler ZWART4 staat correct opgesteld voor de uitvoering van een inworp die aan zijn team is toegekend. Omdat hij niet direct een aanspeelbare medespeler ziet, tipt hij de bal éénmaal binnen het speelveld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT zonder fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Inworp voor team WIT na herstart fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hernemen van de inworp voor team ZWART na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.24",
+      "Phrase": "Team WIT krijgt een vrije worp. Zonder fluitsignaal van de scheidsrechters voert WIT9 de worp in sprong uit. De bal gaat naar WIT4 die zich volledig vrij voor het doel van team ZWART bevindt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder laten spelen zonder onderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correctie van de vrije worp voor team WIT na fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.25",
+      "Phrase": "Team WIT krijgt een vrije worp. Zonder fluitsignaal van de scheidsrechters voert WIT5 de worp zeer snel al lopend uit. De intentie van WIT5 was om de bal naar WIT4 te spelen, maar ZWART3 onderschept de bal en bevindt zich nu volledig vrij voor het doel van team WIT. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder laten spelen zonder onderbreking",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hernemen van de vrije worp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hernemen van de vrije worp en progressieve bestraffing voor ZWART3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.26",
+      "Phrase": "Team ZWART staat klaar om een vrije worp zonder fluitsignaal uit te voeren. ZWART8 voert de worp uit met beide voeten en zijn linkerhand in contact met de vloer. ZWART6 krijgt de bal en scoort een doelpunt. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correctie, herneming van de vrije worp na fluitsignaal van de scheidsrechters",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

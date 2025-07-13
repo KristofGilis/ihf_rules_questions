@@ -1,0 +1,63 @@
+﻿{
+  "RuleNumber": "SAR",
+  "Name": "",
+  "Questions": [
+    {
+      "QuestionNumber": "SAR1",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "SAR2",
+      "Phrase": "",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

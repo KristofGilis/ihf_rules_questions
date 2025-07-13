@@ -1,0 +1,287 @@
+﻿{
+  "RuleNumber": "12",
+  "Name": "The Goalkeeper Throw",
+  "Questions": [
+    {
+      "QuestionNumber": "12.1",
+      "Phrase": "While executing a goalkeeper throw, goalkeeper WHITE 1 touches his goal-area line with one foot. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw is to be retaken after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Let the game continue without interruption",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.2",
+      "Phrase": "After the whistle for the execution of a 7-metre throw, goalkeeper WHITE 12 steps on the goalkeeper’s restraining line with one foot. The 7-metre throw goes over the crossbar. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw is to be retaken after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Since there is no goal, the game continues with a goalkeeper throw.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The position of the goalkeeper is correct.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.3",
+      "Phrase": "Goalkeeper WHITE 1 stops a shot and dives for the ball, which rolls in the goal area towards the playing area. BLACK 7 is unmarked and ready to pick up the ball. At the very last moment, WHITE 1 uses his hand to hit the ball over the outer goal line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.4",
+      "Phrase": "While executing a goalkeeper throw, goalkeeper WHITE 12 drops the ball. The ball hits his foot. From there the ball crosses the goal-area line into the playing area. WHITE 12 runs after the ball, picks it up and returns to his goal area to repeat the goalkeeper throw. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correction, goalkeeper throw after whistle signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.5",
+      "Phrase": "When is a goalkeeper throw considered as executed, so that the ball may be played by a court player?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When the ball is still in the air above the goal area",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When the ball has left the hand of the goalkeeper, passed the goal-area line and entered the playing area",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When the ball has left the hand of the goalkeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When a teammate of the goalkeeper has touched the ball",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.6",
+      "Phrase": "Goalkeeper WHITE 12 is executing a goalkeeper throw. BLACK 10, who is standing outside the goal-area line, legally tries to gain possession of the ball. He succeeds and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment against BLACK 10",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.7",
+      "Phrase": "Goalkeeper WHITE 12 stops a shot, deflecting the ball across the outer goal line next to the goal. Which hand signals should the goal-line referee show, if necessary?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Number 8 (goalkeeper throw)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Number 9 (free-throw direction)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "First number 9 (free-throw direction), then number 8 (goalkeeper throw)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "First number 8 (goalkeeper throw), then number 9 (free-throw direction)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.8",
+      "Phrase": "Goalkeeper WHITE 1 loses the ball while executing a goalkeeper throw. The ball bounces in the direction of the playing area, where BLACK 6 is waiting for the ball. WHITE 2 dives over the goal area and pushes the ball, which is in the air, over the sideline. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.9",
+      "Phrase": "Which of the following statements about the goalkeeper throw are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The goalkeeper throw is considered as taken when the ball has left the goalkeeper’s hand.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The opponents must keep a distance of 3 metres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The goalkeeper throw is considered as taken when the ball has left the hand of the goalkeeper and has passed the goal-area line.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The opponents are allowed to stand directly outside the goal-area line.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.10",
+      "Phrase": "There is a goalkeeper throw for BLACK team. Goalkeeper BLACK 1 is in a hurry, because his team is behind in the game. While executing the goalkeeper throw, the ball slides out of his hand and goes to BLACK 6, who is still in the goal area. BLACK 6 rolls the ball back to BLACK 1 using his foot. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for BLACK team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.11",
+      "Phrase": "Which of the following statements about the goalkeeper throw are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The players from the opponents’ team must remain outside the free-throw line until the ball is in play.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The players from the opponents’ team must remain outside the goal-area line and 3 metres away from the position where the goalkeeper executes the goalkeeper throw.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The players from the opponents’ team are allowed to touch the ball before it has crossed the goal-area line.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The goalkeeper cannot score an own goal when he is executing a goalkeeper throw.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The goalkeeper cannot score a direct goal against the opponents with a goalkeeper throw.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "While executing a goalkeeper throw, the goalkeeper is not allowed to touch the goal-area line.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

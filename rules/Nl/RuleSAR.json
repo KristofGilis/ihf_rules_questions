@@ -1,0 +1,63 @@
+{
+  "RuleNumber": "SAR",
+  "Name": "Richtlijnen Wisselzone",
+  "Questions": [
+    {
+      "QuestionNumber": "SAR1",
+      "Phrase": "Wat zou de afstand moeten zijn tussen de middenlijn en het begin van de wisselbanken?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1 meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2 meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3 meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3,5 meter",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "SAR2",
+      "Phrase": "Official A van team WIT heeft reeds een waarschuwing gekregen terwijl hij op de bank zit. Nu verlaat hij de wisselzone en zit in de publiekszone. Van daaruit blijft hij protest uiten naar de beslissingen van de scheidsrechters. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen actie mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor official A van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van official A van team WIT (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van official A van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

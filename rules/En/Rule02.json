@@ -1,0 +1,1650 @@
+﻿{
+  "RuleNumber": "2",
+  "Name": "Playing Time, Final Signal and Time-Out",
+  "Questions": [
+    {
+      "QuestionNumber": "2.1",
+      "Phrase": "Goalkeeper WHITE 1 deflects a shot, and the ball crosses the outer goal line straight before the automatic final signal from the public clock. The referees realise that the match has ended five minutes early. As the players are still on the court, the game is resumed by:",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Without whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "After whistle signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.2",
+      "Phrase": "After the automatic final signal from the public clock sounds for half-time, the referee immediately realises that the first half ended 1 minute too early. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Prolong the second half by 1 minute",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The 1 minute is lost and not made up for.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "After the half-time, first play 1 minute on the same sides as in the first half, then change ends and begin second half normally",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Keep players on the court and have them play the remaining minute",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.3",
+      "Phrase": "WHITE 11 takes a shot on goal. Goalkeeper BLACK 1 catches the ball – just when the final signal from the public clock sounds. The referees point out to the timekeeper that 30 seconds remain in the second half of the game. All the players are still on the playing court. How should the game be restarted?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "After whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Without whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.4",
+      "Phrase": "WHITE team is going to execute a free throw after the final whistle. First WHITE 3 and then WHITE 4 leave the court to be replaced by first WHITE 5 and then WHITE 6, who enter the court. Which of the following statements are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper whistles and indicates a faulty substitution of WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 4 because of a faulty substitution",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 6 because of a faulty substitution",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "There is no reason for the timekeeper to whistle.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.5",
+      "Phrase": "A free throw for BLACK team is taken as a direct shot on goal just before the end of the match. The automatic final signal from the public clock sounds just before the ball enters the goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "End of the match",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The free throw for BLACK team must be retaken without whistle signal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The free throw for BLACK team must be retaken with whistle signal.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.6",
+      "Phrase": "Shortly before the end of the match BLACK 2 receives the ball at the goal-area line of WHITE team and has a clear chance of scoring. He tries to score but is prevented by a foul. Before the ball leaves the hand of BLACK 2, the automatic final signal from the public clock sounds. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "End of the match",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "End of the match, note in the match report",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.7",
+      "Phrase": "Shortly before the end of the first half, a 7-metre throw for WHITE team has not yet been executed. The 7-metre throw of WHITE 9 hits the crossbar, then the back of the goalkeeper, who is standing approximately 3 metres in front of his goal, and then the ball enters the goal. The automatic final signal from the public clock sounds, when the ball is flying from the crossbar to the goalkeeper’s back. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw is to be retaken",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Half-time break; no further decision",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.8",
+      "Phrase": "After the end of the playing time, a 7-metre throw is still to be executed. The referees wait for the immediate result of the throw. Which referee should then end the game?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The first named referee",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "One of the two referees",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The court referee",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The goal-line referee",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.9",
+      "Phrase": "When does the match begin?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When the first named referee whistles",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When the ball leaves the thrower’s hand",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When the timekeeper starts the stopwatch or the public clock",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "After the whistle for the throw-off is blown by the court referee",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.10",
+      "Phrase": "For a 7-metre throwing, who decides which goal should be used?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The team that wins the coin toss",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The team that loses the coin toss",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The referees",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The first named referee",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.11",
+      "Phrase": "A free throw for BLACK team is to be executed after the final signal. Before the execution of the free throw, WHITE 8 and WHITE 9 leave the court at the same time. They are replaced first by WHITE 10 and immediately afterwards by WHITE 11. Which of the following statements are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper whistles and indicates to the referees that there has been a faulty substitution by WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 10 due to faulty substitution",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 11 due to faulty substitution",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The timekeeper must not whistle, as there is no rule violation.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WHITE 11 must return to the substitution area; either WHITE 8 or WHITE 9 may re-enter the court",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.12",
+      "Phrase": "Just before the end of the first half, WHITE 7 assaults BLACK 5 and destroys a clear chance of scoring. The automatic final signal sounds before the referees have time to whistle. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The first half is over; no progressive punishment against WHITE 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The first half is over; no free throw or 7-metre throw is possible",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of WHITE 7, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification of WHITE 7 (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.13",
+      "Phrase": "Up until when can the referees disallow a goal which has been awarded?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Up until the whistle for the throw-off",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Up until the final whistle",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "It must be disallowed if it was scored after the timekeeper interrupted the game or if the throw-off was taken before the interruption was noticed.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "It can never be disallowed.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.14",
+      "Phrase": "The referees have just awarded a throw-in for WHITE team. At the same time the responsible team official from WHITE team requests a team time-out. Which of the following statements are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out is not possible, as the ball is out of play",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The timekeeper whistles, stops the clock and shows hand signal number 15.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The referees confirm the team time-out for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The scorekeeper enters the team time-out in the score sheet.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.15",
+      "Phrase": "In which of the following situations is a time-out obligatory?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "External influence",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.16",
+      "Phrase": "WHITE 9 shoots on goal. Goalkeeper BLACK 12 catches the ball. At the same time the timekeeper whistles to end the game. The referees point out to the timekeeper that there is 30 seconds left of the second half. All the players have remained on the court. How should the game be restarted?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "After whistle signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.17",
+      "Phrase": "After the regular playing time has ended with the result 20:20, the game must be continued until a winner has been determined. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "One-minute break before overtime starts",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Five-minute break before overtime starts",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "One-minute break at the end of the first half of overtime",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Five-minute break at the end of the first half of overtime",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.18",
+      "Phrase": "In which of the following situations is a time-out obligatory?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Passive play",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Faulty substitution",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Warning",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Throw-in",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.19",
+      "Phrase": "Who is not allowed to participate in the 7-metre throwing, when a game is still tied after overtime?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "A player who insults the referees just after overtime has finished",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The goalkeepers",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "A player whose 2-minute suspension had not expired at the end of overtime",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "A disqualified player",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "A player, who has received medical care on the court and has not yet served 3 attacks from his team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.20",
+      "Phrase": "Five seconds before the end of the game, goalkeeper WHITE 12 stops a shot. The ball hits the ceiling above the goal area. The automatic final signal sounds immediately before the throw-in is executed by BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Throw-in for BLACK team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The game is over.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wait for the result of the throw-in, thereafter the game is over",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.21",
+      "Phrase": "BLACK 8 has already received a warning. During a team time-out he sits on the bench and comments on the referees in an unsportsmanlike manner. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of BLACK 8 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Warning for BLACK 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "No action possible",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "BLACK team will be reduced by 1 player on the court for 2minutes from the restart of the match after the team time-out.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.22",
+      "Phrase": "Who is entitled to participate in a tie-breaker through 7-metre throws?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "All players who are included in the score sheet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Players who have not received a disqualification",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Players who were not serving a 2-minute suspension when overtime expired",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Players who have received permission from the referees",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.23",
+      "Phrase": "A free throw has still to be executed after the automatic final signal from the public clock. BLACK 9 takes up a correct position and shoots on the goal of WHITE team. When the ball leaves the hand of BLACK 9, there is a whistle signal from the timekeeper. The ball goes into the goal, as goalkeeper WHITE 1 had no chance. The timekeeper informs the referees that WHITE 7, who was on the court in defence during the free throw, had entered the court to substitute WHITE 6, just before the free throw was executed. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 7 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Repetition of the free throw for BLACK team after whistle signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.24",
+      "Phrase": "The game is still tied after overtime, and the regulations require a decision through 7-metre throws. WHITE 7 was given a 2-minute suspension after nine minutes in the last overtime period. He is nominated by the responsible team official to participate in the 7-metre throwing. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE 7 is allowed to participate.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE 7 is not allowed to participate.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.25",
+      "Phrase": "When is a time-out mandatory?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When a team official has been given a 2-minute suspension",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When a player has been given a third 2-minute suspension",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "After repeated unsportsmanlike conduct",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When the referees are required to consult each other to reach a joint decision",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "After a seriously unsportsmanlike conduct",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "After a yellow card shown to a team official",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.26",
+      "Phrase": "Just before the end of the first half, WHITE 7 commits an assault against BLACK 5, who thus misses a clear chance of scoring. The automatic signal from the public clock sounds before the referees have time to whistle. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The first half is over; no further action",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 7 without written report (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification of WHITE 7, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "WHITE team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.27",
+      "Phrase": "After the whistle signal for half-time, a free throw must still be executed. Which players can still be substituted?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "All players of both teams",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Only players of the defending team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Only players of the attacking team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "1 player from the attacking team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "A court player from the defending team with a goalkeeper, if the team at the time of the final whistle play without goalkeeper",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.28",
+      "Phrase": "Which positions must the players assume during the execution of a free throw after the final whistle?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "All teammates of the thrower must be outside the free-throw line of the opponents.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "All teammates of the thrower must be in their own half of the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The opponents must be 3 metres away from the thrower or at their own goal-area line.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "All teammates of the thrower must be at least 3 metres away from the thrower.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "All teammates of the thrower may stay together with the thrower at the free-throw line of the opponents.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.29",
+      "Phrase": "WHITE 7 passes the ball to WHITE 8. At this moment, the timekeeper whistles for a team time-out for WHITE team. The referees and players do not hear this signal, and WHITE 8 passes the ball to WHITE 10, who has a clear chance of scoring. WHITE 10 is illegitimately stopped by BLACK 5. The referees give a 7-metre throw for WHITE team and a 2-minute suspension for BLACK 5. Now, first the referees perceive that the timekeeper has already whistled because of the team time-out request. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team time-out for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Whistle signal for restart",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Restart with a free throw for WHITE team at the position of WHITE 7 at the time of the whistle from the timekeeper",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.30",
+      "Phrase": "The whistle signal ending the first half has come 1 minute too soon. At the time of the whistle signal, neither of the teams were in possession of the ball, and there was no violation of any rule. The ball was on the floor in the playing area. Both teams are still on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The 1 minute is not played.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The 1 minute is played before the half-time break.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The 1 minute is played after the half-time break before the start of the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The 1 minute is added to the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "It is decided through a coin toss which team gets the ball when the 1 minute is played.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The team that last were in possession of the ball get the ball when the game starts again.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.31",
+      "Phrase": "The first half of the game has been stopped 1 minute too soon. There has been no violation of any rule, and the ball was in the air over the goal area. The goalkeeper catches the ball after the whistle signal. Both teams are still on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The 1 minute is not played.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The 1 minute is played before the half-time break.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The 1 minute is played after the half-time break before the start of the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The 1 minute is added to the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The team that last were in possession of the ball get the ball when the game starts again.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The game is restarted with a goalkeeper throw.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.32",
+      "Phrase": "The first half of the match has been stopped 1 minute too soon. There has been no violation of any rule, and the ball was in the air over the goal area. After the whistle signal, the ball went over the outer goal line. Both teams are still on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The 1 minute is not played.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The 1 minute is played before the half-time break.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The 1 minute is played after the half-time break before the start of the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The 1 minute is added to the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The team that last were in possession of the ball get the ball when the game starts again.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The game is restarted with a goalkeeper throw.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.33",
+      "Phrase": "WHITE team have scored a goal, and BLACK team want to take the throw-off quickly. Therefore, BLACK 5 quickly dribbles the ball in the direction of the centre line. He runs past WHITE 3, who uses an open hand to play the ball away from BLACK 5, so that the ball hits the foot of BLACK 5 and rolls far away over the centre line into the half of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-off for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment against WHITE 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Direct 2-minute suspension for WHITE 3",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.34",
+      "Phrase": "In which situations is a time-out <b><u>NOT</u></b> obligatory?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The ball goes far away from the court",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The timekeeper whistles",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "A player seems injured",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When the referees indicate different directions, when making a decision",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "A court player’s substitution with a goalkeeper to execute a goalkeeper throw",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.35",
+      "Phrase": "Who may request a team time-out?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "One of the team officials",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "A player",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Only the responsible team official",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The team captain",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.36",
+      "Phrase": "Which of the following statements regarding team time-outs are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The team time-out can only be requested by the responsible team official.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "If a team time-out is requested while the opponents are in possession of the ball, the timekeeper must give the green card back to the team official.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The one-minute period for the team time-out starts when the timekeeper whistles.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Rule violations during a team time-out have the same consequences as during the playing time.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Following the team time-out, the game is always restarted with a throw for the team that requested the team time-out.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.37",
+      "Phrase": "WHITE team is in possession of the ball. Official C from BLACK team requests a team time-out by placing the green card on the table in front of the timekeeper. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The green card is put up on the table.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The timekeeper whistles as soon as BLACK team gain possession of the ball.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The timekeeper gives the green card back to the official.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Only the responsible team official can request a team time-out.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.38",
+      "Phrase": "BLACK 3 tries to shoot on goal. However, the ball comes to rest on the floor in the goal area without having been touched by any other player. At the same time, the responsible team official of BLACK team requests a team time-out. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper whistles, stops the clock at the same time, and indicates the team time-out for BLACK team to the referees.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The timekeeper gives the green card back to the responsible team official from BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The game is restarted with a free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.39",
+      "Phrase": "Goalkeeper WHITE 1 passes the ball to WHITE 8, who is alone with goalkeeper BLACK 12 near the goal area of BLACK team. Just before the ball gets to WHITE 8, there is a whistle signal from the timekeeper: official A from WHITE team has requested a team time-out. How should the game be continued?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team outside the goal area of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team at the substitution area of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team at the free-throw line of BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.40",
+      "Phrase": "WHITE 4 blocks a shot from BLACK 11. The ball touches the ceiling above the goal area. Immediately after this, official A from BLACK team puts the green card on the table in front of the timekeeper. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLACK team immediately receive a team time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK team do not receive a team time-out because the ball touched the ceiling.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLACK team do not receive a team time-out because WHITE team have possession of the ball when the game is restarted.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "BLACK team receive a team time-out, but only after the game has restarted.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.41",
+      "Phrase": "WHITE team is in possession of the ball and request a team time-out. Because of the noise, the referees do not hear the whistle signal of the timekeeper. Only after about ten seconds, when BLACK team are in possession of the ball, the referees hear the whistle. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out is awarded",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The game is restarted with a free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team time-out is not awarded",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a free throw for WHITE team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.42",
+      "Phrase": "At 78:00 player WHITE 7 receives a 2-minute suspension. The match ends in a draw, and the regulations require a decision through 7-metre throws. WHITE 7 is nominated by the responsible team official to participate in the 7-metre throwing. WHITE 7 executes the 7-metre throw and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal is valid, WHITE 7 is allowed to participate",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal is not valid, WHITE 7 is not allowed to participate",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The throw is considered as failed",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification for WHITE 7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.43",
+      "Phrase": "At 55:00 the responsible team official from WHITE team requests a team time-out, which is the second in the match. At 59:00 the same responsible team official requests the third team time-out. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out is possible",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out is not possible",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.44",
+      "Phrase": "WHITE team is in attack. Official A from WHITE team wishes to request a team time-out and goes to the table to place the green card in front of the timekeeper. The green card is placed on the table in front of the timekeeper. At the same time, WHITE 4 takes a shot on goal and manages to score. The timekeeper whistles for the team time-out just after the ball passes the goal line of BLACK team. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The goal is not valid, because WHITE team have requested a team time-out.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team time-out for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "No team time-out for WHITE team, because they are no longer in possession of the ball",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The green card must be returned to the team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Throw-off for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.45",
+      "Phrase": "WHITE team had their second team time-out at 55:10. At 59:25, official A from WHITE team wants to request a third team time-out for his team and places the green card on the table in front of the timekeeper. WHITE team are in possession of the ball. The timekeeper whistles and stops the clock. He shows a team time-out for WHITE team. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "No team time-out granted",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment for official A from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.46",
+      "Phrase": "WHITE team want to request a team time-out. Official A from WHITE team places the green card on the table in front of the timekeeper. At the same time, WHITE 9 takes a shot on the goal of BLACK team. The timekeeper whistles while the ball is in the air. Shortly after the whistle, goalkeeper BLACK 12 catches the ball. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No team time-out possible, because WHITE team are not in possession of the ball",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The green card is returned to WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a goalkeeper throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.47",
+      "Phrase": "WHITE team want to request a team time-out. Official A from WHITE team places the green card on the table in front of the timekeeper. Before the timekeeper whistles for the team time-out, WHITE 9 takes a shot on goal. The shot is blocked by goalkeeper BLACK 12, and the timekeeper whistles, while the ball is rolling inside the goal area. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No team time-out possible because WHITE team are not in possession of the ball.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The green card is returned to WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a goalkeeper throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.48",
+      "Phrase": "WHITE team want to request a team time-out. Official A from WHITE team places the green card on the table in front of the timekeeper. Before the timekeeper whistles for the team time-out, WHITE 9 takes a shot on goal. The shot is blocked by goalkeeper BLACK 12, and the timekeeper whistles, while the ball, after the save, is in the air above the goal area. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No team time-out possible because WHITE team are not in possession of the ball.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The green card is returned to WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a goalkeeper throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.49",
+      "Phrase": "WHITE team want to request a team time-out. Official A from WHITE team places the green card on the table in front of the timekeeper. Before the timekeeper whistles for the team time-out, WHITE 11 commits an offensive foul. The timekeeper whistles for the team time-out just before the referee whistles for the offensive foul. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The referees decide that there shall be no team time-out, because the offensive foul had been committed before the timekeeper whistled for the team time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The green card is returned to WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.50",
+      "Phrase": "Electronic team time-out is used in the match. WHITE team had their second team time-out at 55:10. At 59:35, official A from WHITE team wants to request a third team time-out for his team and activates the team time-out buzzer. The ball is in play and WHITE team is in possession of the ball. The signal from the public clock sounds and the clock is stopped. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "No team time-out granted.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment for official A from WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "BLACK team can choose between free throw and 7-metre throw.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.51",
+      "Phrase": "Electronic team time-out is used in the match. WHITE team is in possession of the ball. At 58:40, WHITE 7 commits an offensive foul. Before the referees were able to whistle for the offensive foul, the signal from the public clock sounds because Official A from WHITE team activated the team time-out buzzer to request a team time-out. Immediately thereafter the referees whistle offensive foul against WHITE 7. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out is not possible because WHITE team is no longer in possession of the ball.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team will lose one team time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The match is restarted with a 7-metre throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "BLACK team can choose between free throw and 7-metre throw.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Progressive punishment against Official A from WHITE team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.52",
+      "Phrase": "Electronic team time-out is used in the match. At 29:50 in the first half, WHITE 9 takes a shot on goal. The shot is blocked by goalkeeper BLACK 12, and after the save, the ball is in the air above the goal area. At that moment,the signal from the public clock sounds because Official A from BLACK team has activated the buzzer to request a team time-out. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No team time-out possible because BLACK team are not in possession of the ball.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team time-out for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLACK team will lose one team time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The match is restarted with a goalkeeper throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The match is restarted with a free throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "WHITE team can choose between a 7-metre throw and free throw.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "The match is restarted with a 7-metre throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Progressive punishment against Official A from BLACK team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.53",
+      "Phrase": "BLACK team is in attack. The referees show the forewarning signal. After two passes a whistle sounds from the delegate because Official A from BLACK team has requested a team time-out. Neither the referees nor the players hear the whistle, and the game continues. The fourth pass from BLACK team goes to the wing player who has a clear chance of scoring. The wing player jumps to take a shot on goal. By doing so he is pushed by WHITE 4 and he partly loses body control. The goalkeeper saves the shot. Only at that point the referees and the players become aware that the delegate interrupted the match because of the team time-out request. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The match is restarted with a free throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The match is restarted with a 7-metre throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "No punishment.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "The forewarning signal is still valid - BLACK team has completed two passes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "The forewarning signal is still valid – BLACK team has completed four passes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "The forewarning signal is no longer valid because WHITE 4 is punished with a 2-minute suspension.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.54",
+      "Phrase": "WHITE team shoots at goal. Goalkeeper BLACK 1 saves the shot. The ball is bouncing inside the goal area when Team Official A from WHITE team requests a team time-out by putting the green card in front of the timekeeper. The timekeeper whistles when the ball is still bouncing inside the goal area, but the ball is very close to WHITE 13 who is completely alone just outside the goal area. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team time-out for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "No team time-out possible, and the green card is handed back to Team Official A from WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7-metre throw for WHITE team.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

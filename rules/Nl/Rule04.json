@@ -1,0 +1,1737 @@
+{
+  "RuleNumber": "4",
+  "Name": "De Ploeg, Wisselen van spelers, Kleding, Blessures",
+  "Questions": [
+    {
+      "QuestionNumber": "4.1",
+      "Phrase": "Kort voor het begin van de wedstrijd wordt speler WIT11 zo zwaargekwetst dat hij niet meer kan spelen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WIT11 mag niet meer vervangen worden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WIT11 mag vervangen worden indien de tegenstrever hiermee akkoord gaat.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Normaal, mag WIT11 vervangen worden op het wedstrijdblad en zijn vervanger mag het nummer 11 dragen. Maar de scheidsrechters moeten kijken naar speciale afwijkende reglementeringen voor de betreffende competitie.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WIT11 mag vervangen worden, maar zijn vervanger mag niet met het nr. 11 spelen.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.2",
+      "Phrase": "Team ZWART verschijnt met 5 veldspelers. De doelverdediger is niet aanwezig bij het begin van de wedstrijd. Team ZWART duidt veldspeler ZWART5 aan als doelman. Wat zijn de gevolgen voor ZWART5?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "ZWART5 kan op ieder ogenblik als veldspeler gebruikt worden, voor zover hij correct gewisseld wordt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "ZWART5 kan niet meer als veldspeler ingezet worden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "ZWART5 kan als veldspeler ingezet worden, indien de teamverantwoordelijke van team WIT akkoord gaat.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "ZWART5 kan als veldspeler ingezet worden zodra de voorziene doelman aanwezig is.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.3",
+      "Phrase": "Net nadat de wedstrijd gestart is, zet de voorzitter van team WIT zich naast de 2 teamofficials, de kinesist en de trainer, op de wisselbank. Wat zijn de consequenties?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De reservedoelman moet achter de bank plaatsnemen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De clubvoorzitter moet de wisselbank verlaten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een van de officials moet de wisselbank verlaten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wie niet op het wedstrijdblad ingeschreven staat, moet de wisselzone verlaten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De teamverantwoordelijke krijgt een progressieve bestraffing",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.4",
+      "Phrase": "Hoeveel spelers moeten er per team bij het begin van de wedstrijd op het speelveld aanwezig zijn, en ingeschreven zijn op het wedstrijdblad?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "5 spelers",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "4 veldspelers en 1 doelman",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "5 veldspelers en 1 doelman",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "6 veldspelers",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.5",
+      "Phrase": "Vier scenario’s: wie is spelgerechtigd?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een speler die aanwezig is bij het begin van de wedstrijd en op het wedstrijdblad ingeschreven.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een speler die niet aanwezig is bij het begin van de wedstrijd, maar wel op het wedstrijdblad ingeschreven.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een speler die aanwezig is bij het begin van de wedstrijd, maar niet op het wedstrijdblad ingeschreven.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Een speler die toelating gekregen heeft van de tijdwaarnemer, maar niet op het wedstrijdblad is ingeschreven.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.6",
+      "Phrase": "Bij het begin van de wedstrijd zijn slechts 6 spelers van team WIT aanwezig. Onmiddellijk na het begin van de wedstrijd komen de ontbrekende spelers toe. WIT7 loopt direct via de wisselzone van zijn ploeg op het speelveld. Hij is niet op het wedstrijdblad ingeschreven. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie van WIT7 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ".",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minuten straftijd voor WIT7, die op het wedstrijdblad moet ingeschreven worden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WIT7 moet op het wedstrijdblad ingeschreven worden, indien dit in overeenstemming is met de reglementen van de verantwoordelijke federatie",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing van de teamverantwoordelijke van team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.7",
+      "Phrase": "De scheidsrechters hebben een vrije worp toegekend aan team WIT, aan de vrijeworplijn van team ZWART. Nu weerklinkt er een fluitsignaal van de tijdwaarnemer, die de klok stopt. De scheidsrechters vragen naar de reden van de interventie. De tijdwaarnemer informeert de scheidsrechters dat WIT9 een wisselfout beging. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART aan de eigen vrijeworplijn",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART aan de wisselzone van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT9",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.8",
+      "Phrase": "ZWART14 wisselt bij een spelonderbreking correct. Desondanks komt er een fluitsignaal van de wedstrijdtafel. ZWART14 is niet correct op het wedstrijdblad ingeschreven. Blijkt dat deze speler nr. 18 heeft op het wedstrijdblad. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "progressieve bestraffing van de teamverantwoordelijke van team ZWART.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "vrije worp voor team WIT bij de wedstrijdtafel",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "correctie van het nummer op het wedstrijdblad",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "het spel wordt hernomen met een aan de spelsituatie aangepaste worp, en er moet een schriftelijk verslag gemaakt te worden.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.9",
+      "Phrase": "Wanneer is het toegestaan aan twee personen van een team (teamofficials en/of speler",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "om het speelveld te betreden?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "tijdens een wedstrijdonderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "tijdens een wedstrijdonderbreking en met toestemming van een scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "wanneer een speler gekwetst is",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "met toestemming van de tijdwaarnemer",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.10",
+      "Phrase": "De scheidsrechter fluit en geeft een time-out aan omdat WIT2 zijn derde 2-minutenuitsluiting heeft gekregen. Wanneer de scheidsrechter naar de tijdwaarnemer en de secretaris gaat om de diskwalificatie mee te delen, loopt de verantwoordelijke teamofficial van team WIT het speelveld op, om tegen deze uitsluiting te protesteren. Teamofficial B van team WIT had voordien reeds een waarschuwing gekregen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie van de verantwoordelijke teamofficial van team WIT (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en reductie van team WIT met een bijkomende speler voor 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Persoonlijke waarschuwing voor de verantwoordelijke teamofficial van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van de verantwoordelijke teamofficial van team WIT met een schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor de verantwoordelijke teamofficial van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Reductie van team WIT met een bijkomende speler voor 2’ op het speelveld.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.11",
+      "Phrase": "Gedurende een time-out wegens een kwetsuur van een speler, loopt WIT2 als een bijkomende speler op het speelveld, zonder dat een van de scheidsrechter toelating gegeven heeft om het speelveld te betreden. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressieve bestraffing tegen de verantwoordelijke teamofficial van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van WIT2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT2 en reductie van team WIT op het veld met een 1 speler gedurende 2’",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.12",
+      "Phrase": "WIT5 is gekwetst op het speelveld en de veldscheidsrechter geeft een time-out aan en geeft toelating aan 2 personen van team WIT om op het speelveld te komen om WIT5 bij te staan. De teamofficial B van team ZWART betreedt eveneens het speelveld om zijn doelman aanwijzingen te geven. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen beslissing, het signaal laat alle spelers en officials toe om het speelveld te betreden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle vier officials van team ZWART krijgen een waarschuwing, en bij herhaling moeten ze gediskwalificeerd worden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De verantwoordelijke teamofficial van team ZWART krijgt een waarschuwing.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing van de teamofficial B van team ZWART.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Na medische verzorging op het speelveld ontvangen te hebben, moet WIT5 onmiddellijk het speelveld verlaten en mag hij pas terug opkomen na de derde aanval van zijn team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.13",
+      "Phrase": "Doelman WIT16 is gekwetst en moet vervangen worden door WIT5. WIT5 wisselt zijn kleding. Na 20 minuten is WIT16 weer inzetbaar en de teamofficial A van team WIT wisselt hem terug. WIT5 wisselt zijn shirt opnieuw en wordt opnieuw als veldspeler ingezet zonder de wedstrijdsecretaris te verwittigen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen bestraffing, gezien dit toegelaten is",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor WIT5 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.14",
+      "Phrase": "WIT4 verlaat het speeloppervlak buiten de wisselzone. Nadat WIT4 de zijlijn overschreden heeft, maar nog voor hij in zijn wisselzone is aangekomen, overschrijdt WIT11 de wissellijn op de juiste plaats om het speelveld te betreden. Wat is de correcte beslissing na het fluitsignaal van de tijdwaarnemer?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART op de plaats, waar WIT4 het speeloppervlak verlaten heeft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART aan de wisselzone van team WIT.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT4",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minutenuitsluiting voor WIT4 en W11",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.15",
+      "Phrase": "ZWART3 begaat de eerste wisselfout van zijn ploeg tijdens een spelonderbreking. De onderbreking was gefloten voor een vrijeworpbeslissing in het voordeel van team ZWART. ZWART3 had tot op dat ogenblik noch een waarschuwing, noch een tijdstraf gehad. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor ZWART3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.16",
+      "Phrase": "Nadat de scheidsrechters een 7m-worp hebben toegekend aan team WIT, maakt WIT27, die als werper aangeduid was om de 7m uit te voeren, een wisselfout. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT27.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.17",
+      "Phrase": "Team WIT heeft een doelpunt gescoord. De scheidsrechters hebben nog niet gefloten voor de beginworp, wanneer ZWART10 het speloppervlak betreedt, vooraleer ZWART6 dit verlaten heeft. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Beginworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor ZWART10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART6",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.18",
+      "Phrase": "Team WIT heeft slechts 12 spelers aanwezig bij het begin van de wedstrijd, omdat de 2 voorziene doelwachters nog niet aanwezig zijn. Team WIT begint daarom met een van de twaalf veldspelers als doelman. Welke van de volgende alternatieven zijn correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De veldspeler die als doelman de wedstrijd begon moet met het nummer 1, 12 of 16 op het wedstrijdblad vermeld worden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De veldspeler die als doelman de wedstrijd begon kan later ook als veldspeler ingezet worden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De later toekomende doelwachters van team WIT moeten op het wedstrijdblad onder de nummers 1,12 of 16 ingevuld worden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Een van de later toekomende doelwachters van team WIT kan enkel nog als veldspeler ingezet worden.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.19",
+      "Phrase": "Tijdens een time-out begaat speler WIT5 de eerste wisselfout van zijn ploeg. Team WIT was in balbezit toen de time-out gefloten werd. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen bestraffing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Waarschuwing voor WIT5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART,",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT blijft in balbezit",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.20",
+      "Phrase": "Doelman WIT3 wil een 7m-worp uitvoeren. Om het lege doel te beschermen, betreedt WIT15 in doelwachterstrui het speelveld, nadat hij tegen een veldspeler is gewisseld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT15",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Geen bestraffing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-m worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team ZWART aan de wisselzone van team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.21",
+      "Phrase": "Bij een tegenaanval van team WIT, die een duidelijke score kans heeft, begaat ZWART3 een wisselfout. De tijdwaarnemer en wedstrijdsecretaris reageren niet, maar de veldscheidsrechter heeft de wisselfout bemerkt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Onmiddellijke tijdelijke uitsluiting voor ZWART3 en vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Onmiddellijke tijdelijke uitsluiting voor ZWART3 en 7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpoging afwachten, dan tijdelijke uitsluiting voor ZWART3 en vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Doelpoging afwachten, dan tijdelijke uitsluiting voor ZWART3 en worp aangepast aan de spelsituatie",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.22",
+      "Phrase": "Een doelworp wordt door de doelman van team WIT afgeweerd en de bal rolt langs de zijlijn aan de wisselzone van team WIT voorbij. WIT5, die op de wisselbank zit, komt nu met een voet in het speelveld om de bal te stoppen, zodat WIT4 de bal kan oppikken nog voor deze de zijlijn overschrijdt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Inworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van WIT5 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ".",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT wordt gereduceerd met een speler op het speelveld voor 2 minuten",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.23",
+      "Phrase": "Dertig seconden voor dat zijn tijdelijke uitsluiting afgelopen is, betreedt speler WIT3 het speloppervlak, zonder echter in het spelgebeuren in te grijpen. Team WIT is in balbezit. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT3, team WIT wordt bijkomend op het veld gereduceerd met 1 speler gedurende 30 sec.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "30 seconden voor WIT3 en team WIT wordt bijkomend op het veld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van WIT3 (rode kaart wordt getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en team WIT wordt bijkomend gereduceerd op het veld met 1 speler gedurende 30 sec",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.24",
+      "Phrase": "WIT5 werd uitgesloten. Na 1’45” van de 2-minutenuitsluiting, wordt hij door zijn teamofficial A het veld opgestuurd. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nieuwe 2-minutenuitsluiting voor WIT5, en team WIT wordt op het speelveld gereduceerd met 1 speler voor 2’15”",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT5 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en reductie van team WIT met twee spelers op het speelveld gedurende 15 seconden en met 1 speler voor 1’45”",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Nieuwe 2-minuten uitsluiting voor WIT5, en team WIT wordt op het speelveld gereduceerd met twee spelers gedurende 15 seconden en met 1 speler voor 1’45”",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.25",
+      "Phrase": "Na afloop van zijn 2-minutenuitsluiting wil doelman ZWART1 zijn ploeg, die op dat ogenblik in verdediging staat, vervolledigen. Hij betreedt daarom het speelveld in keepersuitrusting en neemt als 6e veldspeler van team ZWART de hoekpositie in. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Het spel gaat verder zonder onderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m- worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor doelman ZWART1",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.26",
+      "Phrase": "Welke van de volgende uitspraken is correct met betrekking tot een speler die op het speelveld bloedt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De speler moet het speelveld onmiddellijk en uit eigen beweging verlaten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De speler kan op het speelveld blijven tot de volgende spelonderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De speler die de bloedende speler vervangt mag het speelveld betreden buiten de wisselzone",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De speler mag het speelveld pas betreden bij de volgende spelonderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Indien de speler weigert om de instructies van de scheidsrechter op te volgen om het speelveld te verlaten, moet hij bestraft worden voor onsportief gedrag",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.27",
+      "Phrase": "WIT5 is alleen met de doelman ZWART1 en heeft een open doelkans. ZWART11 begaat een wisselfout, doordat hij het speelveld betreedt vooraleer ZWART9 dit verlaten heeft. De tijdwaarnemer fluit daarom, net op het moment dat WIT5 klaar is om te werpen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor ZWART11, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.28",
+      "Phrase": "Doelverdediger ZWART1 stopt een bal, speelt hem naar zijn medespeler ZWART4. Nu gaat ZWART1 naar de zijlijn in de buurt van zijn wisselzone. Hij overschrijdt duidelijk de zijlijn haalt zich een handdoek en drinkt van een fles water. Hij wordt niet vervangen door een andere doelverdediger of veldspeler. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder laten spelen zonder onderbreking, gezien dit toegelaten is",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART1 wegens wisselfout",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT ter hoogte van de wisselzone van team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.29",
+      "Phrase": "De official A van team ZWART heeft eerder in de wedstrijd een waarschuwing gekregen. Na een beslissing van de scheidsrechter rent teamofficial D van team ZWART meerdere meters het speelveld op zonder toestemming van de scheidsrechters. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen bestraffing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Waarschuwing voor teamofficial D van team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor teamofficial D van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor teamofficial D van team ZWART (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.30",
+      "Phrase": "Er is een time-out door een blessure van WIT6, als gevolg van een incident dat niet geleid heeft tot een progressieve bestraffing tegen de speler van team ZWART. De scheidsrechters geven toestemming aan twee personen om het veld te betreden om WIT6 bij te staan. Official C van team WIT staat WIT6 bij. Official A van team WIT volgt ZWART5, die in zijn opvatting de kwetsuur veroorzaakt heeft. Hij volgt ZWART5 tot in de wisselzone van team ZWART en slaat hem in het gezicht. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor official A van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", team WIT wordt op het speelveld met 1 speler gereduceerd gedurende 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Het spel wordt hernomen na fluitsignaal met een worp overeenkomstig de reden van de onderbreking",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor official A van team WIT, team WIT wordt met 1 speler op het speelveld gereduceerd voor 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie zonder schriftelijk verslag voor official A van team WIT (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", team WIT wordt op het speelveld gereduceerd gedurende 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Na medische verzorging op het speelveld, moet WIT6 het speelveld verlaten en kan hij pas terug opkomen na de derde aanval van zijn team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.31",
+      "Phrase": "Direct na de uitvoering van een beginworp door team ZWART, stellen de scheidsrechters vast, dat zich in de wisselzone van ZWART een persoon bevindt die niet op het wedstrijdformulier staat. Controle wijst uit dat het om een van de bestuursleden van de club gaat. Team ZWART heeft echter al 4 officials op het wedstrijdformulier ingevuld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De persoon moet de wisselzone verlaten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Persoonlijke bestraffing voor de verantwoordelijke teamofficial van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een bijkomende teamofficial moet de wisselzone verlaten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.32",
+      "Phrase": "Welke van de volgende uitspraken met betrekking tot de uitrusting van de spelers is correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle spelers van eenzelfde team die als doelverdediger opgesteld worden, moeten shirts van identieke kleuren dragen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De spelers moeten minstens 20 cm grote nummers hebben zowel op de voor- als de achterzijde.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De doelverdedigers mogen hoofdbescherming dragen, indien deze van zacht materiaal gemaakt is.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De spelers, inclusief doelverdedigers, mogen nummers van 1 tot 100 gebruiken.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.33",
+      "Phrase": "Speler WIT10 krijgt zijn eerste 2-minutenuitsluiting beginnend op 21:00. Nadat het spel hernomen is, protesteert hij zo erg dat de scheidsrechters het spel onderbreken op 21:30 om WIT10 een bijkomende 2-minutenuitsluiting te geven. Wat zijn de gevolgen voor team WIT?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor WIT10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt met 1 speler op het speelveld gereduceerd tot 25:00",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT wordt met 2 spelers op het speelveld gereduceerd tot 23:00 en daarna met 1 speler op het speelveld gereduceerd tot 23:30",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.34",
+      "Phrase": "In welke van de volgende gevallen moet de verantwoordelijke teamofficial persoonlijk bestraft worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wanneer een speler van zijn team de wisselzone verlaat zonder zich af te melden bij de tijdwaarnemer/wedstrijdsecretaris",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer zich personen die niet op het wedstrijdformulier staan, aanwezig zijn in de wisselzone wanneer de wedstrijd begint.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer een bijkomende speler het speelveld betreedt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wanneer een niet-spelgerechtigde speler het speelveld betreedt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wanneer vastgesteld wordt, dat spelers op het speelveld, niet de correcte uitrusting dragen na de start van de wedstrijd",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Bij overtredingen in de wisselzone die niet duidelijk aan een bepaald individu kunnen gelinkt worden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Wanneer vastgesteld wordt dat spelers in de wisselzone niet de correcte uitrusting dragen na de start van de wedstrijd",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.35",
+      "Phrase": "De scheidsrechters geven het teken om het speelveld te betreden omdat een speler van team WIT gekwetst is. Wie mag dan het speelveld betreden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Twee officials van team WIT en niemand anders",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Twee officials van zowel team WIT en team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Twee personen (officials of speler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Twee personen (officials of speler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "van zowel team WIT als team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De dokter van team WIT indien hij geen van de vier officials is",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.36",
+      "Phrase": "Official C van team WIT heeft reeds geel gekregen voor protest. Later betreedt official B van team WIT het speelveld zonder toelating, maar hij gedraagt zich niet onsportief. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor official B van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor official B van team WIT (hij moet de bank voor 2 minuten verlate n)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van official B van team WIT (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor official B van team WIT, team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten, official B mag in de wisselzone blijven.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.37",
+      "Phrase": "Welke van de volgende handelingen is/zijn niet toegelaten bij een time-out, gegeven voor een kwetsuur en waarbij de scheidsrechters aan team WIT de toelating gegeven hebben om het speelveld te betreden met 2 personen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De spelers van team ZWART staan in de nabijheid van de zijlijn om instructies van hun coach te krijgen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Spelers van team WIT wisselen buiten de wisselzone.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een der officials van team WIT, die op het speelveld is, verwijdert zich ver van de gekwetste speler om aanwijzingen te geven aan de andere spelers van zijn team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.38",
+      "Phrase": "Voor het begin van de wedstrijd realiseert de waarnemer zich dat WIT7 enkelbeschermers draagt met hard materiaal dat niet bedekt is. Wat is/zijn de correcte beslissing(e",
+      "Answers": [
+        {
+          "AnswerNumber": "n",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WIT7 mag spelen met de enkelbeschermers, maar de waarnemer moet een verslag sturen naar het competitiemanagement",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WIT7 mag niet spelen met de enkelbeschermers die niet-bedekte harde delen heeft. De waarnemer moet de verantwoordelijke teamofficial alert maken dat de speler de enkelbeschermers moet verwijderen of de harde delen moet bedekken met zacht materiaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WIT7 zal een waarschuwing krijgen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De verantwoordelijke teamofficial zal een waarschuwing krijgen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Geen enkele van de voorgaande antwoorden is geldig",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.39",
+      "Phrase": "Bij 29:00 in de 1e helft krijgt WIT5 een 2-minutenuitsluiting. Na de pauze fluit de veldscheidsrechter voor de start van de tweede helft. Na 3 seconden, fluit de tijdwaarnemer. Team WIT heeft 7 spelers op het speelveld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een speler van team WIT moet het speloppervlak verlaten, geen bijkomende bestraffing.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor de bijkomende speler van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 2 spelers voor 57 seconden en met 1 speler voor 1 minuut en 3 seconden.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.40",
+      "Phrase": ". Speeltijd 43:27 – Er is een spelonderbreking door de tijdwaarnemer na doelpunt van WIT15 en beginworp. De tijdwaarnemer informeert de scheidsrechters dat speler WIT15 niet op het wedstrijdformulier staat. Op het wedstrijdformulier staan reeds 14 spelers voor team A ingeschreven. De scheidsrechters stellen vast dat de speler WIT11 zelfs helemaal niet aanwezig is. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Het doelpunt wordt geannuleerd",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Het doelpunt is geldig",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Speler WIT11 wordt geschrapt en WIT15 wordt ingeschreven op het wedstrijdblad, in overeenstemming met de reglementen van de verantwoordelijke federatie",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Speler WIT15 mag niet meespelen en moet het speelveld verlaten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Schriftelijk verslag in overeenstemming met de reglementen van de verantwoordelijke federatie.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.41",
+      "Phrase": "Doelman WIT12 ligt op de vloer met een knieblessure na een worp gered te hebben van team ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WIT12 mag verder spelen na medische verzorging ontvangen te hebben op het speelveld.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Twee personen van team WIT, die spelgerechtigd zijn, mogen het speelveld betreden om WIT12 medische verzorging te geven op het speelveld, nadat handsignaal 15 en 16 door een van de scheidsrechters getoond werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Slechts 1 persoon van team WIT, die spelgerechtigd is, mag op het speelveld komen om WIT12 medische verzorging te geven op het speelveld, nadat handsignaal 15 en 16 door de scheidsrechters getoond werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na medische verzorging op het speelveld ontvangen te hebben, kan WIT12 enkel opnieuw op het speelveld komen na de derde aanval van zijn team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Ongeacht het aantal aanvallen van zijn team, kan WIT12 terug op het speelveld komen, wanneer het spel verdergezet wordt na het einde van een speelhelft.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Als de teamofficials weigeren om de noodzakelijke verzorging van WIT12 te geven, moet de verantwoordelijke teamofficial progressief bestraft worden",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.42",
+      "Phrase": "Doelman WIT1 stopt een worp van het team ZWART. Dit doende stoot hij zijn hoofd tegen de doelpaal. Hij heeft medische verzorging nodig op het speelveld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WIT1 mag verder spelen na de medische behandeling op het speelveld, omdat de behandeling nodig was door een hoofdkwetsuur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Na de medische behandeling op het speelveld, kan WIT1 pas terug op het speelveld komen na de derde aanval van zijn team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.43",
+      "Phrase": "Na medische verzorging op het speelveld ontvangen te hebben, zit WIT7 op de bank in de wisselzone. Tijdens de eerste aanval van team WIT, onderschept ZWART2 de bal en loopt alleen in tegenaanval met alleen doelman WIT12 tussen hem en het doel van team WIT. Vooraleer ZWART2 een worp op doel kan geven, loopt WIT7 het speelveld op na een wissel met WIT9. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tijdwaarnemer wacht tot ZWART2 een worp op doel genomen heeft, vooraleer het spel te onderbreken omwille van een foutieve wissel van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De tijdwaarnemer onderbreekt het spel onmiddellijk omwille van de foutieve wissel van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie zonder schriftelijk verslag voor WIT7 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Ongeacht het aantal aanvallen van zijn team kan WIT7 terug op het speelveld komen na het einde van zijn 2-minutenuitsluiting",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.44",
+      "Phrase": "Na medische verzorging gekregen te hebben op het speelveld, zit ZWART11 op de bank en klaagt over een beslissing van de scheidsrechters. Hiervoor krijgt hij zijn eerste 2-minutenuitsluiting van de wedstrijd. Na de tweede aanval van team ZWART gaat ZWART11 terug op het veld na het einde van zijn 2-minutenuitsluiting te hebben uitgezeten. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verder spelen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.45",
+      "Phrase": "ZWART10 krijgt de bal aan de vrijeworplijn. Vlak nadat hij de bal gevangen heeft wordt hij neergetrokken door WIT3. Hij valt, kwetst zijn elleboog en heeft medische verzorging nodig op het speelveld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor WIT3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Twee personen van team ZWART, die deelname gerechtigd zijn, mogen het speelveld betreden om ZWART10 medische verzorging te geven op het speelveld, nadat de handsignalen 15 en 16 door een van de scheidsrechters werden getoond.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "ZWART10 mag verder spelen nadat hij de medische verzorging op het speelveld ontvangen heeft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Na de medische verzorging ontvangen te hebben op het speelveld, mag ZWART10 het speelveld pas terug betreden, na de derde aanval van zijn team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.46",
+      "Phrase": "Zwart10 krijgt de bal in een tegenaanval van ZWART9. Vlak na de bal gepast te hebben wordt ZWART9 neergetrokken door WIT11. Vlak na de bal ontvangen te hebben, valt ZWART10 en ligt gekwetst op de vloer. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Twee personen van team ZWART, die deelname gerechtigd zijn, mogen het speelveld betreden om medische verzorging te geven aan ZWART10 op het speelveld, nadat de handsignalen 15 en 16 door een van de scheidsrechters werden getoond.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "ZWART10 mag verder spelen na de medische verzorging op het speelveld ontvangen te hebben.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Na de medische verzorging ontvangen te hebben op het speelveld, mag ZWART10 het veld pas terug betreden, na de derde aanval van zijn team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.47",
+      "Phrase": "Met nog 3 minuten te gaan is de score 21-21. ZWART2, de topscorer van zijn team, slaat zijn enkel om en ligt op de vloer. Een van de scheidsrechters vraagt ZWART2 of hij medische verzorging op het speelveld nodig heeft. Wanneer ZWART2 geen antwoord geeft op die vraag, maar nog steeds op de grond ligt, onderbreken de scheidsrechters de wedstrijd en tonen de handsignalen 15 en 16 om twee personen van team ZWART toe te laten op het speelveld om medische verzorging te geven aan ZWART2. Team ZWART weigert om verzorgers op het speelveld te sturen, en vooraleer de scheidsrechters een andere actie kunnen ondernemen, is ZWART2 klaar om verder te spelen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "ZWART2 mag verder spelen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "ZWART2 moet het speelveld verlaten en mag pas opnieuw op het speelveld komen na de derde aanval van zijn team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.48",
+      "Phrase": "Met nog 30 seconden te gaan in de eerste helft, krijgt WIT5 medische verzorging op het speelveld. Na de medische verzorging gekregen te hebben, verlaat hij het speelveld en mag hij enkel terug op het speelveld komen na drie aanvallen van zijn team. Na een minuut van de tweede helft tijdens de tweede aanval van team WIT, komt WIT5 op het speelveld na een correcte wissel met WIT4. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT5 omwille van een foutieve wissel (te vroeg op het speelveld gekomen na medische verzorging ontvangen te hebben op het speelvel d)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.49",
+      "Phrase": "Na een botsing liggen WIT4 en ZWART5 blijkbaar gekwetst op de grond. De scheidsrechters onderbreken direct de wedstrijd en tonen de handsignalen 15 en 16 om aan beide teams toelating te geven om met 2 personen op het speelveld te komen om medische verzorging te geven op het speelveld. Vooraleer iemand op het veld kan komen, is ZWART5 klaar om te spelen. WIT4 krijgt medische verzorging op het speelveld. Na 20 seconden kan het spel verder gaan. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Na medische verzorging gekregen te hebben op het speelveld, moet WIT4 het speelveld verlaten en mag hij enkel terug op het speelveld komen na drie aanvallen van zijn team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Gezien ZWART5 geen medische verzorging op het veld heeft gekregen, mag hij verder spelen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Zwart5 moet het speelveld verlaten en mag hij enkel terug op het speelveld komen na drie aanvallen van zijn team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.50",
+      "Phrase": "WIT2 is gekwetst en heeft medische verzorging op het speelveld nodig. De eerste helft eindigt na de eerste aanval van zijn team. Wanneer de scheidsrechters fluiten voor het begin van de tweede helft, is WIT2 op het speelveld tijdens de aanval van zijn team. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tijdwaarnemer onderbreekt onmiddellijk de wedstrijd en informeert de scheidsrechters.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verder spelen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART in de wisselzone",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Geen uitsluiting voor WIT2 die het speelveld moet verlaten. Team WIT gaat verder in balbezit omdat het een vergissing is van de tijdwaarnemer/waarnemer.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.51",
+      "Phrase": "WIT4 krijgt medische verzorging op het speelveld. Na verzorging gekregen te hebben, moet WIT4 het speelveld verlaten en mag enkel terug op het speelveld komen na drie aanvallen van zijn team. Na de tweede aanval van team WIT, vraagt teamofficial A van team WIT aan WIT4 om terug op het speelveld te gaan om in de verdediging te spelen. WIT4 komt via een wissel met WIT6 op het speelveld om enkel in de verdediging te spelen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen (WIT4 mag in verdediging spele n)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Waarschuwing voor WIT4, omdat hij te vroeg op het speelveld is gekomen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT4 voor een foutieve wissel.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.52",
+      "Phrase": "WIT11 glijdt over de vloer en eindigt net buiten het speelveld aan de andere kant van de wisselzone. Hij botst met zijn hoofd tegen de reclamepanelen. De scheidsrechters onderbreken onmiddellijk het spel en vragen medische verzorging voor WIT11. Na 20 seconden is WIT11 klaar om weer te spelen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WIT11 mag verder spelen, omdat hij buiten het speelveld lag, toe hij de medische verzorging kreeg.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WIT11 moet het speelveld verlaten en mag enkel terug op het speelveld komen na drie aanvallen van zijn team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.53",
+      "Phrase": "Na 1 minuut in de wedstrijd, is er een duel tussen ZWART3 en WIT6. ZWART3 eindigt op de grond en schijnt gekwetst te zijn. De scheidsrechters kiezen ervoor om WIT6 een vermaning te geven. ZWART3 vraagt medische verzorging op het speelveld. Na de verzorging gekregen te hebben, is ZWART3 klaar om verder te spelen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "ZWART3 mag verder spelen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "ZWART3 moet het speelveld verlaten en mag enkel terug op het speelveld komen na drie aanvallen van zijn team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.54",
+      "Phrase": "Team ZWART is in tegenaanval. ZWART2 dribbelt met de bal en wordt door WIT10 geduwd. Hij verliest gedeeltelijk zijn lichaamscontrole maar slaagt erin om de bal naar ZWART4 te spelen, die een doelpunt scoort. Na het doelpunt gescoord te hebben, slaat ZWART4 zijn enkel om terwijl hij terugloopt in verdediging. De scheidsrechters onderbreken het spel, geven een 2-minutenuitsluiting aan WIT10 en geven toelating voor 2 personen om op het speelveld te komen om medische verzorging te geven aan ZWART4. Na 30 seconden is ZWART4 klaar om te spelen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "ZWART4 mag verder spelen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "ZWART4 moet het speelveld verlaten en mag enkel terug op het speelveld komen na drie aanvallen van zijn team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.55",
+      "Phrase": "WIT11 werpt naar doel. Verdediger ZWART2 krijgt ongelukkig de bal in het gezicht en heeft medische verzorging op het speelveld nodig. Na 20 seconden van verzorging, is ZWART2 klaar om verder te spelen",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "ZWART2 mag verder spelen, omdat de kwetsuur veroorzaakt werd door een bal in het gezicht.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "ZWART2 moet het speelveld verlaten en mag enkel terug op het speelveld komen na drie aanvallen van zijn team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.56",
+      "Phrase": "ZWART2 ligt op de vloer in het doelgebied van team WIT na een worp op doel en vraagt medische verzorging blijkbaar omwille van een beenblessure. Team WIT is net een tegenaanval gestart. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De scheidsrechters onderbreken onmiddellijk het spel en tonen de handgebaren 15 en 16 om medische verzorging op het speelveld te vragen voor ZWART2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verder spelen tot er een resultaat is van de tegenaanval van team WIT – dan het spel onderbreken om medische verzorging te vragen voor ZWART2",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.57",
+      "Phrase": "WIT2 warmt op zonder elleboogbescherming. Na 5 minuten in de wedstrijd, is team WIT in balbezit. WIT2 komt via een correcte wissel op het speelveld. De scheidsrechters stellen vast dat WIT2 nu een elleboogprotectie draagt met niet-bedekte harde componenten. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen, het is toegelaten om een elleboogprotectie te dragen met niet-bedekte harde componenten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De scheidsrechters onderbreken de wedstrijd, WIT2 moet het speelveld verlaten en mag enkel terug op het speelveld komen na verwijdering van de elleboogprotectie of afdekking van de niet-bedekte harde componenten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters onderbreken de wedstrijd, WIT2 moet het speelveld verlaten en mag enkel terug op het speelveld komen na verwijdering van de elleboogprotectie.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.58",
+      "Phrase": "Team WIT valt aan dicht bij de 9m-lijn. WIT7 komt in het speelveld na een normale wissel, maar met zijn gele pullover/trui over het normale witte T-shirt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De scheidsrechters onderbreken het spel, WIT7 moet zijn gele pullover/trui uitdoen alvorens verder te gaan op het speelveld",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.59",
+      "Phrase": "Team WIT is in balbezit wanneer de tijdwaarnemer de wedstrijd onderbreekt. De tijdwaarnemer vertelt de scheidsrechters dat WIT11 het speelveld heeft betreden, maar dat er geen WIT11 op het wedstrijdblad staat. Het blijkt nu dat teamofficial A de speler verkeerdelijk op het wedstrijdblad vermeld heeft met nummer 13. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WIT11 wordt niet toegelaten om deel te nemen aan de wedstrijd",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De vergissing wordt gecorrigeerd, en WIT11 mag deelnemen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vermelding op het wedstrijdblad/schriftelijk verslag overeenkomstig de reglementen van de verantwoordelijke federatie",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Progressieve bestraffing voor official A van team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.60",
+      "Phrase": "De stand is 29:29 met nog 10 sec. te spelen in de wedstrijd. Doelman WIT12 voert een uitworp uit en speelt de bal naar WIT11. WIT11 ziet dat WIT9 in een vrije positie staat aan de doelgebiedlijn van team ZWART. Vooraleer hij de bal naar WIT9 kan spelen, onderbreekt de tijdwaarnemer het spel voor een foutieve wissel. ZWART2 is op het speelveld gekomen vooraleer ZWART4 dit heeft verlaten. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor ZWART2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.61",
+      "Phrase": "De stand is 29:29 met nog 10 sec. te spelen in de wedstrijd. Doelman WIT12 voert een uitworp uit en speelt de bal naar WIT11. WIT11 ziet dat WIT9 in een vrije positie staat aan de doelgebiedlijn van team ZWART. Hij speelt de bal naar WIT9. Vooraleer WIT9 naar doel kan werpen, onderbreekt de tijdwaarnemer het spel voor een foutieve wissel. ZWART2 is op het speelveld gekomen vooraleer ZWART4 dit heeft verlaten. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor ZWART2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

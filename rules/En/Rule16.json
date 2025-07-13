@@ -1,0 +1,629 @@
+﻿{
+  "RuleNumber": "16",
+  "Name": "The Punishments",
+  "Questions": [
+    {
+      "QuestionNumber": "16.1",
+      "Phrase": "Team official B from WHITE team is complaining and receives a 2-minute suspension. Before the game is restarted, he complains again and is therefore disqualified. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE team is reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 2 minutes",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.2",
+      "Phrase": "WHITE 8 receives a 2-minute suspension, as he has pushed an opponent. He approaches the referee to insult him with the following words: “You are stupid, you are an idiot, you will never learn!” Before leaving the court he spits in the referees face. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of WHITE 8, WHITE team is reduced by 1 player on the court for 4 minutes (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 8, WHITE team is reduced by 2 players on the court for 2 minutes (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of WHITE 8, WHITE team is reduced by 1 player on the court for 4 minutes, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of WHITE 8, WHITE team is reduced by 2 players on the court for 2 minutes, written report (red and blue cards shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.3",
+      "Phrase": "What is the maximum number of warnings that should be given to the officials of a team during a match?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "None",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.4",
+      "Phrase": "When does the suspension time of a player start?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When the referee gives the hand signal for the suspension",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When the suspended player crosses the sideline",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When the referee whistles for the game to be restarted",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When the timekeeper starts the stopwatch",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.5",
+      "Phrase": "To whom are suspensions to be indicated?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The suspended player and the scorekeeper/timekeeper",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The responsible team official and the timekeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Timekeeper/scorekeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The suspended player, the responsible team official, and the scorekeeper",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.6",
+      "Phrase": "BLACK 5 has received two 2-minute suspensions earlier in the game. One suspension for a foul that was punished progressively, and one for throwing the ball away, when the referees gave a free throw for the opponents. Now he commits his team’s second faulty substitution, and before the game is restarted, he commits an extremely unsportsmanlike conduct. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for BLACK 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification for BLACK 5, written report (red and blue cards shown by the referees; BLACK team is reduced by 1 player on the court for 4 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification for BLACK 5, written report (red and blue cards shown by the referees); BLACK team is reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.7",
+      "Phrase": "WHITE 5 receives a 2-minute suspension for a foul. While leaving the court he insults the referees and is disqualified. WHITE 5 then gets so upset that he hits one of the referees. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Written report (blue card shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team is reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.8",
+      "Phrase": "WHITE 7 has just been suspended for two minutes for unfair play. Before the game is restarted, he says to the referee: “You must be blind, you idiot!” Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Another 2-minutes suspension for WHITE 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 7 without written report (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team is reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification of WHITE 7, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.9",
+      "Phrase": "WHITE 3 has been suspended for two minutes. After leaving the court, but before the restart of the match, WHITE 3 is guilty of a seriously unsportsmanlike conduct in the substitution area against official B from BLACK team. Just before that, official B from BLACK team ran out onto the playing court, even though no permission had been given. No sanctions have been called against the officials of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of WHITE 3 without written report (red card shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for official B from BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team is reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.10",
+      "Phrase": "When a player is disqualified, the team is reduced by 1 player on the court for 2 minutes, unless the disqualification is given:",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "For seriously unsportsmanlike conduct during the half-time break",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "For an infringement outside the court",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Before the match begins",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "For insulting the referees",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.11",
+      "Phrase": "During the half-time, break WHITE 7 assaults goalkeeper BLACK 12, while they are still on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of WHITE 7, written report (red and blue cards shown by the referees); WHITE team is reduced by 1 player on the court for 2 minutes at the beginning of the second half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for WHITE 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Caution for WHITE 7, because the match was interrupted",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.12",
+      "Phrase": "During the half-time break, a referee is insulted by BLACK 7 on the way to the changing rooms. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of BLACK 7 without written report (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLACK team is reduced by 1 player on the court for 2 minutes at the beginning of the second half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of BLACK 7, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.13",
+      "Phrase": "After the whistle for half-time, BLACK 5 collides with WHITE 9 on the court, and they both start shouting at each other. WHITE 9 then pushes BLACK 5 in the chest with both hands, so that BLACK 5 almost loses body control. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 9 at the beginning of the second half",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 9 without written report (red card shown by the referees); WHITE team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of WHITE 9; WHITE team starts the second half without reduction.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of WHITE 9, written report (red and blue cards shown by the referees); WHITE team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.14",
+      "Phrase": "After the game, WHITE 10 shouts at the referees: “You stole the game from us, you idiots!” Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for WHITE 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 10, written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Written report",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for WHITE 10, written report",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.15",
+      "Phrase": "During the half-time break, WHITE 9, on the playing court, commits an assault against official B from BLACK team, who subsequently insults WHITE 9. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of WHITE 9, written report (red and blue cards shown by the referees); WHITE team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of official B from BLACK team, written report (red and blue cards shown by the referees); BLACK team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of WHITE 9 (red card shown by the referees); WHITE team will not be reduced from the beginning of the second half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of official B from BLACK team (red card shown by the referees); BLACK team will not be reduced from the beginning of the second half.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.16",
+      "Phrase": "WHITE 7 is disqualified because he has just received his third 2-minute suspension. He tries to argue with the referees and does not leave the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No further action",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team is reduced by 2 players on the court for 2 minutes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.17",
+      "Phrase": "WHITE 11 was warned in the first half and is again guilty of unsportsmanlike conduct during the half-time break. WHITE team was playing at full strength on the court, when the first half ended. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for WHITE 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of WHITE 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WHITE team will not be reduced by players on the court from the beginning of the second half.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.18",
+      "Phrase": "WHITE 4 is injured. The referees whistle for a time-out and give the hand signal to permit WHITE team to enter the court and take care of the player. Officials A and B from WHITE team, but also official A from BLACK team, enter the court. Official A from BLACK team already received a warning. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No intervention",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When the game is restarted, BLACK team continues with the same number of players on the court as before the interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for official A from BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of official A from BLACK team (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "When the game is restarted, BLACK team will be reduced by 1 player on the court for 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "After receiving medical care on the court, WHITE 4 must leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.19",
+      "Phrase": "BLACK 9 is given a disqualification because of a serious foul against WHITE 9. Before the game is restarted, BLACK 9 hits official A from WHITE team in the face. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of BLACK 9 without written report (red card shown by the referees); BLACK team will be reduced by 2 players on the court for 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of BLACK 9 without written report (red card shown by the referees); BLACK team will be reduced by 1 player on the court for 4 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "No additional punishment is possible",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of BLACK 9, written report (red and blue cards shown by the referees); BLACK team will be reduced by 2 players on the court for 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification of BLACK 9, written report (red and blue cards shown by the referees); BLACK team will be reduced by 1 player on the court for 4 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.20",
+      "Phrase": "BLACK 8 is given his first 2-minute suspension following a time-out signal. When he leaves the court, before the game is restarted, he addresses the referees in an unsportsmanlike manner. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "An additional 2-minute suspension for BLACK 8, BLACK team will be reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "An additional 2-minute suspension for BLACK 8, BLACK team will be reduced by 1 player on the court for 4 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of BLACK 8 (red card shown by the referees), BLACK team will be reduced by 2 players on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of BLACK 8 (red card shown by the referees), BLACK team will be reduced by 1 player on the court for 4 minutes",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.21",
+      "Phrase": "In which of the following situations must a team be reduced by 1 player on the court for 4 minutes?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "A player has just been disqualified. When leaving the court, he protests in a way that justifies a 2-minute suspension.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "A player has just received a 2-minute suspension. When leaving the court, he insults the referees and is disqualified.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "A player has just received a 2-minute suspension for unsportsmanlike conduct towards an opponent. While he is still on the court, he hits an opponent in the face and is disqualified.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "A player has just received a 2-minute suspension for unsportsmanlike conduct. After crossing the sideline, he comes back onto the court and protests, and he is given an additional 2-minute suspension.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "A player has just been disqualified for spitting on an opponent. When leaving the court, he pushes a referee.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "A player has just been disqualified for a serious foul. After leaving the court, and after the match has been restarted, he insults the referees while sitting in the spectators’ area.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.22",
+      "Phrase": "WHITE 5 receives a 2-minute suspension in minute 7. He complains before the game is restarted and receives an additional 2-minute suspension. Exactly one minute later, he runs onto the court, and the timekeeper whistles. Because of the additional suspension for entering the court, he is disqualified. Because of this he now insults the referees. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE team will be reduced by 1 player on the court from 07:00 to 08:00, by 2 players from 08:00 to 10:00 and by 1 player from 10:00 to 11:00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team will be reduced by 1 player on the court from 07:00 to 08:00, by 2 players from 08:00 to 11:00 and by 1 player from 11:00 to 12:00.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team will be reduced by 2 players on the court from 07:00 to 08:00, by 3 players from 08:00 to 10:00 and by two players from 10:00 to 11:00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team will be reduced by 2 players on the court from 07:00 to 08:00, by 4 players from 08:00 to 10:00 and by 2 players from 10:00 to 11:00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification of WHITE 5, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.23",
+      "Phrase": "Official C from WHITE team receives a warning in the first half because of unsportsmanlike conduct. The playing time is 35:50, and official B from WHITE team, with forceful gestures, shows that he disagrees with a decision of the referees. For this, he receives a 2-minute suspension. Three minutes before the end of the match, official A from WHITE team enters the court without permission from the referees. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for official A from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for official A from WHITE team; WHITE team are reduced on the court by 1 player for 2 minutes; official A can stay in the substitution area",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for official A from WHITE team; WHITE team are reduced on the court by 1 player for 2 minutes; official A must leave the substitution area",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification for official A from WHITE team (red card shown by the referees); WHITE team are reduced on the court by 1 player for 2 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification for official A from WHITE team with written report (red and blue cards shown by the referees); WHITE team are reduced on the court by 1 player for 2 minutes",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

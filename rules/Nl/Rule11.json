@@ -1,0 +1,162 @@
+{
+  "RuleNumber": "11",
+  "Name": "De Inworp",
+  "Questions": [
+    {
+      "QuestionNumber": "11.1",
+      "Phrase": "WIT3 voert een inworp uit op twee meter buiten de zijlijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen beslissing vereist, gezien dit toegelaten is",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Herhaling van de inworp zonder fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Herhaling van de inworp na fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.2",
+      "Phrase": "ZWART4 staat met één voet op de zijlijn, met de andere in het speelveld. Hij voert de inworp uit en scoort direct in het doel. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Herhaling van de inworp voor ZWART na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.3",
+      "Phrase": "WIT6 voert, met één voet in het speelveld en de andere voet 1m buiten de zijlijn, een inworp uit. Hij werpt de bal in het doel van ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Herhalen van de inworp voor team WIT na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.4",
+      "Phrase": "WIT11 werpt naar doel. De bal botst via de dwarslat tegen een sportconstructie die aan het plafond boven het doelgebied van ZWART hangt. Van daar valt de bal naar beneden in de armen van doelverdediger ZWART1. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Inworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "vrije worp voor team ZWART na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Inworp voor team ZWART na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Verplichte time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.5",
+      "Phrase": "Wanneer is het een verdedigend team toegestaan om dichter te komen dan 3 meter bij de uitvoering van een worp na een onderbreking van het spel?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Van zodra de scheidsrechter het signaal geeft voor de uitvoering van de worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer de bal de hand van de speler die vrije worp uitvoert, heeft verlaten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "In het geval een vrije worp of een inworp, wanneer de spelers plaats hebben genomen aan hun eigen doelgebiedlijn",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Tijdens de uitvoering van een uitworp of een beginworp, wanneer de verdedigende speler buiten de doelgebiedlijn of de beginworpzone staat",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.6",
+      "Phrase": "WIT5 kan een pass niet vangen. Hij loopt achter de bal aan en stopt de bal net voor deze over de zijlijn gaat, maar hij kan hierbij niet verhinderen dat hij zelf nadien de zijlijn overschrijdt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Spel gaat verder zonder onderbreking",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Inworp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

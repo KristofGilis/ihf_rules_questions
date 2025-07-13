@@ -1,0 +1,63 @@
+﻿{
+  "RuleNumber": "SAR",
+  "Name": "Substitution Area Regulation",
+  "Questions": [
+    {
+      "QuestionNumber": "SAR1",
+      "Phrase": "What should be the distance between the centre line and the start of the substitution benches?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1 metre",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2 metres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3 metres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3.5 metres",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "SAR2",
+      "Phrase": "Official A from WHITE team has already received a warning while sitting on the bench. He now leaves the substitution area and sits in the spectators’ area. From this position, he continues to protest over the referees’ decisions. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No action possible",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for official A from WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of official A from WHITE team (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of official A from WHITE team, written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WHITE team will be reduced by 1 player on the court for 2 minutes.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+﻿{
+  "RuleNumber": "1",
+  "Name": "Игралиште",
+  "Questions": [
+    {
+      "QuestionNumber": "1.1",
+      "Phrase": "Које димензије игралишта прописују Правила игре?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "40 x 20 м",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "42 x 20 м",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "38 x 18 м",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Дужина између 38 и 42 метра, ширина између 18 и 22 метра",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.2",
+      "Phrase": "Које су захтеване унутрашње димензије гола?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1,92 x 2,92 м",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2,00 x 3,00 м",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2,05 x 3,05 м",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2,08 x 3,08 м",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.3",
+      "Phrase": "Колико је широка гол линија између статива?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "5 цм",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "6 цм",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "8 цм",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "10 цм",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.4",
+      "Phrase": "Које од следећих тврдњи везане за простор за почетно бацање су тачне?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Састоји се од круга пречника 3 метра",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Састоји се од круга пречника 4 метра",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Простор за почетно бацање може бити простор другачије боје у односу на терен за игру",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Простор за почетно бацање може бити кружна линија",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Коришћење простора за почетно бацање је обавезно за сва рукометна такмичења",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

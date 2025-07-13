@@ -1,0 +1,275 @@
+﻿{
+  "RuleNumber": "17",
+  "Name": "The Referees",
+  "Questions": [
+    {
+      "QuestionNumber": "17.1",
+      "Phrase": "The referees disagree on which team should have a throw-in. How should this be handled?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The court referee decides.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The goal-line referee decides.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The two referees make a joint decision after consultation.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "No time-out, but throw-in executed after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.2",
+      "Phrase": "The automatic final signal from the public clock is not working. The timekeeper has not noticed the problem and therefore does not react, even though the playing time has already ended. Who shall give the final signal in this case?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Only the scorekeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Only the court referee",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Only the delegate",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Only one of the referees",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Only the timekeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Either the timekeeper, the delegate or one of the referees",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.3",
+      "Phrase": "BLACK 2 has committed an infraction. The court referee decides on a disqualification of BLACK 2 (red card shown by the referees) and a free throw. The goal referee decides on a 2-minute suspension for BLACK 2 and a 7-metre throw. How is BLACK 2 to be penalised, and how is the game to be continued?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for BLACK 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of BLACK 2 (red card shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.4",
+      "Phrase": "In case of doubt, who decides about the accuracy of the timekeeping?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper and the scorekeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The two referees reach a joint decision.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The timekeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The two referees and the timekeeper reach a joint decision.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.5",
+      "Phrase": "Which punishments need to be explained in the match report?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "All disqualifications, except for those given because of three 2-minute suspensions",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "All punishments, except cautions",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "All suspensions and all disqualifications",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifications for dangerous fouls or seriously unsportsmanlike conduct in the last 30 seconds of the match, if the action is intended to prevent the opponents from creating a scoring chance",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification due to extremely unsportsmanlike conduct",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Any progressive punishment during the last 30 seconds of the game, if the action is intended to prevent the opponents from creating a scoring chance",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.6",
+      "Phrase": "Who is entitled to address the referees during a game?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Every player",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Every official",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The responsible team official",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The team captain",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.7",
+      "Phrase": "The referees have different opinions about how much playing time remains. The goal-line referee (first mentioned referee) believes that 50 seconds remain, while the court referee believes that 42 seconds remain. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The longer playing time applies (50 seconds).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The first mentioned referee decides (50 seconds).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The court referee decides (42 seconds).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The two referees must reach a joint decision.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.8",
+      "Phrase": "At the start of a match, which referee becomes the court referee, and which referee becomes the goal-line referee?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The first mentioned referee becomes the court referee.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The first mentioned referee becomes the goal-line referee.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The referees use a coin toss to decide, who starts where.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The referees are free to make their own choice.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.9",
+      "Phrase": "The two referees whistle after a collision between two players. The court referee shows offensive foul, but the goal-line referee indicates a violation by the defender. How should this be decided?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The decision of the goal-line referee is valid.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The decision of the court referee is valid.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The referees contact each other to reach a joint decision.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out is obligatory",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out only necessary if the joint decision goes against the attacking team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out not obligatory, if the referees are using electronic equipment for their internal communication",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

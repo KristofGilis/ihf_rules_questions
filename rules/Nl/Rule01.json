@@ -1,0 +1,115 @@
+{
+  "RuleNumber": "1",
+  "Name": "Speeloppervlak",
+  "Questions": [
+    {
+      "QuestionNumber": "1.1",
+      "Phrase": "Wat zijn de afmetingen van het speelveld volgens de spelregels?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "40 m x 20 m",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "42 m x 20 m",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "38 m x 18 m",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lengte tussen 38 en 42 m, breedte tussen 18 en 22 m",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.2",
+      "Phrase": "Welke zijn de vereiste binnenafmetingen van het doel?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1,92 m x 2,92 m",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2,00 m x 3,00 m",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2,05 m x 3,05 m",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2,08 m x 3,08 m",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.3",
+      "Phrase": "Hoe breed is de doellijn tussen de doelpalen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "5 cm",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "6 cm",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "8 cm",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "10 cm",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.4",
+      "Phrase": "Welke uitspraken zijn juist over de beginworpzone?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Het bestaat uit een cirkel met een diameter van 3 meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Het bestaat uit een cirkel met een diameter van 4 meter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De beginworpzone kan een gebied zijn met een andere kleur dan het speelveld",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De beginworpzone kan een cirkellijn zijn",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De beginworpzone is verplicht voor alle evenementen in handbal",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

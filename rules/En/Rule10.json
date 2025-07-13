@@ -1,0 +1,400 @@
+﻿{
+  "RuleNumber": "10",
+  "Name": "The Throw-Off",
+  "Questions": [
+    {
+      "QuestionNumber": "10.1",
+      "Phrase": "WHITE team wins the coin toss and decides to start with the ball. The representative of BLACK team wants to change ends. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Change ends",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Change ends if WHITE team agrees",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Repeat coin toss",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Do not change ends",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.2",
+      "Phrase": "WHITE team win the coin toss and want to change ends. BLACK team want WHITE team to take the throw-off. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Throw-off by WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Change ends and throw-off by BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Repeat coin toss",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The team representatives must come to an agreement.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.3",
+      "Phrase": "(Without throw-off area) From where can the throw-off be executed?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Up to 3 metres behind the centre line in the team’s own half",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Up to 3 metres across the centre line on the opponent’s half of the court",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "At the centre of the court with one foot on the centre line and the other foot on or behind the line, with a sideways tolerance of about 1.5 metres",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.4",
+      "Phrase": "(Without throw-off area) The score is 15:15, and just before the end of the game, BLACK team score to make it 15:16. WHITE team want to quickly take the throw-off. The player with the ball stands at the centre of the court with one foot in front of the centre line and one foot behind the line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correction; then whistle signal for executing the throw-off",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Position is correct; whistle signal for executing the throw-off",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out; correction; whistle signal for executing the throw-off",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.5",
+      "Phrase": "WHITE team is about to execute a throw-off. Goalkeeper BLACK 1 is not yet in his goal area. The court referee still whistles for the match to begin, and WHITE 9 immediately scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team from the centre line",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repeat the throw-off",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.6",
+      "Phrase": "(Without throw-off area) Which of the following statements about the throw-off are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The throw-off must be taken from the centre of the court within three seconds after the whistle signal and must be thrown into the opponents’ half of the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "A goal against the opponents can be scored directly from a throw-off.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Illegal positions of the defending team must be corrected.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "If the thrower dribbles the ball after the whistle signal for executing the throw-off, then a free throw must be given to the opponents.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The teammates of the thrower are allowed to cross the centre line, before the throw has been taken.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.7",
+      "Phrase": "(Without throw-off area) BLACK 6 stands for a throw-off in the centre of the court with one foot on the centre line and one foot in his team’s half of the court. The referee whistles. Before the ball has left his hand, the thrower runs over the centre line. At the time of the whistle, there were still players from WHITE team in BLACK team’s half of the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction of the positions of WHITE team and repeated throw-off after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correction of the position of BLACK 6 and repeated throw-off after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.8",
+      "Phrase": "(With throw-off area) WHITE team scored a goal. BLACK team want to execute a fast throw-off. BLACK 9 is in a correct position inside the throw-off area. After the referees whistled for the execution, BLACK 9 takes 6 steps with the ball inside the throw-off area. Within 3 seconds after the whistle signal for the execution of the throw-off, BLACK 9 throws the ball into the empty goal of WHITE team. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction, and new throw-off after whistle signal from the referees.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.9",
+      "Phrase": "(With throw-off area) WHITE team scored a goal. BLACK team want to execute a fast throw-off. BLACK 9 receives the ball. He has the ball and one foot completely inside the throw-off area. The other foot is outside the throw-off area. The referees whistle for the execution of the throw. Before BLACK 9 moves the other foot inside the throw-off area, he throws the ball into the empty goal of WHITE team. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction, new throw-off for BLACK team after whistle signal from the referees",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The throw is executed correctly as the referees have approved the position of the thrower by giving the whistle signal for the execution.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.10",
+      "Phrase": "(With throw-off area) BLACK team want to execute a fast throw-off from the throw-off area. At the same time as BLACK 8 is running with one foot and the ball completely inside the throw-off area, WHITE 7 is also inside the throw-off area, running in the direction of his own goal. With no teammates in the direction of WHITE 7, BLACK 8 throws the ball into the back of WHITE 7. WHITE 7 is inside the throw-off area, when the ball hits him. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment for WHITE 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive punishment for BLACK 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Direct 2-minute suspension for BLACK 8",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.11",
+      "Phrase": "(With throw-off area) Which of the following statements regarding the throw-off area are incorrect?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The whistle signal for the execution of the throw-off can be given when the thrower has a part of the body inside the throw-off area.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "There is no restriction regarding the positions of the teammates of the thrower during the execution of a throw-off.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The thrower is allowed to step outside the throw-off area during the execution of the throw-off.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "A player from defending team is allowed to intercept the ball after the execution, even if the ball still is inside the throw-off area.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The thrower is not allowed to bounce the ball after the whistle signal for the execution.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.12",
+      "Phrase": "(With throw-off area) WHITE team plays with 7 court players and scores a goal. BLACK team wants to execute a fast throw-off. BLACK 6 has one foot and the ball inside the throw-off area. The referees whistle for the execution. WHITE 8 clearly enters the throw-off area with active arms trying to block the ball and interferes with the execution. Even so, BLACK 6 who has his entire body and the ball inside the throw-off area executes the throw-off as a shot at the empty goal. The ball crosses the outer goal line. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "New throw-off after whistle signal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Progressive punishment for WHITE 8.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Direct 2-minute suspension for WHITE 8.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Disqualification for WHITE 8 (red card shown by the referees).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.13",
+      "Phrase": "(With throw-off area) Which of the following statements about the throw-off area are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The throw-off is to be executed within 3 seconds of the whistle signal for the execution.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "A throw-off can lead to a goal for the executing team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "In connection with a throw-off, wrong positions of defending players must be corrected.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "If the thrower jumps after the whistle signal for the execution of the throw, the correct decision is free throw for the opponents.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The teammates of the thrower are not allowed to cross the centre line at any time before the whistle signal for the execution of the throw.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.14",
+      "Phrase": "(With throw-off area) When can a referee whistle for the execution of a throw-off?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, and the other foot is not outside the throw-off area on the opponent’s half of the court.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When the thrower has at least one foot inside the throw-off area, and the other foot is not outside the throw-off area on the opponent’s half of the court, but the ball is still outside the throw-off area.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, and the other foot is outside the throw-off area on the opponent’s half.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When the thrower has at least one foot and the ball inside the throw-off area, the other foot is not outside the throw-off area on the opponent’s half of the court, but teammates of the thrower are inside the throw-off area on the opponent’s half of the court.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

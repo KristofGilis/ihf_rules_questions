@@ -1,0 +1,271 @@
+{
+  "RuleNumber": "9",
+  "Name": "Het maken van een doelpunt",
+  "Questions": [
+    {
+      "QuestionNumber": "9.1",
+      "Phrase": "WIT7 staat in het midden van de verdediging wanneer ZWART3 probeert een stuitbal naar de cirkelspeler te geven. WIT7 probeert de bal te stoppen door de voet duidelijk op te heffen. Door zo te doen trapt hij de bal in het doel van team WIT. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting tegen WIT7",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.2",
+      "Phrase": "De worp van WIT5 springt terug van de doelpaal van team ZWART. De bal devieert via de voet van ZWART3 die in het veld staat in het doel van ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.3",
+      "Phrase": "De bal werd tegengehouden door de doelman WIT1 en springt terug van de rug van verdediger WIT3, die 2 meter in het doelgebied staat, en gaat in het doel van WIT. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressieve bestraffing voor WIT3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.4",
+      "Phrase": "Doelman WIT1 houdt de bal gedurende 4 seconden vast in een positie waarbij driekwart van de bal de doellijn overschreden heeft. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.5",
+      "Phrase": "WIT3 betreedt zijn eigen doelgebied en probeert een worp met de voet af te weren, maar de bal springt daarbij van zijn voet in het doel van team WIT. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.6",
+      "Phrase": "WIT11 werpt een boogballetje over de doelman van ZWART, die ver voor zijn doel staat. Net vooraleer de bal de doellijn overschrijdt, duwt de manager van team ZWART, die in de eerste rij toeschouwers achter het doel zat en niet op het wedstrijdblad staat, de bal weg. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van de teammanager van ZWART met schriftelijk verslag (rode en blauwe kaart gegeven door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Schriftelijk verslag",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.7",
+      "Phrase": "Een stand van 25:25, met nog 2 seconden te spelen in de wedstrijd. Een official van team WIT (thuisploe",
+      "Answers": [
+        {
+          "AnswerNumber": "g",
+          "Phrase": "die niet op het wedstrijdformulier ingeschreven staat, onderschept de bal die hoog in de richting van het lege doel vliegt. Deze actie verhindert zo een doelpunt van team ZWART. Onmiddellijk na deze actie weerklinkt het eindsignaal. Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Eindstand 25:25",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Eindstand 25:26",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van de official met een schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Schriftelijk verslag",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.8",
+      "Phrase": "ZWART9 neemt een 7m-worp en scoort. Team WIT neemt een snelle beginworp na het fluitsignaal van de scheidsrechter. Na twee passen, scoort WIT4 een doelpunt. Op dit ogenblik fluit de tijdopnemer en deelt mee dat ZWART9, die intussen naar de wisselbank is teruggekeerd, nog 20 seconden van zijn tijdelijke uitsluiting had moeten uitzitten op het ogenblik van de 7m-worp. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De 7m-worp voor team ZWART moet herhaald worden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "ZWART9 krijgt een bijkomende uitsluiting.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Beide doelpunten zijn geldig",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Beide doelpunten zijn ongeldig",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.9",
+      "Phrase": "Net voor het einde van de wedstrijd bij een 22-21 stand in het voordeel van zijn team, heeft WIT5 op correcte wijze een correcte beginworp uitgevoerd. De bal gaat terug in de richting van het doel van team WIT. De doelverdediger WIT1 raakt de bal niet aan omdat hij nog in zijn doelgebied staat. De bal gaat in het doel. De medespelers van WIT5 hebben de middenlijn overschreden in de richting van het doel van team ZWART na het fluitsignaal van de scheidsrechter maar voor de bal gespeeld werd. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Herhaling van de beginworp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Persoonlijke bestraffing tegen WIT5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.10",
+      "Phrase": "WIT9 weert een lage worp af met zijn onderbeen door duidelijk zijn voet op te heffen. Op deze wijze schopt hij de bal die in zijn eigen doel gaat. Het is de tweede maal dat hij probeert om een worp met de voet af te weren. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting tegen WIT9",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

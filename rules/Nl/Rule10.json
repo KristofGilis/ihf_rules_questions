@@ -1,0 +1,460 @@
+{
+  "RuleNumber": "10",
+  "Name": "De Beginworp",
+  "Questions": [
+    {
+      "QuestionNumber": "10.1",
+      "Phrase": "Team WIT wint de toss en beslist met de bal te starten. Teamaanvoerder team ZWART wil van speelveldhelft wisselen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wisselen van speelveldhelft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wisselen van speelveldhelft indien team WIT akkoord gaat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Opnieuw tossen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Niet van speelveldhelft wisselen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.2",
+      "Phrase": "Team WIT wint de toss en wil van speelveldhelft te wisselen. Team ZWART wil dat team WIT de beginworp neemt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Beginworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wisselen van speelveldhelft, beginworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Opnieuw tossen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De teamverantwoordelijken moeten tot een overeenkomst komen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.3",
+      "Phrase": "(Zonder beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vanaf waar kan de beginworp uitgevoerd worden?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tot 3 meter achter de middellijn in zijn eigen speelveldhelft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tot 3 meter voorbij de middellijn in de speelveldhelft van de tegenstrever",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "In het midden van het terrein, met één voet op de middellijn, en de andere voet op of achter de middenlijn, met een zijwaartse tolerantie van ongeveer",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.5",
+      "Phrase": "meter",
+      "Answers": []
+    },
+    {
+      "QuestionNumber": "10.4",
+      "Phrase": "(Zonder beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Speelstand 15:15 net voor het einde van de wedstrijd. Team ZWART scoort 15:16. Team WIT wil een snelle beginworp uitvoeren. De speler met de bal staat in het midden van het speelveld met een voet vóór, met de andere voet achter de middenlijn. Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correctie opstelling, dan fluitsignaal voor de uitvoering van de beginworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De opstelling is correct, fluitsignaal voor de uitvoering van de beginworp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out, correctie, fluitsignaal voor de uitvoering van de beginworp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.5",
+      "Phrase": "Team WIT staat klaar om de beginworp uit te voeren. Doelverdediger ZWART1 bevindt zich nog niet in zijn doelgebied. Desondanks fluit de veldscheidsrechter om de wedstrijd te beginnen, en WIT9 werpt rechtstreeks in doel. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT aan de middellijn",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Herhaling van de beginworp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.6",
+      "Phrase": "(Zonder beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Welke beweringen omtrent de beginworp zijn correct?",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De beginworp moet binnen de 3 seconden na het fluitsignaal worden uitgevoerd vanuit het midden van het speelveld in de richting van de speelhelft van de tegenstander.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De beginworp kan onmiddellijk tot een doelpunt bij de tegenstander leiden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bij de uitvoering van een beginworp dient een verkeerde opstelling van de tegenstander verbeterd te worden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Indien de werper de bal dribbelt na het fluitsignaal voor de uitvoering van de beginworp, dan moet er een vrije worp worden toegekend aan de tegenpartij",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De medespelers van de werper mogen de middellijn overschrijden vooraleer de worp uitgevoerd is.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.7",
+      "Phrase": "(Zonder beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "ZWART6 staat in het midden van het speelveld voor de uitvoering van een beginworp met één voet op de middenlijn, en een andere voet in zijn eigen speelveldhelft. De scheidsrechter fluit. Voor de bal zijn hand heeft verlaten, loopt ZWART6 over de middenlijn. Op het moment van het fluitsignaal waren er nog enkele spelers van team WIT op de speelveldhelft van team ZWART. Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correctie van de posities van team WIT en herhaling van de beginworp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correctie van de positie van ZWART6 en herhaling van de beginworp na fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.8",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT scoort een doelpunt. Team ZWART wil een snelle beginworp uitvoeren. ZWART9 is in een correcte opstelling binnen de beginworpzone. Nadat de scheidsrechters fluiten voor de uitvoering, doet ZWART9 6 stappen met de bal binnen de beginworpzone. Binnen de 3 seconden na het fluitsignaal voor de uitvoering van de beginworp, werpt ZWART9 de bal in het lege doel van team WIT. Wat is de correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correctie en nieuwe beginworp na fluitsignaal van de scheidsrechters",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.9",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT scoort een doelpunt. Team ZWART wil een snelle beginworp uitvoeren. ZWART9 krijgt de bal. Hij heeft de bal en 1 voet volledig binnen de beginworpzone. De andere voet is buiten de beginworpzone. De scheidsrechters fluiten voor de uitvoering van de worp. Vooraleer ZWART9 de andere voet binnen de beginworpzone beweegt, werpt hij de bal in het lege doel van team WIT. Wat is de correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correctie, nieuwe beginworp voor team ZWART na fluitsignaal van de scheidsrechters",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De worp is correct uitgevoerd gezien de scheidsrechters de opstelling van de werper hebben goedgekeurd door het fluitsignaal te geven voor de uitvoering",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.10",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team ZWART wil een snelle beginworp uitvoeren van uit de beginworpzone. Op hetzelfde ogenblik als ZWART8 met 1 voet en de bal volledig binnen de beginworpzone loopt, is WIT 7 ook in de beginworpzone, lopend in de richting van zijn eigen doel. Zonder dat er zich medespelers in de richting van WIT7 bevinden, werpt ZWART8 de bal in de rug van WIT7. WIT7 is binnen de beginworpzone als de bal hem treft. Wat is de correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressieve bestraffing voor ZWART8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART8",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.11",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Welke van de volgende uitspraken met betrekking tot de beginworpzone zijn niet correct?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Het fluitsignaal voor de uitvoering van de beginworp kan gegeven worden als de werper een deel van zijn lichaam binnen de beginworpzone heeft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Er is geen beperking betreffende de positie van de medespelers van de werper gedurende de uitvoering van de beginworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Het is de werper toegestaan om buiten de beginworpzone te stappen gedurende de uitvoering van de beginworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Het is een speler van het verdedigende team toegestaan om de bal na uitvoering te onderscheppen, zelfs als de bal nog binnen de beginworpzone is",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Het is de werper niet toegestaan de bal te tippen na het fluitsignaal voor de uitvoering",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.12",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT speelt met 7 veldspelers en scoort een doelpunt. Team ZWART wil een snelle beginworp uitvoeren. ZWART6 heeft 1 voet binnen de beginworpzone. De scheidsrechters fluiten voor de uitvoering. WIT8 betreedt duidelijk de beginworpzone met actieve armen in een poging om de bal te blokken en interfereert met de uitvoering. Desondanks voert ZWART6, die zijn hele lichaam en de bal binnen de beginworpzone heeft, de beginworp uit als een worp naar het lege doel. De bal gaat over de buitendoellijn. Wat is de correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nieuwe beginworp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Progressieve bestraffing voor WIT8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Diskwalificatie voor WIT8 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.13",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Welke van de volgende uitspraken met betrekking tot de beginworpzone zijn correct?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De beginworp moet uitgevoerd worden binnen de 3 seconden na het fluitsignaal voor de uitvoering",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een beginworp kan leiden tot een doelpunt voor het uitvoerende team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "In verband met een beginworp, moet een foutieve opstelling van het verdedigende team worden gecorrigeerd",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Indien de werper na het fluitsignaal voor de uitvoering springt is de correcte beslissing een vrije worp voor de tegenpartij",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De medespelers van de werper mogen de middenlijn overschrijden op ieder ogenblik voor het fluitsignaal voor de uitvoering van de worp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.14",
+      "Phrase": "(Met beginworpzon",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wanneer kan een scheidsrechter fluiten voor de uitvoering van de beginworp?",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wanneer de werper tenminste een voet en de bal binnen de beginworpzone heeft, en de andere voet niet buiten de beginworpzone is in de speelhelft van de tegenstrever",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer de werper tenminste een voet binnen de beginworpzone heeft, en de andere voet niet buiten de beginworpzone is in de speelhelft van de tegenstrever, maar de bal nog buiten de beginworpzone is",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer de werper tenminste een voet en de bal binnen de beginworpzone heeft, en de andere voet is buiten de beginworpzone is op de speelhelft van de tegenstrever",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wanneer de werper tenminste een voet en de bal binnen de beginworpzone heeft, de andere voet is niet buiten de beginworpzone op de speelhelft van de tegenstrever, maar medespelers van de werper zich binnen de beginworpzone van de tegenstrever bevinden.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

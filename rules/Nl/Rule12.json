@@ -1,0 +1,302 @@
+{
+  "RuleNumber": "12",
+  "Name": "De uitworp",
+  "Questions": [
+    {
+      "QuestionNumber": "12.1",
+      "Phrase": "Tijdens het uitvoeren van een uitworp raakt doelman WIT1 zijn doelgebiedlijn met een voet. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De uitworp moet hernomen worden na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verder spelen zonder onderbreking",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.2",
+      "Phrase": "Na het fluitsignaal voor de uitvoering van een 7m-worp, stapt doelman WIT12 met 1 voet op de doelverdedigersgrenslijn. De 7m-worp gaat over de dwarslat. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Herhaling van de 7m-worp na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Gezien het geen doelpunt is, gaat het spel verder met een uitworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De opstelling van de doelverdediger is correct.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.3",
+      "Phrase": "Doelman WIT1 weert af en werpt zich naar de bal die richting speelveld rolt. ZWART7 staat ongedekt, klaar om de bal aan te nemen. Op het allerlaatste moment slaat doelverdediger WIT1 de bal met de hand over de eigen buitendoellijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Inworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.4",
+      "Phrase": "Wanneer doelman WIT12 een uitworp uitvoert, laat hij de bal vallen. De bal valt op zijn voet. Van hieruit overschrijdt de bal de doelgebiedlijn in het speelveld. Doelman WIT12 loopt de bal na, neemt hem op en keert in zijn doelgebied terug om de uitworp te hernemen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7m-worp tegen team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp tegen team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correctie, uitworp na fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.5",
+      "Phrase": "Wanneer wordt een uitworp als uitgevoerd beschouwd, zodat de bal door een veldspeler mag gespeeld worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wanneer de bal zich nog in de lucht boven het doelgebied bevindt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer de bal de hand van de doelverdediger heeft verlaten, de doelgebiedlijn in de richting van het speelveld heeft overschreden en in het speelveld is binnengegaan",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer de bal de hand van de doelverdediger heeft verlaten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wanneer een medespeler van de doelverdediger de bal aangeraakt heeft",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.6",
+      "Phrase": "Doelverdediger WIT12 voert een uitworp uit. Speler ZWART10, die buiten de doelgebiedlijn staat, probeert overeenkomstig de spelregels in balbezit te geraken. Dat lukt hem en hij scoort een doelpunt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing voor ZWART10",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.7",
+      "Phrase": "Doelverdediger WIT12 weert een worp af en devieert de bal over zijn buitendoellijn naast het doel. Welk(",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "handsignalen zou de doelscheidsrechter moeten tonen, indien nodig?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nummer 8 (uitwor p)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nummer 9 (richting vrije wor p)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Eerst nummer 9 (richting vrije wor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "p",
+          "Phrase": ", dan nummer 8: (uitwor p)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Eerst nummer 8 (uitwor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "p",
+          "Phrase": ", dan nummer 9 (richting vrije wor p)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.8",
+      "Phrase": "Doelverdediger WIT1 verliest de bal bij het uitvoeren van een uitworp. De bal botst in de richting van het speelveld, waar ZWART6 de bal opwacht. WIT2 duikt boven het doelgebied en duwt de bal, die in de lucht is, over de zijlijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Inworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-m-worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.9",
+      "Phrase": "Welke uitspraken betreffende de uitworp zijn correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De uitworp wordt als uitgevoerd beschouwd van zodra de bal de hand van de doelverdediger heeft verlaten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De tegenstanders moeten zich op minstens 3 meter afstand bevinden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De uitworp wordt als uitgevoerd beschouwd van zodra de bal de hand van de doelverdediger heeft verlaten en de doelgebiedlijn heeft overschreden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De tegenspelers mogen zich ophouden net buiten de doelgebiedlijn.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.10",
+      "Phrase": "Uitworp voor team ZWART. Doelverdediger ZWART1 is gehaast omdat zijn team achterstaat. Bij het uitvoeren van de uitworp glijdt de bal uit zijn hand en gaat naar ZWART6 die nog in het doelgebied staat. ZWART6 rolt de bal met de voet terug naar ZWART1. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team ZWART na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.11",
+      "Phrase": "Welke van de volgende beweringen betreffende de uitworp zijn juist?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De spelers van het andere team moeten zich buiten de vrijeworplijn bevinden tot de bal in het spel is.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De spelers van het andere team moeten zich buiten de doelgebiedlijn blijven op 3 meter van de plaats waar de doelverdediger de uitworp uitvoert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Het is de spelers van het andere team toegestaan de bal aan te raken voordat deze de doelgebiedlijn overschreden heeft.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De doelverdediger kan bij de uitvoering van een uitworp geen doelpunt in eigen doel scoren.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De doelverdediger kan bij een uitworp geen direct doelpunt in het doel van de tegenstrever scoren.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De doelverdediger mag bij de uitvoering van de uitworp de doelgebiedlijn niet raken.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

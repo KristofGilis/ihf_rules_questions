@@ -1,0 +1,630 @@
+﻿{
+  "RuleNumber": "6",
+  "Name": "The Goal Area",
+  "Questions": [
+    {
+      "QuestionNumber": "6.1",
+      "Phrase": "The ball lies on the goal-area line. Attacker WHITE 7 picks it up and tries to score. WHITE 7 has a clear chance of scoring, when he is illegally attacked. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.2",
+      "Phrase": "The ball is rolling in the goal area of WHITE team. BLACK 8 picks the ball up and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-off",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.3",
+      "Phrase": "WHITE 3 stands with both feet in the playing area and catches the ball rebounding from his goalkeeper. When WHITE 3 is correctly obstructed by BLACK 10, he bounces the ball several times in his own goal area. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.4",
+      "Phrase": "WHITE 7 stands outside the goal area of BLACK team, but grabs the ball that is clearly in the air above the goal area and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.5",
+      "Phrase": "WHITE 8, who is attacked correctly by several opponents, intentionally rolls the ball into his own goal area, where the ball comes to rest. Goalkeeper WHITE 1 does not pick up the ball. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for WHITE team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.6",
+      "Phrase": "WHITE 5 plays the ball into his own team’s goal area. The ball hits the goal post and rolls towards the playing area. Goalkeeper WHITE 12 picks up the ball and passes it to WHITE 7, who scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.7",
+      "Phrase": "BLACK team has scored a goal, and WHITE 10 executes the subsequent throw-off. He does not find any other teammate available, so he surprises his goalkeeper WHITE 12 by playing the ball back to him, even though the goalkeeper is standing in his goal area. WHITE 12 takes the ball and passes it to WHITE 9. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-off repeated after correction",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.8",
+      "Phrase": "Defender BLACK 7 sees that pivot WHITE 9 would be alone with the goalkeeper if he receives the ball. Having done the same thing earlier, he runs through the goal area to get around WHITE 9, so that he cannot receive a pass. BLACK 7 is already outside the goal-area line again, when WHITE 9 receives the ball. WHITE 9 turns around and runs straight into BLACK 7. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment against BLACK 7",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.9",
+      "Phrase": "The ball rebounds from goalkeeper BLACK 1 to the attacking player WHITE 4, who is waiting just outside the goal-area line. To prevent a clear chance of scoring, BLACK 2 enters the goal area and prevents WHITE 4 from receiving the ball. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment against BLACK 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of BLACK 2 (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.10",
+      "Phrase": "WHITE 10 passes the ball in the direction of his own goal area. Goalkeeper WHITE 1 jumps from the goal area and catches the ball in the air. WHITE 1 firmly holds on to the ball and lands outside the goal area. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.11",
+      "Phrase": "The ball is passed from WHITE 11 back into the goal area, where goalkeeper WHITE 1 jumps up and catches the ball in the air. WHITE 1 firmly holds on to the ball and lands with one foot inside the goal area and one foot outside. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.12",
+      "Phrase": "WHITE 7 from the attacking team is in possession of the ball and steps with the ball into the goal area of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for BLACK team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.13",
+      "Phrase": "The ball is lying on the floor in the goal area of WHITE team. At this moment, the timekeeper whistles and explains that WHITE 5 has made a faulty substitution. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team at the free-throw line of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team at the substitution area of WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.14",
+      "Phrase": "In which of the following cases should a goalkeeper throw be given?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When a player of the attacking team (with the ball) touches the goal area of the opponents",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When a player of the attacking team (without the ball) touches the goal area of the opponents and gains an advantage by doing so",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When a player of the attacking team deflects the ball out across the outer goal line of the opponents",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When a player with the ball touches the goal area of his own team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.15",
+      "Phrase": "WHITE team is attacking. BLACK 4 stands at the goal-area line. The ball is in the air, and BLACK 4 reaches it to direct it into the goal area. The ball is touched by goalkeeper BLACK 1 and then crosses the outer goal line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Throw-in for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive punishment for BLACK 4",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.16",
+      "Phrase": "Goalkeeper WHITE 12 has saved a shot and has the ball under control in his goal area. He still has the ball in his hands when the timekeeper whistles for a faulty substitution by WHITE 10. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team at the substitution area of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for BLACK team at the free-throw line of WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.17",
+      "Phrase": "Goalkeeper WHITE 12 jumps up in the playing area just outside his goal area, catches the ball – that has been thrown to him by WHITE 4 – in the air, and throws it over the outer goal line. He then lands inside the goal area. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for WHITE 12",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.18",
+      "Phrase": "WHITE 9 shoots at the goal of BLACK team. Goalkeeper BLACK 1 saves the shot, and the ball rolls towards the playing area, where a player from BLACK team is ready to pick it up. As BLACK 1 was injured when saving the shot, the referees interrupt the game, while the ball is still in the goal area. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.19",
+      "Phrase": "The ball is rolling on the floor in the goal area of WHITE team. At this moment, the timekeeper whistles and explains that WHITE 5 has made a faulty substitution. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team at the free-throw line of WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team at the substitution area of WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.20",
+      "Phrase": "WHITE 5 takes a shot on goal. The shot is blocked by goalkeeper BLACK 12 and goes in the air over the goal area in the direction of pivot WHITE 11, who is standing at the goal-area line alone and ready to catch the ball. Defender BLACK 2 jumps in the direction of the ball, and while in mid-air over the goal area, he plays the ball in the direction of the sideline. Because of glue on the ball, the ball comes to rest in the goal area without the goalkeeper touching it. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment for BLACK 2",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.21",
+      "Phrase": "Goalkeeper BLACK 1 has saved a shot and wants to pass the ball to BLACK 6, who is ready for a fast break. When BLACK 1 makes the pass, he touches the goal-area line. BLACK 6 gets the ball and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal is valid",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for team WHITE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction and repeated goalkeeper throw after whistle",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goal is not valid",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.22",
+      "Phrase": "WHITE 6 is counter-attacking. He jumps, takes a shot on goal, and lands in the goal area of BLACK team. Goalkeeper BLACK 12 blocks the shot, and the ball goes to WHITE 11, who scores a goal, while WHITE 6 is lying in the goal area between him and goalkeeper BLACK 12. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.23",
+      "Phrase": "WHITE team are in attack and play with an empty goal. WHITE 11 takes a shot on goal. Goalkeeper BLACK 1 saves the shot. He executes the goalkeeper throw as a shot on the empty goal. WHITE 10 tries to save the shot. He jumps from outside his own goal area and – while in the air over the goal area – touches the ball. The ball crosses the outer goal line. After touching the ball, WHITE 10 lands inside the goal area. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive punishment for WHITE 10",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.24",
+      "Phrase": "WHITE team are in attack and play with an empty goal. WHITE 11 takes a shot on goal. Goalkeeper BLACK 1 saves the shot. He executes the goalkeeper throw as a shot on the empty goal. WHITE 10 tries to save the shot. He jumps from outside his own goal area and – while in the air over the goal area – catches the ball and lands inside the goal area with the ball in his hands. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Direct 2-minute suspension for WHITE 10",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

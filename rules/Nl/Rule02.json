@@ -1,0 +1,1650 @@
+{
+  "RuleNumber": "2",
+  "Name": "Speeltijd, Eindsignaal en Time-Out",
+  "Questions": [
+    {
+      "QuestionNumber": "2.1",
+      "Phrase": "Doelman WIT1 weert een worp af, en de bal rolt over de buitendoellijn vlak voordat het automatisch eindsignaal weerklinkt van de elektronische muurtijdklok. De scheidsrechters stellen vast dat het spel 5 minuten te vroeg werd beëindigd. Gezien de spelers zich nog op het speeloppervlak bevinden, wordt het spel hernomen met:",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een uitworp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Zonder fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.2",
+      "Phrase": "Nadat het automatisch eindsignaal van de elektronische muurtijdklok weerklinkt voor halftimepauze, stelt de scheidrechter onmiddellijk vast, dat de 1e helft 1’ te vroeg werd beëindigd. Juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tweede helft met 1’ verlengen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die 1’ is verloren en wordt niet ingehaald",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Na de rustpauze eerst 1’ op dezelfde speelhelften spelen zoals in de eerste helft, dan wisselen van speelhelft en dan het normale begin van de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De spelers op het speelveld houden en hen de resterende 1’ laten spelen.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.3",
+      "Phrase": "WIT11 werpt naar doel. Doelman ZWART1 vangt de bal precies op het ogenblik dat het eindsignaal van de elektronische muurtijdklok weerklinkt. De scheidsrechters maken er de tijdwaarnemer opmerkzaam op dat nog 30 sec van de 2e helft te spelen zijn. Alle spelers zijn nog op het speelveld gebleven. Hoe wordt het spel hernomen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na een fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Zonder fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.4",
+      "Phrase": "Team WIT gaat een vrije worp uitvoeren na het eindsignaal. Eerst WIT3 en daarna WIT4 verlaten het speloppervlak om vervangen te worden door eerst WIT5 en daarna WIT6 die het speelveld betreden. Welke van de volgende uitspraken zijn juist?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tijdwaarnemer fluit en geeft een wisselfout aan van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT4 wegens wisselfout",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT6 wegens wisselfout",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Er is geen reden voor de tijdwaarnemer om te fluiten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.5",
+      "Phrase": "Een vrije worp voor team ZWART wordt als een directe worp naar doel uitgevoerd, vlak voor het wedstrijdeinde. Het automatisch eindsignaal van de elektronische muurtijdklok weerklinkt vlak voor de bal de doellijn overschrijdt. Juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einde van de wedstrijd",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De vrije worp voor team ZWART moet hernomen worden zonder fluitsignaal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De vrije worp voor team ZWART moet hernomen worden met fluitsignaal.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.6",
+      "Phrase": "Kort voor het einde van de wedstrijd wordt ZWART2 aan de cirkel van team WIT aangespeeld en heeft hij een open doelkans. Hij probeert te scoren maar wordt onreglementair gestopt. Vooraleer de bal de hand van ZWART2 verlaat, weerklinkt het automatisch eindsignaal van de elektronische muurtijdklok. Juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einde van de speeltijd",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einde van de speeltijd, vermelding op het wedstrijdblad",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.7",
+      "Phrase": "Kort voor het einde van de eerste speelhelft moet nog een 7m-worp door team WIT uitgevoerd worden. De 7m-worp van WIT9 knalt tegen de lat, van daaruit tegen de rug van de ca. 3m voor zijn doel staande doelman en dan gaat de bal in het doel van team ZWART. Het automatisch eindfluitsignaal van de elektronische muurtijdklok weerklinkt op het ogenblik, dat de bal van de dwarslat in de richting van de rug van de doelman vliegt. Juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp moet hernomen worden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Rustsignaal, geen verdere beslissing",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.8",
+      "Phrase": "Na het einde van de speeltijd moet nog een 7m-worp genomen worden. De scheidsrechters wachten het onmiddellijke resultaat van die worp af. Welke scheidsrechter moet de wedstrijd beëindigen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De eerstgenoemde scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een van beiden scheidsrechters",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De veldscheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De doelscheidsrechter",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.9",
+      "Phrase": "Wanneer begint de wedstrijd?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Met het fluitsignaal van de eerstgenoemde scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer de bal de hand van de werper verlaat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer de tijdwaarnemer de chrono of de muurchrono start.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na het fluitsignaal voor de beginworp door de veldscheidsrechter",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.10",
+      "Phrase": "Wie bepaalt bij het 7m-werpen, op welk doel er wordt geworpen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Het team dat de toss wint",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Het team dat de toss verliest",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De eerst aangeduide scheidsrechter",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.11",
+      "Phrase": "Na het eindsignaal moet team ZWART nog een vrije worp uitvoeren. Vóór de uitvoering van de vrije worp, verlaten WIT8 en WIT9 gelijktijdig het speelveld. Ze worden vervangen eerst door WIT10 en onmiddellijk daarna door WIT11 in. Welke van de volgende uitspraken is correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tijdwaarnemer fluit en geeft de scheidsrechters aan dat er een wisselfout van team WIT is begaan",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT10 wegens wisselfout",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT11 wegens wisselfout",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De tijdwaarnemer moet niet fluiten omdat er geen regelovertreding is begaan.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WIT11 moet terug naar de wisselzone; WIT8 of WIT9 mogen terugkeren op het speelveld",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.12",
+      "Phrase": "Vlak voor het einde van de eerste speelhelft begaat WIT7 een gewelddaad tegen ZWART5, en verstoort een duidelijke scorekans. Vooraleer de scheidsrechter kan fluiten, weerklinkt het automatisch eindsignaal. Juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De eerste helft is afgelopen, geen progressieve bestraffing voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De eerste helft is afgelopen, geen vrije worp of 7m-worp is mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van WIT7, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van WIT7 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.13",
+      "Phrase": "Tot wanneer kan de scheidsrechter een reeds toegekend doelpunt annuleren?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tot aan het fluitsignaal voor de beginworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tot aan het eindsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Het moet geannuleerd worden wanneer het doelpunt gescoord werd nadat de tijdwaarnemer het spel onderbroken heeft of indien de beginworp werd genomen vooraleer de onderbreking werd vastgesteld hij het annuleren, zelfs als de beginworp reeds genomen is",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Het kan nooit geannuleerd worden",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.14",
+      "Phrase": "De scheidsrechters hebben net een inworp aan team WIT toegekend. Op datzelfde ogenblik vraagt de teamverantwoordelijke van WIT een teamtime-out aan. Welke van de volgende uitspraken is correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO is niet mogelijk want de bal is uit het spel",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De tijdwaarnemer fluit, stopt de klok en toont het teken 15",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters bevestigen de TTO voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijdsecretaris vult de TTO in op het wedstrijdformulier",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.15",
+      "Phrase": "In welke van de volgende situaties is een time-out verplicht?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7m-worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bij externe invloed",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.16",
+      "Phrase": "WIT9 werpt op doel. Doelverdediger ZWART12 stopt de bal. Op datzelfde moment fluit de tijdwaarnemer voor het einde van de wedstrijd. De scheidsrechters geven aan de tijdwaarnemer aan dat er nog 30 seconden te spelen zijn van de tweede helft. Alle spelers zijn nog op het speeloppervlak. Hoe moet het spel hernomen worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na een fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.17",
+      "Phrase": "Na de normale speeltijd is de stand 20-20; het spel moet doorgaan tot er een winnaar is. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1 minuut pauze voor de verlengingen beginnen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "5 minuten pauze voor de verlengingen beginnen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "1 minuut pauze na het einde van de eerste helft van de verlengingen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "5 minuten pauze na het einde van de eerste helft van de verlengingen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.18",
+      "Phrase": "In welke van de volgende situaties is een time-out verplicht?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Passief spel",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wisselfout",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Waarschuwing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Inworp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.19",
+      "Phrase": "Wie is niet toegelaten tot het 7-m-werpen wanneer na de verlengingen een match nog steeds niet beslist is?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een speler die de scheidsrechters beledigd heeft na het einde van de verlengingen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De doelverdedigers",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een speler wiens 2-minutenuitsluiting nog niet voorbij was op het einde van de verlengingen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Een gediskwalificeerde speler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Een speler die medische verzorging ontvangen heeft op het speelveld en die nog geen 3 aanvallen van zijn team heeft uitgezeten.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.20",
+      "Phrase": "Een doelverdediger van WIT12 stopt een worp vijf seconden van het einde van de wedstrijd. De bal raakt aansluitend het plafond boven het doelgebied. Het automatisch eindsignaal weerklinkt onmiddellijk voor de inworp is uitgevoerd door team ZWART. Juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Inworp voor team ZWART na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Einde wedstrijd",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Het resultaat van de inworp moet afgewacht worden; daarna is de wedstrijd gedaan.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.21",
+      "Phrase": "ZWART8 heeft reeds een waarschuwing gekregen. Tijdens een teamtime-out zit hij op de bank en geeft op een onsportieve manier commentaar op de scheidsrechters. Beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor ZWART8 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Waarschuwing voor ZWART8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Geen sanctie mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team ZWART wordt op het speelveld met 1 speler gereduceerd gedurende 2 minuten bij de herstart van de wedstrijd na de TTO",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.22",
+      "Phrase": "Wie is gerechtigd om deel te nemen aan een beslissing ronde door 7m-werpen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle spelers die op het wedstrijdformulier vermeld zijn",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Spelers, die niet gediskwalificeerd zijn.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spelers, die op het einde van de verlengingenspeeltijd geen 2-minutenstraf uitzitten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spelers, die de toelating van de scheidsrechters gekregen hebben .",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.23",
+      "Phrase": "Na het automatisch eindsignaal van de elektronische muurtijdklok, moet er nog een vrije worp uitgevoerd worden. ZWART9 staat correct opgesteld en werpt naar het doel van team WIT. Wanneer de bal de hand van ZWART9 verlaat, fluit de tijdwaarnemer. De bal gaat in het doel, omdat de doelverdediger WIT1 geen verhaal heeft. De tijdwaarnemer deelt de scheidsrechters mee dat WIT7, die in verdediging op het veld staat tijdens de vrije worp, het speelveld betrad om WIT6 te vervangen net voor de worpuitvoering. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT7 (rode kaart getoond door de scheidsrechte r)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Herneming van de vrije worp voor team ZWART na fluitsignaal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.24",
+      "Phrase": "Na de beide verlengingen is het resultaat van de wedstrijd nog steeds gelijk en de reglementering vereist een beslissing via 7-meterwerpen. WIT7 kreeg een 2-minutenuitsluiting na 9 minuten in de laatste verlenging. Voor het nemen van de 7-meterworpen wordt hij door de ploegverantwoordelijke A als vijfde werper opgegeven. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Speler WIT7 mag deelnemen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Speler WIT7 mag niet deelnemen",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.25",
+      "Phrase": "Wanneer is een time-out verplicht?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wanneer een teamofficial een 2-minutenuitsluiting krijgt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer een speler een derde 2-minutenuitsluiting krijgt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Na herhaald onsportief gedrag",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wanneer de scheidsrechters verplicht zijn om elkaar te raadplegen om een gezamenlijke beslissing te nemen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Na grof onsportief gedrag",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Na een gele kaart getoond aan een teamofficial",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.26",
+      "Phrase": "Vlak voor het einde van de eerste speelhelft begaat WIT7 een gewelddaad tegen ZWART5 die hierdoor een open doelkans mist. Voordat de scheidsrechters kunnen fluiten weerklinkt het automatisch signaal van de elektronische muurtijdklok. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De eerste speelhelft is voorbij; geen verdere actie meer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT7 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-meterworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van WIT7, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team WIT wordt met 1 speler op het veld gereduceerd gedurende 2’ bij het begin van de 2e helft",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.27",
+      "Phrase": "Na het fluitsignaal voor de rustpauze moet nog een vrije worp uitgevoerd worden. Welke spelers mogen nog gewisseld worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle spelers van beide teams",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alleen spelers van het verdedigende team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Alleen spelers van het aanvallende team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Enkel één speler van het werpende team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Een veldspeler van het verdedigende team met een doelman, als het team op het ogenblik van het eindsignaal speelde zonder doelman",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.28",
+      "Phrase": "Welke posities moeten de spelers innemen tijdens de uitvoering van een vrije worp na het eindsignaal?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle medespelers van de werper moeten zich buiten de vrijeworplijn van de tegenstrevers bevinden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle medespelers van de werper moeten zich op de eigen speelhelft ophouden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De tegenstanders moeten minstens 3 meter van de werper verwijderd zijn, of aan hun doelgebiedlijn staan.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Alle medespelers van de werper moeten minstens 3 meter van de werper staan",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Alle medespelers van de werper mogen samen bij de werper aan de vrijeworplijn van de tegenstanders staan",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.29",
+      "Phrase": "WIT7 passt de bal naar WIT8. Op dat ogenblik geeft de tijdwaarnemer het fluitsignaal voor een TTO voor team WIT. De scheidsrechters en de spelers horen dit signaal niet en WIT8 speelt de bal naar WIT10, die een vrije doelkans heeft. WIT10 wordt door ZWART5 tegen de spelregels in gestopt. De scheidsrechters beslissen op 7m-worp voor team WIT en een 2-minutenuitsluiting voor ZWART5. Nu pas merken de scheidsrechters op, dat de tijdwaarnemer het signaal voor de TTO gegeven had. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "TTO voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Fluitsignaal om terug te starten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Spelhervatting met vrije worp voor team WIT op de plaats waarop zich WIT7 bevond op het ogenblik van de onderbreking (door de tijdwaarneme r)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.30",
+      "Phrase": "Het fluitsignaal om de eerste helft te beëindigen, komt 1 minuut te vroeg. Op het moment van het fluitsignaal had geen enkel team balbezit en er was ook geen spelregelovertreding. De bal lag op de grond op het speelveld. Beide teams zijn nog op het speelveld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De 1 minuut wordt niet gespeeld",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De 1 minuut wordt gespeeld voor de pauze",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De minuut wordt gespeeld na de pauze, voor het begin van de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De minuut wordt toegevoegd aan de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De toss beslist welk team de bal krijgt wanneer de minuut wordt gespeeld",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Het team dat het laatst in balbezit was, krijgt balbezit bij het hernemen van het spel.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.31",
+      "Phrase": "De eerste helft van de wedstrijd werd 1 minuut te vroeg gestopt. Er was geen spelregelovertreding en de bal was in de lucht, boven het doelgebied. De doelverdediger vangt de bal na het fluitsignaal. Beide teams bevinden zich nog op het veld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De resterende minuut wordt niet gespeeld",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De resterende minuut wordt gespeeld voor de pauze.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De resterende minuut wordt gespeeld na de pauze voor de start van de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De resterende minuut wordt toegevoegd aan de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Het team dat als laatste in balbezit was, krijgt de bal opnieuw bij het hernemen van het spel",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Het spel wordt hernomen met een uitworp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.32",
+      "Phrase": "De eerste helft van de wedstrijd werd 1 minuut te vroeg gestopt. Er was geen spelregelovertreding en de bal was in de lucht, boven het doelgebied. Na het fluitsignaal ging de bal over de buitendoellijn. Beide teams bevinden zich nog op het veld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De resterende minuut wordt niet gespeeld",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De resterende minuut wordt gespeeld voor de pauze.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De resterende minuut wordt gespeeld na de pauze voor de start van de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De resterende minuut wordt toegevoegd aan de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Het team dat als laatste in balbezit was, krijgt de bal opnieuw bij het hernemen van het spel",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Het spel wordt hernomen met een uitworp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.33",
+      "Phrase": "Team WIT heeft gescoord. Team ZWART wil een snelle beginworp nemen. Daarom dribbelt ZWART5 de bal snel in de richting van de middenlijn. Wanneer hij zo voorbij WIT3 komt, gebruikt deze een open hand om de bal weg te spelen van ZWART5, zodat de bal de voet van ZWART5 raakt en ver weg over de middenlijn in de speelveldhelft van team WIT terechtkomt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Beginworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressieve bestraffing voor WIT3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT3",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.34",
+      "Phrase": "In welke situaties is een time-out niet verplicht?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De bal vliegt ver buiten het speelveld",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer de tijdwaarnemer fluit",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een speler lijkt gekwetst te zijn",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wanneer de scheidsrechters bij een beslissing elk een andere richting aangeven",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De vervanging van een veldspeler door een doelman om de uitworp uit te voeren",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.35",
+      "Phrase": "Wie mag een teamtime-out aanvragen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een van de teamofficials",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een speler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Alleen de teamverantwoordelijke",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De teamkapitein",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.36",
+      "Phrase": "Welke van de volgende uitspraken betreffende teamtime-outs zijn juist?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De teamtime-out kan enkel aangevraagd worden door de teamverantwoordelijke",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Als een teamtime-out is aangevraagd wanneer de tegenstander in balbezit is, moet de tijdwaarnemer de “groene kaart” teruggeven aan de teamofficial.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De 1-minuut periode voor de teamtime-out begint wanneer de tijdwaarnemer fluit",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spelregelovertredingen gedurende een teamtime-out hebben dezelfde gevolgen als tijdens de speeltijd",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Na een teamtime-out, wordt het spel steeds hernomen met een “worp” voor het team dat de teamtime-out aanvroeg",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.37",
+      "Phrase": "Ploeg WIT is in balbezit. Een teamofficial C van team ZWART vraagt een teamtime-out aan door de groene kaart te plaatsen op de tafel voor de tijdwaarnemer. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De groene kaart wordt op de wedstrijdtafel geplaatst",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De tijdwaarnemer fluit zodra team ZWART in balbezit komt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De tijdwaarnemer geeft de groene kaart terug aan de official",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Enkel de teamverantwoordelijke kan een teamtime-out aanvragen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.38",
+      "Phrase": "ZWART3 tracht naar doel te werpen. Helaas komt de bal tot stilstand in het doelgebied zonder aangeraakt te zijn door een andere speler. Op dat ogenblik vraagt de teamverantwoordelijke van team ZWART een TTO. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tijdwaarnemer fluit, stopt gelijktijdig de chrono en wijst de scheidsrechters het TTO voor team ZWART aan",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De tijdwaarnemer geeft de groene kaart terug aan de teamverantwoordelijke van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.39",
+      "Phrase": "Doelverdediger WIT1 werpt de bal naar WIT8 dewelke zich alleen met doelverdediger ZWART12 aan het doelgebied van team ZWART bevindt. Net voordat de bal WIT8 bereikt fluit de tijdwaarnemer: de trainer van team WIT heeft een teamtime-out aangevraagd. Hoe moet het spel verdergezet worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT buiten het doelgebied van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT aan de wisselzone van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-meterworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.40",
+      "Phrase": "WIT4 blokt een worp van ZWART11 af. De bal raakt de zoldering boven het doelgebied. Onmiddellijk daarna legt de trainer van team ZWART de groene kaart op de wedstrijdtafel voor de tijdwaarnemer. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team ZWART krijgt onmiddellijk een teamtime-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team ZWART krijgt geen teamtime-out omdat de bal de zoldering boven het doelgebied geraakt heeft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team ZWART krijgt geen teamtime-out omdat team WIT de bal weer in het spel brengt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team ZWART bekomt een teamtime-out, maar enkel nadat het spel hernomen is",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.41",
+      "Phrase": "Team WIT is in balbezit en vraagt een teamtime-out aan. Door het lawaai horen de scheidsrechters het fluitsignaal van de tijdwaarnemer niet. Pas na 10 seconden, wanneer team ZWART in balbezit is, horen de scheidsrechters het fluitsignaal. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Teamtime-out wordt toegekend",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Teamtime-out wordt niet toegekend",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.42",
+      "Phrase": "Op 78:00 krijgt speler WIT7 een 2-minutenuitsluiting. De wedstrijd eindigt in een gelijk spel en de reglementering vereist een beslissing via 7m-werpen. WIT7 is door zijn verantwoordelijke teamofficial aangeduid om deel te nemen aan dit 7m-werpen. WIT7 voert een 7m-worp uit en scoort een doelpunt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt is geldig WIT7 is toegelaten om deel te nemen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Doelpunt is niet geldig, WIT7 is niet toegelaten om deel te nemen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De worp wordt beschouwd als gemist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van WIT7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.43",
+      "Phrase": "Op 55:00 vraagt de verantwoordelijke teamofficial van team WIT een teamtime-out, welke de tweede is in deze wedstrijd. Op 59:00 vraagt dezelfde teamverantwoordelijke zijn 3e teamtime-out. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Teamtime-out is mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Teamtime-out is niet mogelijk",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.44",
+      "Phrase": "Team WIT is in aanval. Official A van team WIT wil een teamtime-out aanvragen en gaat naar de wedstrijdtafel om de groene kaart voor de tijdwaarnemer te plaatsen. De groene kaart is op de tafel geplaatst voor de tijdwaarnemer. Op hetzelfde ogenblik werpt WIT4 naar doel en kan scoren. De tijdwaarnemer fluit voor de teamtime-out net nadat de bal de doellijn van team ZWART heeft overschreden. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Het doelpunt is niet geldig, omdat team WIT een teamtime-out heeft aangevraagd",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Teamtime-out voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Geen teamtime-out voor team WIT omdat ze niet meer in balbezit zijn",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De groene kaart moet teruggegeven worden aan het team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Beginworp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.45",
+      "Phrase": "Team WIT had haar tweede teamtime-out op 55:10. Op 59:25 wil official A van team WIT een derde teamtime-out aanvragen voor zijn team en plaatst hij de groene kaart op de wedstrijdtafel voor de tijdwaarnemer. Team WIT is in balbezit. De tijdwaarnemer fluit en stopt de klok. Hij geeft een teamtime-out voor team WIT aan. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Geen TTO toegestaan",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressieve bestraffing voor official A van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.46",
+      "Phrase": "Team WIT wil een TTO aanvragen. Official A van team WIT plaatst de groene kaart op de wedstrijdtafel voor de tijdwaarnemer. Op hetzelfde ogenblik, werpt WIT9 naar het doel van team ZWART. De tijdwaarnemer fluit terwijl de bal in de lucht is. Kort na het fluitsignaal vangt de doelman van team ZWART de bal. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen TTO mogelijk, omdat team WIT niet in balbezit is.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De groene kaart wordt teruggegeven aan team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.47",
+      "Phrase": "Team WIT wil een TTO aanvragen. Official A van team WIT plaatst de groene kaart op de wedstrijdtafel voor de tijdwaarnemer. Vooraleer de tijdwaarnemer kan fluiten voor de TTO, werpt WIT9 naar doel. De worp wordt geblokt door doelman ZWART12 en de tijdwaarnemer fluit, op het ogenblik dat de bal rolt in het doelgebied. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen TTO mogelijk, omdat team WIT niet in balbezit is",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De groene kaart wordt teruggegeven aan team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.48",
+      "Phrase": "Team WIT wil een TTO aanvragen. Official A van team WIT plaatst de groene kaart op de wedstrijdtafel voor de tijdwaarnemer. Vooraleer de tijdwaarnemer kan fluiten voor de TTO, werpt WIT9 naar doel. De worp wordt gekeerd door doelman ZWART12 en de tijdwaarnemer fluit op het ogenblik dat de bal, na de save, in de lucht is boven het doelgebied. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen TTO mogelijk, omdat team WIT niet in balbezit is",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De groene kaart wordt teruggegeven aan team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.49",
+      "Phrase": "Team WIT wil een TTO aanvragen. Official A van team WIT plaatst de groene kaart op de wedstrijdtafel voor de tijdwaarnemer. Vooraleer de tijdwaarnemer kan fluiten voor de TTO, begaat WIT11 een aanvallende fout. De tijdwaarnemer fluit voor de TTO, net voordat de scheidsrechters fluiten voor de aanvallende fout. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De scheidsrechters beslissen dat er geen TTO is, omdat de aanvallende fout begaan werd vooraleer de tijdwaarnemer floot voor de TTO",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De groene kaart wordt teruggegeven aan team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.50",
+      "Phrase": "Elektronische teamtime-out wordt gebruikt in de wedstrijd. Team WIT heeft hun tweede TTO op 55:10. Op 59:35, wil official A van team WIT een derde TTO aanvragen voor zijn team en activeert de TTO-buzzer. De bal is in het spel en team WIT is in balbezit. Het signaal van de muurklok weerklinkt en de tijd is gestopt. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO wordt niet toegekend",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressieve bestraffing voor official A van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team ZWART kan kiezen tussen een vrije worp en een 7m-worp",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.51",
+      "Phrase": "Elektronische teamtime-out wordt gebruikt in de wedstrijd. Team WIT is in balbezit. Op 58:40, begaat WIT7 een aanvallende fout. Vooraleer de scheidsrechters kunnen fluiten voor de aanvallende fout, weerklinkt het signaal van de officiële klok omdat official A van team WIT de TTO-buzzer heeft geactiveerd om een TTO aan te vragen. Onmiddellijk daarna fluiten de scheidsrechters aanvallende fout tegen WIT7. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO is niet mogelijk omdat team WIT niet langer in balbezit is",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT verliest één TTO",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De wedstrijd wordt hernomen met een 7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Team ZWART kan kiezen tussen een vrije worp en een 7m-worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Progressieve bestraffing voor official A van team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.52",
+      "Phrase": "Elektronische teamtime-out wordt gebruikt in de wedstrijd. Op 29:50 in de eerste helft, werpt WIT9 naar doel. De worp wordt door doelman ZWART12 afgeweerd, en na de save, is de bal in de lucht boven het doelgebied. Op dat ogenblik weerklinkt het signaal van de officiële klok omdat official A van team ZWART de TTO-buzzer heeft geactiveerd om een TTO aan te vragen. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO is niet mogelijk omdat team ZWART niet langer in balbezit is",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "TTO voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team ZWART verliest één TTO",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hernomen met een uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Team WIT kan kiezen tussen een vrije worp en een 7m-worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "De wedstrijd wordt hernomen met een 7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Progressieve bestraffing voor official A van team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.53",
+      "Phrase": "Team ZWART is in aanval. De scheidsrechters tonen het waarschuwingsteken voor passief spel. Na twee passes weerklinkt een fluitsignaal van de waarnemer omdat official A van team ZWART een TTO heeft aangevraagd. Noch de scheidsrechters, noch de spelers horen het fluitsignaal en het spel gaat gewoon door. De vierde pass van team ZWART gaat naar de hoekspeler die een open doelkans heeft. De hoekspeler springt om een worp op doel te nemen. Terwijl hij dit doet wordt hij geduwd door WIT4 en hij verliest gedeeltelijk zijn lichaamscontrole. De doelman vangt de bal. Pas op dat punt beseffen de scheidsrechters en de spelers dat de waarnemer de wedstrijd heeft onderbroken omwille van de TTO -aanvraag. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De wedstrijd wordt hernomen met een vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De wedstrijd wordt hernomen met een 7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Geen bestraffing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Het waarschuwingsteken passief is nog steeds geldig – team ZWART heeft 2 passes voltooid",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Het waarschuwingsteken passief is nog steeds geldig – team ZWART heeft 4 passes voltooid",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Het waarschuwingsteken passief is niet langer geldig omdat WIT4 bestraft is met een 2-minutenuitsluiting",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.54",
+      "Phrase": "Team WIT werpt naar doel. Doelman ZWART1 weert de bal af. De bal botst binnen het doelgebied wanneer teamofficial A van team WIT een TTO aanvraagt door de groene kaart op tafel te leggen voor de tijdwaarnemer. De tijdwaarnemer fluit op het ogenblik dat de bal nog aan het botsen is binnen het doelgebied, maar de bal is zeer kort bij WIT13 die volledig alleen staat net buiten het doelgebied. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "TTO voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Geen TTO mogelijk en de groene kaart wordt teruggegeven aan teamofficial A van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

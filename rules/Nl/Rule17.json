@@ -1,0 +1,285 @@
+{
+  "RuleNumber": "17",
+  "Name": "De Scheidsrechters",
+  "Questions": [
+    {
+      "QuestionNumber": "17.1",
+      "Phrase": "De scheidsrechters verschillen van mening over welk team een inworp moet krijgen. Hoe zou dit afgehandeld moeten worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De veldscheidsrechter beslist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De doelscheidsrechter beslist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De twee scheidsrechters nemen een gemeenschappelijke beslissing na overleg",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Geen time-out, de inworp wordt uitgevoerd na fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.2",
+      "Phrase": "Het automatisch eindsignaal van het elektronische scorebord werkt niet. De tijdwaarnemer heeft het probleem niet opgemerkt en reageert niet, ook al is de speeltijd reeds verlopen. Wie moet in dit geval het eindsignaal geven?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alleen de wedstrijdsecretaris",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alleen de veldscheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Alleen de waarnemer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Alleen een van de scheidsrechters",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Alleen de tijdwaarnemer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Ofwel de tijdwaarnemer, de waarnemer of een van de scheidsrechters",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.3",
+      "Phrase": "ZWART2 heeft een overtreding begaan. De veldscheidsrechter beslist tot een diskwalificatie van ZWART2 (rode kaart getoond door de scheidsrechte",
+      "Answers": [
+        {
+          "AnswerNumber": "r",
+          "Phrase": "en vrije worp. De doelscheidsrechter beslist op een 2-minuten bestraffing voor ZWART2 en een 7m-worp. Hoe moet ZWART2 bestraft worden en hoe moet het spel hernomen worden?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART2 (rode kaart getoond door de scheidsrechte r)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.4",
+      "Phrase": "Wie beslist in geval van twijfel over de juistheid van de tijd?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De tijdwaarnemer en de wedstrijdsecretaris",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De twee scheidsrechters in overleg",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De tijdwaarnemer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De twee scheidsrechters en de tijdwaarnemer in gezamenlijk overleg",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.5",
+      "Phrase": "Welke bestraffingen moeten verklaard worden op het wedstrijdblad?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle diskwalificaties, behalve deze ten gevolge van 3 x 2-minutenuitsluiting.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle bestraffingen, behalve de waarschuwingen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Alle uitsluitingen en alle diskwalificaties",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificaties wegens gevaarlijke overtredingen en grof onsportief gedrag in de laatste 30 seconden van de wedstrijd, indien de actie bedoeld is om de tegenstrever te verhinderen om een scorekans te creëren",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie wegens extreem onsportief gedrag",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Elke progressieve bestraffing in de laatste 30 seconden van de wedstrijd, indien de actie bedoeld is om de tegenstrever te verhinderen om een scorekans te creëren",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.6",
+      "Phrase": "Wie mag zich tijdens de wedstrijd tot de scheidsrechters wenden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Iedere speler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Iedere official",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De verantwoordelijke teamofficial",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De teamaanvoerder",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.7",
+      "Phrase": "De scheidsrechters hebben een verschillende mening over de resterende speeltijd. De doelscheidsrechter (“eerstgenoemde” scheidsrechte",
+      "Answers": [
+        {
+          "AnswerNumber": "r",
+          "Phrase": "denkt dat er nog 50 seconden te spelen zijn, terwijl de veldscheidsrechter gelooft dat er 42 seconden overblijven. Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De langste tijd is van toepassing (50 seconde n)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De eerstgenoemde scheidsrechter beslist (50 seconde n)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De veldscheidsrechter beslist (42 seconde n)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De twee scheidsrechters moeten tot een gezamenlijke beslissing komen",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.8",
+      "Phrase": "Welke scheidsrechter wordt veldscheidsrechter en welke doelscheidsrechter bij het begin van de wedstrijd.?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De eerstgenoemde scheidsrechter wordt veldscheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De eerstgenoemde scheidsrechter wordt doelscheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters gebruiken een toss om te beslissen wie in welke positie begint",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De scheidsrechters mogen dit zelf vrij bepalen",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.9",
+      "Phrase": "Bij een botsing tussen twee spelers fluiten beide scheidsrechters. De veldscheidsrechter geeft een aanvallende fout aan doch de doelscheidsrechter geeft een fout van de verdediger aan. Wat moet dit beslist worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De beslissing van de doelscheidsrechter is geldig",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De beslissing van de veldscheidsrechter is geldig",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters contacteren elkaar om een gezamenlijke beslissing te bereiken",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out is verplicht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out is enkel noodzakelijk, wanneer de gezamenlijke beslissing tegen het aanvallende team is",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out is niet verplicht, wanneer de scheidsrechters elektronische apparaten voor interne communicatie gebruiken",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

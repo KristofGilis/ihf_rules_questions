@@ -1,0 +1,115 @@
+﻿{
+  "RuleNumber": "1",
+  "Name": "Playing Court",
+  "Questions": [
+    {
+      "QuestionNumber": "1.1",
+      "Phrase": "What are the measurements of the playing court according to the rules?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "40 x 20 metres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "42 x 20 metres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "38 x 18 metres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Length between 38 and 42, width between 18 and 22 metres",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.2",
+      "Phrase": "What are the required interior measurements of the goal?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1.92 x 2.92 metres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2.00 x 3.00 metres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2.05 x 3.05 metres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2.08 x 3.08 metres",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.3",
+      "Phrase": "How wide is the goal line between the posts?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "5cm",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "6cm",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "8cm",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "10cm",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.4",
+      "Phrase": "Which statements are correct about the throw-off area?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "It consists of a circle with a diameter of 3 metres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "It consists of a circle with a diameter of 4 metres.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The throw-off area can be an area with a different colour than the playing court.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The throw-off area can be a circle line.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The throw-off area is mandatory for all events in handball.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

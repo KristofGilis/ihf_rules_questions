@@ -1,0 +1,2570 @@
+{
+  "RuleNumber": "8",
+  "Name": "Overtredingen en Onsportief Gedrag",
+  "Questions": [
+    {
+      "QuestionNumber": "8.1",
+      "Phrase": "Tijdens een tegenaanval van team WIT loopt ZWART7 als bijkomende speler het veld op en klemt WIT5 zodanig dat de duidelijke doelkans verdwijnt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor ZWART7 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor ZWART7 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ".",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-meterworp",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.2",
+      "Phrase": "ZWART8 die niet op het wedstrijdformulier staat, komt te laat en loopt uit de kleedkamer meteen het speelveld op. Hij verhindert een duidelijke doelkans, doordat hij de in sprong zijnde speler WIT6 zo duwt, dat deze de controle over zijn lichaam verliest. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van ZWART8 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "d. Diskwalificatie van ZWART8 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ".",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.3",
+      "Phrase": "Op weg naar de kleedkamers (tijdens de pauz",
+      "Answers": [
+        {
+          "AnswerNumber": "e",
+          "Phrase": "protesteert teamofficial B van team WIT bij de scheidsrechters op een onsportieve wijze. Tijdens de eerste helft van de wedstrijd kreeg teamofficial A van team WIT reeds een waarschuwing. Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor teamofficial B van team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van teamofficial B van team WIT (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT begint de 2e speelhelft met een speler minder gedurende 2 minuten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Geen bestraffing mogelijk, maar een schriftelijk verslag",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.4",
+      "Phrase": "WIT6 werd reeds tweemaal voor 2 minuten uitgesloten. Nu begaat WIT6 een wisselfout. Hoe moet beslist worden, wanneer hij zich daarbij nog schuldig maakt aan extreem grof onsportief gedrag nadat de scheidsrechters hem geïnformeerd hebben over zijn wisselfout?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT6 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van WIT6 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT speelt gedurende 2 minuten met één speler minder",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT speelt gedurende 2 minuten met twee spelers minder",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team WIT speelt gedurende 4 minuten met één speler minder",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.5",
+      "Phrase": "WIT2 is uitgesloten voor 2 minuten, maar wordt al na 1 minuut door official A van team WIT terug het veld opgestuurd. Vooraleer de tijdwaarnemer fluit, heeft WIT2 een duidelijke doelkans voor team ZWART verhinderd. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART en bijkomende uitsluiting voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team ZWART, bijkomende uitsluiting voor WIT2 en verder reduceren van team WIT voor de resterende uitsluitingstijd van WIT2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp, diskwalificatie van WIT2 zonder schriftelijk verslag en verder reduceren van team WIT voor de resterende uitsluitingstijd van WIT2 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ".",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp, diskwalificatie van WIT2 en verder reduceren van team WIT voor de resterende uitsluitingstijd van WIT2; schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.6",
+      "Phrase": "Tijdens een aanval van team WIT blokt WIT7, die niet in balbezit is, ZWART4 met de romp. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressieve bestraffing tegen WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Het spel gaat verder zonder onderbreking",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.7",
+      "Phrase": "Hoekspeler WIT4 komt tot een duidelijke scorekans. ZWART7 probeert de bal uit zijn hand te spelen, maar raakt alleen zijn onderarm. De bal gaat aan het doel voorbij. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Waarschuwing voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Geen progressieve bestraffing voor ZWART7",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.8",
+      "Phrase": "WIT6 loopt in tegenaanval. Doelman ZWART12 verlaat zijn doelgebied om in balbezit te komen, maar komt in botsing met WIT6. Mogelijk had een verdedigende speler WIT6 nog op correcte wijze kunnen afstoppen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie ZWART12 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor ZWART12, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.9",
+      "Phrase": "WIT2 wil een medespeler op de andere speelhelft aanspelen, maar deze wordt door ZWART5 vastgehouden. ZWART5 had voordien reeds een waarschuwing gekregen voor het aanlopen van een tegenspeler die niet in balbezit was. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van ZWART5 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Schriftelijk verslag (blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.10",
+      "Phrase": "De bal wordt naar de cirkelspeler WIT9 gespeeld, die alleen staat aan de doelgebiedlijn van team ZWART. Zijn werparm wordt dan naar achter getrokken door ZWART2. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor ZWART2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor ZWART2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Schriftelijk rapport voor ZWART2 (blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.11",
+      "Phrase": "Kort nadat ZWART7 wegens duwen mondeling vermaand werd in de eerste minuut van de wedstrijd, omklemt ZWART7 de cirkelspeler van team WIT (er is geen duidelijke scorekan",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Correcte beslissing?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Waarschuwing voor ZWART7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.12",
+      "Phrase": "WIT4, krijgt de bal aan het doelgebied van de tegenstrever met enkel de doelman nog voor zich. Vooraleer WIT4 probeert te scoren, trekt ZWART3 hem neer zodat WIT4 de bal verliest. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor ZWART3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor ZWART3 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7m-worp voor team WITA",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.13",
+      "Phrase": "Wanneer moet een speler gediskwalificeerd worden (rode of rode en blauwe kaart getoond door de scheidsrechter",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bij een fout die de gezondheid van de tegenstrever in gevaar brengt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bij uitzonderlijk onsportief gedrag op of buiten het speeloppervlak",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bij herhaald onsportief gedrag op het speeloppervlak",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Bij foutief wisselen tijdens een uitsluitingstijd (geen duidelijke doelkan s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.14",
+      "Phrase": "Bij een tegenaanval van WIT5 loopt official C van team ZWART, van de bank uit, in de richting van het eigen doelgebied. WIT5 is zo verrast, dat hij stopt met lopen. Volgens de scheidsrechters had WIT5 een duidelijke scorekans. De schuldige official heeft noch bal, noch tegenstander aangeraakt, de kortste afstand tot WIT5 bedroeg ca. 10 meter. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van teamofficial C van team ZWART zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van teamofficial C van team ZWART met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team ZWART wordt op het speelveld met 1 speler gereduceerd gedurende 2 minuten",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.15",
+      "Phrase": "Team WIT is in tegenaanval. WIT5 wil WIT7 aanspelen, die zich helemaal alleen aan de doelgebiedlijn van team ZWART bevindt. Wanneer WIT5 de bal werpt, loopt teamofficial D van team ZWART het speelveld op en vangt de bal. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor teamofficial D van team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor teamofficial D van team ZWART zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor teamofficial D van team ZWART, met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team ZWART wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.16",
+      "Phrase": "Welke van de volgende acties zou als extreem grof onsportief gedrag gedefinieerd moeten worden, en daarom met een diskwalificatie en schriftelijk verslag bestraft moeten worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Herhaald verdedigen met de voet of onderbeen door een veldspeler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verhinderen van een open doelkans door een teamofficial",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bespuwen van een ander persoon",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Herhaalde spelvertragingen om tijd te winnen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.17",
+      "Phrase": "Bij het betreden van de sporthal, komen de scheidsrechters de reeds omgeklede, maar nog niet op het wedstrijdformulier ingeschreven ZWART4 tegen. ZWART4 roep: “Toch niet weer deze idioten”. Nadat er 12 minuten gespeeld zijn in de wedstrijd, wordt ZWART4 als 14e speler van zijn team inschrijven op het wedstrijdformulier. Dit wordt vastgesteld door de scheidsrechter. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie van ZWART4 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team ZWART wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team ZWART speelt verder zonder reducering van een speler op het speelveld",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team ZWART mag een andere speler toevoegen om zijn team tot 14 spelers te vervolledigen",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.18",
+      "Phrase": "Na een vrije worp voor team WIT, betreedt teamofficial C van team ZWART het speelveld en roept: “Maar dat is toch vrije worp voor ons!”. Geen enkele teamofficial van team ZWART werd eerder bestraft in de wedstrijd. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De verantwoordelijke teamofficial van team ZWART moet teamofficial C uit de hal zetten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor teamofficial C van team ZWART, team ZWART wordt op het speelveld met 1 speler gereduceerd gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Waarschuwing voor teamofficial C van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.19",
+      "Phrase": "WIT3 krijgt een waarschuwing omwille van een fout op het speelveld die een progressieve bestraffing vereist. Na herneming van het spel en na gewisseld te zijn, beledigt WIT3 de scheidsrechters vanaf de wisselbank. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie van WIT3 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en team WIT wordt op het speelveld gereduceerd met 1 speler voor 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT3 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en team WIT wordt op het speelveld gereduceerd met 1 speler voor 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting van WIT3 en team WIT wordt op het speelveld gereduceerd met 1 speler voor 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.20",
+      "Phrase": "Bij een tegenaanval wordt ZWART9 door WIT4, die voordien reeds gewaarschuwd werd, aan zijn truitje vastgehouden. Desondanks kan ZWART9 de bal toch nog naar ZWART8 spelen, die een doelpunt scoort. De scheidsrechter wil nu WIT4 na bestraffen, doch die zit ondertussen op de wisselbank. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT4, team WIT wordt op het speelveld gereduceerd gedurende 2 minuten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WIT4 mag de volgende 2 minuten niet meer meespelen maar zijn team blijft volledig op het speelveld",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Geen bestraffing meer mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor WIT4 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en team WIT wordt met 1 speler op het speelveld gereduceerd gedurende twee minuten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.21",
+      "Phrase": "Wanneer moet een speler gediskwalificeerd worden (rode kaart of rode en blauwe kaart getoond door de scheidsrechter",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bij grof onsportief gedrag",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bij het verhinderen van een open doelkans door het actief blokken van een worp of pas met de voet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bij foutief wisselen tijdens een tijdelijke uitsluiting (geen open doelkan s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Voor het niet neerleggen van de bal voor een vrije worp tegen zijn eigen team (niet in de laatste 30 seconde n)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.22",
+      "Phrase": "Team ZWART is in de aanval. WIT11 ontneemt ZWART6 de bal, door een fout te begaan die de gezondheid van ZWART6 in gevaar brengt. WIT7 en WIT8 staan tussen ZWART6 en het doel van team WIT op het ogenblik van de fout. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor WIT11 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.23",
+      "Phrase": "Welke van de volgende inbreuken moeten volgens de spelregels met een diskwalificatie en een schriftelijk verslag bestraft worden (rode en blauwe kaart getoond door de scheidsrechter",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een official betreedt het speloppervlak voor de tweede maal zonder toestemming",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een official die zijn team aanzet tot het stoppen van de wedstrijd",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer een 7m werper het hoofd van de doelverdediger raakt, en de doelverdediger zijn hoofd niet in de richting van de bal beweegt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na een beslissing van de scheidsrechters werpt een speler de bal demonstratief in de tribune",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Een speler buiten het speeloppervlak spuwt naar een toeschouwer",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.24",
+      "Phrase": "WIT3 heeft een 2-minutenuitsluiting gekregen voor een fout en zit op de wisselbank. Bij een inworp in de buurt van de bank, roept WIT3 naar de scheidsrechter om hun te beledigen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT3, zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", wat een onmiddellijke reductie gedurende 2 minuten van team WIT op het speelveld tot gevolg heeft.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt met één speler gereduceerd gedurende 4 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor WIT3, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", wat een onmiddellijke reductie gedurende 2 minuten van team WIT op het speelveld tot gevolg heeft",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.25",
+      "Phrase": "Uit ontgoocheling over een fout slaat WIT3 een van zijn eigen medespelers in het gelaat. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen actie, aangezien het om een eigen medespeler gaat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor WIT3 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor WIT3 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.26",
+      "Phrase": "Bij het betreden van de hal, komen de scheidsrechters de reeds aangeklede speler ZWART4 tegen, die meteen roept: “Toch niet wéér deze idioten!”. De scheidsrechters stellen vóór aanvang van de wedstrijd vast dat ZWART4 op het wedstrijdformulier staat ingeschreven. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART4 bij het begin van het spel",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART4 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", team ZWART wordt bij het begin van de wedstrijd op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team ZWART mag 14 spelers in de wedstrijd opstellen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team ZWART mag 14 spelers in de wedstrijd opstellen maar wordt bij het begin van de wedstrijd op het veld met 1 speler gereduceerd gedurende 2 minuten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.27",
+      "Phrase": "Bij het opwarmen voor de wedstrijd botsen WIT3 en de doelverdediger ZWART1 per ongeluk tegen elkaar. Beide spelers schelden elkaar uit en doelman ZWART1 slaat WIT3. WIT3 slaat meteen terug. Beide spelers staan op het wedstrijdformulier ingeschreven. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie van ZWART1, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "en een 2-minutenuitsluiting van WIT3. De ploegen mogen elk tot 14 spelers aangevuld worden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART1 en WIT3, schriftelijke verslagen (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". De ploegen mogen elk tot 14 spelers aangevuld worden, maar beide teams worden bij het begin van de wedstrijd op het speelveld met 1 speler gereduceerd gedurende 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Beide spelers krijgen een 2-minutenuitsluiting die in het begin van de wedstrijd moet worden uitgezeten. Schriftelijk verslag.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van ZWART1 en WIT3, schriftelijke verslagen (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". De ploegen mogen elk tot 14 spelers aangevuld worden.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.28",
+      "Phrase": "WIT9 is in sprongworp. ZWART5 grijpt de werparm van WIT9 langs achter en trekt hem neer. ZWART10 en ZWART11 staan nog tussen WIT9 en het doel van team ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor ZWART5 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.29",
+      "Phrase": "Welke van de volgende overtredingen moet bestraft worden met een diskwalificatie (rode kaart getoond door de scheidsrechter",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een official betreedt voor de tweede keer het speeloppervlak zonder toestemming.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een speler in balbezit wordt neergetrokken terwijl hij in tegenaanval loopt, de situatie is niet zeer gevaarlijk.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een 7-m-worp raakt het gezicht van de doelverdediger, die niet beweegt in de richting van de bal.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na een beslissing van de scheidsrechter werpt een speler uit protest de bal in de tribune.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De doelverdediger verlaat het doelgebied en komt in balbezit, maar veroorzaakt een botsing met de tegenspeler die in tegenaanval loopt.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.30",
+      "Phrase": "WIT9 krijgt zijn derde 2-minutenuitsluiting en is daardoor gediskwalificeerd. In trainingspak neemt hij plaats op de eerste rij toeschouwers aan de zijlijn, tegenover de wisselzone. Vlak voor hem begaat ZWART3 een uitzonderlijk roekeloze overtreding tegen WIT10. De speler blijft gekwetst op de grond blijft liggen. Voor de scheidsrechters ZWART3 kunnen bestraffen, loopt WIT9 het plein op en slaat ZWART3 neer. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART3, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WIT9 is niet meer betrokken bij het spel, vandaar geen vermeldingen mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Schriftelijk verslag over het gedrag van WIT9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van ZWART3 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "WIT10 moet na verzorging het speelveld verlaten en mag pas terug opkomen na drie aanvallen van zijn team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.31",
+      "Phrase": "Een waarschuwing moet gegeven worden bij:",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Overtredingen waarbij de actie voornamelijk of uitsluitend gericht is op het lichaam van de tegenstrever.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Overtredingen wanneer de tegenstander een formele worp uitvoert",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Het niet neerleggen van de bal bij beslissingen tegen het eigen team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Een doelverdediger die aanstalten maakt om te wisselen wanneer de tegenstander klaarstaat voor de uitvoering van een 7-meterworp.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.32",
+      "Phrase": "Wat moet worden beschouwd als onsportief gedrag?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De bal in het gezicht van de tegenstrever werpen, die zich niet in de richting van de bal beweegt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Passief gedrag van een doelverdediger bij een 7m-worp zodat duidelijk is dat hij de 7m-worp niet wil trachten te stoppen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Poging om de scheidsrechters met komedie te misleiden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Actief blokken van een worp door gebruik van voeten en onderbeen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Herhaaldelijk betreden van het doelgebied om tactische redenen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Revanche-actie na een ondergane overtreding",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.33",
+      "Phrase": "In welke van de volgende gevallen moet een diskwalificatie een schriftelijk verslag tot gevolg hebben (rode en blauwe kaart getoond door de scheidsrechter",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een gewelddaad op het speeloppervlak tijdens de pauze",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een uitzonderlijk roekeloze en gevaarlijke overtreding",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Revanche-actie na een ondergane overtreding",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Een kwaadwillige actie, die op geen enkele wijze verband houdt met de spelsituatie",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.34",
+      "Phrase": "Beginworp voor team WIT. De scheidsrechters hebben aangefloten en WIT9 is klaar om de beginworp uit te voeren. Na het fluitsignaal overschrijdt WIT3 de middellijn en wordt langs achter neergetrokken door ZWART5 zodat hij de lichaamscontrole verliest. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART5, zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Beginworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie van ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.35",
+      "Phrase": "ZWART8 heeft 2-minutenuitsluiting gekregen voor een foutieve wissel. Twee seconden nadat het spel hernomen werd, geeft hij op een onsportieve wijze commentaar op de scheidsrechters vanaf zijn positie op de bank. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een bijkomende 2-minutenuitsluiting voor ZWART8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor ZWART8 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team ZWART zal gereduceerd worden met 2 spelers op het speelveld voor de volgende 1’58” en daarna met 1 speler op het speelveld voor 2 seconden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team ZWART zal gereduceerd worden met twee spelers op het speelveld voor de volgende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.36",
+      "Phrase": "Doelverdediger WIT1 werpt een lange pass naar WIT15, die alleen naar het doel van de tegenstrever loopt. Doelverdediger ZWART12 verlaat zijn doelgebied, springt op, vangt de bal en botst, terwijl hij in de lucht is, met WIT15. Beide spelers vallen op de grond en blijven gekwetst liggen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out, 2-minutenuitsluiting voor WIT15",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out, 2-minutenuitsluiting voor ZWART12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out, diskwalificatie voor ZWART12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.37",
+      "Phrase": "Team ZWART heeft balbezit. De waarnemer onderbreekt het spel omdat official A van team ZWART een stoel op het speelveld heeft gegooid als protest tegen een beslissing van de scheidsrechter. Voordien was er nog geen bestraffing geweest tegen de teamofficials van team ZWART. ZWART 7 had een duidelijke scorekans toen het spel werd onderbroken. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor official A van team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting official A van team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor official A van team ZWART zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-meterworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie voor official A van team ZWART, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.38",
+      "Phrase": "Official A van team WIT protesteert met luide stem tegen een beslissing van de scheidsrechters tegen zijn team en schreeuwt: “Jullie zijn idioten”. 10 minuten eerder heeft official C van team WIT al een verwittiging gekregen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwittiging van official A van team WIT wegens onsportief gedrag",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor official A van team WIT; team WIT wordt met 1 speler op het speelveld gereduceerd gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van official A van team WIT, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team WIT wordt met 1 speler op het speelveld gereduceerd gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.39",
+      "Phrase": "Doelverdediger WIT1 wil een uitworp uitvoeren. Voor de tweede maal betreedt ZWART3 nu het doelgebied en probeert, zonder lichaamscontact, deze uitworp te hinderen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team WIT na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Waarschuwing voor ZWART3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.40",
+      "Phrase": "WIT4 raakt de in het doelgebied van de team ZWART rollende bal. Op dat ogenblik wordt hij op de grond geduwd door ZWART6. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressieve bestraffing van ZWART6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.41",
+      "Phrase": "WIT7 heeft net een 2-minutenuitsluiting gekregen voor onsportief gedrag. Het is zijn eerste uitsluiting. 10 seconden nadat het spel hernomen werd, maakt hij vanop de bank met hevige gebaren duidelijk dat hij het niet eens is met de beslissing van de scheidsrechter. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor WIT7 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT7; WIT7 moet gedurende 4 minuten op de bank blijven",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een bijkomende 2-minutenuitsluiting voor WIT7, team WIT moet met 2 spelers gereduceerd worden op het speelveld gedurende 1’50”, en daarna met 1 speler op het speelveld gedurende 10 seconden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Waarschuwing, aangezien de progressieve bestraffing op de bank gescheiden is van de progressieve bestraffingen op het speelveld",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.42",
+      "Phrase": "WIT6 wordt door ZWART3 geduwd; daarna spuwt WIT6 demonstratief op de grond voor ZWART3. Hoe moet WIT6 bestraft worden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressieve bestraffing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Altijd met 2-minutenuitsluiting",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.43",
+      "Phrase": "Doelverdediger WIT12 loopt uit zijn doelgebied naar de in tegenaanval zijnde speler ZWART10. WIT12 nadert ZWART10 zijdelings en houdt hem vast, maar ZWART10 kan de bal vangen en deze in het lege doel werpt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Beginworp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor WIT12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.44",
+      "Phrase": "Doelverdediger WIT12 voert de uitworp uit met een lange bal naar de in tegenaanval lopende medespeler WIT4. WIT4 springt omhoog om de bal te pakken en onmiddellijk daarna botst hij met de doelverdediger ZWART1, die besliste om zijn doelgebied te verlaten in een poging om de tegenaanval te verhinderen. Op het ogenblik van de botsing, staat ZWART1 volledig stil aan de 9m-lijn. Na de botsing verliest WIT4 de lichaamscontrole en valt op de grond. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aanvallende fout, vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing voor ZWART1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van ZWART1 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.45",
+      "Phrase": "Welke van de volgende overtredingen moeten overeenkomstig de spelregels bestraft worden met een diskwalificatie en schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+      "Answers": [
+        {
+          "AnswerNumber": "s",
+          "Phrase": "?",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een speler bespuwt een tegenstrever",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een official probeert zijn team te dwingen om de wedstrijd af te breken",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer een 7m-werper het hoofd van de doelverdediger raakt, waarbij de doelverdediger zijn hoofd niet richting bal beweegt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Na een beslissing van de scheidsrechters werpt een speler de bal demonstratief in de tribune.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Een speler bespuwt buiten het speeloppervlak een toeschouwer",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Een speler slaat opzettelijk een tegenspeler in de maag.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.46",
+      "Phrase": "Wedstrijdtijd is 59:26. Speler ZWART10 loopt alleen in tegenaanval. Wanneer hij de bal krijgt van een ploegmaat, botst ZWART10 met doelman WIT1 die zijn doelgebied verlaten heeft, maar alvorens neer te vallen slaagt hij erin om de bal naar ZWART7 te spelen die naar een leeg doel kan werpen, maar de bal gaat naast het doel. Wanneer de scheidsrechters een time-out geven staat de klok op 59:31. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Rode kaart voor WIT1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Blauwe kaart voor WIT1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Uitworp",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.47",
+      "Phrase": "Team WIT is in aanval en speelt met 7 veldspelers. ZWART5 onderschept een pas en komt in balbezit. Hij probeert onmiddellijk een worp naar doel te doen. WIT2 tracht te verhinderen dat ZWART5 naar doel kan werpen door de bal uit zijn hand te spelen. Hierbij raakt hij de onderarm van ZWART5 en de bal mist het doel. Team WIT heeft eerder in de wedstrijd 3 waarschuwingen gekregen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.48",
+      "Phrase": "Team WIT is in aanval en speelt met 7 veldspelers. ZWART5 onderschept een pass en komt in balbezit. Hij probeert onmiddellijk een worp naar doel te doen. WIT2 probeert te verhinderen dat ZWART5 naar doel kan werpen door hem neer te trekken. De bal mist het doel. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.49",
+      "Phrase": "Team WIT is in aanval en speelt met 7 veldspelers. WIT4 werpt naar doel, maar de bal wordt gered door doelman ZWART1. ZWART1 speelt de bal naar ZWART9. Net als doelman WIT12 in zijn doelgebied komt, tracht ZWART9 een worp naar doel te doen, maar dit wordt verhinderd door een fout van WIT2. De bal gaat over de buitendoellijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.50",
+      "Phrase": "Team WIT is in aanval en speelt met 7 veldspelers. WIT4 werpt naar doel, maar de bal wordt gered door doelman ZWART1, die met de bal in zijn doelgebied staat, klaar om de uitworp uit te voeren. Op dat ogenblik onderbreekt de waarnemer het spel omwille van een foutieve wissel, omdat doelman WIT1 het speelveld betrad, vooraleer WIT7 het verlaten had. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team ZWART na fluitsignaal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minutenuitsluiting voor WIT1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.51",
+      "Phrase": "Team WIT is in aanval en speelt met 7 veldspelers. WIT4 werpt naar doel, maar de bal wordt gered door doelman ZWART12. ZWART12 speelt de bal naar ZWART9. ZWART9 werpt naar doel. Veldspeler WIT10 betreedt zijn eigen doelgebied en slaagt erin om de bal te redden. De bal gaat over de buitendoellijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Inworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing voor WIT10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT10",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.52",
+      "Phrase": "Team WIT is in aanval en speelt met 7 veldspelers. WIT6 werpt naar doel, maar de bal wordt gered door de doelman ZWART1. ZWART1 probeert onmiddellijk in het lege doel te scoren, maar hij mist het doel, en de bal gaat over de buitendoellijn. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Uitworp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De uitworp mag uitgevoerd worden door om het even welke speler van team WIT op het speelveld om het spel vlot te houden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT moet een wissel doen om een doelman in het speelveld te krijgen om de uitworp uit te voeren",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verplichte time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.53",
+      "Phrase": "Team ZWART speelt met 7 veldspelers. ZWART5 werpt naar doel, maar het schot wordt door doelman WIT1 gered. WIT1 probeert te scoren in het lege doel. Op hetzelfde ogenblik maakt doelman ZWART12 een foutieve wissel omdat hij op het veld loopt nog vooraleer ZWART7 het verlaten heeft. De waarnemer onderbreekt onmiddellijk het spel met een fluitsignaal. Vlak na het fluitsignaal van de waarnemer, gaat de bal over de buitendoellijn van team ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.54",
+      "Phrase": "Team ZWART speelt met 7 veldspelers. ZWART6 werpt naar doel, maar het schot wordt door doelman WIT1 gered. WIT1 probeert te scoren in het lege doel. Op hetzelfde ogenblik maakt doelman ZWART12 een foutieve wissel, omdat hij op het speelveld loopt vooraleer ZWART7 dit heeft verlaten. De waarnemer onderbreekt onmiddellijk het spel met een fluitsignaal. Net na het fluitsignaal van de waarnemer, overschrijdt de bal de doellijn in het doel van team ZWART. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.55",
+      "Phrase": "Team zwart speelt met 7 veldspelers. WIT9 onderschept de bal en slaagt erin om te scoren in het lege doel. De bal blijft in het doelgebied liggen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt en beginworp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een doelman moet op het speelveld komen via een correcte wissel om de bal in het doelgebied te halen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De bal mag vrij opgehaald worden door gelijk welke speler op het speelveld van team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.56",
+      "Phrase": "De score is 27-27 met nog 6 seconden te spelen. Team WIT is in aanval. WIT7 probeert de bal naar pivot WIT3 te spelen. ZWART7 onderschept de bal. Op dat ogenblik wordt hij door WIT3 neergetrokken. Een seconde later weerklinkt het eindsignaal vanaf de muurklok om de wedstrijd te beëindigen. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De wedstrijd is afgelopen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor WIT3 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie met schriftelijk verslag voor WIT3 (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.57",
+      "Phrase": "De score is 27-27 met nog 10 seconden te spelen. Team WIT is in aanval. ZWART5 onderschept een pass en start een tegenaanval. Een ogenblik later wordt hij langs achter aangevallen door WIT11, die hem op een gevaarlijke wijze duwt zodat hij zijn lichaamscontrole verliest. Vooraleer de scheidsrechters fluiten voor de overtreding, weerklinkt het eindsignaal van de wedstrijdklok. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De wedstrijd is afgelopen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor WIT11 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie met schriftelijk verslag voor WIT11 (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.58",
+      "Phrase": "ZWART10 is in balbezit. Het is 59:27 wanneer hij een sprongworp uitvoert. WIT2 duwt hem zo hard op de borst dat hij volledig de lichaamscontrole verliest. Hij valt met de bal op de vloer. De scheidsrechters fluiten en de klok wordt gestopt op 59:31. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor WIT2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.59",
+      "Phrase": "Met nog 15 seconden te spelen, is team zwart in bezit van de bal. De scheidsrechters geven een vrije worp voor team ZWART aan de middenlijn. Vooraleer ZWART7 de vrije worp kan uitvoeren, wordt hij geblokt door WIT2.Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correctie en een nieuwe vrije worp voor team ZWART na een fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor WIT2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie voor WIT2, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.60",
+      "Phrase": "Team ZWART is in aanval. De scheidsrechters geven een vrije worp voor team ZWART aan de vrijeworplijn met nog 3 seconden te spelen. ZWART10 is op de juiste plaats en klaar om de vrije worp uit te voeren direct naar doel, maar speler WIT5, die op 1 meter van ZWART10 staat, blokt de worp op doel. Dan weerklinkt het eindsignaal. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor WIT5 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.61",
+      "Phrase": "Team ZWART is in aanval. De scheidsrechters geven een vrije worp voor team ZWART aan de vrijeworplijn met nog 3 seconden te spelen. ZWART10 is op de juiste plaats en klaar om de vrije worp uit te voeren direct naar doel, maar vooraleer hij de worp kan uitvoeren, wordt hij gehinderd door WIT5, die nadert tot op een afstand van 1m, met zijn armen staat te wuiven en staat te springen voor ZWART10. Dan weerklinkt het eindsignaal. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor WIT5 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.62",
+      "Phrase": "Met nog 19 seconden op de klok, probeert WIT2 een doorbraak te maken, maar de scheidsrechters fluiten loopfout tegen WIT2. Na het fluitsignaal van de scheidsrechters, werpt WIT2 naar het doel. De bal wordt snel opgenomen door doelman ZWART12, en hij is klaar om de tegenaanval te starten. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verder spelen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van WIT2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.63",
+      "Phrase": "De score is 28:26 voor team WIT. Met nog 25 sec te gaan in de wedstrijd, scoort team ZWART. Doelman WIT12 schopt de bal opzettelijk weg, zodat deze in de toeschouwerstribune terechtkomt. Het is duidelijk dat hij de bal wegschopt met de intentie om het spel te vertragen, zodat de beginworp niet onmiddellijk kan genomen worden. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Beginworp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minutenuitsluiting voor WIT12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie voor WIT12 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Diskwalificatie voor WIT12 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.64",
+      "Phrase": "De score is 25-25 met nog 3 sec te gaan in de wedstrijd. Team WIT is in aanval. ZWART5 veroorzaakt een vrije worp voor WIT2 aan de vrijeworplijn. Kort daarna weerklinkt het eindsignaal. De scheidsrechters fluiten voor de uitvoering van de vrije worp na het eindsignaal. Vooraleer de bal de hand van de werper verlaten heeft, stapt ZWART6 vooruit en blokt de bal terwijl hij te dicht staat. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De wedstrijd is afgelopen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De vrije worp moet opnieuw genomen worden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor ZWART6 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.65",
+      "Phrase": "Team WIT speelt zonder doelman en met 7 veldspelers. ZWART5 onderschept een pass en loopt met de bal in de richting van het lege doel van team WIT. Doelman WIT12 komt op het speelveld na een correcte wissel en loopt in dezelfde richting als ZWART5. Net op het ogenblik dat ZWART5 een worp naar doel doet, duwt WIT12, ZWART5 van op zij, zo dat hij gedeeltelijk zijn lichaamscontrole verliest en zijn worp het doel mist. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor WIT12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor WIT12 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.66",
+      "Phrase": "De score is 26:26 met nog 4 sec te spelen in de wedstrijd. Team WIT is in aanval. Een vrije worp wordt veroorzaakt tegen WIT4. WIT4 voert de vrije worp onmiddellijk uit. De bal wordt actief geblokt door ZWART5 die te kort bij staat. Op hetzelfde ogenblik weerklinkt het eindsignaal. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De vrije worp moet opnieuw genomen worden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van ZWART5 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.67",
+      "Phrase": "De score is 26:26 met nog 4 sec te spelen in de wedstrijd. Team WIT is in aanval. ZWART5 veroorzaakt een vrije worp voor WIT6. ZWART5 gaat onmiddellijk achteruit tot de correcte afstand. WIT6 voert de vrije worp uit, en de bal raakt ZWART5, die geen actieve actie onderneemt. De bal botst terug naar WIT6. Op hetzelfde ogenblik weerklinkt het eindsignaal. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen verdere actie. De wedstrijd is ten einde",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De vrije worp moet hernomen worden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van ZWART5",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.68",
+      "Phrase": "De score is 29-29 met nog 20 sec te gaan in de wedstrijd. Doelman WIT12 redt een worp op zijn doel en de bal overschrijdt de buitendoellijn. De scheidsrechters beslissen op uitworp voor team WIT. WIT12 wil snel de uitworp uitvoeren. ZWART2 loopt het doelgebied in en vertraagt de uitvoering van de uitworp. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team WIT na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minutenuitsluiting voor ZWART2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie van ZWART2 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Diskwalificatie van ZWART2 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.69",
+      "Phrase": "De score is 29-29 met nog 20 sec te gaan in de wedstrijd. Doelman WIT12 redt een worp op zijn doel en de bal overschrijdt de buitendoellijn. De scheidsrechters beslissen op uitworp voor team WIT. WIT12 is klaar om de uitworp uit te voeren. Vooraleer de bal zijn hand verlaten heeft, weerklinkt een fluitsignaal van de tijdwaarnemer omdat er een foutieve wissel gebeurde door team ZWART. ZWART3 heeft het speelveld betreden vooraleer ZWART11 het verlaten heeft. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team WIT na fluitsignaal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT aan de wisselzone van team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minutenuitsluiting voor ZWART3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Diskwalificatie van ZWART3 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.70",
+      "Phrase": "De score is 29-29 met nog 20 sec te gaan in de wedstrijd. Doelman WIT12 stopt een worp op zijn doel en de bal overschrijdt de buitendoellijn. De scheidsrechters beslissen op uitworp voor team WIT. WIT12 voert de uitworp uit met een pass naar WIT9 die net buiten het doelgebied staat. Vooraleer de bal de doelgebiedlijn overschrijdt, weerklinkt een fluitsignaal van de tijdwaarnemer omdat er een foutieve wissel gebeurde door team ZWART. ZWART3 heeft het speelveld betreden vooraleer ZWART11 het verlaten heeft. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT aan de wisselzone van team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minutenuitsluiting voor ZWART3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van ZWART3 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.71",
+      "Phrase": "De score is 29-29 met nog 10 sec te gaan in de wedstrijd. Team WIT is in tegenaanval. ZWART10 valt WIT9 aan op een wijze die gevaarlijk is voor zijn gezondheid. Alvorens te vallen speelt WIT9 de bal naar WIT11. WIT11 werpt naar doel, maar de bal wordt gered door doelman ZWART12. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART10 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.72",
+      "Phrase": "De score is 29-29 met nog 10 sec te gaan in de wedstrijd. Team WIT is in tegenaanval. ZWART10 valt WIT9 aan op een wijze die gevaarlijk is voor zijn gezondheid. Alvorens te vallen speelt WIT9 de bal naar WIT11. WIT11 scoort een doelpunt. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART10 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.73",
+      "Phrase": "De score is 29-29 met nog 10 sec te gaan in de wedstrijd. Team WIT is in tegenaanval. ZWART10 valt WIT9 aan op een wijze die gevaarlijk is voor zijn gezondheid. Alvorens te vallen speelt WIT9 de bal naar WIT11. WIT11 speelt de bal door naar WIT4. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van ZWART10 (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters fluiten na de pass van WIT11 naar WIT4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.74",
+      "Phrase": "WIT7 is in tegenaanval. Hij heeft een duidelijke scoringskans en werpt ongehinderd naar doel. De bal raakt de doelverdediger ZWART12 op het hoofd, en hij valt op de grond. De terugkaatsende bal wordt bemachtigd door WIT9 die een duidelijke scorekans heeft aan de doelgebiedlijn van team ZWART. Op dat ogenblik fluiten de scheidsrechters voor de medische behandeling van doelverdediger ZWART 12. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Uitworp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Geen bestraffing voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Doelverdediger ZWART12 moet het speelveld verlaten en mag pas opnieuw het speelveld betreden nadat zijn team haar derde aanval beëindigd heeft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.75",
+      "Phrase": "Team WIT leidt met 1 doelpunt met nog 7 seconden te spelen tot het einde van de wedstrijd. Team WIT staat klaar om een beginworp te nemen, en de scheidsrechters geven het fluitsignaal voor de uitvoering. In plaats van de bal naar een medespeler te spelen, legt WIT7 de bal op de grond binnen de beginworpzone en wandelt weg. Geen enkele medespeler is geïnteresseerd om de beginworpzone te betreden en de bal op te rapen. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correctie van de beginworp",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De scheidsrechters moeten 3 seconden wachten na het fluitsignaal voor de uitvoering vooraleer zij een vrije worp voor team ZWART kunnen geven.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.76",
+      "Phrase": "ZWART8 breekt door de verdediging van team WIT en heeft geen speler meer tussen hem en doelverdediger WIT1. Wanneer hij een doelworp wil nemen, wordt hij van opzij geduwd door WIT7. Zelfs wanneer hij gedeeltelijk zijn lichaamscontrole verliest, is hij in staat om hard naar doel te werpen. De bal treft het hoofd van doelverdediger WIT1, verandert van richting en gaat in doel. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.77",
+      "Phrase": "Cirkelspeler ZWART8 krijgt de bal. Wanneer hij zich richting doel wil draaien, wordt hij stevig vastgehouden en neergetrokken door WIT7. Niettemin herwint hij volledige lichaamscontrole. Zonder enige speler tussen hem en de doelverdediger, springt hij boven het doelgebied. Hij werpt hard met volledige lichaamscontrole. De bal raakt doelverdediger WIT1 op het hoofd. Het hoofd is het eerste contactpunt van de bal. De bal verandert van richting en gaat in het doel. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Doelpunt voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vrije worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7m-worp voor team ZWART",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Directe 2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.78",
+      "Phrase": "Hoekspeler ZWART3 heeft een duidelijke scorekans en werpt naar doel. De bal raakt de zijkant van het hoofd van doelverdediger WIT1 zonder van richting te veranderen. De bal gaat in het doel. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressieve bestraffing voor WIT1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Doelpunt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.79",
+      "Phrase": "Hoekspeler ZWART3 heeft een duidelijke scorekans en werpt naar doel. De bal raakt de zijkant van het hoofd van doelverdediger WIT1 en verandert van richting. Het hoofd is het eerste contactpunt van de bal. De bal gaat in het doel. WIT1 valt op de grond, houdt zijn hand op het hoofd en heeft duidelijk medische verzorging nodig. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De scheidsrechters vragen medische assistentie voor WIT1 door de tekens 15 en 16 te tonen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Directe 2-minutenuitsluiting voor ZWART3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressieve bestraffing voor WIT1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Doelpunt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Na medische assistentie ontvangen te hebben, moet WIT1 het speelveld verlaten en mag dit pas terug betreden nadat zijn team 3 aanvallen vervolledigd heeft",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

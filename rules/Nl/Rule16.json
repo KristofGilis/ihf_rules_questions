@@ -1,0 +1,714 @@
+{
+  "RuleNumber": "16",
+  "Name": "De Straffen",
+  "Questions": [
+    {
+      "QuestionNumber": "16.1",
+      "Phrase": "Teamofficial B van team WIT protesteert en krijgt een 2-minutenuitsluiting. Vooraleer het spel hernomen wordt, protesteert hij opnieuw en wordt gediskwalificeerd. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 2 spelers voor 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 4 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 2 minuten",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.2",
+      "Phrase": "WIT8 krijgt wegens duwen van een tegenstrever een 2-minutenuitsluiting. Daarop gaat hij naar de scheidsrechter en verwijt hem: “Jij bent dom, jij bent een idioot, je leert het nooit”. Vooraleer hij het speelveld verlaat, spuwt hij nog de scheidsrechter in het gezicht. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie van WIT8, team WIT wordt op het speelveld gereduceerd met 1 speler voor 4 minuten rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van WIT8, team WIT wordt op het speelveld gereduceerd met 2 spelers voor 2 minuten (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van WIT8, team WIT wordt op het speelveld gereduceerd met 1 speler voor 4 minuten; schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van WIT8, team WIT wordt op het speelveld gereduceerd met 2 spelers voor 2 minuten; schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.3",
+      "Phrase": "Wat is het maximaal aantal waarschuwingen dat zou gegeven mogen worden aan de officials van een team tijdens een wedstrijd?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.4",
+      "Phrase": "Wanneer start de tijd van een uitsluiting van een speler?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wanneer de scheidsrechter het teken van de uitsluiting heeft gegeven",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer de uitgesloten speler de zijlijn overschrijdt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wanneer de scheidsrechter fluit voor het hernemen van het spel",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wanneer de tijdwaarnemer de chrono start",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.5",
+      "Phrase": "Aan wie moeten uitsluitingen worden meegedeeld?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "De uitgesloten speler en de secretaris/ tijdwaarnemer",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De verantwoordelijke teamofficial en de tijdwaarnemer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tijdwaarnemer/ wedstrijdsecretaris",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De uitgesloten speler, de verantwoordelijke teamofficial en de wedstrijdsecretaris",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.6",
+      "Phrase": "ZWART5 kreeg in de wedstrijd al tweemaal een 2-minutenuitsluiting: een uitsluiting voor een progressief te bestraffen spelregelovertreding en een voor het wegwerpen van de bal nadat de scheidsrechter een vrije worp voor de tegenstanders gaf. Nu begaat hij de tweede wisselfout van zijn team en vooraleer het spel hernomen wordt, vertoont hij nog extreem grof onsportief gedrag. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor ZWART5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", zijn team wordt op het speelveld gereduceerd met 1 speler gedurende 4 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", zijn team wordt op het speelveld gereduceerd met 2 spelers gedurende 2 minuten.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.7",
+      "Phrase": "WIT5 krijgt een 2-minutenuitsluiting voor een overtreding. Bij het verlaten van het speelveld beledigt hij de scheidsrechters en wordt gediskwalificeerd. WIT5 windt zich hierover zo hard op dat hij de scheidsrechter slaat. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Schriftelijk verslag (blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 2 spelers voor 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 4 minuten",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.8",
+      "Phrase": "WIT7 wordt net wegens onsportief gedrag voor 2 minuten uitgesloten. Vooraleer het spel hernomen wordt, zegt hij tegen de scheidsrechter: ”Jij moet wel blind zijn, jij idioot”. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bijkomende 2-minutenuitsluiting voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor WIT7 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 2 spelers voor 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 4 minuten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van WIT7, schriftelijk verslag (rode en blauwe kaart worden getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.9",
+      "Phrase": "Speler WIT3 is voor twee minuten uitgesloten. Na het verlaten van het speelveld, maar voor het hernemen van het spel, maakt WIT3 zich schuldig aan een ernstig onsportief gedrag in de wisselzone tegen official B van team ZWART. Net voordien, liep official B van team ZWART het speelveld op zonder dat hiervoor toelating werd gegeven. Tegen de officials van team ZWART was tot dan nog geen straf uitgesproken. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor WIT3 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Waarschuwing voor official B van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt gereduceerd op het veld met 2 spelers gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT wordt gereduceerd op het veld met 1 speler gedurende 4 minuten",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.10",
+      "Phrase": "Wanneer een speler gediskwalificeerd wordt, wordt het team op het speelveld gereduceerd met 1 speler voor 2 minuten, tenzij de diskwalificatie werd gegeven:",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Voor grof onsportief gedrag tijdens de pauze.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Voor een vergrijp buiten het speelveld.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Voor de wedstrijd begint.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Voor beledigen van de scheidsrechters.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.11",
+      "Phrase": "Tijdens de rust begaat WIT7 een gewelddaad tegen doelverdediger ZWART12 terwijl beiden zich nog op het speelveld bevinden. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor WIT7, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team WIT wordt met 1 speler op het veld gereduceerd gedurende 2’ bij het begin van de tweede helft.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Waarschuwing voor WIT7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Vermaning voor WIT7 omdat de wedstrijd onderbroken was.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.12",
+      "Phrase": "Tijdens de rust wordt een scheidsrechter beledigd door ZWART7 op weg naar de kleedkamer. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor ZWART7 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor ZWART7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team ZWART wordt op het speelveld gereduceerd met 1 speler voor 2 minuten bij het begin van de 2e helft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van ZWART7, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechte r)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.13",
+      "Phrase": "Na het fluitsignaal voor de pauze botsen WIT9 en ZWART5 op het speelveld tegen elkaar en beginnen naar elkaar te schreeuwen. Dan duwt WIT9 met beide handen tegen de borst van ZWART5 zodat ZWART5 bijna zijn lichaamscontrole verliest. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minutenuitsluiting voor WIT9 bij het begin van de tweede helft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor WIT9 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ", team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten bij het begin van de tweede helft.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van WIT9, team WIT begint de 2e helft zonder reductie",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van WIT9 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "Team WIT wordt bij het begin van de 2e helft op het speelveld gereduceerd met 1 speler gedurende 2 minuten.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.14",
+      "Phrase": "Na de wedstrijd schreeuwt WIT10 naar de scheidsrechter: “Jij hebt ons bestolen, idioot die je bent!”. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor WIT10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor WIT10, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Schriftelijk verslag",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Waarschuwing voor WIT10, schriftelijk verslag.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.15",
+      "Phrase": "Gedurende de pauze, begaat WIT9 een gewelddaad op het speelveld tegen de official B van team ZWART, die vervolgens speler WIT9 beledigt. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor WIT9, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team WIT wordt op het speelveld bij het begin van de 2e helft met 1 speler gereduceerd gedurende 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie van official B van team ZWART, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team ZWART wordt op het speelveld bij het begin van de 2e helft met 1 speler gereduceerd gedurende 2 minuten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie van WIT9 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team WIT wordt op het speelveld niet gereduceerd bij het begint de tweede helft.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van official B van team ZWART (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": ". Team ZWART wordt op het speelveld niet gereduceerd bij het begint de tweede helft.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.16",
+      "Phrase": "WIT7 is gediskwalificeerd omdat hij net een derde 2-minutenuitsluiting heeft gekregen. Hij probeert te discussiëren met de scheidsrechter en gaat niet van het speelveld. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen verdere beslissing",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WIT wordt op het speelveld met 1 speler gereduceerd gedurende 4 minuten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt op het speelveld met 1 speler gereduceerd gedurende 2 minuten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.17",
+      "Phrase": "WIT11 werd de eerste helft gewaarschuwd en is opnieuw schuldig aan onsportief gedrag tijdens de rust. Team WIT speelde in volle sterkte op het speelveld bij het einde van de eerste helft. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor WIT11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten bij het beging van de tweede helft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WIT wordt niet gereduceerd in spelers op het speelveld bij het begint van de tweede helft",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.18",
+      "Phrase": "Speler WIT4 is gekwetst. De scheidsrechters geven time-out en het teken om het speeloppervlak te betreden om voor de speler te zorgen. Officials A en B van team WIT, maar ook official A van team ZWART, betreden het speelveld. Official A van team ZWART heeft reeds eerder een waarschuwing gekregen, Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Geen tussenkomst",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wanneer het spel hernomen wordt, gaat team ZWART verder met hetzelfde aantal spelers op het speelveld als voor de onderbreking",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor official A van team ZWART",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie van official A van team ZWART (rode kaart getoond door de scheidrechter s)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wanneer het spel hernomen wordt, zal team ZWART op het speelveld gereduceerd worden met 1 speler gedurende 2 minuten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Na medische verzorging op het speelveld ontvangen te hebben, moet WIT4 het speelveld verlaten en kan pas na drie aanvallen van zijn team terug op het speelveld komen.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.19",
+      "Phrase": "ZWART9 wordt wegens een grove spelregelovertreding tegen WIT9 gediskwalificeerd. Vooraleer het spel hernomen wordt, slaat ZWART9 official A van team WIT in het gezicht. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diskwalificatie voor ZWART9 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; team ZWART wordt op het speelveld gereduceerd met twee spelers gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diskwalificatie voor ZWART9 zonder schriftelijk verslag voor ZWART9 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; team ZWART wordt op het speelveld gereduceerd met 1 speler gedurende 4 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Geen bijkomende bestraffing mogelijk",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor ZWART9 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; team ZWART wordt op het speelveld gereduceerd met twee spelers gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor ZWART9 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; team ZWART wordt op het speelveld gereduceerd met 1 speler gedurende 4 minuten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.20",
+      "Phrase": "ZWART8 krijgt zijn eerste 2 minuten na een time-outsignaal. Bij het verlaten van het speelveld en voor het spel hernomen wordt, richt hij zich onsportief tot de scheidsrechter. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een bijkomende 2-minutenuitsluiting voor ZWART8, team ZWART zal op het speelveld gereduceerd worden met 2 spelers gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een bijkomende 2-minutenuitsluiting voor ZWART8, team ZWART zal op het speelveld gereduceerd worden met 1 speler gedurende 4 minuten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Diskwalificatie voor ZWART8 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; team ZWART zal op het speelveld gereduceerd worden met 2 spelers gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor ZWART8 (rode kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; team ZWART zal op het speelveld gereduceerd worden met 1 speler gedurende 4 minuten",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.21",
+      "Phrase": "In welke van de volgende situaties moet een team op het speelveld gereduceerd worden met 1 speler gedurende 4 minuten?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een speler werd net gediskwalificeerd. Bij het verlaten van het speelveld protesteert hij op een wijze die een 2-minutenuitsluiting rechtvaardigt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Een speler heeft net een 2-minutenuitsluiting gekregen. Bij het verlaten van het speelveld beledigt hij de scheidsrechter en wordt gediskwalificeerd.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Een speler heeft net een 2-minutenuitsluiting gekregen wegens onsportief gedrag tegenover een tegenspeler. Terwijl hij nog op het speelveld is, slaat hij een tegenspeler in het gezicht en wordt gediskwalificeerd.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Een speler heeft net een 2-minutenuitsluiting gekregen wegens onsportief gedrag. Nadat hij de zijlijn heeft overschreden heeft, komt hij terug op het speelveld en protesteert waardoor hij een bijkomende 2-minutenuitsluiting krijgt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Een speler werd net gediskwalificeerd omdat hij een tegenstander bespuwd heeft. Bij het verlaten van het speelveld geeft hij de scheidsrechter een duw.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Een speler werd net gediskwalificeerd wegens een grove spelregelovertreding. Na het verlaten van het speelveld en na het hernemen van het spel, beledigt hij de scheidsrechters terwijl hij in de toeschouwerszone zit.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.22",
+      "Phrase": "WIT5 krijgt een 2-minutenuitsluiting in minuut 7. Voor de herneming van het spel protesteert hij en krijgt daarvoor een bijkomende 2-minutenuitsluiting. Precies één minuut later, loopt hij het speelveld op en de tijdwaarnemer fluit. Door de bijkomende uitsluiting voor het betreden van het speelveld, wordt hij gediskwalificeerd. Omwille hiervan, beledigt hij de scheidsrechters. Correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler van 07:00 tot 08:00, met 2 spelers van 08:00 tot 10:00 en met 1 speler 10:00 tot 11:00",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler van 07:00 tot 08:00, met 2 spelers van 08:00 tot 11:00 en met 1 speler 11:00 tot 12:00",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 2 spelers van 07:00 tot 08:00, met 3 spelers van 08:00 tot 10:00 en met 2 speler 10:00 tot 11:00",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WIT wordt op het speelveld gereduceerd met 2 spelers van 07:00 tot 08:00, met 4 spelers van 08:00 tot 10:00 en met 2 spelers 10:00 tot 11:00",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie van WIT5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter s)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.23",
+      "Phrase": "Official C van team WIT krijgt tijdens de eerste helft een waarschuwing wegens onsportief gedrag. De speeltijd is 35:50, en official B van team WIT toont, krachtig gesticulerend, dat hij niet akkoord is met een beslissing van de scheidsrechters. Hiervoor krijgt hij een 2-minutenuitsluiting. Drie minuten voor het einde van de wedstrijd, loopt official A van team WIT het veld in, zonder toestemming van de scheidsrechters. Wat is de correcte beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Waarschuwing voor official A van team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor official A van team WIT; team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten; official A van team WIT mag in de wisselzone blijven",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor official A van team WIT; team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten; official A van team WIT moet de wisselzone verlaten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie voor official A van team WIT (rode kaart getoond door de scheidsrechter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; Team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie voor official A van team WIT met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "s",
+          "Phrase": "; Team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

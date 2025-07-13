@@ -1,0 +1,1677 @@
+﻿{
+  "RuleNumber": "4",
+  "Name": "The Team, Substitutions, Equipment, Player Injuries",
+  "Questions": [
+    {
+      "QuestionNumber": "4.1",
+      "Phrase": "Shortly before the beginning of the game, WHITE 11 is severely injured in a way that he is unable to play. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE 11 cannot be replaced.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE 11 can be replaced if the opponents accept this.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Normally, WHITE 11 can be replaced in the match report and his substitute can wear number 11. However, the referees may have to observe special deviating regulations for the respective competition.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE 11 can be replaced, but his substitute cannot wear number 11.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.2",
+      "Phrase": "BLACK team appear with five court players. The goalkeeper is not present at the beginning of the game. BLACK team appoint court player BLACK 5 as goalkeeper. What are the consequences for BLACK 5?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLACK 5 can be used as a court player at any time, when he makes a correct substitution.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK 5 can no longer be used as a court player.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLACK 5 can be used as a court player if the officials of WHITE team accept this.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "BLACK 5 can be used as a court player, as soon as the intended goalkeeper is present.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.3",
+      "Phrase": "Just after the match has started, the club president of WHITE team sits down on the bench in the substitution area with two team officials, the masseur and the coach. What are the consequences?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The substitute goalkeeper must stand behind the bench.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The club president must leave the substitution area.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "One of the officials must leave the substitution area.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Whoever is not included in the score sheet must leave the substitution area.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The responsible team official gets a progressive punishment.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.4",
+      "Phrase": "What is the minimum number of players that must be present on the court at the beginning of the game and included in the match score sheet?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Five players",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Four court players and one goalkeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Five court players and one goalkeeper",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Six court players",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.5",
+      "Phrase": "Four scenarios: Who is entitled to participate?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "A player who is present at the beginning of the game and entered in the score sheet",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "A player who is not present at the beginning of the game but is entered in the score sheet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "A player who is present at the beginning of the game but not entered in the score sheet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "A player who has received permission to play from the timekeeper but is not entered in the score sheet",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.6",
+      "Phrase": "At the beginning of the game, there are only six players of WHITE team present. Immediately after the start of the game, the missing players arrive. WHITE 7 runs directly out on the playing court through the substitution area. He is not included in the score sheet. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of WHITE 7 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 7, who must be included in the score sheet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE 7 must be entered in the score sheet, if this is in accordance with the regulations of the responsible federation",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment against the responsible team official of WHITE team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.7",
+      "Phrase": "The referees have awarded a free throw for WHITE team at the free-throw line of BLACK team. Now, there is a whistle signal from the timekeeper, who stops the clock. The referees enquire about the reason for the intervention. The timekeeper informs the referees that WHITE 9 made a faulty substitution. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team at the free-throw line of BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team at the team’s own free-throw line",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team at the substitution area of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 9",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.8",
+      "Phrase": "BLACK 14 makes a correct substitution, while the game is interrupted. However, a whistle comes from the timekeeper’s table. BLACK 14 is not entered correctly in the score sheet. It is found that this player has number 18 in the score sheet. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressive punishment against the responsible team official from BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team at the timekeeper’s table",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The number is to be corrected in the score sheet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is continued with the throw corresponding to the situation, and there must be a written report.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.9",
+      "Phrase": "When is it permitted for up to two people from one team (team officials and/or players) to enter the court?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "During a match interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "During a match interruption and with permission from a referee",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When a player is injured",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "With permission from the timekeeper",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.10",
+      "Phrase": "The referee whistles to indicate a time-out because WHITE 2 is being given his third 2-minute suspension. As the referee turns to the timekeeper and scorekeeper to report the disqualification, the responsible team official from WHITE team runs onto the court to protest about the suspension. Team official B from WHITE team has previously already been given a warning. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of responsible team official from WHITE team (red card shown by the referees) and a reduction of WHITE team by an additional player for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Personal warning for responsible team official from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of responsible team official from WHITE team with a written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for responsible team official from WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Reduction of WHITE team by an additional player for 2 minutes on the court",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.11",
+      "Phrase": "During a time-out due to a player’s injury, WHITE 2 runs onto the court as an additional player although neither one of the referees has given him permission to enter the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for WHITE 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressive punishment against the responsible team official from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of WHITE 2 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 2 and a reduction of his team by 1 player on the court for 2 minutes",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.12",
+      "Phrase": "WHITE 5 is injured on the court, and the court referee indicates a time-out and gives permission for two people from WHITE team to enter the court to assist WHITE 5. Team official B from BLACK team also enters the court to give advice to his goalkeeper. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No decision, the signal allows all players and officials to enter the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "All four officials of BLACK team receive a warning and if the episode is repeated they must be disqualified.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The responsible team official of BLACK team receives a warning.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment against team official B from BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "After receiving medical care on the playing court, WHITE 5 has to leave the court immediately, and he can only re-enter the court following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.13",
+      "Phrase": "Goalkeeper WHITE 16 has been injured and must be replaced by WHITE 5. WHITE 5 changes his shirt. After 20 minutes, WHITE 16 is ready to play again, and the team official A from WHITE team makes a substitution. WHITE 5 changes his shirt again and is sent in as a court player again without notification to the scorekeeper. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No punishment, as this is allowed",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of WHITE 5 (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.14",
+      "Phrase": "WHITE 4 leaves the playing court beyond the substitution line. When WHITE 4 has crossed the sideline but not yet arrived in his substitution area, WHITE 11 crosses the line correctly to enter the playing court. What is the correct decision after the whistle from the timekeeper?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team where WHITE 4 left the court",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team at height of the substitution area of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 4",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minute suspension for WHITE 4 and WHITE 11",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.15",
+      "Phrase": "BLACK 3 makes the first faulty substitution for his team during an interruption of the match. The interruption was caused by a free-throw decision in favour of BLACK team. BLACK 3 has neither been warned nor suspended earlier in the match. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for BLACK 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.16",
+      "Phrase": "After the referees have awarded a 7-metre throw to WHITE team, WHITE 27, who has been designated to carry out the 7-metre throw, makes a faulty substitution. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 27",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.17",
+      "Phrase": "WHITE team have scored a goal. The referees have not yet whistled for the throw-off to be taken, when BLACK 10 enters the court before BLACK 6 has left it. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Throw-off",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for BLACK 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for BLACK 6",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.18",
+      "Phrase": "WHITE team only have twelve players present at the beginning of the match, as the two goalkeepers are still missing. WHITE team therefore start with one of the twelve court players as a goalkeeper. Which of the following alternatives are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The court player who starts the match as a goalkeeper must be registered as number 1, 12 or 16 in the score sheet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The court player who starts the match as a goalkeeper can also be used as a court player later in the game.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The late-arriving goalkeepers of WHITE team must be registered as number 1, 12 or 16 in the score sheet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "One of the two late-arriving goalkeepers can only be used as a court player.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.19",
+      "Phrase": "During a time-out, WHITE 5 makes the first faulty substitution of his team. WHITE team were in possession of the ball when the time-out was called. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No punishment",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for WHITE 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WHITE team remain in possession of the ball",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.20",
+      "Phrase": "Goalkeeper WHITE 3 wants to carry out a 7-metre throw. To protect the empty goal WHITE 15 enters the court in a goalkeeper uniform replacing a court player. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 15",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "No punishment",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for BLACK team at the height of the substitution area of WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.21",
+      "Phrase": "During a counter-attack by WHITE team, who have a clear chance of scoring, BLACK 3 makes a faulty substitution. The timekeeper and scorekeeper do not react, but the court referee spotted what had happened. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Immediate suspension for BLACK 3 and free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Immediate suspension for BLACK 3 and 7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wait until the chance of scoring has passed, then suspension for BLACK 3 and free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wait until the chance of scoring has passed, then suspension for BLACK 3 and an appropriate throw according to the situation",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.22",
+      "Phrase": "A shot on goal is saved by goalkeeper WHITE 1, and the ball is rolling along the sideline near WHITE team’s substitution bench. WHITE 5, who sits on the substitution bench, now enters the court with one foot to stop the ball, so that WHITE 4 can pick it up before it crosses the sideline. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of WHITE 5 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WHITE team reduced by 1 player on the court for 2 minutes",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.23",
+      "Phrase": "30 seconds before his suspension time is over, WHITE 3 enters the court without interfering with the game. WHITE team are in possession of the ball. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 3 and WHITE team are to be further reduced by 1 player on the court for 30 seconds",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "30 seconds for WHITE 3 and WHITE team are to be reduced by 1 player on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification of WHITE 3 (red card shown by the referees) and WHITE team are to be further reduced by 1 player on the court for 30 seconds",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.24",
+      "Phrase": "WHITE 5 has been suspended. After 1 minute and 45 seconds of the 2-minute suspension, team official A from WHITE team sends him onto the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Another 2-minute suspension for WHITE 5, and WHITE team are to be reduced by 1 player on the court for 2 minutes and 15 seconds",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification for WHITE 5 (red card shown by the referees), and WHITE team are to be reduced by 2 players on the court for 15 seconds and by 1 player on the court for 1 minute and 45 seconds",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Another 2-minute suspension for WHITE 5, and WHITE team are to be reduced by 2 players on the court for 15 seconds and by 1 player on the court for 1 minute and 45 seconds",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.25",
+      "Phrase": "After his 2-minute suspension has ended, goalkeeper BLACK 1 wants to re-join his team, who are defending at that moment. He enters the court wearing his goalkeeper jersey to assume the wing position, as BLACK team’s sixth court player. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for goalkeeper BLACK 1",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.26",
+      "Phrase": "Which of the following statements are correct regarding a player who is bleeding on the court?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The player must leave the court immediately and voluntarily.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The player can remain on the court until the next interruption of the game.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The player who replaces the bleeding player can enter the court beyond the substitution line.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The player must not re-enter the court until the next interruption of the game.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "If the player refuses to follow the instructions of the referees to leave the court, he must be punished for unsportsmanlike conduct.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.27",
+      "Phrase": "WHITE 5 is alone with goalkeeper BLACK 1 and has a clear chance of scoring. BLACK 11 makes a faulty substitution, as he enters the court before BLACK 9 has left it. The timekeeper whistles because of this infraction, precisely when WHITE 5 is ready to shoot. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for BLACK 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification for BLACK 11, written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.28",
+      "Phrase": "Goalkeeper BLACK 1 saves a shot and throws the ball to his teammate BLACK 4. Now, BLACK 1 goes to the sideline near his substitution area. He clearly crosses the line, takes a towel and drinks from a water bottle. He is not replaced on the court by another goalkeeper or court player. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The game continues without interruption, as this is allowed.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 1 for faulty substitution",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team at the substitution area of BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.29",
+      "Phrase": "Team official A from BLACK team received a warning earlier in the game. After a decision by the referees, team official D from BLACK team runs several metres onto the court without permission from the referees. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "No punishment",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for team official D from BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutes suspension for team official D from BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification for team official D from BLACK team (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.30",
+      "Phrase": "There is a time-out due to an injury of WHITE 6 caused by an incident that did not lead to a progressive punishment against a player from BLACK team. The referees have given permission for two people to enter the court and assist WHITE 6. Official C from WHITE team assists WHITE 6. Official A from WHITE team pursues BLACK 5, who in his opinion has caused the injury. He follows BLACK 5 into the substitution area of BLACK team and hits him in the face. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of official A from WHITE team, written report (red and blue cards shown by the referees), WHITE team is reduced by 1 player on the court for 2 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The game is restarted after a whistle signal with the throw that corresponds to the reason of the interruption.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for official A from WHITE team, WHITE team is reduced by 1 player on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification without written report of official A from WHITE team (red card shown by the referees), WHITE team is reduced by 1 player on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "After receiving medical care on the court, WHITE 6 must leave the court and may only re-enter the court following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.31",
+      "Phrase": "Just after the execution of a throw-off for BLACK team, the referees realise that a person, who is not on the score sheet, is present in the substitution area of BLACK team. It turns out that this person is one of the board members of the club, but BLACK team has already had four other people registered as team officials in the score sheet. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The person must leave the substitution area.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Personal punishment for the responsible team official from BLACK team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "An additional team official must leave the substitution area.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The game is restarted with a free throw for BLACK team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.32",
+      "Phrase": "Which of the following statements about the uniform are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "All players of a team identified as goalkeepers must wear shirts of identical colour.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The players must have at least 20cm high numbers on both the front and the back.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The goalkeepers are allowed to wear head protection if it is made of soft material.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The players including the goalkeepers may use numbers from 1 to 100.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.33",
+      "Phrase": "WHITE 10 is serving his first 2-minute suspension starting from 21:00. After the match has been restarted, he complains so strongly that the referees interrupt the match at 21:30 to give WHITE 10 an additional 2-minute suspension. What are the consequences for WHITE team?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of WHITE 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team will be reduced by 1 player on the court until 25:00",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team will be reduced by 2 players on the court until 23:00 and then by 1 player on the court until 23:30",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.34",
+      "Phrase": "In which of the following cases is the responsible team official to be given a personal punishment?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "When a player of his team leaves the substitution area without informing the timekeeper/scorekeeper.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "If there are people, who are not included in the score sheet, present in the substitution area when the game starts.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When an additional player enters the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "When a player who is not entitled to participate enters the court.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "If it is detected that players on the court wear incorrect equipment after the start of the game.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "If there are violations in the substitution area, which cannot clearly be attributed to individuals.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "If it is detected that players in the substitution area wear incorrect equipment after the start of the game.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.35",
+      "Phrase": "The referees give the hand signal to indicate permission to enter the court, because a player of WHITE team is injured. Who is allowed to enter the court?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Two officials from WHITE team, nobody else",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Two officials from both WHITE and BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Two people (officials or players) from WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Two people (officials or players) from both WHITE and BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The doctor of WHITE team, if he is not one of the four team officials",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.36",
+      "Phrase": "Official C from WHITE team has already received a warning for protests. Later on, official B from WHITE team enters the court without permission, but he does not behave in an unsportsmanlike manner. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for official B from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for official B from WHITE team (must leave the bench for 2 minutes)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of official B from WHITE team (red card shown by the referees, WHITE team will be reduced by 1 player on the court for 2 minutes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for official B from WHITE team, WHITE team will be reduced by 1 player on the court for 2 minutes, official B can stay in the substitution area",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.37",
+      "Phrase": "Which of the following actions are <b><u>not</u></b> allowed when there is a time-out because of an injury and the referees have given permission for up to two people from WHITE team to enter the court?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The players of BLACK team stand near the sideline in order to get instructions from the coach.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Players of WHITE team make substitutions outside the substitutions line.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "One of the team officials of WHITE team, who is on the court, moves far away from the injured player and gives instructions to the other players of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.38",
+      "Phrase": "Before the start of the match the delegate realises that WHITE 7 is wearing ankle protectors with hard material that is not covered. What is/are the correct decision(s)?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE 7 can play with the ankle protectors, but the delegate needs to send a report to the competition management.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE 7 cannot play with ankle protectors that have uncovered hard parts. The delegate must alert the responsible team official that the player should remove the ankle protectors or cover the hard parts with soft material.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE 7 will receive a warning.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The responsible team official will receive a warning.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "None of the previous answers are valid.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.39",
+      "Phrase": "At 29:00 in the first half, WHITE 5 receives a 2-minute suspension. After the half-time break, the court referee whistles to start the second half. Three seconds after this, the timekeeper blows his whistle. WHITE team has seven players on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1 player of WHITE team must leave the court, no additional punishment",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for the additional player from WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team will be reduced by 2 players on the court for 57 seconds and by 1 player for 1 minute and 3 seconds.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.40",
+      "Phrase": "The playing time is 43:27. There is an interruption by the timekeeper after a goal from WHITE 15 and throw-off. The timekeeper informs the referees that WHITE 15 is not registered in the score sheet. 14 players are already listed for WHITE team. The referees realise that WHITE 11 is not even present. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The goal is cancelled.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The goal is valid.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE 11 is removed, and WHITE 15 is registered in the score sheet in conformity with the regulations of the responsible federation.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE 15 is not allowed to play and must leave the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive punishment for the responsible team official from WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Written report in conformity with the regulations of the responsible federation.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.41",
+      "Phrase": "Goalkeeper WHITE 12 lies on the floor with a knee injury after saving a shot from BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE 12 may continue to play after receiving medical treatment on the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Two people from WHITE team, who are entitled to participate, can enter the court to give WHITE 12 medical treatment on the court after the hand signals 15 and 16 have been shown by one of the referees.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Only one person from WHITE team, who is entitled to participate, can enter the court to give WHITE 12 medical treatment on the court after the hand signals 15 and 16 have been shown by one of the referees.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "After receiving medical treatment on the court, WHITE 12 can only re-enter the court following the third attack of his team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Regardless of the number of attacks, WHITE 12 can re-enter the court when the game is continued after the end of a half.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "If the team officials refuse to provide the necessary treatment of WHITE 12, the responsible team official is to be punished progressively.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.42",
+      "Phrase": "Goalkeeper WHITE 1 saves a shot from BLACK team. In doing so, he hits his head against the goal post and needs medical treatment on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE 1 may continue to play after receiving medical treatment on the court, because the treatment was caused by a head injury.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "After receiving medical treatment on the court, WHITE 1 can only re-enter the court following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.43",
+      "Phrase": "After receiving medical treatment on the court WHITE 7 sits on the bench in the substitution area. During the first attack of WHITE team, BLACK 2 intercepts the ball and runs in a counter-attack alone with only goalkeeper WHITE 12 between him and the goal of WHITE team. Before BLACK 2 can take a shot on goal, WHITE 7 enters the court through a substitution with WHITE 9. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper waits until BLACK 2 has taken a shot on goal before interrupting the game due to a faulty substitution of WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The timekeeper immediately interrupts the game due to a faulty substitution of WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension of WHITE 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification without written report of WHITE 7 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Regardless of the number of attacks of his team, WHITE 7 can re-enter the court after serving a 2-minute suspension.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.44",
+      "Phrase": "After receiving medical treatment on the court, BLACK 11 sits on the bench and complains about a decision of the referees. Therefore, he receives his first 2-minute suspension of the match. Following the second attack of BLACK team, BLACK 11 re-enters the court after serving his 2-minute suspension. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension of BLACK 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Play on",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.45",
+      "Phrase": "BLACK 10 receives the ball at the free-throw line. Just after catching the ball he is pulled down by WHITE 3. He falls, hurts his elbow, and needs medical treatment on the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for WHITE 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Two people from BLACK team, who are entitled to participate, can enter the court to give BLACK 10 medical treatment on the court after the hand signals 15 and 16 have been shown by one of the referees.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "BLACK 10 may continue to play after receiving medical treatment on the court.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "After receiving medical treatment on the court, BLACK 10 can only re-enter the court following the third attack of his team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.46",
+      "Phrase": "BLACK 10 receives the ball in a counter-attack from BLACK 9. Just after passing the ball, BLACK 9 is pulled down by WHITE 11. Right after receiving the ball, BLACK 10 falls and lies injured on the floor. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for WHITE 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Two people from BLACK team, who are entitled to participate, can enter the court to give BLACK 10 medical treatment on the court after the hand signals 15 and 16 have been shown by one of the referees.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "BLACK 10 may continue to play after receiving medical treatment on the court.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "After receiving medical treatment on the court, BLACK 10 can only re-enter the court following the third attack of his team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.47",
+      "Phrase": "With three minutes left, the game is tied at 21-21. BLACK 2, the top scorer of his team, twists his ankle and ends up lying on the floor. One of the referees asks BLACK 2 if he needs medical treatment on the court. As BLACK 2 does not answer the question, but remains on the floor, the referees interrupt the game and show the hand signals 15 and 16 to allow two people from BLACK team to enter the court and give medical treatment to BLACK 2. BLACK team refuse to send anyone onto the court, and before the referees take any other action, BLACK 2 is ready to continue. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLACK 2 may continue to play.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK 2 must leave the court and can only re-enter the court following the third attack of his team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment to responsible team official of BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.48",
+      "Phrase": "With 30 seconds left in the first half, WHITE 5 receives medical treatment on the court. After receiving medical treatment, he leaves the court and can only re-enter following the third attack of his team. After one minute of the second half, during the second attack of WHITE team, WHITE 5 enters the court through a correct substitution with WHITE 4. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Play on",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 5 due to a faulty substitution (entering the court too early after receiving medical treatment on the court)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.49",
+      "Phrase": "After a collision, WHITE 4 and BLACK 5 lie on the floor and seem to be injured. The referees immediately interrupt the game and show the hand signals 15 and 16 to give both teams permission to let two people enter the court and give medical treatment on the court. Before any person can enter the court, BLACK 5 is ready to play. WHITE 4 receives medical treatment on the court. After 20 seconds, play can continue. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "After receiving medical treatment on the court, WHITE 4 has to leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "As BLACK 5 did not receive medical treatment on the court, he is allowed to continue.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLACK 5 has to leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.50",
+      "Phrase": "WHITE 2 is injured and needs medical treatment on the court. The first half finishes after the first attack of his team. When the referee whistles to start the second half, WHITE 2 is on the court during the attack of his team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper immediately interrupts the game and informs the referees.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Play on",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team in the substitution area",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "No suspension for WHITE 2 who must leave the court. WHITE team continues in possession of the ball because it is a mistake by the timekeeper/delegate.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.51",
+      "Phrase": "WHITE 4 is receiving medical treatment on the court. After receiving treatment, WHITE 4 has to leave the court and can only re-enter following the third attack of his team. After the second attack of WHITE team, team official A from WHITE team asks WHITE 4 to enter the court to play in defence. WHITE 4 enters the court through a substitution with WHITE 6 to play in defence only. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Play on (WHITE 4 is allowed to play in defence)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for WHITE 4, because he entered the court too early",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 4 due to a faulty substitution",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.52",
+      "Phrase": "WHITE 11 slides on the floor and ends just outside the court on the other side of the substitution area. He hits his head against the advertising board. The referees immediately interrupt the game to call for medical treatment for WHITE 11. After 20 seconds, WHITE 11 is ready to play again. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE 11 is allowed to continue the game, because he was lying outside the court, when he received medical treatment.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE 11 has to leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.53",
+      "Phrase": "After one minute of the game, there is a fight between BLACK 3 and WHITE 6. BLACK 3 ends up lying on the floor and seems to be injured. The referees choose to give WHITE 6 a verbal caution.BLACK 3 asks for medical treatment on the court. After receiving medical treatment on the court, BLACK 3 is ready to continue the game. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLACK 3 is allowed to continue the game.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK 3 has to leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.54",
+      "Phrase": "BLACK team is in a counter-attack. BLACK 2 dribbles the ball and is pushed by WHITE 10. He partially loses body control, but manages to play the ball to BLACK 4, who scores a goal. After scoring a goal, BLACK 4 twists his ankle while running back in defence. The referees interrupt the game, give a 2-minute suspension for WHITE 10 and give permission for two people to enter the court to give medical treatment to BLACK 4. After 30 seconds, BLACK 4 is ready to play again. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLACK 4 is allowed to continue the game.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK 4 has to leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.55",
+      "Phrase": "WHITE 11 takes a shot on goal. Defender BLACK 2 is unfortunately hit in the face by the ball and needs medical treatment on the court. After 20 seconds of treatment, BLACK 2 is ready to play again. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLACK 2 is allowed to continue the game, because the injury was caused by a ball in the face.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK 2 has to leave the court and can only re-enter following the third attack of his team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.56",
+      "Phrase": "BLACK 2 is lying on the floor in the goal area of WHITE team after a shot on goal asking for medical treatment, apparently because of a leg injury. WHITE team has just started a counter-attack. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The referees immediately interrupt the game and show hand signals 15 and 16 to call for medical treatment on the court for BLACK 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Play on until there is a result of the counter-attack from WHITE team – then interrupt the game to call for medical treatment for BLACK 2",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.57",
+      "Phrase": "WHITE 2 is warming up without elbow protection. After 5 minutes of the game, WHITE team is in possession of the ball. WHITE 2 enters the court under a correct substitution. The referees notice that WHITE 2 now wears an elbow protection with uncovered hard components. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Play on, it is allowed to wear an elbow protection with uncovered hard components.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The referees interrupt the game, WHITE 2 has to leave the court and can only re-enter after removing the elbow protection or covering up the uncovered hard components.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The referees interrupt the game, WHITE 2 has to leave the court and can only re-enter after removing the elbow protection.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment for WHITE 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive punishment for responsible team official from WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.58",
+      "Phrase": "WHITE team is attacking close to the 9-metre line. WHITE 7 enters the court after a normal substitution wearing his yellow pullover/jersey over the normal white t-shirt. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The referees interrupt the game, WHITE 7 must take off the yellow jersey before continuing on the court.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.59",
+      "Phrase": "WHITE team is in possession of the ball, when the timekeeper interrupts the match. The timekeeper tells the referees that WHITE 11 has entered the court, and there is no WHITE 11 included in the score sheet. It turns out that official A had wrongly included the player in the score sheet as number 13. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE 11 is not allowed to participate in the match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The mistake is corrected, and WHITE 11 is entitled to participate.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Note in the match report/written report in conformity with the regulations of the responsible federation.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Progressive punishment for official A from WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.60",
+      "Phrase": "The score is 29:29 with 10 seconds left in the match. Goalkeeper WHITE 12 executes a goalkeeper throw and passes the ball to WHITE 11. WHITE 11 sees that WHITE 9 is in a free position at the goal-area line of BLACK team. Before he can play the pass to WHITE 9, the timekeeper interrupts the game because of a faulty substitution. BLACK 2 has entered the court before BLACK 4 has left it. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for BLACK 2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification for BLACK 2 (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.61",
+      "Phrase": "The score is 29:29 with 10 seconds left in the match. Goalkeeper WHITE 12 executes a goalkeeper throw and passes the ball to WHITE 11. WHITE 11 sees that WHITE 9 is in a free position at the goal-area line of BLACK team. He passes the ball to WHITE 9. Before WHITE 9 takes a shot on goal, the timekeeper interrupts the game because of a faulty substitution. BLACK 2 has entered the court before BLACK 4 has left it. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for BLACK 2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification for BLACK 2 (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

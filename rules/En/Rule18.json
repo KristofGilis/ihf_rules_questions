@@ -1,0 +1,209 @@
+﻿{
+  "RuleNumber": "18",
+  "Name": "The Timekeeper and the Scorekeeper",
+  "Questions": [
+    {
+      "QuestionNumber": "18.1",
+      "Phrase": "What do the Rules of the Game prescribe regarding the work distribution between timekeeper and scorekeeper?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The control of the entry and exit of the substitutes is handled only by the timekeeper.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Generally, only the timekeeper should interrupt the game, when this becomes necessary.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The scorekeeper must whistle, if he observes that a substitute enters the court too soon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "If there is no public clock, the timekeeper keeps the teams informed about how much time has been played or how much time remains.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Counting the number of attacks when a player is serving 3 attacks after receiving medical care on the court is a shared task for the timekeeper and scorekeeper.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.2",
+      "Phrase": "WHITE 5 has a clear chance of scoring. Team official A from WHITE team insults the timekeeper. The timekeeper whistles just when WHITE 5 is about to shoot. The action has been noticed only by the timekeeper. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Punishment against team official A from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Written report",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.3",
+      "Phrase": "The responsible team official from WHITE team insults the scorekeeper, without this being noticed by the referees or a delegate. During the next interruption of the game, the scorekeeper informs the referees about what has happened. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification of the responsible team official from WHITE team, written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for the responsible team official of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Written report",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for the responsible team official from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "No personal punishment possible",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.4",
+      "Phrase": "WHITE team is in possession of the ball at the free-throw line of BLACK team. The technical delegate interrupts the game and explains to the referees that official A from BLACK team has insulted him. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Caution for official A from BLACK team, written report",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification of official A from BLACK team, written report (red and blue cards shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The game is restarted with a free throw for WHITE team at the substitution area of BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a free throw for WHITE team at the free-throw line of BLACK team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.5",
+      "Phrase": "WHITE team is in possession of the ball at the free-throw line of BLACK team. The timekeeper interrupts the game and explains to the referees that official A from WHITE team has insulted him. The action has been noticed only by the timekeeper. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Written report",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for official A from WHITE team, written report",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The game is restarted with a free throw for BLACK team at the substitution area of WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The game is restarted with a free throw for WHITE team at the free-throw line of BLACK team.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.6",
+      "Phrase": "During the match, official A from WHITE team repeatedly moves to the timekeeper’s desk to coach right next to it. While doing so he protests over referee decisions. Due to the noise in the playing hall, the referees do not notice this. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The timekeeper immediately interrupts the game and informs the referees about official A’s misbehaviour.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The timekeeper waits until the next interruption of the game and informs the referees about official A’s misbehaviour.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment for official A from WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "No punishment possible",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.7",
+      "Phrase": "When should the timekeeper/scorekeeper inform the referees about a violation of the Substitution Area Regulations that has not been noticed by the referees?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Immediately",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "At the time of the next interruption of the game",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.8",
+      "Phrase": "If the technical delegate interrupts the game because of a violation by WHITE team when the ball is in play, the game is restarted with ball possession by BLACK team. Correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Yes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "No",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

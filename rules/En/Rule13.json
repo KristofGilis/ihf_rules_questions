@@ -1,0 +1,426 @@
+﻿{
+  "RuleNumber": "13",
+  "Name": "The Free Throw",
+  "Questions": [
+    {
+      "QuestionNumber": "13.1",
+      "Phrase": "There is a free throw for WHITE team. Before WHITE 5 can pick up the ball, BLACK 6 picks it up, putsit under his arm and runs towards his goal. After a few steps, he rolls the ball back to WHITE 5. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for BLACK 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Warning for BLACK 6",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.2",
+      "Phrase": "BLACK 7 is in possession of the ball and tries to start a counter-attack, but is held by WHITE 17. The referee is just about to whistle, but plays advantage, as BLACK 8 has just received the ball and takes a shot on goal of WHITE team. Goalkeeper WHITE 12 saves the shot and wants to start a counter-attack. Both teams have already received three warnings each earlier in the game. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for WHITE 17",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.3",
+      "Phrase": "WHITE team receives a free throw. BLACK 6 is in possession of the ball. He brings the ball with him, four metres from the place where the free-throw is to be executed. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for BLACK 6",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minute suspension for BLACK 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of BLACK 6 (red card shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team from the place of the infraction that has led to the free throw",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for WHITE team from the place where the ball is",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.4",
+      "Phrase": "A free throw is awarded against WHITE 4, who then takes the ball, crosses the goal area and puts the ball down. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 4",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for WHITE 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.5",
+      "Phrase": "WHITE 5 is in possession of the ball, when official B from WHITE team complains about the referees. The referees whistle, and the time is stopped. The referees warn official B from WHITE team. How should the game be resumed?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw after whistle signal for BLACK team at the substitution area of WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw after whistle signal for WHITE team at the substitution area of WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw after whistle signal for WHITE team, executed from the place where the ball was when the game was interrupted",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-in for BLACK team at the substitution area of WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.6",
+      "Phrase": "The game is interrupted by a whistle from the court referee, even though there has been no violation of the rules by any of the teams. No team time-out has been called. BLACK 13 has thrown the ball in the direction of the goal of WHITE team immediately prior to the whistle signal from the court referee. After the whistle signal, the ball goes into the goal without a chance for goalkeeper WHITE 1 to save it. How should the game be resumed?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.7",
+      "Phrase": "WHITE 7 is in a counterattack. With one player from BLACK team between him and the goalkeeper, he shoots on goal and hits goalkeeper BLACK 12 in the head with the ball. BLACK 12 collapses. The ball rebounds to WHITE 9, who is standing alone at the goal-area line. WHITE 9 throws the ball in the direction of the empty goal. Just before the ball crosses the goal line, the referee whistles and interrupts the game. Goalkeeper BLACK 12 needs medical care on the court. Correct decision? ",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "BLACK 12 must leave the court and can only re-enter following the third attack of his team.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.8",
+      "Phrase": "There is a free-throw decision for BLACK 9, but WHITE 5 is still in possession of the ball. WHITE 5 moves towards one of the referees and politely gives the ball to him. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "2-minute suspension for WHITE 5 and free throw for BLACK team from the spot where the ball is now",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Warning for WHITE 5 and free throw for BLACK team from the spot where the ball is now",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 5 and free throw for BLACK team from the spot where the foul was committed",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for WHITE 5 and free throw for BLACK team from the spot where the foul was committed",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.9",
+      "Phrase": "WHITE 5 makes a faulty substitution after the referees have just awarded a 7-metre throw for WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for the responsible team official from WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.10",
+      "Phrase": "Which of the following statements about the place of execution of a free throw are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "If the ball is not put down immediately after the free-throw decision, the opponents are allowed to execute the free throw from the place where the ball is.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "After a faulty substitution, the free throw can be taken from where the ball is, instead of at the substitution area, if this is advantageous to the team executing the throw.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "After passive play, the free throw is always taken from the place where the ball was when the free throw was given.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "For a free throw from the centre line, the tolerance to the side is about the same as in case of a throw-off.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.11",
+      "Phrase": "BLACK 11 has the ball in attack and tries to go around WHITE 2. Because of a whistle signal from the spectators’ area, WHITE 2 stops defending. BLACK 11 is now free to shoot. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out; consultation with the timekeeper",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.12",
+      "Phrase": "WHITE team has the ball at the free-throw line of BLACK team. Official A from BLACK team protests so strongly against a referee decision that the referees interrupt the game. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressive punishment for official A from BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team at the substitution area of BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team at the free-throw line of BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.13",
+      "Phrase": "BLACK 6 receives a warning. When whistling for the execution of the subsequent free throw for WHITE team, the court referee does not see WHITE 11, who is between the goal-area line and the free-throw line. WHITE 11 receives the ball and has a clear chance of scoring. The goal-line referee noticed the situation. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repeat the free throw after correction and whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The goal-line referee decides on a free throw for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The goal-line referee gives WHITE 11 a warning.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.14",
+      "Phrase": "WHITE team are in possession of the ball. BLACK team have taken their positions in defence. WHITE 8 is running close to the sideline. WHITE 4 passes the ball in the direction of WHITE 8. WHITE 8 collides with a photographer, who is walking between the stands and the court and touching the sideline. WHITE 8 fails to catch the ball and loses body control. Before the referees interrupt the game, the ball passes the sideline. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The game is restarted with a throw-in for BLACK team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The game is restarted with a free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Note in the match report in conformity with the regulations of the respective federation",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.15",
+      "Phrase": "BLACK team are in attack. The referees give a free throw to BLACK 2. Before BLACK 2 can execute the free throw, BLACK 11 pulls WHITE 8 down. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment for BLACK 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Direct 2-minute suspension for BLACK 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification for BLACK 11 (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

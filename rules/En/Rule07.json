@@ -1,0 +1,932 @@
+﻿{
+  "RuleNumber": "7",
+  "Name": "Playing the Ball, Passive Play",
+  "Questions": [
+    {
+      "QuestionNumber": "7.1",
+      "Phrase": "The ball is in the air going towards the sideline. WHITE 3 manages to play the ball with his hand to WHITE 7 before the ball crosses the line. In order to do this, WHITE 3 crosses the sideline with one foot. WHITE 7 catches the ball and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.2",
+      "Phrase": "A risky pass is played from BLACK 3 to BLACK 11. When the ball is in the air, BLACK 11 realises that he will not be able to catch it, so he hits the ball with his fist to feed BLACK 9, who is standing in the middle of the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team from BLACK 9’s position",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team from BLACK 11’s position",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for BLACK 11",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.3",
+      "Phrase": "WHITE 4 catches the ball while standing. He then jumps and lands on the right foot and jumps to his left foot to throw. How many steps did WHITE 4 take?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "4",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.4",
+      "Phrase": "A player jumps to catch the ball passed to him by a teammate. He lands on both feet simultaneously. Then he lifts his right foot to take a step to the side and drags his left foot up to the right foot. How many steps did he take?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "0",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.5",
+      "Phrase": "A player catches the ball in mid-air, passed to him by a teammate. He then lands on the right foot and moves off with that foot. Then he puts the left foot down first and then the right one to throw. How many steps did he take?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "0",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.6",
+      "Phrase": "WHITE 5 is fumbling the ball, but finally manages to get it under control. Then he takes three steps, bounces the ball once, and takes another three steps before scoring a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.7",
+      "Phrase": "WHITE 5 wants to start an attack. He bounces the ball repeatedly while taking five steps. He then takes the ball up again to pass it. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.8",
+      "Phrase": "BLACK 6 catches the ball, slips and falls. Lying on his back, he passes the ball to BLACK 9. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.9",
+      "Phrase": "WHITE 3 runs between two opponents to push the ball in the direction of his path. He grabs the ball again, before it has touched the ground. Now, there is an open space towards the goal of BLACK team. WHITE 3 bounces the ball once and score. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.10",
+      "Phrase": "After bouncing the ball once, WHITE 7 wants to pass the ball to WHITE 5, but WHITE 5 is marked by an opponent. WHITE 7 becomes so confused that he drops the ball, but manages to catch it again before it has touched the floor. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.11",
+      "Phrase": "How is repeated passive play to be penalised?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw and warning",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw and 2-minute suspension",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw and disqualification (red card shown by the referees)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.12",
+      "Phrase": "Following a shot on goal by WHITE 4, the ball rebounds from the goal post of BLACK team, and hits the referee who stands inside the goal area next to the goal. Consequently, the ball crosses the sideline and not the outer goal line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.13",
+      "Phrase": "WHITE team executes a throw-in. WHITE 5 throws the ball onto the court, where it hits the referee and crosses the goal line of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Repetition of throw-in after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.14",
+      "Phrase": "BLACK 3 makes a jump shot, and WHITE 9 blocks the ball. The ball falls to the floor, and WHITE 9 picks it up with both hands and starts dribbling in a counter-attack. He throws the ball into the goal of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.15",
+      "Phrase": "WHITE 5 dribbles the ball along the sideline. BLACK obstructs him correctly. To get past BLACK 2, WHITE 5 steps over the sideline with one foot during his dribbling. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.16",
+      "Phrase": "After an imprecise pass from WHITE 3 to WHITE 9, the ball rolls towards the sideline near the substitution area of WHITE team. BLACK 10 is one metre away and ready to grab the ball, when WHITE 9 dives for the ball and hits it with his fist towards the centre of the playing court back to WHITE 3. His movement then causes WHITE 9 to slide over the sideline and land outside the court. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment for WHITE 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-in for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.17",
+      "Phrase": "BLACK 7 of the attacking team assumes a position outside the court without having the ball. The referees indicate to the player that he must return to the court, but he does not react. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment for BLACK 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-in for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.18",
+      "Phrase": "A player jumps in over the goal area of the opposing team. He has full ball and body control, and he is in a good position to shoot. However, instead of shooting he turns around in mid-air and passes the ball back to a teammate, who passes the ball further. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Forewarning signal for passive play",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Immediate free throw because of passive play",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Immediate free throw because of unsportsmanlike conduct",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive punishment",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.19",
+      "Phrase": "WHITE 3 takes a shot on the goal of BLACK team and hits the goalpost. The ball rolls back out of the goal area. At the free-throw line, WHITE 3 and BLACK 4 dive for the ball without endangering each other. BLACK 4 manages to push the ball to BLACK 6, who starts a counter-attack and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for BLACK 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team or BLACK team depending on the circumstances",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.20",
+      "Phrase": "WHITE 10 tries to pass the ball to WHITE 8, who is at the goal-area line of BLACK team. BLACK 10 stands completely still in front of WHITE 8, when the ball hits his foot. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Decision depending on who gets the ball",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.21",
+      "Phrase": "WHITE 15 blocks a pass from BLACK 9, and the ball rolls on the floor. WHITE 15 and BLACK 9 dive for the ball. WHITE 15 catches the ball and dives on the floor. He stands up, takes three steps with the ball and plays the ball to a teammate, who scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.22",
+      "Phrase": "WHITE team is leading 24:23 in the 57th minute, but has one less player on the court. The court referee has given a free throw in favour of WHITE 3. WHITE 6 tries to execute the free throw several metres away from the correct spot, even though the referee has shown the correct spot very clearly. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correction of the position, restart signal, no other action",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correction of the position, restart signal, and referees show the forewarning signal for passive play",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction of the position, progressive punishment against WHITE 6, restart signal, and referees show the forewarning signal for passive play",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.23",
+      "Phrase": "BLACK team is playing with one player less. The players of BLACK team have already assumed their positions in attack and started the build-up phase. Now, BLACK 6 and BLACK 8 decide to leave the court for a substitution. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Forewarning signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Forewarning signal if there is no increase in tempo within 5 seconds",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Immediate free throw for WHITE team because of passive play",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for BLACK 6 or BLACK 8 if repeated",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-minute suspension for BLACK 6 or BLACK 8 if repeated",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.24",
+      "Phrase": "Which of the following actions nullify the forewarning signal?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renewed ball possession for attacking team after goalkeeper saves a 7-metre throw",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renewed ball possession for attacking team after the ball rebounds from the crossbar or the goalpost",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Forceful action before the team’s next passive actions",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "None of the actions under points a-d",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.25",
+      "Phrase": "Which of the following instructions regarding the forewarning signal for passive play (IHF hand signal 17) are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "If a tendency to passive play is noticed, this is first shown by the goal-line referee using hand signal 17. The court referee then raises his arm in the same way.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "If the team in possession of the ball requests a team time-out after the forewarning signal has been shown, then the forewarning signal must be shown again, when the game is restarted.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "If the team in possession of the ball makes no clear effort to get in a position to shoot on goal, after the forewarning signal has been shown, then either the court referee or the goal-line referee gives a free throw because of passive play.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "After the forewarning signal is shown, the referees decide on passive play at the latest when no shot on goal is taken after four passes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.26",
+      "Phrase": "WHITE team delay the execution of a throw-off. The team has already been cautioned for this type of tactical delay earlier. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out; throw-off after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out; throw-off after whistle signal, immediate hand signal for passive play",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Whistle signal for throw-off, immediate hand signal for passive play",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive punishment for the responsible team official from WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.27",
+      "Phrase": "Which of the following statements regarding the correct use of the forewarning signal for passive play are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The forewarning signal is always to be stopped when a team official from the defending team is given a progressive punishment during the course of an attack.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "When the forewarning signal is shown for the first time during an attack, the arms must be taken down after about ten seconds.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The forewarning signal must be repeated as a reminder after the first interruption, if it has been shown before the interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The forewarning signal is always to be stopped when a player from the defending team is given a progressive punishment during the course of an attack.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The referees must show the forewarning signal when a player has the ball clearly under control.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.28",
+      "Phrase": "Which of the following statements regarding passive play are correct?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "A team must not be allowed more than five seconds to move from the build-up phase to the finishing phase.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "The referees must be aware of slow and late substitutions after the throw-off has already been executed.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The referees must observe if the team is trying to increase the tempo or gain a spatial advantage during the build-up phase.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "The referees must look out for passive play as soon as a team has gained ball possession in its own half of the court.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "A team that has tried to make a counter-attack must be allowed a normal substitution when switching from counter-attacking to a normal build-up phase.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.29",
+      "Phrase": "WHITE team is in possession of the ball. The referees show the forewarning signal for passive play. After one pass, WHITE 5 takes a shot on goal. The shot is blocked by BLACK 2, and the ball bounces back to WHITE 5, who passes the ball to WHITE 9. How many passes have been completed?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "5",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.30",
+      "Phrase": "WHITE team is in possession of the ball. The referees show the forewarning signal for passive play. WHITE 9 tries to pass the ball to WHITE 2, but the pass is blocked by BLACK 8, and the ball bounces back to WHITE 9. WHITE 9 tries to break through the defence, but is rewarded a free throw. WHITE 8 executes the free throw by passing the ball to WHITE 2. How many passes have been completed?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.31",
+      "Phrase": "WHITE team is in possession of the ball. The referees notice a passive tendency in the play of WHITE team. The referees show the forewarning signal for passive play. BLACK team sees that the forewarning signal is shown, and they become more aggressive in defence, trying to cause a free throw. After three passes by WHITE team, BLACK team causes a free throw. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WHITE team has 4 passes left to take a shot on goal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team has 2 passes left to take a shot on goal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team has 1 pass left to take a shot on goal.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team has to execute the free throw as a direct shot on goal.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.32",
+      "Phrase": "WHITE team is in attack. The referees notice a passive tendency in the play of WHITE team and show the forewarning signal. WHITE team passes the ball four times, before WHITE 9 takes a shot on goal. The shot is blocked by BLACK 3, and the ball goes over the sideline for a throw-in for WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The forewarning signal is no longer valid.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team has 4 passes left to take a shot on goal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WHITE team has 2 passes left to take a shot on goal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WHITE team has 1 pass left to take a shot on goal.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.33",
+      "Phrase": "WHITE team is in possession of the ball, and because of a passive tendency in the play of WHITE team the referees show the forewarning signal. After 4 passes WHITE 5 takes a shot on goal. BLACK 3 blocks the shot, and the ball returns to WHITE 5. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WHITE team has 1 pass left to take a shot on goal.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Forewarning signal continues",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Forewarning signal is no longer valid",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WHITE team has no more passes before taking a shot on goal.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.34",
+      "Phrase": "BLACK team are in attack. The referees show the forewarning signal. BLACK 7 passes the ball to BLACK 11. BLACK 11 tries to break through, but is stopped by WHITE 3. The referees give a free throw for BLACK team. BLACK 11 executes the free throw and passes the ball to BLACK 2, who tries to take a shot on goal, but the shot is blocked by defender WHITE 4, and the ball goes to BLACK 11. BLACK 11 takes a shot on goal, but he is pushed lightly by WHITE 5, and goalkeeper WHITE 1 manages to save the shot. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team; new attack, because BLACK team manage to get possession of the ball after a shot on goal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team; forewarning signal, BLACK team have used two passes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team; forewarning signal, BLACK team have used three passes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team; forewarning signal, BLACK team have used four passes",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.35",
+      "Phrase": "The score is 27-27 with 20 seconds left of the match. WHITE team play without goalkeeper. The forewarning signal is shown by the referees. After three passes, WHITE 8 passes the ball to WHITE 7, who takes a shot on goal. The ball is blocked by defender BLACK 2, and the ball passes the side line. Shortly after the throw-in is executed, the whistle sounds from the table, because WHITE team have requested a team time-out. How should the match be restarted?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for WHITE team.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The throw must be executed as a direct shot on goal.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Besides the possibility to execute the throw as a direct shot on goal, the thrower may pass the ball to a teammate.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.36",
+      "Phrase": "WHITE team plays in attack. Two passes after the forewarning signal has been shown by the referees, WHITE 7 shoots on goal. The ball is blocked by BLACK 8. WHITE 8 receives the rebound and tries to shoot on goal. Again, the ball is blocked by BLACK 8. WHITE 8 receives the ball after the block and plays the ball to WHITE 6, who has a clear chance of scoring. WHITE 6 is pulled down from behind by BLACK 7 in a way that he totally loses body control. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Direct 2-minute suspension for BLACK 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification for BLACK 7 (red card shown by the referees)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

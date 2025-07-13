@@ -1,0 +1,110 @@
+﻿{
+  "RuleNumber": "3",
+  "Name": "The Ball",
+  "Questions": [
+    {
+      "QuestionNumber": "3.1",
+      "Phrase": "How many colours is the ball allowed to have?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Unlimited",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.2",
+      "Phrase": "Which of the following balls must the referees select for a men’s game?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Circumference 57cm, weight 450g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Circumference 58cm, weight 400g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Circumference 59cm, weight 425g",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Circumference 60cm, weight 500g",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.3",
+      "Phrase": "Which of the following balls must the referees select for at women’s game?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Circumference 53cm, weight 350g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Circumference 54cm, weight 300g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Circumference 55cm, weight 425g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Circumference 56cm, weight 375g",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.4",
+      "Phrase": "The referees have decided to bring the reserve ball into play. When should the original ball be used again?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "At the time of the next interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "It cannot be used again, unless it becomes impossible to continue to use the reserve ball.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "When the referees find it necessary to use it again",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "If one of the teams request it",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

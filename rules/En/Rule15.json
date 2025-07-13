@@ -1,0 +1,682 @@
+﻿{
+  "RuleNumber": "15",
+  "Name": "General Instructions on the Execution of the Throws (Throw-Off, Throw-In, Goalkeeper Throw, Free Throw and 7-Metre Throw)",
+  "Questions": [
+    {
+      "QuestionNumber": "15.1",
+      "Phrase": "When carrying out a goalkeeper throw, goalkeeper WHITE 13 swings back the ball in a way that it goes beyond the goal line between the goalposts. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goalkeeper throw for WHITE team with whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.2",
+      "Phrase": "20 seconds before the end of the match, WHITE team is leading 20:19. Goalkeeper WHITE 12 takes his time executing a goalkeeper throw, bouncing the ball back and forth in the goal area. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw against WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Whistle signal for goalkeeper throw",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for WHITE 12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Show the forewarning signal for passive play",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.3",
+      "Phrase": "The referees have given a free throw for BLACK team at the free-throw line of WHITE team. When all the players have assumed their correct positions, the referee whistles. Before the ball has left the thrower’s hand, two of his teammates cross the free-throw line of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Repetition of the free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "With restart signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Without restart signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.4",
+      "Phrase": "Goalkeeper WHITE 12 is standing in the goal area with the ball in his hand and ready to execute a goalkeeper throw. BLACK 6 plays the ball away from WHITE 12 with an open hand. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension for BLACK 6",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.5",
+      "Phrase": "A throw-in is awarded to WHITE team. WHITE 8 executes the throw-in as a direct shot on goal. The ball hits the goalpost and bounces back to WHITE 8, who catches the ball and scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Throw-in is retaken after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.6",
+      "Phrase": "Goalkeeper BLACK 12 has saved a shot on goal. He wants to immediately start a counter-attack, but drops the ball in a way that it crosses the goal line into the goal of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repeat the goalkeeper throw after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Throw-in for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.7",
+      "Phrase": "WHITE 6 executes a throw-in in the direction of his goalkeeper. Goalkeeper WHITE 1 notices the ball too late, and the ball crosses the goal line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Repeat the throw-in for WHITE team after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.8",
+      "Phrase": "WHITE 7 executes a throw-in, and the ball hits the referee. WHITE 7 picks up the ball again and throws it into the goal of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Repeat the throw-in after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.9",
+      "Phrase": "There is a free throw for WHITE team. When everyone stands correctly, WHITE 10 puts the ball down to give some instructions. BLACK 7 quickly takes the ball and starts a counter-attack. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repeat free throw for WHITE team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team, warning for BLACK 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team, 2-minute suspension for BLACK 7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.10",
+      "Phrase": "BLACK 9 wants to execute a free throw, but WHITE 11 is only two metres away from the ball and tries to delay the throw. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Personal punishment against WHITE 11, free throw for BLACK team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correct the position of WHITE 11 and free throw after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.11",
+      "Phrase": "There is a free throw for BLACK team at the free-throw line of WHITE team. The referee overlooks that BLACK 8 is in a position between the free-throw line and the goal-area line. BLACK 8 receives the ball and scores. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Repeat the free throw for BLACK team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for BLACK 8",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.12",
+      "Phrase": "Goalkeeper BLACK 12 executes a goalkeeper throw towards the goal of WHITE team. No player from either team touches the ball, and it enters the goal of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Warning for BLACK 12 for unsportsmanlike conduct",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.13",
+      "Phrase": "WHITE 5 has already received a warning and two 2-minute suspensions. When BLACK team is carrying out a free throw, he interferes with the execution of the throw by not keeping his distance. This is the first time he does that. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Warning for WHITE 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "No punishment",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Third 2-minute suspension for WHITE 5 and disqualification (red card shown by the referees)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.14",
+      "Phrase": "Shortly before the end of the game, WHITE team is leading 24:23. A free throw is awarded for WHITE team about one metre outside the free-throw line of BLACK team. All players are in a correct position, and the referee whistles for the execution of the free throw. WHITE 10, who is executing the free throw, takes one step before the ball has left his hand. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension for WHITE 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.15",
+      "Phrase": "WHITE 14 wants to execute a free throw without whistle signal at the free-throw line of BLACK team. He and his teammates are standing in correct positions. Before the ball has left the hand of WHITE 14, both WHITE 13 and WHITE 15 run across the free-throw line towards the goal-area line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correction",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.16",
+      "Phrase": "Goalkeeper BLACK 1 is executing a goalkeeper throw. The ball touches the referee and goes back to BLACK 1, who in the meantime has left the goal area. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repeat the goalkeeper throw after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.17",
+      "Phrase": "While executing a free throw, BLACK 11 swings back his arm while moving the ball completely over the sideline. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Throw-in for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for WHITE team, verbal caution for BLACK 11",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.18",
+      "Phrase": "Goalkeeper WHITE 1 stops the ball just in front of the goal line. When he tries to pass the ball to WHITE 4, the ball falls out of his hand and into his own goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Repeated goalkeeper throw for WHITE team after whistle signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.19",
+      "Phrase": "WHITE team has a throw-off. The court referee gives the whistle signal for the execution. WHITE 13 takes the ball out of the hand of WHITE 9, who was standing ready to execute the throw. WHITE 13 does this because he saw that WHITE 7 and WHITE 3 are running into the half of the opponents and are in favourable positions. WHITE 13 throws the ball to WHITE 7, who scores a goal. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correction, repetition of the throw-off for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verbal caution for WHITE 13",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Verbal caution for WHITE 7 and WHITE 13",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.20",
+      "Phrase": "(Without throw-off area) The score is 30:30 with just four seconds left in the game. WHITE team scores to make it 31:30. BLACK team tries to take a quick throw-off. BLACK 10 stands with one foot behind the centre line and the other one just in front of it. Without a whistle signal, he throws the ball into the goal of WHITE team. The automatic signal from the public clock for the end of the game sounds. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repetition of the throw-off for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wait for the result of the throw",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "The game is over; no goal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.21",
+      "Phrase": "There is a free throw for WHITE team at the free-throw line of BLACK team. WHITE 7 executes the free throw and, like his teammates, he is standing correctly outside the free-throw line. The free throw is executed quickly without a whistle signal, but before the ball has left the hand of WHITE 7, both WHITE 9 and WHITE 18 cross the free-throw line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correction",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team after whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team; warning for WHITE 9 and WHITE 18",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.22",
+      "Phrase": "From which of the following throws is it not possible to score an own goal?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goalkeeper throw",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Throw-in",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Throw-off",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.23",
+      "Phrase": "BLACK 4 assumes a correct position to execute a throw-in that has been awarded to his team. As he cannot find a teammate to whom he could pass the ball he bounces the ball one time inside the sideline. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team without whistle signal",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Throw-in for WHITE team after restart signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Repetition of the throw-in for BLACK team after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Free throw for BLACK team after whistle signal",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.24",
+      "Phrase": "WHITE team receives a free throw. Without a whistle signal from the referees, WHITE 9 executes the free throw very quickly while jumping. The ball goes to WHITE 4, who finds himself completely unmarked in front of the goal of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Repetition of the free throw for WHITE team after whistle signal",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.25",
+      "Phrase": "WHITE team receives a free throw. Without a whistle signal from the referees, WHITE 5 very quickly executes the free throw while running fast. WHITE 5 intends to play the ball to WHITE 4, but BLACK 3 intercepts the ball and finds himself unmarked in front of the goal of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Game continues without interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Repetition of the free throw after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Repetition of the free throw and progressive punishment for BLACK 3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.26",
+      "Phrase": "BLACK team is ready to execute a free throw without whistle signal. BLACK 8 executes the throw with both feet and his left hand in contact with the floor. BLACK 6 receives the ball and scores a goal. What is the correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correction, repetition of the free throw after whistle signal from the referees",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

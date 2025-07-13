@@ -1,0 +1,266 @@
+﻿{
+  "RuleNumber": "9",
+  "Name": "Scoring",
+  "Questions": [
+    {
+      "QuestionNumber": "9.1",
+      "Phrase": "WHITE 7 is standing in the centre of defence, when BLACK 3 tries to play a bounce pass to the line player. WHITE 7 tries to stop the ball by clearly lifting his foot. While doing so he kicks the ball into the goal of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-minute suspension against WHITE 7",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.2",
+      "Phrase": "A shot by WHITE 5 bounces back from the goalpost of BLACK team. It deflects off the foot of BLACK 3, who is standing in the playing area, into the goal of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for BLACK team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.3",
+      "Phrase": "The ball has been stopped by goalkeeper WHITE 1 and bounces back from defender WHITE 3’s back, who is standing two metres inside the goal area, into the goal of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive punishment against WHITE 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.4",
+      "Phrase": "Goalkeeper WHITE 1 holds the ball for four seconds in a position where three quarters of the ball have already passed the goal line. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.5",
+      "Phrase": "WHITE 3 enters his team’s goal area and tries to stop a shot with his foot, but the ball deflects off his foot into the goal of WHITE team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Goalkeeper throw for WHITE team",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.6",
+      "Phrase": "WHITE 11 takes a lob shot over goalkeeper BLACK 1, who is standing far in front of the goal. Just before the ball crosses the goal line, the manager of BLACK team, who has been sitting in the first spectators’ row behind the goal and is not listed on the score sheet, pushes the ball away. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for WHITE team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Goal for WHITE team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification of BLACK team’s manager with written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Written report",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.7",
+      "Phrase": "The score is 25:25 with two seconds to play in the match. An official of WHITE team (home team), who is not listed on the score sheet, intercepts the ball, which is flying high in the direction of the empty goal. This action spoils a goal for BLACK team. Immediately after this action, the final signal sounds. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "The final score is 25:25.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-metre throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "The final score is 25:26.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification of the official with written report (red and blue cards shown by the referees)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Written report",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.8",
+      "Phrase": "BLACK 9 takes a 7-metre throw and scores. WHITE team immediately takes a fast throw-off after the referee’s whistle. After two passes, WHITE 4 scores a goal. At this moment, the timekeeper whistles and informs that BLACK 9, who has returned to the bench in the meantime, had 20 seconds left of a 2-minute suspension at the time of the 7-metre throw. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-metre throw for BLACK team must be repeated",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLACK 9 receives additional suspension",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Both goals are valid.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Both goals are invalid.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.9",
+      "Phrase": "Just before the end of the match, when the result is 22:21 for his team, WHITE 5 has correctly executed a throw-off. The ball goes back in the direction of the goal of WHITE team. Goalkeeper WHITE 1 does not touch the ball, as he is in his goal area. The ball goes into the goal. The teammates of WHITE 5 had crossed the centre line after the referee’s whistle, but before the ball was played, running in the direction of the goal of BLACK team. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Repetition of the throw-off after whistle signal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Personal punishment for WHITE 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "9.10",
+      "Phrase": "WHITE 9 tries to stop a low shot with his lower leg by clearly lifting his foot. In doing so he kicks the ball, which goes into his own goal. This is the second time that he tries to stop a shot with his leg. Correct decision?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Goal for BLACK team",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Free throw for BLACK team",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minute suspension against WHITE 9",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}
