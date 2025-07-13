@@ -4,11 +4,27 @@
 
 This project manages the IHF rules and questions in multiple languages. I updated the structure to make it easier for everyone who wants to contribute. To add a new language or complete missing translations, follow the instructions below.
 
-### File Structure
+## File Structure
 
 The rules are defined in a RuleDto object that contains a list of QuestionDto objects, which in turn hold AnswerDto objects. There will be a separate folder for each language.
 
 Translations for the UI are stored in JSON files (`en.json`, `nl.json` `srb.json`, etc.).
+
+
+## Versions
+
+It can be that the languages are not updated at the same time for all languages. Ex. English can already contain the latest version, but Dutch is not updated yet.
+
+Therefore there is also a version.json file for each language.
+
+Here an overview of all versions:
+
+| Language    | Version |
+| -------- | ------- |
+| English  | 1 Juli 2024    |
+| Dutch | 1 juli 2024     |
+| Serbian    | 1. Јула 2024    |
+
 
 ## Adding a New Language
 
