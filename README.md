@@ -1,4 +1,4 @@
-# README: How to Add or Fill in Languages for IHF Rules and Questions
+# README: How to Add Languages for IHF Rules and Questions
 
 ## Overview
 
