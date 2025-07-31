@@ -61,12 +61,12 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Игра се наставља без прекидања",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
           "Phrase": "Голманово бацање за БЕЛУ екипу А после звучног сигнала",
-          "Correct": true
+          "Correct": false
         }
       ]
     },
@@ -186,7 +186,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Игра се наставља без прекида",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
@@ -196,7 +196,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Корекција голмановог бацања после звучног сигнала",
-          "Correct": true
+          "Correct": false
         }
       ]
     },
