@@ -685,7 +685,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Тајм-аут",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
@@ -705,7 +705,7 @@
         {
           "AnswerNumber": "e",
           "Phrase": "Игра се наставља слободним бацањем за ЦРНУ екипу",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "f",
