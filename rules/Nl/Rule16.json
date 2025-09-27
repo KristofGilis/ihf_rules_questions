@@ -624,6 +624,93 @@
           "Correct": false
         }
       ]
+    },
+    {
+      "QuestionNumber": "16.24",
+      "Phrase": "ZWART11 scoort een doelpunt. Tijdens zijn worp wordt hij door WIT10 van de zijkant geduwd, waardoor hij gedeeltelijk de controle over zijn lichaam verliest. De scheidsrechters geven WIT10 een uitsluiting van 2 minuten. WIT10 verlaat het veld. De scheidsrechters geven het signaal voor de daaropvolgende beginworp en voordat de worp wordt uitgevoerd, betreedt WIT9 het veld als extra speler. De waarnemer fluit en de klok stopt. Het scorebord geeft aan dat er nog 1 minuut en 58 seconden overblijven na de uitsluiting voor WIT10. Wat is de juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Een uitsluiting van 2 minuten voor WIT9.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WIT wordt gedurende 2 minuten met twee spelers op het veld gereduceerd.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Gedurende 1 minuut en 58 seconden wordt team WIT met twee spelers op het veld gereduceerd. Na 1 minuut en 58 seconden vervalt de eerste uitsluiting en wordt team WIT met één speler op het veld gedurende nog eens 2 seconden gereduceerd.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Het spel wordt hervat met een beginworp voor team WIT.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Het spel wordt hervat met een vrije worp voor team ZWART.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.25",
+      "Phrase": "Team WIT is in balbezit en de bal is in het spel. Official B van team WIT klaagt over een niet gegeven tijdelijke uitsluiting voor team ZWART. De waarnemer onderbreekt het spel en official B krijgt een gele kaart. Vanwege deze straf en voordat het spel wordt hervat, klaagt hij opnieuw en de scheidsrechters geven hem een 2-minutenuitsluiting. Official B noemt de scheidsrechter vervolgens een \"idioot\". Wat is de juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team WIT wordt met één speler op het veld gedurende 4 minuten gereduceerd.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WIT wordt met twee spelers op het veld gedurende 2 minuten gereduceerd.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WIT wordt met één speler op het veld gedurende 2 minuten gereduceerd.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie zonder schriftelijk verslag voor official B van team WIT (rode kaart getoond door de scheidsrechters).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie met schriftelijk verslag voor official B van team WIT (rode en blauwe kaarten getoond door de scheidsrechters).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Later in de wedstrijd is het mogelijk om een gele kaart en/of een uitsluiting van 2 minuten te geven aan een andere official van team WIT.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Gele kaart, uitsluiting van 2 minuten en diskwalificatie genoteerd in het wedstrijdverslag.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team WIT.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team ZWART.",
+          "Correct": true
+        }
+      ]
     }
   ]
 }

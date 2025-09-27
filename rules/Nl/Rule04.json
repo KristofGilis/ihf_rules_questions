@@ -564,7 +564,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Onmiddellijke tijdelijke uitsluiting voor ZWART3 en 7m-worp voor team WIT",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "c",
@@ -574,7 +574,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Doelpoging afwachten, dan tijdelijke uitsluiting voor ZWART3 en worp aangepast aan de spelsituatie",
-          "Correct": false
+          "Correct": true
         }
       ]
     },
@@ -741,6 +741,11 @@
           "AnswerNumber": "d",
           "Phrase": "7m-worp voor team WIT",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De tijdwaarnemer kan wachten tot na de open doelkans alvorens te fluiten voor een wisselfout.",
+          "Correct": false
         }
       ]
     },
@@ -912,7 +917,7 @@
     },
     {
       "QuestionNumber": "4.34",
-      "Phrase": "In welke van de volgende gevallen moet de verantwoordelijke teamofficial persoonlijk bestraft worden?",
+      "Phrase": "In welke van de volgende gevallen moet de teamverantwoordelijke persoonlijk bestraft worden?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1148,7 +1153,7 @@
         },
         {
           "AnswerNumber": "f",
-          "Phrase": "Als de teamofficials weigeren om de noodzakelijke verzorging van WIT12 te geven, moet de verantwoordelijke teamofficial progressief bestraft worden",
+          "Phrase": "Als de teamofficials weigeren om de noodzakelijke verzorging van WIT12 te geven, moet de teamverantwoordelijke progressief bestraft worden.",
           "Correct": true
         }
       ]
@@ -1329,7 +1334,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team ZWART",
+          "Phrase": "Progressieve bestraffing voor de teamverantwoordelijke van team ZWART",
           "Correct": true
         }
       ]
@@ -1494,7 +1499,7 @@
     },
     {
       "QuestionNumber": "4.56",
-      "Phrase": "ZWART2 ligt op de vloer in het doelgebied van team WIT na een worp op doel en vraagt medische verzorging blijkbaar omwille van een beenblessure. Team WIT is net een tegenaanval gestart. Correcte beslissing?",
+      "Phrase": "ZWART2 ligt op de grond in het doelgebied van team WIT na een worp op doel en vraagt medische verzorging blijkbaar omwille van een beenblessure. Team WIT is net een tegenaanval gestart. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1534,7 +1539,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team WIT",
+          "Phrase": "Progressieve bestraffing voor de teamverantwoordelijke van WIT",
           "Correct": true
         },
         {
@@ -1551,7 +1556,7 @@
     },
     {
       "QuestionNumber": "4.58",
-      "Phrase": "Team WIT valt aan dicht bij de 9m-lijn. WIT7 komt in het speelveld na een normale wissel, maar met zijn gele pullover/trui over het normale witte T-shirt. Correcte beslissing?",
+      "Phrase": "Team WIT valt aan dicht bij de 9m-lijn. WIT7 komt in het speelveld na een correcte wissel, maar met zijn gele pullover/trui over het normale witte T-shirt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1644,7 +1649,7 @@
     },
     {
       "QuestionNumber": "4.61",
-      "Phrase": "De stand is 29:29 met nog 10 sec. te spelen in de wedstrijd. Doelman WIT12 voert een uitworp uit en speelt de bal naar WIT11. WIT11 ziet dat WIT9 in een vrije positie staat aan de doelgebiedlijn van team ZWART. Hij speelt de bal naar WIT9. Vooraleer WIT9 naar doel kan werpen, onderbreekt de tijdwaarnemer het spel voor een foutieve wissel. ZWART2 is op het speelveld gekomen vooraleer ZWART4 dit heeft verlaten. Wat is de correcte beslissing?",
+      "Phrase": "De stand is 29:29 met nog 10 sec. te spelen in de wedstrijd. Doelman WIT12 voert een uitworp uit en speelt de bal naar WIT11. WIT11 ziet dat WIT9 in een vrije positie staat aan de doelgebiedlijn van team ZWART. Hij speelt de bal naar WIT9. Vooraleer WIT9 naar doel kan werpen, onderbreekt de waarnemer het spel voor een foutieve wissel. ZWART2 is op het speelveld gekomen vooraleer ZWART4 dit heeft verlaten. Wat is de correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1670,6 +1675,57 @@
           "AnswerNumber": "e",
           "Phrase": "Diskwalificatie voor ZWART2 (rode kaart getoond door de scheidsrechters)",
           "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De waarnemer had moeten wachten tot de open doelkans voorbij was alvorens het spel te onderbreken.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.62",
+      "Phrase": "Het is mogelijk om de videoreplay in deze wedstrijd te gebruiken. Team WIT is in tegenaanval. WIT 7 heeft de bal op de middenlijn. Op dat moment komt ZWART 9 als extra speler het veld op. WIT 7 speelt de bal naar WIT 11, die een duidelijke kans heeft om te scoren. Op dat moment fluit de waarnemer vanwege de extra speler op het veld. Wat is de juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Gebruik de videoreplay om te zien wie als extra speler het veld betrad en om te zien wanneer de speler het veld betrad.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2- minutenuitsluiting voor ZWART 9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Diskwalificatie zonder schriftelijk verslag voor ZWART 9 (rode kaart wordt getoond door de scheidsrechters)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Diskwalificatie met schriftelijk verslag voor ZWART 9 (rode en blauwe kaart worden getoond door de scheidsrechters)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "7-meterworp voor team WIT",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "De waarnemer had moeten wachten tot de vrije scorekans voorbij was voordat het spel werd onderbroken",
+          "Correct": true
         }
       ]
     }

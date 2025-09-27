@@ -97,12 +97,12 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Vrije worp voor team WIT",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
           "Phrase": "Herhaling van de uitworp met fluitsignaal",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "d",
@@ -674,6 +674,42 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Vrije worp voor team WIT",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "15.27",
+      "Phrase": "Team ZWART scoort een doelpunt. De scheidsrechters fluiten voor de daaropvolgende beginworp. Voordat de bal de hand van de werper heeft verlaten, klinkt er een fluitsignaal van de tijdwaarnemer. WIT5 is het veld opgekomen voordat WIT6 het veld heeft verlaten. Wat is de juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2-minutenuitsluiting voor WIT5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2-minutenuitsluiting voor WIT6.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Omdat de bal op het moment van het fluitsignaal uit het spel was, wordt de wedstrijd hervat met een beginworp voor team WIT.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team ZWART.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team WIT.",
           "Correct": false
         }
       ]

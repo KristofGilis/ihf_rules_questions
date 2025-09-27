@@ -30,7 +30,7 @@
     },
     {
       "QuestionNumber": "14.2",
-      "Phrase": "Inworp voor team ZWART. ZWART7 voert de inworp correct uit en ziet dat doelman WIT12 ver voor zijn doel staat. ZWART7 werpt de bal rechtstreeks in de richting van het lege doel. Veldspeler WIT3 betreedt het doelgebied en stopt de bal. Correcte beslissing?",
+      "Phrase": "Inworp voor team ZWART. ZWART7 voert de inworp correct uit en ziet dat doelman WIT12 buiten zijn doelgebied staat. ZWART7 werpt de bal rechtstreeks in de richting van het lege doel. Veldspeler WIT3 betreedt het doelgebied en stopt de bal. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -626,6 +626,37 @@
         {
           "AnswerNumber": "f",
           "Phrase": "7m-worp voor team ZWART",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "14.24",
+      "Phrase": "Team WIT speelt zonder keeper. ZWART9 onderschept een pass en werpt op het lege doel. WIT4 springt van buiten het doelgebied en – terwijl hij in de lucht boven het doelgebied is – vangt hij de bal en landt in het doelgebied met de bal in zijn handen. Wat is de juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vrije worp voor team ZWART.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-meterworp voor team ZWART.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Geen bestraffing voor WIT4.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Gele kaart voor WIT4.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2- minutenuitsluiting voor WIT4.",
           "Correct": true
         }
       ]

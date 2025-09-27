@@ -70,7 +70,7 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "In het midden van het terrein, met één voet op de middellijn, en de andere voet op of achter de middenlijn, met een zijwaartse tolerantie van ongeveer",
+          "Phrase": "In het midden van het terrein, met één voet op de middellijn, en de andere voet op of achter de middenlijn, met een zijwaartse tolerantie van ongeveer 1.5 meter",
           "Correct": true
         }
       ]
@@ -207,12 +207,12 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Doelpunt voor team ZWART",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
           "Phrase": "Vrije worp voor team WIT",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "c",
@@ -222,13 +222,18 @@
         {
           "AnswerNumber": "d",
           "Phrase": "De worp is correct uitgevoerd gezien de scheidsrechters de opstelling van de werper hebben goedgekeurd door het fluitsignaal te geven voor de uitvoering",
-          "Correct": false
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De scheidsrechters hadden moeten wachten tot de werper volledig met de bal en zijn lichaam binnen de beginworpzone was, vooraleer het fluitsignaal te geven voor de uitvoering van de beginworp.",
+          "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "10.10",
-      "Phrase": "(Met beginworpzone) Team ZWART wil een snelle beginworp uitvoeren van uit de beginworpzone. Op hetzelfde ogenblik als ZWART8 met 1 voet en de bal volledig binnen de beginworpzone loopt, is WIT 7 ook in de beginworpzone, lopend in de richting van zijn eigen doel. Zonder dat er zich medespelers in de richting van WIT7 bevinden, werpt ZWART8 de bal in de rug van WIT7. WIT7 is binnen de beginworpzone als de bal hem treft. Wat is de correcte beslissing?",
+      "Phrase": "(Met beginworpzone) Team ZWART wil een snelle beginworp uitvoeren van uit de beginworpzone. Op hetzelfde ogenblik als ZWART8 met zijn lichaam en de bal volledig binnen de beginworpzone loopt, is WIT 7 ook in de beginworpzone, lopend in de richting van zijn eigen doel. Zonder dat er zich medespelers in de richting van WIT7 bevinden, werpt ZWART8 de bal in de rug van WIT7. WIT7 is binnen de beginworpzone als de bal hem treft. Wat is de correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -295,7 +300,7 @@
     },
     {
       "QuestionNumber": "10.12",
-      "Phrase": "(Met beginworpzone) Team WIT speelt met 7 veldspelers en scoort een doelpunt. Team ZWART wil een snelle beginworp uitvoeren. ZWART6 heeft 1 voet binnen de beginworpzone. De scheidsrechters fluiten voor de uitvoering. WIT8 betreedt duidelijk de beginworpzone met actieve armen in een poging om de bal te blokken en interfereert met de uitvoering. Desondanks voert ZWART6, die zijn hele lichaam en de bal binnen de beginworpzone heeft, de beginworp uit als een worp naar het lege doel. De bal gaat over de buitendoellijn. Wat is de correcte beslissing?",
+      "Phrase": "(Met beginworpzone) Team WIT speelt met 7 veldspelers en scoort een doelpunt. Team ZWART wil een snelle beginworp uitvoeren. ZWART6 is volledig in de beginworpzone met zijn lichaam en de bal. De scheidsrechters fluiten voor de uitvoering. WIT8 betreedt duidelijk de beginworpzone met actieve armen in een poging om de bal te blokken en interfereert met de uitvoering. Desondanks voert ZWART6, die zijn hele lichaam en de bal binnen de beginworpzone heeft, de beginworp uit als een worp naar het lege doel. De bal gaat over de buitendoellijn. Wat is de correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -377,7 +382,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Wanneer de werper tenminste een voet en de bal binnen de beginworpzone heeft, en de andere voet niet buiten de beginworpzone is in de speelhelft van de tegenstrever",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "b",
@@ -392,6 +397,11 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Wanneer de werper tenminste een voet en de bal binnen de beginworpzone heeft, de andere voet is niet buiten de beginworpzone op de speelhelft van de tegenstrever, maar medespelers van de werper zich binnen de beginworpzone van de tegenstrever bevinden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wanneer de werper zich binnen de beginworpzone bevindt met zijn hele lichaam en de bal.",
           "Correct": true
         }
       ]

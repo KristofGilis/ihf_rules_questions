@@ -4,7 +4,7 @@
   "Questions": [
     {
       "QuestionNumber": "7.1",
-      "Phrase": "De bal is in de lucht en gaat richting de zijlijn. Speler WIT3 slaagt erin om de bal met zijn hand naar WIT7 te spelen vooraleer de bal de lijn overschrijdt. Bij deze actie komt WIT3 echter met één voet buiten het speeloppervlak. WIT7 vangt de bal en scoort een doelpunt. Correcte beslissing?",
+      "Phrase": "De bal is in de lucht en gaat richting de zijlijn. Speler WIT3 slaagt erin om de bal met zijn hand naar WIT7 te spelen vooraleer de bal de lijn overschrijdt. Terwijl het dit doet, komt WIT3 echter met één voet buiten het speeloppervlak. WIT7 vangt de bal en scoort een doelpunt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -794,12 +794,12 @@
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Team WIT heeft nog 4 passen om een doelworp te ondernemen",
+          "Phrase": "Team WIT heeft nog 4 passes om een doelworp te ondernemen",
           "Correct": false
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Team WIT heeft nog 2 passen om een doelworp te ondernemen",
+          "Phrase": "Team WIT heeft nog 2 passes om een doelworp te ondernemen",
           "Correct": false
         },
         {
@@ -846,7 +846,7 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "Vrije worp voor team ZWART; nieuwe aanval, omdat team ZWART in balbezit komt na de worp op doel",
+          "Phrase": "Vrije worp voor team ZWART; nieuwe normale opbouwfase, omdat team ZWART in balbezit komt na de worp op doel",
           "Correct": false
         },
         {
@@ -868,7 +868,7 @@
     },
     {
       "QuestionNumber": "7.35",
-      "Phrase": "De score is 27-27 met nog 20 seconden te gaan in de wedstrijd. Team WIT speelt zonder doelverdediger. Het waarschuwingsteken wordt getoond door de scheidsrechters. Na drie passes, speelt WIT8 de bal naar WIT7, die naar doel werpt. De bal wordt geblokt door verdediger ZWART2 en de bal gaat over de zijlijn. Kort nadat de inworp is uitgevoerd, weerklinkt het signaal van de wedstrijdtafel, omdat team WIT een teamtime-out heeft aangevraagd/ Hoe moet het spel hernomen worden?",
+      "Phrase": "De score is 27-27 met nog 20 seconden te gaan in de wedstrijd. Team WIT speelt zonder doelverdediger. Het waarschuwingsteken wordt getoond door de scheidsrechters. Na drie passes, speelt WIT8 de bal naar WIT7, die naar doel werpt. De bal wordt geblokt door verdediger ZWART2 en de bal gaat over de zijlijn. Kort nadat de inworp is uitgevoerd, weerklinkt het signaal van de wedstrijdtafel, omdat team WIT een teamtime-out heeft aangevraagd. Hoe moet het spel hernomen worden?",
       "Answers": [
         {
           "AnswerNumber": "a",

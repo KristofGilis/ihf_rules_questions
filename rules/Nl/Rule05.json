@@ -18,14 +18,14 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Uitworp laten hernemen na een herstart fluitsignaal.",
+          "Phrase": "Uitworp laten hernemen met fluitsignaal.",
           "Correct": true
         }
       ]
     },
     {
       "QuestionNumber": "5.2",
-      "Phrase": "Doelman WIT12 staat buiten zijn doelgebied in het speelveld. Terwijl hij de bal toegespeeld krijgt door een ploegmaat, gaat de doelman een stap achteruit met een voet in het doelgebied terwijl de andere voet in het speelveld blijft. Correcte beslissing?",
+      "Phrase": "Doelman WIT12 staat buiten zijn doelgebied in het speelveld. Terwijl hij de bal toegespeeld krijgt door een ploegmaat, gaat de doelman een stap achteruit met een voet in het doelgebied terwijl de andere voet in het speelveld blijft. Juiste beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -61,12 +61,12 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Verder spelen zonder onderbreking",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
           "Phrase": "Uitworp voor team WIT na fluitsignaal",
-          "Correct": true
+          "Correct": false
         }
       ]
     },
@@ -124,7 +124,7 @@
     },
     {
       "QuestionNumber": "5.6",
-      "Phrase": "Doelman WIT1 blokt een worp, de bal rolt in de richting van het speelveld, waar ZWART6 alleen staat om hem op te rapen. WIT1 slaagt erin om de bal met de voet te stoppen wanneer de bal zich op de doelgebiedlijn bevindt, Correcte beslissing?",
+      "Phrase": "Doelman WIT1 blokt een worp, de bal rolt in de richting van het speelveld, waar ZWART6 alleen staat om hem op te rapen. WIT1 slaagt erin om de bal met de voet te stoppen wanneer de bal zich op de doelgebiedlijn bevindt. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -186,7 +186,7 @@
         {
           "AnswerNumber": "b",
           "Phrase": "Verder spelen zonder onderbreking",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "c",
@@ -196,7 +196,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Correctie en uitworp na fluitsignaal",
-          "Correct": true
+          "Correct": false
         }
       ]
     },

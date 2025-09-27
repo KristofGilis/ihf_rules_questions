@@ -623,6 +623,57 @@
           "AnswerNumber": "c",
           "Phrase": "Directe 2-minutenuitsluiting voor WIT10",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Geen bestraffing",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "6.25",
+      "Phrase": "ZWART5 werpt op doel. Doelman WIT12 redt de bal. Tijdens de redding stoot WIT12 zijn hoofd tegen de doelpaal en valt geblesseerd op de grond. ZWART3 vangt de rebound na de redding van de doelman en heeft een vrije kans om te scoren vanaf de doelgebiedlijn van team WIT. Wat is de juiste beslissing?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Voordeel voor ZWART3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "De wedstrijd onmiddellijk onderbreken.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "De wedstrijd wordt hervat met een 7-meterworp voor team ZWART.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team ZWART.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "De scheidsrechters kunnen toestemming geven aan twee personen van team WIT om het veld te betreden om medische behandeling te geven aan WIT12.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Na medische behandeling moet WIT12 het veld verlaten en hij mag het veld pas weer betreden na de derde aanval van zijn team.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Na medische behandeling mag WIT12 verder spelen zonder het veld te verlaten.",
+          "Correct": false
         }
       ]
     }

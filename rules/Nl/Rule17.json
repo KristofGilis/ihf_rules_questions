@@ -75,22 +75,27 @@
       "Answers": [
         {
           "AnswerNumber": "a",
-          "Phrase": "2-minutenuitsluiting voor ZWART2",
+          "Phrase": "Als geen gezamenlijke beslissing bereikt wordt, 2-minutenuitsluiting voor ZWART2",
           "Correct": false
         },
         {
           "AnswerNumber": "b",
-          "Phrase": "Diskwalificatie van ZWART2 (rode kaart getoond door de scheidsrechter)",
+          "Phrase": "Als geen gezamenlijke beslissing bereikt wordt, diskwalificatie van ZWART2 (rode kaart getoond door de scheidsrechter)",
           "Correct": true
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Vrije worp",
+          "Phrase": "Als geen gezamenlijke beslissing bereikt wordt, vrije worp",
           "Correct": false
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "7m-worp",
+          "Phrase": "Als geen gezamenlijke beslissing bereikt wordt 7m-worp",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "De scheidsrechters moeten proberen een gezamenlijke beslissing te bereiken.",
           "Correct": true
         }
       ]
