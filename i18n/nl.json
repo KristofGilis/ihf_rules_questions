@@ -1,53 +1,122 @@
 {
+  "accessibility": {
+    "skip_to_main": "Spring naar hoofdinhoud"
+  },
+  "errors": {
+    "client_error": "Er is een onverwachte fout opgetreden. Ververs de pagina.",
+    "data_loading": "Er is een fout opgetreden bij het laden van gegevens. Probeer het opnieuw.",
+    "http_error": "Er is een fout opgetreden tijdens communicatie met de server.",
+    "network_connection": "Kan geen verbinding maken met de server. Controleer uw internetverbinding.",
+    "not_found": "De gevraagde bron is niet gevonden.",
+    "server_error": "De server heeft een fout aangetroffen. Probeer het later opnieuw.",
+    "unknown_error": "Er is iets misgegaan. Probeer het opnieuw."
+  },
   "home": {
-    "alert": "Voorlopig zijn alleen de Engelse en Nederlandse versie beschikbaar. Ik heb besloten om de andere talen niet automatisch toe te voegen, omdat ik daar de tijd niet voor heb. Maar je kan helpen. ;-)",
+    "alert": "Ik heb besloten om de andere talen niet automatisch toe te voegen, omdat ik daar de tijd niet voor heb. Maar jij kunt helpen. ;-) Speciale dank aan alle medewerkers.",
     "all_questions_card": {
-      "button": "Alle vragen beantwoorden",
-      "content": "Ga naar de lijst met alle vragen.",
+      "content": "Bekijk en bestudeer alle beschikbare vragen.",
       "title": "Alle vragen"
     },
+    "all_rights_reserved": "Alle rechten voorbehouden",
     "collaborate": "Help om andere talen te ondersteunen",
-    "random_questions_card": {
-      "button": "Beantwoord {{count}} vragen",
-      "content": "Ga naar de lijst met willekeurige vragen",
+    "created_by": "Gemaakt door",
+    "github_button": "Bekijk op GitHub",
+    "hero_description": "Test je kennis van de IHF handbalregels met interactieve quizzen",
+    "loading": "Laden...",
+    "quiz_card": {
+      "button": "Start Quiz",
       "count": "# Vragen",
-      "title": "Willekeurige vragen"
+      "timed_mode": "Tijdmodus (90s per vraag)",
+      "title": "Neem een Quiz"
     },
     "rules_card": {
-      "button": "Ga naar spelregels",
       "content": "Ga naar de lijst met alle spelregels. Vanaf hier kun je alle vragen krijgen die betrekking hebben op de geselecteerde spelregel.",
       "title": "Spelregels"
     },
-    "subtitle": "Test je kennis van de spelregels. <br> Vragen over de IHF Spelregels geldig vanaf <b>{{version}}</b>",
-    "title": "Welkom"
+    "timed_mode_description": "Race tegen de klok",
+    "version": "Versie {{version}}"
   },
   "languages": {
     "en": "Engels",
     "label": "Taal",
-    "nl": "Nederlands"
+    "nl": "Nederlands",
+    "srb": "Servisch"
   },
   "main": {
-    "title": "IHF spelregelvragen"
+    "title": "IHF Spelregels Quiz"
   },
   "navigation": {
     "home": "Home",
     "questions": "Vragen",
+    "quiz": "Quiz",
     "rules": "Spelregels"
+  },
+  "offline": {
+    "message": "Je bent momenteel offline. Sommige functies zijn mogelijk niet beschikbaar."
   },
   "questions": {
     "calculate_score": "Bereken score",
-    "title": "Alle vragen"
+    "description": "Bekijk en bestudeer alle beschikbare vragen in je eigen tempo",
+    "loading": "Vragen laden...",
+    "no_questions": "Geen vragen beschikbaar",
+    "recalculate_score": "Herbereken",
+    "recalculate_score_full": "Herbereken Score",
+    "restart": "Opnieuw",
+    "show_score": "Toon Score",
+    "title": "Alle vragen",
+    "wrong": "Fout"
   },
-  "questions_random_new": "{{count}}} nieuwe vragen",
-  "random_questions": {
-    "title": "Willekeurige vragen"
+  "quiz": {
+    "calculating_score": "Je score berekenen...",
+    "complete": "Voltooi Quiz",
+    "configure": "Quiz Configureren",
+    "leave_cancel": "Blijven",
+    "leave_confirm": "Verlaten",
+    "leave_title": "Quiz Verlaten?",
+    "leave_warning": "Je voortgang gaat verloren als je nu vertrekt. Weet je het zeker?",
+    "next": "Volgende",
+    "previous": "Vorige",
+    "progress": "Vraag {{current}} van {{total}}",
+    "select_answers": "Selecteer alle juiste antwoorden",
+    "select_answers_for_question": "Selecteer alle juiste antwoorden voor vraag {{current}}",
+    "setup_description": "Configureer je quiz-instellingen om te beginnen",
+    "time_remaining": "Resterende tijd"
+  },
+  "quiz_results": {
+    "completion_time": "Voltooiingstijd",
+    "correct": "Correct",
+    "home": "Home",
+    "question": "Vraag",
+    "retake": "Opnieuw Doen",
+    "review": "Antwoorden Beoordelen",
+    "title": "Quiz Resultaten",
+    "wrong": "Fout",
+    "your_answer": "Jouw Antwoord"
+  },
+  "rule": {
+    "description": "Bestudeer vragen gerelateerd aan deze specifieke regel"
   },
   "rules": {
+    "description": "Blader door alle IHF handbalregels. Selecteer een regel om gerelateerde vragen te bekijken.",
+    "loading": "Regels laden...",
+    "no_rules": "Geen regels beschikbaar",
     "title": "Spelregels"
   },
   "score_overview": {
-    "score": "Uw score:",
+    "all_correct": "Alle antwoorden correct!",
+    "click_to_review": "Klik om te springen en te bekijken",
+    "correct": "Correct",
+    "of_total_correct": "/ {{total}} correct",
+    "perfect": "Perfect!",
+    "question_number": "Vraag {{number}}",
+    "review_mistakes": "Fouten Bekijken",
     "title": "Resultaat",
-    "wrong_questionNumbers": "De vragen die je <u>fout</u> hebt beantwoord:"
+    "wrong": "Fout"
+  },
+  "theme": {
+    "dark": "Donker",
+    "light": "Licht",
+    "system": "Systeem",
+    "toggle": "Thema wisselen"
   }
 }
