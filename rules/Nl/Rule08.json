@@ -480,7 +480,7 @@
     },
     {
       "QuestionNumber": "8.17",
-      "Phrase": "Bij het betreden van de sporthal, komen de scheidsrechters de reeds omgeklede, maar nog niet op het wedstrijdformulier ingeschreven ZWART4 tegen. ZWART4 roept: “Toch niet weer deze idioten”. Nadat er 12 minuten gespeeld zijn in de wedstrijd, wordt ZWART4 als 14e speler van zijn team inschrijven op het wedstrijdformulier. Dit wordt vastgesteld door de scheidsrechter. Correcte beslissing?",
+      "Phrase": "Bij het betreden van de sporthal, komen de scheidsrechters de reeds omgeklede, maar nog niet op het wedstrijdformulier ingeschreven ZWART4 tegen. ZWART4 roept: “Toch niet weer deze idioten”. Nadat er 12 minuten gespeeld zijn in de wedstrijd, wordt ZWART4 als 16e speler van zijn team inschrijven op het wedstrijdformulier. Dit wordt vastgesteld door de scheidsrechter. Correcte beslissing?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -504,7 +504,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Team ZWART mag een andere speler toevoegen om zijn team tot 14 spelers te vervolledigen",
+          "Phrase": "Team ZWART mag een andere speler toevoegen om zijn team tot 16 spelers te vervolledigen",
           "Correct": false
         }
       ]
@@ -738,12 +738,12 @@
         },
         {
           "AnswerNumber": "c",
-          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters). Team ZWART mag 14 spelers in de wedstrijd opstellen.",
+          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters). Team ZWART mag 16 spelers in de wedstrijd opstellen.",
           "Correct": true
         },
         {
           "AnswerNumber": "d",
-          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters). Team ZWART mag 14 spelers in de wedstrijd opstellen maar wordt bij het begin van de wedstrijd op het veld met 1 speler gereduceerd gedurende 2 minuten",
+          "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters). Team ZWART mag 16 spelers in de wedstrijd opstellen maar wordt bij het begin van de wedstrijd op het veld met 1 speler gereduceerd gedurende 2 minuten",
           "Correct": false
         }
       ]
@@ -1458,7 +1458,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Uitworp voor team ZWART na fluitsignaal",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "b",
@@ -1468,7 +1468,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Vrije worp voor team ZWART",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "d",
