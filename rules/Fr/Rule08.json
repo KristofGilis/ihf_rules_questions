@@ -1,0 +1,2542 @@
+{
+  "RuleNumber": "8",
+  "Name": "Irrégularités et Comportements Antisportifs",
+  "Questions": [
+    {
+      "QuestionNumber": "8.1",
+      "Phrase": "Lors d’une contre-attaque des BLANCS, NOIR 7 entre sur le terrain comme joueur supplémentaire et retient BLANC 5 de manière à anéantir une occasion manifeste de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 7 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 7 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7 mètres.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.2",
+      "Phrase": "NOIR 8, qui n’est pas inscrit sur la feuille de match, arrive en retard et court directement du vestiaire sur le terrain. Il anéantit une occasion manifeste de but en poussant le joueur BLANC 6 qui effectue un tir de sorte qu’il perd le contrôle de son corps. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 8 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 8 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Sanction progressive contre le responsable officiel des NOIRS",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.3",
+      "Phrase": "De retour vers leurs vestiaires (pendant la pause), l’officiel B des BLANCS se plaint auprès des arbitres de manière antisportive. L’officiel A des BLANCS a déjà reçu un avertissement en première mi-temps. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel B des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de l’officiel B des BLANCS (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS commence la seconde mi-temps réduite d’un joueur pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Aucune sanction n’est possible, mais rapport écrit.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.4",
+      "Phrase": "BLANC 6 a déjà été sanctionné deux fois d’une exclusion de 2 minutes. BLANC 6 commet un changement irrégulier. Quelle est la décision, s’il est également coupable d’une conduite antisportive grossière une fois que les arbitres ont été informé du changement irrégulier ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 6.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 6 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 6 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.5",
+      "Phrase": "BLANC 2 est exclus pour 2 minutes mais l’officiel A le renvoie sur le terrain après 1 minute. Avant le coup de sifflet du chronométreur, BLANC 2 a déjà déjoué une occasion manifeste de but pour les NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS et exclusion supplémentaire de 2 minutes pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les NOIRS, exclusion supplémentaire pour BLANC 2 et réduction supplémentaire des BLANCS pendant la durée restante de l’exclusion de BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7 mètres, disqualification de BLANC 2 sans rapport écrit et réduction supplémentaire des BLANCS pendant la durée restante de l’exclusion de BLANC 2 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7 mètres, disqualification de BLANC 2 et réduction supplémentaire des BLANCS pendant la durée restante de l’exclusion de BLANC 2 ; rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.6",
+      "Phrase": "Pendant l’attaque des BLANCS, le pivot BLANC 7, qui n’est pas en possession du ballon, bloque NOIR 4 avec son tronc. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sanction progressive contre BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.7",
+      "Phrase": "L’ailier BLANC 4 a une occasion manifeste de but. NOIR 7 tente de subtiliser le ballon mais ne touche que l'avant-bras de BLANC 4. BLANC 4 manque le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour NOIR 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune sanction progressive pour NOIR 7.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.8",
+      "Phrase": "BLANC 6 part en contre-attaque, le gardien de but NOIR 12 quitte sa surface de but pour intercepter le ballon mais entre en collision avec BLANC 6. Cependant, un défenseur aurait pu arrêter BLANC 6 de manière régulière. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 12.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 12 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de NOIR 12, rapport écrit (carton rouge et bleu montrés par les arbitres)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.9",
+      "Phrase": "BLANC 2 veut passer le ballon à un coéquipier dans l’autre moitié du terrain, mais son coéquipier est retenu par NOIR 5. NOIR 5 a déjà reçu un avertissement pour une irrégularité sur un adversaire qui n’avait pas le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 5 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Rapport écrit (carton bleu montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.10",
+      "Phrase": "Le ballon est joué vers le pivot BLANC 9 qui se tient seul devant la surface de but des NOIRS. Son bras de tir est ensuite retenu par NOIR 2. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 2 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Rapport écrit (carton bleu montrée par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.11",
+      "Phrase": "Peu de temps après avoir reçu un avertissement verbal à première minute du match pour avoir poussé légèrement et sans conséquence un adversaire, NOIR 7 retient le pivot des BLANCS. Il n’y a aucune occasion manifeste de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7mpour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avertissement pour NOIR 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 7.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.12",
+      "Phrase": "BLANC 4 reçoit le ballon alors qu’il se tient devant la surface de but de l’équipe adverse, avec seulement le gardien de but face à lui. Avant que BLANC 4 ne tente de marquer, NOIR 3 le plaque de manière à ce que BLANC 4 perde le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour NOIR 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 3 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.13",
+      "Phrase": "Quand un joueur doit-il être disqualifié (carton rouge ou carton rouge et bleu montrés par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Pour une faute qui met l'intégrité physique d’un adversaire en danger.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Pour une conduite antisportive grossière sur ou en dehors du terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Pour une conduite antisportive répétée sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lors d’un changement irrégulier pendant une exclusion (aucune occasion manifeste de but).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.14",
+      "Phrase": "Lors d’une contre-attaque des BLANCS, l’officiel C des NOIRS court du banc sur le terrain dans la direction de sa propre surface de but. BLANC 5 est tellement confus qu’il s’arrête. Selon l’arbitre, BLANC 5 avait une occasion manifeste de but. L’officiel coupable n’a pas touché l’adversaire qui avait le ballon ; sa distance minimale par rapport à BLANC 5 était d’environ dix mètres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel C des NOIRS sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de l’officiel C des NOIRS, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.15",
+      "Phrase": "Les BLANCS effectuent une contre-attaque. BLANC 5 souhaite passer le ballon à BLANC 7, qui est seul devant la surface de but de but des NOIRS. Lorsque BLANC 5 passe le ballon, l’officiel D des NOIRS court sur le terrain et attrape le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel D des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel D des NOIRS sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de l’officiel D des NOIRS, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.16",
+      "Phrase": "Laquelle des actions suivantes doit être définie comme une conduite antisportive grossière et donc sanctionnée par une disqualification avec rapport écrit (carton rouge et bleu montrés par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Défense répétée avec le pied ou le bas de la jambe par un joueur de terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un officiel d’équipe anéantie une occasion manifeste de but.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Cracher sur une autre personne.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Retards répétés dans jeu dans le but de perdre du temps.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.17",
+      "Phrase": "En entrant dans le hall, les arbitres rencontrent NOIR 4, qui porte sa tenue de joueur, mais qui n’est pas inscrit sur la feuille de match. NOIR 4 crie : \"Pas encore ses idiots\". Après 12 minutes de jeu, NOIR 4 est ajouté sur la feuille de match comme dernier joueur possible de son équipe. Cela est découvert par les arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de NOIR 4 sans rapport écrit (carton rouge montrée par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les NOIRS continuent sans réduction de joueurs sur le terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 4, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les NOIRS peuvent ajouter un autre joueur pour compléter le nombre autorisé de 14 joueurs.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.18",
+      "Phrase": "Après un jet franc pour les BLANCS, l’officiel C des NOIRS entre sur le terrain et crie : « Mais ça aurait dû être un jet franc pour nous ! » Aucun officiel des NOIRS n’a été sanctionné auparavant dans le match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le responsable officiel des NOIRS doit faire sortir l’officiel C de la salle.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel C des NOIRS, Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avertissement pour l’officiel C des NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.19",
+      "Phrase": "BLANC 3 reçoit un avertissement pour une faute sur le terrain qui nécessite une sanction progressive. Après la reprise du jeu et après avoir été remplacé, BLANC 3 insulte les arbitres depuis le banc des remplaçants. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 3 sans rapport écrit (carton rouge montré par les arbitres), et les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 3 avec rapport écrit (carton rouge et bleu montrés par les arbitres), les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3 et les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.20",
+      "Phrase": "Pendant une contre-attaque des NOIRS, NOIR 9 se fait tirer le maillot par BLANC 4, qui a déjà reçu un avertissement. Malgré cela, NOIR 9 réussit à passer le ballon à NOIR 8 qui marque. Les arbitres veulent sanctionner BLANC 4 par la suite, mais il est déjà assis sur le banc des remplaçants. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4, les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLANC 4 n’est pas autorisé à jouer pendant les 2 minutes suivantes mais l’équipe reste complète sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La sanction n’est plus possible.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 4 (carton rouge montré par les arbitres) et les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.21",
+      "Phrase": "Quand un joueur doit-il être disqualifié (carton rouge ou carton rouge et bleu montrés par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Pour une conduite antisportive grossière.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Pour avoir anéanti une occasion manifeste de but en bloquant activement un tir ou une passe avec le pied.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Pour un changement irrégulier pendant le temps d’exclusion (aucune occasion manifeste de but).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pour ne pas avoir posé le ballon pour un jet franc contre sa propre équipe (pas dans les 30 dernières secondes).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.22",
+      "Phrase": "Les NOIRS attaquent. BLANC 11 prend le ballon à NOIR 6 en commettant une faute qui met l'intégrité physique de NOIR 6 en danger. BLANC 7 et BLANC 8 étaient positionnés entre NOIR 6 et le but des BLANCS au moment de la faute. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 11 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.23",
+      "Phrase": "Laquelle des infractions suivantes doit être sanctionnée par une disqualification avec rapport écrit (carton rouge et bleu montrés par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un officiel entre sur le terrain pour la seconde fois sans autorisation.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un officiel tente de forcer son équipe à abandonner le match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsqu’un tireur sur un jet de 7 mètres touche la tête du gardien de but alors que le gardien ne bouge pas la tête dans la direction du ballon afin de faire une parade.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après une décision des arbitres, un joueur lance le ballon de manière ostentatoire dans les tribunes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un joueur situé en dehors du terrain crache sur un spectateur.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.24",
+      "Phrase": "BLANC 3 a reçu une exclusion de 2 minutes pour une faute et est assis sur le banc des remplaçants. Lors d’une remise en jeu près du banc, BLANC 3 crie sur les arbitres pour les insulter. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 3 sans rapport écrit (carton rouge montré par les arbitres), ce qui entraîne une réduction immédiate de 2 minutes des BLANCS sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 3 avec rapport écrit (carton rouge et bleu montrés par les arbitres), ce qui entraîne une réduction immédiate de 2 minutes des BLANCS sur le terrain.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.25",
+      "Phrase": "À cause d’une déception concernant une erreur, BLANC 3 frappe un de ses coéquipiers au visage. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune action, car il s’agit d’un coéquipier.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 3 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 3, rapport écrit (carton rouge et bleu montré par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.26",
+      "Phrase": "En entrant dans le hall, les arbitres rencontrent NOIR 4, qui porte déjà sa tenue de joueur et crie immédiatement : « Ces idiots encore ! » Les arbitres vérifient que NOIR 4 est inscrit sur la feuille de match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 4 au début du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 4 sans rapport écrit (carton rouge montré par les arbitres). Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes au début du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 4 avec rapport écrit (carton rouge et bleu montrés par les arbitres), les NOIRS peuvent utiliser le nombre maximum joueurs pendant le match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 4 avec rapport écrit (carton rouge et bleu montrés par les arbitres), les NOIRS peuvent utiliser le nombre maximum de joueurs dans le match, mais ils sont réduits d’un joueur sur le terrain pendant 2 minutes au début du match.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.27",
+      "Phrase": "Pendant l’échauffement avant le match, BLANC 3 et le gardien de but NOIR 1 entrent en collision par accident. Les deux joueurs s’énervent l’un contre l’autre et NOIR 1 frappe BLANC 3. BLANC 3 le frappe directement en retour. Les deux joueurs sont inscrits sur la feuille de match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de NOIR 1 avec rapport écrit (carton rouge et bleu montrés par les arbitres) et exclusion de 2 minutes pour BLANC 3. Les équipes peuvent utiliser 14 joueurs chacune lors du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 1 et de BLANC 3 avec rapports écrits (carton rouge et bleu montrés par les arbitres). Les équipes peuvent utiliser 14 joueurs lors du match, mais les deux équipes sont réduites d’un joueur sur le terrain pendant 2 minutes au début du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les deux joueurs reçoivent une exclusion de 2 minutes, qui doit être purgée au début du match. Rapport écrit.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 1 et de BLANC 3 avec rapports écrits (carton rouge et bleu montrés par les arbitres). Les équipes peuvent utiliser le nombre maximum de joueurs lors du match.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.28",
+      "Phrase": "BLANC 9 effectue un tir en sautant. NOIR 5 attrape le bras de tir de BLANC 9 par l’arrière et le tire vers le bas. NOIR 10 et NOIR 11 sont entre BLANC 9 et le but des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 5 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 5 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.29",
+      "Phrase": "Laquelle des infractions suivantes doit être sanctionnée par une disqualification (carton rouge montré par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un officiel entre sur le terrain pour la seconde fois sans autorisation.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un joueur en possession du ballon est amené au sol lorsqu’il court lors d’une contre-attaque. La situation n’est pas particulièrement dangereuse.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un jet de 7m touche le visage du gardien qui ne bouge pas la tête volontairement dans la direction du ballon pour faire une parade.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après une décision des arbitres, un joueur lance le ballon de manière ostentatoire dans les tribunes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un gardien de but quitte sa surface de but et prend possession du ballon mais provoque une collision avec un adversaire qui court lors d’une contre-attaque.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.30",
+      "Phrase": "BLANC 9 reçoit sa troisième exclusion de 2 minutes. Vêtu de son survêtement, il s’assoit dans la première rangée des spectateurs derrière la ligne de touche opposée à la zone de changement. Directement devant lui, NOIR 3 commet une faute particulièrement dangereuse contre BLANC 10. Le joueur reste blessé sur le terrain. Avant que les arbitres ne puissent sanctionner NOIR 3, BLANC 9 court sur le terrain et plaque NOIR 3 par terre. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 3 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLANC 9 n’est plus impliqué dans le match donc aucune remarque n’est possible.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Rapport écrit sur le comportement de BLANC 9.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 3 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "BLANC 10 doit quitter le terrain après avoir reçu des soins médicaux et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.31",
+      "Phrase": "Un avertissement est donné pour :",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les infractions où l’action vise principalement ou exclusivement le corps de l’adversaire.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les infractions lors de l’exécution d’un jet adverse.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le fait de ne pas poser le ballon au sol lors d’une décision prise contre son équipe.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "La tentative d’un gardien de but d’effectuer un changement lorsqu’un adversaire est prêt à effectuer un jet de 7 mètres.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.32",
+      "Phrase": "Qu’est-ce qui doit être considéré comme une conduite antisportive ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tir au visage d’un défenseur qui ne se déplace pas dans la direction du ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Comportement passif du gardien lors de l’exécution d’un jet de 7 mètres, s’il est évident qu’il ne souhaite pas arrêter le tir.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tentative d’induire les arbitres en erreur par des simulations",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Blocage actif d’un tir en utilisant le pied ou le bas de la jambe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Entrée répétée dans la surface de but pour des raisons tactiques.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Acte de vengeance après avoir subi une faute.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.33",
+      "Phrase": "Dans lesquelles des situations suivantes une disqualification doit-elle entraîner un rapport écrit (carton rouge et bleu montré par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Agression sur le terrain de jeu pendant la pause.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Action particulièrement sans retenue ou dangereuse.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Acte de vengeance après avoir subi une faute.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Action malveillante qui n’est en aucun cas liée à la situation de jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.34",
+      "Phrase": "Il y a un engagement pour les BLANCS. L’arbitre a sifflé et BLANC 9 est prêt à effectuer le jet. Après le signal sonore, BLANC 3 franchit la ligne médiane et est plaqué par NOIR 5 de sorte qu’il perd totalement le contrôle de son corps. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 5 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Engagement pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de NOIR 5 avec rapport écrit (carton rouge et bleu montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.35",
+      "Phrase": "NOIR 8 a reçu une exclusion de 2 minutes à cause d’un changement irrégulier. Deux secondes après la reprise du jeu, il fait un commentaire aux arbitres de manière antisportive depuis sa position sur le banc. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes supplémentaire pour NOIR 8.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 8 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les NOIRS sont réduits de 2 joueurs sur le terrain pendant 1 minute et 58 secondes, puis d’un joueur pendant 2 secondes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les NOIRS sont réduits de 2 joueurs sur le terrain pendant les 2 minutes suivantes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.36",
+      "Phrase": "Le gardien BLANC 1 lance une longue passe à BLANC 15 qui court seul vers le but de l’équipe adverse. Pendant le jeu, le gardien adverse NOIR 12 quitte sa surface de but, saute, attrape le ballon et entre en collision avec BLANC 15 en l’air. Les deux joueurs tombent par terre et sont blessés. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu, exclusion de 2 minutes pour BLANC 15.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu, exclusion de 2 minutes pour NOIR 12.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu, disqualification de NOIR 12 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.37",
+      "Phrase": "Les NOIRS sont en possession du ballon. Le délégué interrompt le jeu car l’officiel A des NOIRS a lancé une chaise sur le terrain pour protester contre une décision des arbitres. Il n’y a eu aucune sanction précédente infligée aux officiels des NOIRS. NOIR 7 avait une occasion manifeste de but lorsque le jeu a été interrompu. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour l’officiel A des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de l’officiel A des NOIRS sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de l’officiel A des NOIRS avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.38",
+      "Phrase": "L’officiel A BLANC proteste bruyamment contre une décision des arbitres concernant son équipe et déclare : « Vous êtes des idiots ! » Dix minutes plus tôt, l’officiel C BLANC avait déjà reçu un avertissement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour l’officiel A BLANCS pour conduite antisportive.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A BLANC ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de l’officiel A BLANC avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.39",
+      "Phrase": "Le gardien BLANC 1 souhaite effectuer un renvoi. Pour la deuxième fois, NOIR 3 entre dans la surface de but et tente d’empêcher BLANC 1 d’effectuer le jet sans contact physique. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les BLANCS après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avertissement pour NOIR 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.40",
+      "Phrase": "BLANC 4 touche le ballon qui roule sur le terrain dans la surface de but des NOIRS. À ce moment-là, il tombe au sol suite à la poussette de NOIR 6. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Sanction progressive pour NOIR 6.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.41",
+      "Phrase": "BLANC 7 a reçu une exclusion de 2 minutes pour une conduite antisportive. C’est sa première exclusion. Dix secondes après la reprise du jeu, il fait des gestes énergiques sur le banc pour montrer qu’il n’est pas d’accord avec les arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 7 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7 ; BLANC 7 doit rester sur le banc pendant quatre minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes supplémentaire pour BLANC 7 ; les BLANCS sont réduits de 2 joueurs sur le terrain pendant 1 minute et 50 secondes, puis d’un joueur pendant 10 secondes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement car la sanction progressive sur le banc est distincte des sanctions sur le terrain.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.42",
+      "Phrase": "BLANC 6 est poussé par NOIR 3 et crache de manière ostentatoire sur le terrain devant NOIR 3. Comment BLANC 6 doit-il être sanctionné ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Sanction progressive.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Toujours avec une exclusion de 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.43",
+      "Phrase": "Le gardien BLANC 12 court de sa surface de but vers NOIR 10 qui effectue une contre-attaque. BLANC 12 s’approche de NOIR 10 sur le côté et le retient mais NOIR 10 réussit à attraper le ballon pour le lancer dans le but vide. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Engagement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 12 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 12.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.44",
+      "Phrase": "Le gardien BLANC 12 effectue un renvoi en lançant une longue passe en direction de son coéquipier BLANC 4 qui effectue une contre-attaque. BLANC 4 saute pour recevoir le ballon et, immédiatement après cela, entre en collision avec le gardien NOIR 1 qui a décidé de quitter sa surface de but pour tenter d’arrêter la contre-attaque. Au moment de la collision, NOIR 1 est complètement immobile devant la ligne des 9 mètres. Après la collision, BLANC 4 perd le contrôle de son corps et tombe par terre. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Faute offensive, jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive pour NOIR 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 1 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.45",
+      "Phrase": "Laquelle des infractions suivantes doit être sanctionnée par une disqualification avec rapport écrit (carton rouge et bleu montrés par les arbitres) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un joueur crache sur un adversaire.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un officiel tente de forcer son équipe à abandonner le match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un tireur à 7 mètres touche la tête du gardien de but alors que le gardien ne bouge pas volontairement la tête dans la direction du ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après une décision des arbitres, un joueur lance le ballon de manière ostentatoire dans les tribunes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un joueur situé en dehors du terrain crache sur un spectateur.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Un joueur frappe intentionnellement un adversaire à l’estomac.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.46",
+      "Phrase": "Le temps de jeu est de 59’26. NOIR 10 court seul en contre-attaque. Lorsqu’il reçoit le ballon d’un coéquipier, NOIR 10 entre en collision avec le gardien BLANC 1, qui a quitté sa surface de but. Avant de tomber, il réussit à passer le ballon à NOIR 7, qui tire vers le but vide. Le ballon passe à côté. Lorsque les arbitres ordonnent un arrêt du temps de jeu, le temps de jeu est de 59’31. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7 mètres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Carton rouge pour BLANC 1.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Carton bleu pour BLANC 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Renvoi.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.47",
+      "Phrase": "Les BLANCS sont en attaque et jouent avec sept joueurs de champs. NOIR 5 intercepte une passe et maîtrise le ballon. Il tente immédiatement d’effectuer un tir dans le but vide. BLANC 2 tente d’empêcher NOIR 5 d’effectuer son tir en essayant de subtiliser le ballon de sa main. Lors de cette action de défense, il touche finalement l’avant-bras de NOIR 5 et le ballon manque le but. Les BLANCS ont déjà reçu 3 avertissements. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.48",
+      "Phrase": "Les BLANCS sont en attaque et jouent avec sept joueurs de champs. NOIR 5 intercepte une passe et maîtrise le ballon. Il tente immédiatement d’effectuer un tir dans le but vide. BLANC 2 tente d’empêcher NOIR 5 d’effectuer son tir en le plaquant au sol. Le ballon manque le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.49",
+      "Phrase": "Les BLANCS sont en attaque et jouent avec sept joueurs de champs. BLANC 4 tire, mais son tir est arrêté par le gardien NOIR 1. NOIR 1 passe le ballon à NOIR 9. Au moment où le gardien BLANC 12 entre dans sa surface de but, NOIR 9 tente d’effectuer un tir vers le but mais il est empêché par une faute de BLANC 2. Le ballon franchit la ligne de sortie de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.50",
+      "Phrase": "Les BLANCS sont en attaque et jouent avec sept joueurs de champs. BLANC 4 tire, mais le tir est arrêté par le gardien NOIR 1 qui se tient avec le ballon dans sa surface de but prêt à effectuer le renvoi. À ce moment-là, le Chronométreur / Délégué interrompt le jeu à cause d’un changement irrégulier car le gardien de but BLANC 1 est entré sur le terrain avant que BLANC 7 ne l’ait quitté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les NOIRS après le coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 1.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.51",
+      "Phrase": "Les BLANCS sont en attaque et jouent avec sept joueurs de champs. BLANC 4 tire, mais son tir est arrêté par le gardien NOIR 12 qui passe le ballon à NOIR 9. NOIR 9 tire, mais le tir est arrêté par le joueur BLANC 10 qui entre dans sa propre surface de but et réussit à arrêter le ballon. Le ballon franchit la ligne de sortie de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Remise en jeu pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive pour BLANC 10.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion directe de 2 minutes pour BLANC 10.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.52",
+      "Phrase": "Les BLANCS sont en attaque et jouent avec sept joueurs de champs. BLANC 6 tire au but mais son tir est arrêté par le gardien NOIR 1. NOIR 1 tente immédiatement de tirer dans le but vide mais manque le but et le ballon franchit la ligne de sortie de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le renvoi peut être effectué par n’importe quel joueur sur le terrain des BLANCS pour maintenir le rythme du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS doivent effectuer un changement pour avoir un gardien de but sur le terrain afin d’effectuer le renvoi.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu obligatoire",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.53",
+      "Phrase": "L'équipe NOIRE joue avec sept joueurs sur le terrain. NOIR 5 tire au but, mais le tir est arrêté par le gardien BLANC 1 qui tente de marquer dans le but vide. Dans le même temps, le gardien NOIR 12 effectue un mauvais changement en entrant sur le terrain avant que NOIR 7 ne soit sorti. Le délégué interrompt immédiatement le jeu avec un coup de sifflet. Juste après le coup de sifflet du délégué, le ballon franchit la ligne de sortie de but de l'équipe NOIRE. Bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion 2 minutes pour NOIR 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7 mètres pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Renvoi pour l'équipe NOIRE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le délégué aurait dû attendre que l’occasion manifeste de but soit terminée avant d’interrompre le jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.54",
+      "Phrase": "L'équipe NOIRE joue avec sept joueurs sur le terrain. NOIR 6 tire au but, mais le tir est arrêté par le gardien BLANC 1 qui tente de marquer dans le but vide. Au même moment, le gardien NOIR 12 effectue un changement irrégulier en courant sur le terrain avant que NOIR 7 ne soit sorti. Le délégué interrompt immédiatement le jeu avec un coup de sifflet. Juste après le coup de sifflet du délégué, le ballon franchit la ligne de but dans le but de l'équipe NOIRE. Bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7 mètres pour les BLANCS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "But pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le délégué aurait dû attendre que l’occasion manifeste de but soit terminée avant d’interrompre le jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.55",
+      "Phrase": "Les NOIRS jouent avec sept joueurs de champs. BLANC 9 intercepte le ballon et marque dans le but vide. Le ballon s’immobilise dans la surface de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But et engagement pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un gardien doit entrer sur le terrain lors d’un changement correct pour récupérer le ballon dans la surface de but.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le ballon peut être récupéré par n’importe quel joueur de terrain des NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.56",
+      "Phrase": "Le score est de 27:27 avec six secondes restantes dans le match. Les BLANCS attaquent. BLANC 7 tente de passer le ballon au pivot BLANC 3. NOIR 6 intercepte le ballon. À ce moment-là, il est amené au sol par BLANC 3. Une seconde plus tard, le signal sonore retentit pour signaler la fin du match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le match est terminé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 3 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de BLANC 3 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.57",
+      "Phrase": "Le score est de 27:27 avec dix secondes restantes dans le match. Les BLANCS attaquent. NOIR 5 intercepte une passe et lance une contre-attaque. Un instant plus tard, il subit une faute par l’arrière par BLANC 11 qui le pousse de manière dangereuse de sorte qu’il perde le contrôle de son corps. Avant que l’arbitre ne siffle pour cette faute, le signal de fin retentit. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le match est terminé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 11 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de BLANC 11 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.58",
+      "Phrase": "NOIR 10 est en possession du ballon. Il est 59’27 lorsqu’il effectue un tir en sautant. BLANC 2 le pousse si fort à la poitrine qu’il perd totalement le contrôle de son corps. Il tombe avec le ballon par terre. L’arbitre siffle et le chronomètre s’arrête à 59’31. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 2 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.59",
+      "Phrase": "Avec 15 secondes restantes dans le match, les NOIRS sont en possession du ballon. Les arbitres accordent un jet franc à NOIR 15 qui se tient au centre de la ligne médiane Avant que les NOIRS ne puissent exécuter le jet franc, il est ceinturé par BLANC 2. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correction et nouveau jet franc pour les NOIRS après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 2 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de BLANC 2 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.60",
+      "Phrase": "Les NOIRS sont en attaque. Les arbitres accordent un jet franc pour les NOIRS à la ligne de jet franc. Il reste 3 secondes à jouer dans le match. NOIR 10 est en position correcte pour effectuer le jet franc directement vers le but mais BLANC 5 qui se tient à un mètre de NOIR 10 contre le tir. Le signal de fin retentit ensuite. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 5 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS après le coup de sifflet.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.61",
+      "Phrase": "Les NOIRS sont en attaque. Les arbitres accordent un jet franc pour les NOIRS sur la ligne de jet franc. Il reste 3 secondes à jouer dans le match. NOIR 10 est en position correcte pour effectuer le jet franc directement vers le but, mais avant qu’il ne puisse tirer, il est gêné par BLANC 5 qui se tient à un mètre de NOIR 10 en bougeant les bras et en sautant devant NOIR 10. Le signal final retentit ensuite. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 5 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.62",
+      "Phrase": "Avec 19 secondes restantes dans le match, BLANC 2 tente un duel mais les arbitres sifflent un marcher contre lui. Après le coup de sifflet des arbitres, BLANC 2 tire. Le ballon est attrapé par le gardien NOIR 12 qui est prêt à lancer une contre-attaque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Continuité du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 2 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet de 7mpour les NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.63",
+      "Phrase": "Le score est de 28 : 26 pour les BLANCS. Avec 25 secondes restantes dans le match, les NOIRS marquent un but. Le gardien de but BLANC 12 envoie intentionnellement le ballon loin, de sorte qu’il atterrisse dans les tribunes. Il est clair qu’il envoie le ballon intentionnellement pour retarder le jeu afin que l’engagement ne puisse pas être exécuté rapidement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Engagement pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 12.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de BLANC 12 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualification de BLANC 12 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.64",
+      "Phrase": "Le score est de 25:25 avec 3 secondes restantes dans le match. Les BLANCS attaquent. NOIR 5 provoque un jet franc pour BLANC 2 sur la ligne des jets francs. Peu après, le signal de fin retentit. Les arbitres sifflent pour l’exécution du jet franc direct. Avant que le ballon ne quitte la main du lanceur NOIR 6 avance et contre le ballon en se tenant trop près. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Fin du match",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jet franc doit être réexécuté.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7mpour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 6.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 6 (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.65",
+      "Phrase": "Les BLANCS jouent sans gardien de but et avec 7 joueurs de champs. NOIR 5 intercepte une passe et court avec le ballon en direction du but vide des BLANCS. Le gardien BLANC 12 entre sur le terrain lors d’un changement correct et court dans la même direction que NOIR 5. Au moment où NOIR 5 tire, BLANC 12 pousse NOIR 5 sur le côté de sorte qu’il perd partiellement le contrôle de son corps et que son tir manque le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 12.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 12 (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.66",
+      "Phrase": "Le score est de 26:26 avec 4 secondes restantes dans le match. Les BLANCS attaquent. Un jet franc est accordé à BLANC 4 qui effectue immédiatement le jet. Le ballon est activement bloqué par NOIR 5 qui se tient trop près. En même temps, le signal de fin retentit. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jet franc doit être réexécuté.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 5 (carton rouge montré par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.67",
+      "Phrase": "Le score est de 26:26 avec 4 secondes restantes dans le match. Les BLANCS attaquent. NOIR 5 provoque un jet franc pour BLANC 6. NOIR 5 recule immédiatement à la bonne distance. BLANC 6 exécute le jet franc et le ballon touche NOIR 5 qui n’effectue aucune action défensive. Le ballon rebondit vers BLANC 6. En même temps, le signal de fin retentit. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune autre décision. Le match est terminé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jet franc doit être réexécuté.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 5.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.68",
+      "Phrase": "Le score est de 29:29 avec 20 secondes restantes dans le match. Le gardien BLANC 12 arrête un tir et le ballon franchit la ligne de sortie de but. Les arbitres décident d’un renvoi pour les BLANCS. BLANC 12 souhaite effectuer rapidement le renvoi. NOIR 2 entre dans la surface de but et retarde l’exécution du renvoi. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les BLANCS après le coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS après le coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de NOIR 2 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualification de NOIR 2 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.69",
+      "Phrase": "Le score est de 29:29 avec 20 secondes restantes dans le match. Le gardien BLANC 12 arrête un tir et le ballon franchit la ligne de sortie de but. Les arbitres décident d’un renvoi pour les BLANCS. BLANC 12 se prépare à effectuer le renvoi. Avant que le ballon ne quitte sa main, un signal sonore retentit de la part du chronométreur à cause d’un changement irrégulier effectué par les NOIRS. NOIR 3 est entré sur le terrain avant que NOIR 11 ne l’ait quitté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les BLANCS après le coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS dans la zone de changement des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de NOIR 3 (carton rouge montré par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.70",
+      "Phrase": "Le score est de 29:29 avec 20 secondes restantes dans le match. Le gardien BLANC 12 arrête un tir et le ballon franchit la ligne de sortie de but. Les arbitres décident d’un renvoi pour les BLANCS. BLANC 12 exécute le jet par une passe à BLANC 9 qui se trouve juste en dehors de la surface de but. Avant que le ballon ne franchisse la ligne de la surface de but, un signal sonore retentit de la part du chronométreur à cause d’un changement irrégulier effectué par les NOIRS. NOIR 3 est entré sur le terrain avant que NOIR 11 ne l’ait quitté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS au niveau de la zone de changement des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 3 (carton rouge montré par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.71",
+      "Phrase": "Le score est de 29:29 avec 10 secondes restantes dans le match. Les BLANCS effectuent une contre-attaque. NOIR 10 attaque BLANC 9 de manière dangereuse pour son intégrité physique. Avant de tomber, BLANC 9 passe le ballon à BLANC 11 qui effectue un tir au but mais le ballon est arrêté par le gardien NOIR 12. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 10.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 10 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.72",
+      "Phrase": "Le score est de 29:29 avec 10 secondes restantes dans le match. Les BLANCS effectuent une contre-attaque. NOIR 10 attaque BLANC 9 de manière dangereuse pour son intégrité physique. Avant de tomber, BLANC 9 passe le ballon à BLANC 11 qui marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 10.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 10 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.73",
+      "Phrase": "Le score est de 29:29 avec 10 secondes restantes dans le match. Les BLANCS effectuent une contre-attaque. NOIR 10 attaque BLANC 9 de manière dangereuse pour son intégrité physique. Avant de tomber, BLANC 9 passe le ballon à BLANC 11 qui passe le ballon à BLANC 4. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 10.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 10 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’arbitre siffle après la passe de BLANC 11 à BLANC 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.74",
+      "Phrase": "En présence d'un délégué national (JDN) BLANC 7 effectue une contre-attaque. Il a une occasion manifeste de but et effectue un tir sans être gêné. Le gardien NOIR 12 est touché à la tête avant de tomber au sol. Le ballon rebondissant est récupéré par BLANC 9 qui a une occasion manifeste de but devant la surface de but des NOIRS. À ce moment-là, les arbitres sifflent pour demander des soins médicaux pour le gardien NOIR 12. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Aucune sanction pour BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Le gardien NOIR 12 doit quitter le terrain et ne peut le réintégrer qu’après la fin de la 3ème attaque de son équipe.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.75",
+      "Phrase": "Les BLANCS mènent d’un but à 7 secondes de la fin du match. Les BLANCS sont prêts à effectuer un engagement depuis le centre du terrain et les arbitres sifflent pour l’exécution. Au lieu de passer le ballon à un coéquipier, BLANC 7 pose le ballon par terre dans la zone d’engagement et sort de la zone d'engagement. Aucun coéquipier ne semble intéressé à entrer dans la zone d’engagement pour récupérer le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correction du l’engagement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres doivent attendre 3 secondes après le coup de sifflet avant de pouvoir accorder un jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion directe de 2 minutes pour BLANC 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.76",
+      "Phrase": "NOIR 8 s’infiltre dans la défense des BLANCS et n’a aucun joueur entre lui et le gardien BLANC 1. Lorsqu’il est sur le point de tirer, il est poussé sur le côté par BLANC 7. Même s’il perd en partie le contrôle de son corps, il arrive à tirer fort vers le but. Le ballon touche la tête du gardien BLANC 1 change de direction et entre dans le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 8.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion directe de 2 minutes pour BLANC 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.77",
+      "Phrase": "Le pivot NOIR 8 reçoit le ballon. Lorsqu’il tente de se tourner vers le but, il est fortement retenu et ceinturé par BLANC 7. Cependant, il retrouve quand même le contrôle total de son équilibre. Sans aucun joueur entre lui et le gardien, il saute au-dessus de la surface de but. Il tire fort en pleine possession de ses moyens. Le ballon touche la tête du gardien BLANC 1 et change de direction avant d’entrer dans le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 8.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Exclusion directe de 2 minutes pour BLANC 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.78",
+      "Phrase": "L’ailier NOIR 3 a une occasion manifeste de but et effectue un tir. Le ballon touche le côté de la tête du gardien BLANC 1 sans changer de direction. Le ballon entre dans le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sanction progressive pour BLANC 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "But.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.79",
+      "Phrase": "En présence d'un juge délégué national (JDN) L’ailier NOIR 3 a une occasion manifeste de but et effectue un tir. Le ballon touche le côté de la tête du gardien BLANC 1 et change de direction. La tête est le premier point de contact avec le ballon. Le ballon entre dans le but. BLANC 1 tombe par terre, se met la main sur la tête et a clairement besoin de soins médicaux. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les arbitres demandent des soins médicaux pour BLANC 1 en montrant les gestes 15 et 16.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive pour BLANC 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "But.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Après avoir reçu les soins médicaux, BLANC 1 doit quitter le terrain et ne peut le réintégrer qu’après la 3ème attaque de son équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.80",
+      "Phrase": "À 10 secondes de la fin du match, l'équipe NOIRE est en attaque. Pendant que le ballon est en jeu, NOIR10 frappe intentionnellement BLANC 7 au visage avec son coude. BLANC 7 tombe au sol et il reste allongé et blessé. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification sans rapport écrit pour NOIR 10 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification avec rapport écrit pour NOIR 10 (cartons rouges et bleus montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu est repris avec un jet franc pour l'équipe BLANCHE.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le jeu est repris avec un jet de 7 mètres pour l'équipe BLANCHE.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Les arbitres peuvent donner l'autorisation à deux personnes de l'équipe BLANCHE d'entrer sur le terrain pour soigner BLANC 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Après avoir reçu les soins sur le terrain, BLANC 7 doit quitter le terrain et ne peut rejouer que suite à la troisième attaque de son équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "8.81",
+      "Phrase": "L'équipe BLANCHE joue avec un but vide. NOIR 7 intercepte une passe et tire dans le but vide. BLANC 4 attrape le ballon alors qu'il court juste à l'extérieur de la surface de but. Il n'est pas capable de s'arrêter et entre ensuite dans la surface de but avec les deux pieds et le ballon dans les mains. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7 mètres pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour BLANC 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune sanction",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

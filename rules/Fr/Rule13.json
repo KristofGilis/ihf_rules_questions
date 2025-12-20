@@ -1,0 +1,426 @@
+{
+  "RuleNumber": "13",
+  "Name": "Le Jet Franc",
+  "Questions": [
+    {
+      "QuestionNumber": "13.1",
+      "Phrase": "Il y a un jet franc pour les BLANCS. Avant que BLANC 5 ne puisse ramasser le ballon, NOIR 6 le ramasse, le met sous son bras et court vers son but. Après quelques pas, il renvoie le ballon à BLANC 5. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 6.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS après coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avertissement pour NOIR 6.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.2",
+      "Phrase": "NOIR 7 est en possession du ballon et tente de lancer une contre-attaque mais il est ceinturé par BLANC 17. L’arbitre est sur le point de siffler mais accorde l’avantage car NOIR 8 vient de recevoir le ballon et effectue un tir vers le but des BLANCS. Le gardien BLANC 12 arrête le tir et souhaite lancer une contre-attaque. Les deux équipes ont déjà reçu trois avertissements chacune plus tôt dans le match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 17.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.3",
+      "Phrase": "Jet franc pour les BLANCS. NOIR 6 est en possession du ballon. Il emporte le ballon à quatre mètres de l’endroit où le jet franc doit être exécuté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour NOIR 6.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 6.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 6 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS depuis l’endroit de l’infraction qui a conduit au jet franc.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les BLANCS depuis l’endroit où se trouve le ballon.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.4",
+      "Phrase": "Un jet franc est sifflé contre BLANC 4 qui franchit ensuite la surface de but avant de poser le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour BLANC 4.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.5",
+      "Phrase": "BLANC 5 est en possession du ballon. L’officiel B des BLANCS se plaint des arbitres. Les arbitres sifflent et le temps est arrêté. Les arbitres avertissent l’officiel B des BLANCS. Comment le jeu doit-il reprendre ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc après coup de sifflet pour les NOIRS à la zone de changement des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc après coup de sifflet pour les BLANCS à la zone de changement des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc après coup de sifflet pour les BLANCS, à l’endroit où se trouvait le ballon lorsque le jeu a été interrompu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Remise en jeu pour les NOIRS à la zone de changement des BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.6",
+      "Phrase": "Le jeu est interrompu par un coup de sifflet de l’arbitre de champ, même s’il n’y a eu aucune infraction de la part des équipes. Aucun temps mort n’a été demandé. NOIR 13 a lancé le ballon en direction du but des BLANCS juste avant le coup de sifflet de l’arbitre de champ. Après le coup de sifflet, le ballon entre dans le but sans que le gardien BLANC 1 n’ait la possibilité de l’arrêter. Comment le jeu doit-il reprendre ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.7",
+      "Phrase": "En présence d'un délégué national (JDN) BLANC 7 effectue une contre-attaque. Avec un joueur des NOIRS entre lui et le gardien, il tire au but et touche la tête du gardien NOIR 12 avec le ballon. NOIR 12 s’effondre. Le ballon rebondit vers BLANC 9 qui se tient seul à la surface de but. BLANC 9 tire en direction du but vide. Juste avant que le ballon ne franchisse la ligne de but, l’arbitre siffle et interrompt le jeu. Le gardien NOIR 12 a besoin de soins médicaux sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS après coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "NOIR 12 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.8",
+      "Phrase": "Jet franc pour NOIR 9 mais BLANC 5 est toujours en possession du ballon. BLANC 5 s’approche d’un arbitre et lui donne poliment le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5 et jet franc pour les NOIRS depuis l’endroit où se trouve le ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour BLANC 5 et jet franc pour les NOIRS depuis l’endroit où se trouve le ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5 et jet franc pour les NOIRS depuis l’endroit où la faute a été commise.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour BLANC 5 et jet franc pour les NOIRS depuis l’endroit où la faute a été commise.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.9",
+      "Phrase": "BLANC 5 effectue un changement irrégulier après que les arbitres viennent d’accorder un jet de 7m pour les BLANCS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour l’officiel responsable des BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.10",
+      "Phrase": "Laquelle des affirmations suivantes concernant l’endroit où un jet franc doit être exécuté est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Si le ballon n’est pas posé immédiatement après la décision de jet franc, les adversaires sont autorisés à exécuter le jet franc depuis l’endroit où se trouve le ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Après un changement irrégulier, le jet franc peut être effectué depuis l’endroit où se trouve le ballon, au lieu de la zone de changement, si cela est avantageux pour l’équipe qui effectue le jet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Après un jeu passif, le jet franc est toujours effectué depuis l’endroit où se trouve le ballon au moment où le jet franc est sifflé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pour un jet franc depuis la ligne médiane, la tolérance sur le côté est à peu près la même que dans le cas d’un engagement. (sans zone d’engagement)",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.11",
+      "Phrase": "NOIR 11 a le ballon en attaque et tente de contourner BLANC 2. À cause d’un coup de sifflet provenant des tribunes, BLANC 2 cesse de défendre. NOIR 11 est maintenant libre de tirer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps ; consultation avec le chronométreur.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.12",
+      "Phrase": "Les BLANCS ont un jet franc à la ligne de jet franc des NOIRS. L’officiel A des NOIRS proteste si fortement contre une décision des arbitres qu’ils interrompent le jeu. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Sanction progressive pour l’officiel A des NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS à la zone de changement des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS à la ligne des jets francs des NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.13",
+      "Phrase": "NOIR 6 reçoit un avertissement. En sifflant l’exécution du jet franc pour les BLANCS, l’arbitre de champ ne voit pas BLANC 11 qui se trouve entre la surface de but et la ligne de jet franc. BLANC 11 reçoit le ballon et a une occasion manifeste de but. L’arbitre de but remarque la situation. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Répétition du jet franc après correction et coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’arbitre de but décide d’un jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "L’arbitre de but donne un avertissement à BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.14",
+      "Phrase": "Les BLANCS sont en possession du ballon. Les NOIRS sont en défense. BLANC 8 court près de la ligne de touche. BLANC 4 passe le ballon à BLANC 8 qui entre en collision avec un photographe qui marche entre les tribunes et le terrain, sur la ligne de touche. BLANC 8 ne réussit pas à attraper le ballon et perd le contrôle de son corps. Avant que les arbitres n’interrompent le jeu, le ballon franchit la ligne de touche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu reprend avec une remise en jeu pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Remarque sur la feuille de match conformément au règlement de la fédération compétente.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "13.15",
+      "Phrase": "Les NOIRS sont en attaque. Les arbitres accordent un jet franc à NOIR 2. Avant que NOIR 2 ne puisse exécuter le jet franc, NOIR 11 plaque BLANC 8 au sol. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS après coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive pour NOIR 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 11.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualification de NOIR 11 (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

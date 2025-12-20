@@ -1,0 +1,110 @@
+{
+  "RuleNumber": "3",
+  "Name": "Le Ballon",
+  "Questions": [
+    {
+      "QuestionNumber": "3.1",
+      "Phrase": "Combien de couleurs le ballon peut-il avoir ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Illimité",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.2",
+      "Phrase": "Quel ballon les arbitres doivent-ils choisir pour un match Sénior Masculin ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Circonférence 57 cm, poids 450 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Circonférence 58 cm, poids 400 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Circonférence 59 cm, poids 425 g",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Circonférence 60 cm, poids 500 g",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.3",
+      "Phrase": "Quel ballon les arbitres doivent-ils choisir pour un match Sénior Féminin ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Circonférence 53 cm, poids 350 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Circonférence 54 cm, poids 300 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Circonférence 55 cm, poids 425 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Circonférence 56 cm, poids 375 g",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "3.4",
+      "Phrase": "Les arbitres ont décidé d’utiliser le ballon de réserve. Quand doivent-ils réutiliser le ballon original ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Au moment de la prochaine interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Il ne peut plus être utilisé, sauf s’il devient impossible de continuer à utiliser le ballon de réserve.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsque les arbitres le jugent nécessaire.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Si l’une des équipes le demande.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

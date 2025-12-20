@@ -8,7 +8,7 @@ This project manages the IHF rules and questions in multiple languages. I update
 
 The rules are defined in a RuleDto object that contains a list of QuestionDto objects, which in turn hold AnswerDto objects. There will be a separate folder for each language.
 
-Translations for the UI are stored in JSON files (`en.json`, `nl.json` `srb.json`, etc.).
+Translations for the UI are stored in JSON files (`en.json`, `nl.json` `srb.json`, `fr.json`, etc.).
 
 
 ## Versions
@@ -24,6 +24,7 @@ Here an overview of all versions:
 | English  | 1st of July 2025 (Questions v3 + Answers v4)     |
 | Dutch (translations provided by Sus Evers) | 1 juli 2025 (versie september 2025)     |
 | Serbian    | 1. Јула 2025 (Верзија 2)    |
+| French    | 1 juillet 2025 (version 14/10/2025)    |
 
 
 ## Adding a New Language
@@ -152,7 +153,7 @@ By following these instructions, you can easily add new languages, fill in missi
 <table>
   <tbody>
     <tr>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/KristofGilis"><img src="https://avatars.githubusercontent.com/u/2454275?v=4?s=100" width="100px;" alt="Kristof Gilis"/><br /><sub><b>Kristof Gilis</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=KristofGilis" title="Code"> En / Nl</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/KristofGilis"><img src="https://avatars.githubusercontent.com/u/2454275?v=4?s=100" width="100px;" alt="Kristof Gilis"/><br /><sub><b>Kristof Gilis</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=KristofGilis" title="Code"> En / Nl / Fr</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/branislavrt4316"><img src="https://avatars.githubusercontent.com/u/55112798?v=4?s=100" width="100px;" alt="Branislav Vujanovic"/><br /><sub><b>Branislav Vujanovic</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=branislavrt4316" title="Code">Srb</a></td>
     </tr>
   </tbody>
