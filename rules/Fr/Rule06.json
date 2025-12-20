@@ -623,6 +623,11 @@
           "AnswerNumber": "c",
           "Phrase": "Exclusion directe de 2 minutes pour BLANC 10.",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Aucune sanction",
+          "Correct": false
         }
       ]
     },

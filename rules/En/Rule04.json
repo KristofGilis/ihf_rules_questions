@@ -56,7 +56,7 @@
     },
     {
       "QuestionNumber": "4.3",
-      "Phrase": "Just after the match has started, the club president of WHITE team sits down on the bench in the substitution area with two team officials, the masseur and the coach. What are the consequences?",
+      "Phrase": "Just after the match has started, the club president of WHITE team sits down on the bench in the substitution area with three team officials, the masseur and the coach. What are the consequences?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -1088,7 +1088,7 @@
     },
     {
       "QuestionNumber": "4.40",
-      "Phrase": "The playing time is 43:27. There is an interruption by the timekeeper after a goal from WHITE 15 and throw-off. The timekeeper informs the referees that WHITE 15 is not registered in the score sheet. 14 players are already listed for WHITE team. The referees realise that WHITE 11 is not even present. Correct decision?",
+      "Phrase": "The playing time is 43:27. There is an interruption by the timekeeper after a goal from WHITE 15 and throw-off. The timekeeper informs the referees that WHITE 15 is not registered in the score sheet. 16 players are already listed for WHITE team. The referees realise that WHITE 11 is not even present. Correct decision?",
       "Answers": [
         {
           "AnswerNumber": "a",
