@@ -408,6 +408,11 @@
           "AnswerNumber": "f",
           "Phrase": "Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Le délégué ou les arbitres ont la possibilité de jouer l'avantage et de siffler la faute lorsque l'occasion manifeste de marquer est terminée.",
+          "Correct": false
         }
       ]
     },
@@ -499,7 +504,7 @@
         },
         {
           "AnswerNumber": "e",
-          "Phrase": "Les NOIRS peuvent ajouter un autre joueur pour compléter le nombre autorisé de 14 joueurs.",
+          "Phrase": "Les NOIRS peuvent ajouter un autre joueur pour compléter le nombre autorisé de 16 joueurs.",
           "Correct": false
         }
       ]
@@ -1119,9 +1124,9 @@
           "Correct": true
         },
         {
-          "AnswerNumber": "g",
+          "AnswerNumber": "d",
           "Phrase": "Arrêt du temps de jeu",
-          "Correct": false
+          "Correct": true
         }
       ]
     },
@@ -1453,7 +1458,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Renvoi pour les NOIRS après le coup de sifflet.",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "b",
@@ -1463,7 +1468,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Jet franc pour les NOIRS.",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "d",

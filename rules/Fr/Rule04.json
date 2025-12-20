@@ -56,7 +56,7 @@
     },
     {
       "QuestionNumber": "4.3",
-      "Phrase": "Juste après le début du match, le président du club des BLANCS s’assoit sur le banc dans la zone de changement avec deux officiels de l’équipe, le masseur et l’entraîneur. Quelles sont les conséquences ?",
+      "Phrase": "Juste après le début du match, le président du club des BLANCS s’assoit sur le banc dans la zone de changement avec trois officiels de l’équipe, le masseur et l’entraîneur. Quelles sont les conséquences ?",
       "Answers": [
         {
           "AnswerNumber": "a",
@@ -741,6 +741,11 @@
           "AnswerNumber": "d",
           "Phrase": "Jet de 7m pour les BLANCS.",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le chronométreur aurait dû attendre que l'occasion manifeste de marquer soit terminée avant de siffler pour signaler le remplacement irrégulier.",
+          "Correct": false
         }
       ]
     },

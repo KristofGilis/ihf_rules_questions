@@ -395,6 +395,11 @@
           "AnswerNumber": "b",
           "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
           "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L'équipe BLANCHE est réduite de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
         }
       ]
     },
