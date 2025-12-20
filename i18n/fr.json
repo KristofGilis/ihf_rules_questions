@@ -1,0 +1,122 @@
+{
+  "accessibility": {
+    "skip_to_main": "Passer au contenu principal"
+  },
+  "errors": {
+    "client_error": "Une erreur inattendue s'est produite. Veuillez rafraîchir la page.",
+    "data_loading": "Une erreur s'est produite lors du chargement des données. Veuillez réessayer.",
+    "http_error": "Une erreur s'est produite lors de la communication avec le serveur.",
+    "network_connection": "Impossible de se connecter au serveur. Veuillez vérifier votre connexion Internet.",
+    "not_found": "La ressource demandée est introuvable.",
+    "server_error": "Le serveur a rencontré une erreur. Veuillez réessayer plus tard.",
+    "unknown_error": "Une erreur inconnue s'est produite. Veuillez réessayer."
+  },
+  "home": {
+    "alert": "J'ai décidé de ne pas ajouter automatiquement les autres langues, car je n'ai pas le temps. Mais vous pouvez aider. ;-) Un grand merci à tous les collaborateurs.",
+    "all_questions_card": {
+      "content": "Voir et étudier toutes les questions disponibles.",
+      "title": "Toutes les questions"
+    },
+    "all_rights_reserved": "Tous droits réservés",
+    "collaborate": "Aidez à soutenir d'autres langues",
+    "created_by": "Créé par",
+    "github_button": "Voir sur GitHub",
+    "hero_description": "Testez vos connaissances des règles du handball IHF avec des quiz interactifs",
+    "loading": "Chargement...",
+    "quiz_card": {
+      "button": "Commencer le quiz",
+      "count": "# Questions",
+      "timed_mode": "Mode chronométré (90s par question)",
+      "title": "Faire un quiz"
+    },
+    "rules_card": {
+      "content": "Accédez à la liste de toutes les règles. À partir d'ici, vous pouvez obtenir toutes les questions liées à la règle sélectionnée.",
+      "title": "Règles"
+    },
+    "timed_mode_description": "Course contre la montre",
+    "version": "Version {{version}}"
+  },
+  "languages": {
+    "en": "Anglais",
+    "label": "Langue",
+    "nl": "Néerlandais",
+    "srb": "Serbe"
+  },
+  "main": {
+    "title": "Quiz des règles IHF"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "questions": "Questions",
+    "quiz": "Quiz",
+    "rules": "Règles"
+  },
+  "offline": {
+    "message": "Vous êtes actuellement hors ligne. Certaines fonctionnalités peuvent ne pas être disponibles."
+  },
+  "questions": {
+    "calculate_score": "Calculer le score",
+    "description": "Parcourez et étudiez toutes les questions disponibles à votre rythme",
+    "loading": "Chargement des questions...",
+    "no_questions": "Aucune question disponible",
+    "recalculate_score": "Recalculer",
+    "recalculate_score_full": "Recalculer le score",
+    "restart": "Redémarrer",
+    "show_score": "Afficher le score",
+    "title": "Toutes les questions",
+    "wrong": "Faux"
+  },
+  "quiz": {
+    "calculating_score": "Calcul du score...",
+    "complete": "Quiz terminé",
+    "configure": "Configurer le quiz",
+    "leave_cancel": "Rester",
+    "leave_confirm": "Quitter",
+    "leave_title": "Quitter le quiz ?",
+    "leave_warning": "Votre progression sera perdue si vous quittez maintenant. Êtes-vous sûr ?",
+    "next": "Suivant",
+    "previous": "Précédent",
+    "progress": "Question {{current}} sur {{total}}",
+    "select_answers": "Sélectionnez toutes les réponses correctes",
+    "select_answers_for_question": "Sélectionnez toutes les réponses correctes pour la question {{current}}",
+    "setup_description": "Configurez les paramètres de votre quiz pour commencer",
+    "time_remaining": "Temps restant"
+  },
+  "quiz_results": {
+    "completion_time": "Temps de complétion",
+    "correct": "Correct",
+    "home": "Accueil",
+    "question": "Question",
+    "retake": "Reprendre le quiz",
+    "review": "Revoir les réponses",
+    "title": "Résultats du quiz",
+    "wrong": "Faux",
+    "your_answer": "Votre réponse"
+  },
+  "rule": {
+    "description": "Étudiez les questions liées à cette règle spécifique"
+  },
+  "rules": {
+    "description": "Parcourez toutes les règles du handball IHF. Sélectionnez une règle pour voir les questions associées.",
+    "loading": "Chargement des règles...",
+    "no_rules": "Aucune règle disponible",
+    "title": "Règles"
+  },
+  "score_overview": {
+    "all_correct": "Toutes correctes",
+    "click_to_review": "Cliquez pour passer et revoir",
+    "correct": "Correct",
+    "of_total_correct": "/ {{total}} correct",
+    "perfect": "Parfait !",
+    "question_number": "Question {{number}}",
+    "review_mistakes": "Revoir les erreurs",
+    "title": "Résultat",
+    "wrong": "Faux"
+  },
+  "theme": {
+    "dark": "Sombre",
+    "light": "Clair",
+    "system": "Système",
+    "toggle": "Changer le thème"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "RuleNumber": "SAR",
+  "Name": "Règlement des Zones de Changement",
+  "Questions": [
+    {
+      "QuestionNumber": "RZC.1",
+      "Phrase": "Quelle doit être la distance entre la ligne médiane et le début des bancs des remplaçants ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1 mètre",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3,5 mètres",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "RZC.2",
+      "Phrase": "L’officiel A des BLANCS a déjà reçu un avertissement alors qu’il était assis sur le banc. Il quitte maintenant la zone de changement et s’assoit avec les spectateurs. De cette position, il continue de protester contre les décisions des arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune action possible.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de l’officiel A des BLANCS (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel A des BLANCS avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

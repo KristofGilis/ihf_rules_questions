@@ -1,0 +1,344 @@
+{
+  "RuleNumber": "5",
+  "Name": "Le Gardien de but",
+  "Questions": [
+    {
+      "QuestionNumber": "5.1",
+      "Phrase": "Le gardien de but NOIR 1 arrête un tir et lance une contre-attaque. Ce faisant, il franchit la ligne de la surface de but avec son pied gauche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Répétition du renvoi après coup de sifflet.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.2",
+      "Phrase": "Le gardien de but BLANC 12 se tient en dehors de sa surface de but sur le terrain. En recevant le ballon d’un coéquipier, le gardien recule d’un pas avec un pied dans la surface de but, tandis que l’autre pied reste en place. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7mpour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jeu continue sans interruption",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour le gardien de but BLANC 12",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.3",
+      "Phrase": "Le gardien BLANC 12 arrête un tir et plonge vers le ballon qui se déplace en direction de l'aire de jeu. BLANC 12 contrôle le ballon mais glisse au-delà de la surface de but et passe ensuite le ballon à un coéquipier. Bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour l'équipe NOIRE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jeu se poursuit sans interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour l'équipe BLANCHE après le coup de sifflet",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.4",
+      "Phrase": "Le gardien de but NOIR 1 arrête un tir. Le ballon roule vers l’aire de jeu. Pour arrêter le ballon avant qu’il n’atteigne BLANC 15, qui attend à la surface de but, il le fait glisser avec son pied au-delà de la ligne de but extérieure juste avant qu’il n’atteigne BLANC 15. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive contre NOIR 1, car il a mis un adversaire en danger.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.5",
+      "Phrase": "Le gardien de but BLANC 12 réussi à stopper le ballon. Le ballon se déplace à l’intérieur de la surface de but vers la ligne de touche. Le gardien de but utilise son pied pour jouer le ballon en dehors de la ligne de but extérieure. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive contre le gardien de but.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.6",
+      "Phrase": "Le gardien de but BLANC 1 stoppe un tir. Le ballon roule en direction de l’aire de jeu, où NOIR 6 attend seul pour récupérer le ballon. BLANC 1 réussit à arrêter le ballon avec son pied lorsque le ballon est sur la ligne de surface de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS après le coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sanction progressive contre BLANC 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.7",
+      "Phrase": "Le tir de NOIR 18 est contré par BLANC 7, de sorte que le ballon change de direction et va clairement en direction de la ligne de sortie de but à l’intérieur de la surface de but. Le gardien de but BLANC 1 court après le ballon et réussit à le faire passer au- delà de la ligne de sortie avec son pied. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour BLANC 1.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.8",
+      "Phrase": "Le gardien NOIR 12 saute dans sa surface de but pour capter une longue passe de BLANC 7. NOIR 12 attrape le ballon alors qu'il est en l'air et atterrit avec le ballon avec un pied dans la surface de but et un pied dans l'aire de jeu. Dans cette position, il passe le ballon à NOIR 3. Bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7 mètres vers l'équipe BLANCHE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jeu se poursuit sans interruption",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour l'équipe BLANCHE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correction et renvoi après coup de sifflet",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.9",
+      "Phrase": "BLANC 9 veut faire une passe à son gardien de but BLANC 1 qui est dans l’aire de jeu. Comme BLANC 9 est sous pression, il lance le ballon trop haut, de sorte que BLANC 1 doit reculer et entrer dans la surface de but avec un pied, immédiatement après avoir attrapé le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.10",
+      "Phrase": "Les arbitres accordent un jet franc pour les BLANCS à leur ligne des 6 mètres. Le gardien de but BLANC 1 se tient avec un pied dans sa zone et l’autre pied dans l’aire de jeu. Il passe le ballon à BLANC 8, qui marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Répétition du jet franc en dehors de la surface de but des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS à la surface de but des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.11",
+      "Phrase": "L’arbitre siffle « marcher » du NOIR 21. NOIR 21 pose le ballon sur la ligne de la surface de but des BLANCS. Le gardien de but BLANC 12 souhaite jouer rapidement le ballon. Il s’appuie d’une main sur le sol dans l’aire de jeu et a un pied sur le sol dans la surface de but. De cette position, il passe le ballon à BLANC 3, qui lance une contre-attaque qui mène à un but pour les BLANCS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Répéter le jet franc pour les BLANCS après le coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS à cause d’une exécution irrégulière du jet franc par BLANC 12.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.12",
+      "Phrase": "Le gardien de but NOIR 1 a quitté sa surface de but. Il saute dans l’aire de jeu, attrape une passe d’un coéquipier en l’air et atterrit les deux pieds à l’intérieur de sa surface de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "5.13",
+      "Phrase": "Le ballon est par terre juste en dehors de la surface de but des BLANCS. Le gardien de but BLANC 1 se tient à l’intérieur de la surface de but et ramasse le ballon pour empêcher un adversaire de le prendre. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7mpour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour BLANC 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Aucune intervention, car c’est autorisé.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

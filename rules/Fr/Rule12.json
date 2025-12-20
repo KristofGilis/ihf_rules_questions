@@ -1,0 +1,287 @@
+{
+  "RuleNumber": "12",
+  "Name": "Le Renvoi",
+  "Questions": [
+    {
+      "QuestionNumber": "12.1",
+      "Phrase": "Pendant l’exécution d’un renvoi, le gardien BLANC 1 touche sa ligne de surface de but avec un pied. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le renvoi doit être répété après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.2",
+      "Phrase": "Après le coup de sifflet pour l’exécution d’un jet de 7 mètres, le gardien BLANC 12 pose un pied sur la ligne de limitation des 4m. Le jet de 7m passe au-dessus de la barre transversale. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jet de 7m doit être retiré après un coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Comme il n’y a pas but, le jeu continue par un renvoi.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La position du gardien de but est correcte.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.3",
+      "Phrase": "Le gardien de but BLANC 1 arrête un tir et plonge pour attraper le ballon qui roule dans la surface de but vers l’aire de jeu. NOIR 7 est libre et prêt à récupérer le ballon. Au dernier moment, BLANC 1 utilise sa main pour envoyer le ballon au-delà de la ligne de sortie de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.4",
+      "Phrase": "Pendant l’exécution d’un renvoi, le gardien BLANC 12 échappe le ballon. Le ballon touche son pied puis franchit la ligne de surface de but vers l’aire de jeu. BLANC 12 court après le ballon, le ramasse et retourne dans sa surface de but de but pour répéter le renvoi. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correction, renvoi après le coup de sifflet.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.5",
+      "Phrase": "Quand un renvoi est-il considéré comme exécuté, de sorte que le ballon puisse être joué par un joueur de champ ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Lorsque le ballon est encore en l’air au-dessus de la surface de but.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le ballon a quitté la main du gardien et a franchi la ligne de la surface de but et se trouve dans l’aire de jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsque le ballon a quitté la main du gardien.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lorsqu’un coéquipier du gardien a touché le ballon.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.6",
+      "Phrase": "Le gardien BLANC 12 exécute un renvoi. NOIR 10 qui se tient en dehors de la ligne de surface de but, tente légalement de prendre possession du ballon. Il réussit et marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive contre NOIR 10",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.7",
+      "Phrase": "Le gardien BLANC 12 arrête un tir en déviant le ballon au-delà de la ligne de sortie près du but. Quels gestes l’arbitre de but doit-il montrer, si nécessaire ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Numéro 8 (renvoi).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Numéro 9 (direction du jet franc).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "D’abord le numéro 9 (direction du jet franc), puis le numéro 8 (renvoi).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "D’abord le numéro 8 (renvoi), puis le numéro 9 (direction du jet franc).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.8",
+      "Phrase": "Le gardien BLANC 1 laisse tomber le ballon en effectuant un renvoi. Le ballon rebondit en direction de l’aire de jeu où NOIR 6 attend le ballon. BLANC 2 plonge au-dessus de la surface de but et pousse le ballon, qui est en l’air, en dehors de la ligne de touche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS après le coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7mpour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.9",
+      "Phrase": "Laquelle des affirmations suivantes concernant le renvoi est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le renvoi est considéré comme effectué lorsque le ballon a quitté la main du gardien.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les adversaires doivent garder une distance de 3 mètres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le renvoi est considéré comme effectué lorsque le ballon a quitté la main du gardien et a franchi la verticale de la ligne de surface de but.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les adversaires sont autorisés à se tenir directement en dehors de la ligne de surface de but.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.10",
+      "Phrase": "Il y a un renvoi pour les NOIRS. Le gardien NOIR 1 est pressé car son équipe perd dans le match. En effectuant le renvoi, le ballon glisse de sa main et va à NOIR 6, qui se trouve encore dans la surface de but. NOIR 6 renvoie le ballon à NOIR 1 avec son pied. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les NOIRS après coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "12.11",
+      "Phrase": "Laquelle des affirmations suivantes concernant le renvoi est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les joueurs de l’équipe adverse doivent rester en dehors de la ligne des jets francs jusqu’à ce que le ballon soit en jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les joueurs de l’équipe adverse doivent rester en dehors de la surface de but et à 3 mètres de l’endroit où le gardien de but effectue le renvoi.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les joueurs de l’équipe adverse sont autorisés à toucher le ballon avant qu’il n’ait franchi la verticale de la surface de but.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le gardien ne peut pas marquer un but contre son propre camp lorsqu’il effectue un renvoi.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le gardien ne peut pas marquer un but direct contre l’équipe adverse avec un renvoi.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "En effectuant un renvoi, le gardien n’est pas autorisé à toucher la ligne de surface de but.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

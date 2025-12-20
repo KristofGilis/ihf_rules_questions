@@ -1,0 +1,1728 @@
+{
+  "RuleNumber": "4",
+  "Name": "L’équipe, Les changements, L’équipement, Les blessures",
+  "Questions": [
+    {
+      "QuestionNumber": "4.1",
+      "Phrase": "Peu de temps avant le début du match, BLANC 11 est gravement blessé et ne peut plus jouer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLANC 11 ne peut pas être remplacé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLANC 11 peut être remplacé si l’équipe adverse accepte.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Normalement, BLANC 11 peut être remplacé sur la feuille de match, et son remplaçant peut porter le numéro 11. Cependant, les arbitres peuvent devoir appliquer des règlements dérogatoires spéciaux pour la compétition concernée.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "BLANC 11 peut être remplacé, mais son remplaçant ne peut pas porter le numéro 11.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.2",
+      "Phrase": "Les NOIRS se présentent avec cinq joueurs de terrain. Le gardien de but n’est pas présent au début du match. Les NOIRS désignent le joueur de terrain NOIR 5 comme gardien de but. Quelles sont les conséquences pour NOIR 5 ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "NOIR 5 peut être utilisé comme joueur de terrain à tout moment tant qu’il effectue un changement correct.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "NOIR 5 ne peut plus être utilisé comme joueur de champ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "NOIR 5 peut être utilisé comme joueur de champ si les officiels des BLANCS acceptent.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "NOIR 5 peut être utilisé comme joueur de champ dès que le gardien de but prévu est présent.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.3",
+      "Phrase": "Juste après le début du match, le président du club des BLANCS s’assoit sur le banc dans la zone de changement avec deux officiels de l’équipe, le masseur et l’entraîneur. Quelles sont les conséquences ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le gardien de but remplaçant doit se tenir derrière le banc.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le président du club doit quitter la zone de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un des officiels doit quitter la zone de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Toute personne non inscrite sur la feuille de match doit quitter la zone de changement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "L’officiel responsable A de l’équipe reçoit une sanction progressive.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.4",
+      "Phrase": "Quel est le nombre minimum de joueurs qui doivent être présents sur le terrain au début du match et inscrits sur la feuille de match ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Cinq joueurs",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Quatre joueurs de champ et un gardien de but",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Cinq joueurs de champ et un gardien de but",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Six joueurs de champ",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.5",
+      "Phrase": "Quatre scénarios : qui a le droit de participer ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un joueur qui est présent au début du match et inscrit sur la feuille de match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un joueur qui n’est pas présent au début du match, mais qui est inscrit sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un joueur qui est présent au début du match, mais qui n’est pas inscrit sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Un joueur qui a reçu l’autorisation de jouer du chronométreur, mais qui n’est pas inscrit sur la feuille de match.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.6",
+      "Phrase": "Au début du match, seulement six joueurs des BLANCS sont présents. Immédiatement après le début du match, les joueurs manquants arrivent. BLANC 7 entre directement sur le terrain par la zone de changement. Il n’est pas inscrit sur la feuille de match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 7 (carton rouge montrée par les arbitres)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7, qui doit être inscrit sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLANC 7 doit être inscrit sur la feuille de match si cela est conforme au règlement de la fédération compétente.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive contre le responsable officiel des BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.7",
+      "Phrase": "Les arbitres ont accordé un jet franc pour les BLANCS sur la ligne de jet franc des NOIRS . Il y a alors un signal sonore du chronométreur, qui arrête le chronomètre. Les arbitres s’informent de la raison de l’intervention. Le chronométreur informe les arbitres que BLANC 9 a effectué un changement irrégulier. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS sur la ligne de jet franc des NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS sur leur propre ligne de jet franc.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS au niveau de la zone de changement des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 9.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.8",
+      "Phrase": "NOIR 14 effectue un changement correct pendant que le jeu est interrompu. Cependant, un coup de sifflet retentit de la part du chronométreur. NOIR 14 n’est pas correctement inscrit sur la feuille de match. Il s’avère que ce joueur porte le numéro 18 sur la feuille de match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Sanction progressive contre le responsable officiel des NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS à la table du chronométreur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le numéro doit être corrigé sur la feuille de match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu continue avec le jet correspondant à la situation et il doit y avoir un rapport écrit.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.9",
+      "Phrase": "Quand est-il permis à deux personnes maximums d’une équipe (officiels et/ou joueurs) d’entrer sur le terrain ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Pendant une interruption du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Pendant une interruption du match et avec l’autorisation d’un arbitre.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsqu’un joueur est blessé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avec l’autorisation du chronométreur.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.10",
+      "Phrase": "L’arbitre siffle pour indiquer un arrêt du temps de jeu, car BLANC 2 reçoit sa troisième exclusion de 2 minutes. Alors que l’arbitre se tourne vers le chronométreur et le secrétaire pour signaler l’exclusion, le responsable officiel des BLANCS entre sur le terrain pour protester contre l’exclusion. L’officiel B des BLANCS a déjà reçu un avertissement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification du responsable officiel des BLANCS (carton rouge montrée par les arbitres) et réduction des BLANCS d’un joueur supplémentaire pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour le responsable officiel des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification du responsable officiel des BLANCS avec un rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour le responsable officiel des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Réduction des BLANCS d’un joueur supplémentaire pendant 2 minutes sur le terrain.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.11",
+      "Phrase": "Pendant un arrêt du temps de jeu dû à la blessure d’un joueur, BLANC 2 entre sur le terrain comme joueur supplémentaire, alors qu’aucun des arbitres ne lui a donné l’autorisation d’entrer sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sanction progressive contre le responsable officiel des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 2 (carton rouge montrée par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2 et réduction de son équipe d’un joueur pendant 2 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.12",
+      "Phrase": "En la présence d'un délégué national (JDN) BLANC 5 est blessé sur le terrain et l’arbitre de champ indique un arrêt du temps de jeu afin d'autoriser deux personnes des BLANCS à entrer sur le terrain pour soigner BLANC 5. L’officiel B des NOIRS entre également sur le terrain pour conseiller son gardien de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune décision, le signal permet à tous les joueurs et officiels d'entrer sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les quatre officiels des NOIRS reçoivent un avertissement, et s’il y a répétition, ils doivent être disqualifiés.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’officiel responsable des NOIRS reçoit un avertissement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive contre l’officiel des NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 5 doit quitter le terrain immédiatement, et il ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.13",
+      "Phrase": "Le gardien de but BLANC 16 est blessé et doit être remplacé par BLANC 5. BLANC 5 change de maillot. Après 20 minutes, BLANC 16 est prêt à rejouer et l’officiel A des BLANCS effectue un changement. BLANC 5 change à nouveau de maillot et est renvoyé sur le terrain comme joueur de terrain sans notification au secrétaire de match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune sanction, car cela est autorisé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 5 (carton rouge montrée par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.14",
+      "Phrase": "BLANC 4 quitte le terrain au-delà de la ligne de changement. Lorsque BLANC 4 a franchi la ligne de touche, mais n’est pas encore arrivé dans sa zone de changement, BLANC 11 franchit correctement la ligne pour entrer sur le terrain. Quelle est la bonne décision après le signal sonore du chronométreur ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS à l’endroit où BLANC 4 a quitté le terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS à hauteur de la zone de changement des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4 et BLANC 11.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.15",
+      "Phrase": "NOIR 3 effectue le premier changement irrégulier de son équipe lors d’une interruption du match. L’interruption a été causée par une décision de jet franc en faveur des NOIRS . NOIR 3 n’a reçu ni avertissement ni exclusion auparavant dans le match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour NOIR 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.16",
+      "Phrase": "Après que les arbitres aient accordé un jet de 7m pour les BLANCS, BLANC 27 qui a été désigné pour effectuer le tir à 7 mètres, effectue un changement irrégulier. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 27.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.17",
+      "Phrase": "Les BLANCS ont marqué un but. Les arbitres n’ont pas encore sifflé l’engagement lorsque NOIR 10 entre sur le terrain avant que NOIR 6 ne l’ait quitté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Engagement NOIR.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 10.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 6.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.18",
+      "Phrase": "Les BLANCS ne comptent que douze joueurs au début du match car les deux gardiens de but sont en retard. Les BLANCS commencent donc avec un des douze joueurs de champ comme gardien de but. Quelles alternatives sont correctes ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le joueur de champ qui commence le match comme gardien de but doit être inscrit sous le numéro 1, 12 ou 16 sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le joueur de champ qui commence le match comme gardien de but peut également être utilisé comme joueur de champ plus tard dans le match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les gardiens de but arrivant en retard des BLANCS doivent être inscrits sous le numéro 1, 12 ou 16 sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Un des deux gardiens de but arrivant en retard ne peut être utilisé que comme joueur de champ.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.19",
+      "Phrase": "Pendant un arrêt du temps de jeu, BLANC 5 effectue le premier changement irrégulier de son équipe. Les BLANCS étaient en possession du ballon lorsque l’arrêt du temps de jeu a été demandé. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune sanction.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour BLANC 5.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les BLANCS restent en possession du ballon.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.20",
+      "Phrase": "Le gardien de but BLANC 3 veut effectuer un jet de 7 mètres. Pour protéger le but vide, BLANC 15 entre sur le terrain en tenue de gardien de but, remplaçant un joueur de champ. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 15.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Aucune sanction.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS à hauteur de la zone de changement des BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.21",
+      "Phrase": "Lors d’une contre-attaque des BLANCS, qui a une occasion manifeste de but, NOIR 3 effectue un changement irrégulier. Le chronométreur et le secrétaire de match ne réagissent pas, mais l’arbitre de champ remarque ce qui s’est passé. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion immédiate de NOIR 3 et jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion immédiate de NOIR 3 et jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Attendre la fin de l’action, puis exclusion de NOIR 3 et jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Attendre la fin de l’action, puis exclusion de NOIR 3 et reprise du jeu approprié selon la situation.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.22",
+      "Phrase": "Un tir au but est arrêté par le gardien de but BLANC 1 et le ballon roule le long de la ligne de touche près du banc de changement des BLANCS. BLANC 5, qui est assis sur le banc entre sur le terrain avec un pied pour arrêter le ballon, afin que BLANC 4 puisse le ramasser avant qu’il ne franchisse la ligne de touche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 5 (carton rouge montrée par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.23",
+      "Phrase": "30 secondes avant la fin de son temps d’exclusion, BLANC 3 entre sur le terrain sans interférer avec le jeu. Les BLANCS sont en possession du ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3 et les BLANCS sont réduits d’un joueur pendant 30 secondes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "30 secondes pour BLANC 3 et les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 3 (carton rouge montré par les arbitres) et les BLANCS sont réduits d’un joueur sur le terrain pendant 30 secondes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.24",
+      "Phrase": "BLANC 5 a été exclus. Après 1 minute et 45 secondes de son temps d’exclusion, l’officiel A des BLANCS le renvoie sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nouvelle exclusion de 2 minutes pour BLANC 5, et les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes et 15 secondes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 5 (carton rouge montrée par les arbitres), et les BLANCS sont réduits de 2 joueurs sur le terrain pendant 15 secondes et d’un joueur pendant 1 minute et 45 secondes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5, et les BLANCS sont réduits de 2 joueurs sur le terrain pendant 15 secondes et d’un joueur pendant 1 minute et 45 secondes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.25",
+      "Phrase": "Après la fin de son exclusion de 2 minutes, le gardien de but NOIR 1 souhaite rejoindre son équipe, qui est en défense à ce moment- là. Il entre sur le terrain avec son maillot de gardien de but pour occuper le poste d’ailier comme sixième joueur de champ des NOIRS . Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour le gardien de but NOIR 1.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.26",
+      "Phrase": "Laquelle des affirmations suivantes est correcte concernant un joueur qui saigne sur le terrain ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le joueur doit quitter le terrain immédiatement et volontairement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le joueur peut rester sur le terrain jusqu’à la prochaine interruption du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le joueur qui remplace le joueur qui saigne peut entrer sur le terrain au-delà de la ligne de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le joueur ne doit pas réintégrer le terrain jusqu’à la prochaine interruption du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Si le joueur refuse de suivre les instructions des arbitres pour quitter le terrain, il doit être sanctionné pour conduite antisportive.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.27",
+      "Phrase": "BLANC 5 est seul face au gardien de but NOIR 1 et a une occasion manifeste de but. NOIR 11 effectue un changement irrégulier car il entre sur le terrain avant que NOIR 5 ne l’ait quitté. Le chronométreur siffle à cause de cette infraction, précisément au moment où BLANC 5 est prêt à tirer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 11.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 11, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.28",
+      "Phrase": "Le gardien de but NOIR 1 arrête un tir et lance le ballon à son coéquipier NOIR 4. NOIR 1 se rend sur la ligne de touche près de sa zone de changement. Il franchit clairement la ligne, prend une serviette et boit dans une bouteille d’eau. Il n’est pas remplacé sur le terrain par un autre gardien de but ou un joueur de terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption, car c’est autorisé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 1 pour changement irrégulier.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS dans la zone de changement des NOIRS .",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.29",
+      "Phrase": "L’officiel A des NOIRS a reçu un avertissement plus tôt dans le match. Après une décision des arbitres, l’officiel D des NOIRS court sur plusieurs mètres dans le terrain sans l’autorisation des arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune sanction.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour l’officiel D des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel D des NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel D des NOIRS (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.30",
+      "Phrase": "Il y a un arrêt du temps de jeu dû à une blessure de BLANC 6 causée par un incident qui n’a pas entraîné de sanction progressive contre un joueur des NOIRS . Les arbitres ont autorisé deux personnes à entrer sur le terrain pour aider BLANC 6. L’officiel C des BLANCS aide BLANC 6. L’officiel A des BLANCS poursuit NOIR 5, qui, selon lui, a causé la blessure. Il suit NOIR 5 dans la zone de changement des NOIRS et le frappe au visage. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de l’officiel A des BLANCS, rapport écrit (carton rouge et bleu montrés par les arbitres), les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jeu reprend après un signal sonore avec le jet correspondant au moment de l’interruption.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des BLANCS, les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de l’officiel A des BLANCS sans rapport écrit (carton rouge montré par les arbitres), les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 6 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.31",
+      "Phrase": "Juste après l’exécution de l’engagement pour les NOIRS, les arbitres se rendent compte qu’une personne, qui n’est pas inscrite sur la feuille de match, est présente dans la zone de changement des NOIRS . Il s’avère que cette personne est un membre du conseil d’administration du club, mais les NOIRS ont déjà quatre autres personnes inscrites comme officiels d’équipe sur la feuille de match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La personne doit quitter la zone de changement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sanction personnelle pour l’officiel A des NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un officiel de l’équipe supplémentaire doit quitter la zone de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le jeu reprend par un jet franc pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.32",
+      "Phrase": "Laquelle des affirmations suivantes concernant la tenue est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tous les joueurs d’une équipe identifiés comme gardiens de but doivent porter des maillots de la même couleur.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les joueurs doivent avoir des numéros d’au moins 20 cm de hauteur à l’avant et à l’arrière.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les gardiens de but sont autorisés à porter une protection de tête si elle est faite d’un matériau souple.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les joueurs, y compris les gardiens de but, peuvent utiliser des numéros de 1 à 100.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.33",
+      "Phrase": "BLANC 10 purge sa première exclusion de 2 minutes à partir de 21’00. Après la reprise du match, il se plaint tellement que les arbitres interrompent le match à 21’30 pour sanctionner à nouveau BLANC 10 d’une exclusion. Quelles sont les conséquences pour les BLANCS ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 10.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 10.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le champ jusqu’à 23’00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le champ jusqu’à 23’00, puis d’un joueur jusqu’à 23’30.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.34",
+      "Phrase": "Dans lesquels des cas suivants le responsable officiel de l’équipe doit-il recevoir une sanction personnelle ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Lorsqu’un joueur de son équipe quitte la zone de changement sans en informer le chronométreur/secrétaire de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "S’il y a des personnes qui ne sont pas inscrites sur la feuille de match présentes dans la zone de changement au début du match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsqu’un joueur supplémentaire entre sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lorsqu’un joueur qui n’a pas le droit de participer entre sur le terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "S’il est détecté que les joueurs sur le terrain portent un équipement incorrect après le début du match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "S’il y a des irrégularités dans la zone de changement qui ne peuvent pas être clairement attribuées à des individus.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "S’il est détecté que les joueurs dans la zone de changement portent un équipement incorrect après le début du match.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.35",
+      "Phrase": "Les arbitres font le geste pour indiquer l’autorisation d’entrer sur le terrain, car un joueur des BLANCS est blessé. Qui est autorisé à entrer sur le terrain ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Deux officiels des BLANCS, personne d’autre.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Deux officiels des équipes BLANC et NOIR.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Deux personnes (officiels ou joueurs) des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Deux personnes (officiels ou joueurs) des équipes BLANC et NOIR.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le médecin des BLANCS, s’il n’est pas l’un des quatre officiels de l’équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.36",
+      "Phrase": "L’officiel C des BLANCS a déjà reçu un avertissement pour des contestations. Plus tard, l’officiel B des BLANCS entre sur le terrain sans autorisation, mais il ne se comporte pas de manière antisportive. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour l’officiel B des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel B des BLANCS (doit quitter le banc pendant 2 minutes).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de l’officiel B des BLANCS (carton rouge montré par les arbitres), les BLANCS sont réduits d’un joueur supplémentaire pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel B des BLANCS, les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes, l’officiel B peut rester dans la zone de changement.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.37",
+      "Phrase": "Quelles actions ne sont pas autorisées lorsqu’il y a un arrêt du temps de jeu dû à une blessure d’un joueur BLANC et que les arbitres ont donné l’autorisation à deux personnes maximums des BLANCS d’entrer sur le terrain ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les joueurs NOIRS se tiennent près de la ligne de touche afin de recevoir des instructions de l’entraîneur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les joueurs des BLANCS effectuent des changements en dehors de la ligne de changement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un des officiels des BLANCS, qui se trouve sur le terrain, s’éloigne du joueur blessé et donne des instructions aux autres joueurs de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.38",
+      "Phrase": "Avant le début du match, les arbitres / le délégué constate que BLANC 7 porte des protège-chevilles avec un matériau dur qui n’est pas recouvert. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLANC 7 peut jouer avec les protège-chevilles, mais les arbitres / le délégué doivent envoyer un rapport à la direction de la compétition.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLANC 7 ne peut pas jouer avec des protège-chevilles ayant des parties dures non recouvertes. Les arbitres / le délégué doivent alerter le responsable officiel de l’équipe afin que le joueur retire les protège- chevilles ou recouvre les parties dures avec un matériau souple.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLANC 7 recevra un avertissement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le responsable officiel de l’équipe recevra un avertissement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune des réponses précédentes n’est valable.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.39",
+      "Phrase": "À 29’00 de la première mi-temps, BLANC 5 reçoit une exclusion de 2 minutes. Après la pause, l’arbitre de champ siffle pour reprendre la seconde mi-temps. Trois secondes après, le chronométreur siffle. Les BLANCS comptent sept joueurs sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un joueur des BLANCS doit quitter le terrain, sans autre sanction.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour le joueur supplémentaire des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 57 secondes et d’un joueur pendant 1 minute et 3 secondes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.40",
+      "Phrase": "Le temps de jeu est de 43’27. Il y a une interruption par le chronométreur après un but de BLANC 15 et un engagement. Le chronométreur informe les arbitres que BLANC 15 n’est pas inscrit sur la feuille de match. Le nombre maximum de joueurs BLANC sont déjà inscrits. Les arbitres se rendent compte que BLANC 11 n’est pas présent. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le but est annulé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le but est valable.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLANC 11 est retiré et BLANC 15 est inscrit sur la feuille de match conformément au règlement de la fédération compétente.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "BLANC 15 n’est pas autorisé à jouer et doit quitter le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Sanction progressive contre le responsable officiel des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Rapport écrit conformément au règlement de la fédération compétente.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.41",
+      "Phrase": "En présence d’un juge délégué national (JDN) Le gardien de but BLANC 12 est au sol avec une blessure au genou après avoir arrêté un tir des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLANC 12 peut continuer à jouer après avoir reçu des soins médicaux sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Deux personnes des BLANCS, qui ont le droit de participer, peuvent entrer sur le terrain pour donner des soins médicaux à BLANC 12 après que les gestes 15 et 16 aient été montrés par l’un des arbitres.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Une seule personne des BLANCS, qui a le droit de participer, peut entrer sur le terrain pour donner des soins médicaux à BLANC 12 après que les gestes 15 et 16 aient été montrés par l’un des arbitres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 12 ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Indépendamment du nombre d’attaques, BLANC 12 peut réintégrer le terrain lorsque le jeu reprend après la fin d’une mi-temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Si les officiels de l’équipe refusent de fournir les soins nécessaires à BLANC 12, le responsable officiel de l’équipe sera sanctionné progressivement.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.42",
+      "Phrase": "En présence d’un juge délégué national (JDN) Le gardien de but BLANC 1 arrête un tir des NOIRS. Dans cette action, il se cogne la tête contre le poteau de but et a besoin de soins médicaux sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLANC 1 peut continuer à jouer après avoir reçu des soins médicaux sur le terrain, car le traitement a été causé par une blessure à la tête.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 1 ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.43",
+      "Phrase": "En présence d’un juge délégué national (JDN) Après avoir reçu des soins médicaux sur le terrain, BLANC 7 s’assoit sur le banc dans la zone de changement. Lors de la première attaque des BLANCS, NOIR 2 intercepte le ballon et effectue seul une contre-attaque avec seulement le gardien de but BLANC 12 entre lui et le but des BLANCS. Avant que NOIR 2 ne puisse tirer, BLANC 7 entre sur le terrain par un changement conforme avec BLANC 9. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur attend que NOIR 2 ait tiré avant d’interrompre le jeu en raison d’un changement irrégulier des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le chronométreur interrompt immédiatement le jeu en raison d’un changement irrégulier des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 7 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet de 7m pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Indépendamment du nombre d’attaques de son équipe, BLANC 7 peut réintégrer le terrain après avoir purgé une exclusion de 2 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.44",
+      "Phrase": "En présence d’un juge délégué national (JDN) Après avoir reçu des soins médicaux sur le terrain, NOIR 11 s’assoit sur le banc et se plaint d’une décision des arbitres. ll reçoit donc sa première exclusion de 2 minutes du match. Après la deuxième attaque des NOIRS, NOIR 11 réintègre le terrain après avoir purgé son exclusion de 2 minutes. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Continuité du jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.45",
+      "Phrase": "En présence d’un juge délégué national (JDN) NOIR 10 reçoit le ballon sur la ligne de jet franc. Juste après l’avoir maîtrisé, il est mis au sol par BLANC 3. Il tombe, se blesse au coude et a besoin de soins médicaux sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour BLANC 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Deux personnes des NOIRS qui ont le droit de participer, peuvent entrer sur le terrain pour donner des soins médicaux à NOIR 10 sur le terrain après que les gestes 15 et 16 aient été montrés par l’un des arbitres.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "NOIR 10 peut continuer à jouer après avoir reçu des soins médicaux sur le terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, NOIR 10 ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.46",
+      "Phrase": "En présence d’un juge délégué national (JDN) NOIR 10 reçoit le ballon lors d’une contre-attaque. Juste après avoir passé le ballon, NOIR 10 est mis au sol par BLANC 11. Immédiatement après avoir reçu le ballon, NOIR 10 tombe et se blesse. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 11.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Deux personnes des NOIRS, qui ont le droit de participer, peuvent entrer sur le terrain pour donner des soins médicaux à NOIR 10 sur le terrain après que gestes 15 et 16 aient été montrés par l’un des arbitres.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "NOIR 10 peut continuer à jouer après avoir reçu des soins médicaux sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, NOIR 10 ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.47",
+      "Phrase": "En présence d’un juge délégué national (JDN) A trois minutes de la fin du match, le score est à égalité 21-21. NOIR 2, le meilleur buteur de son équipe, se tord la cheville et se retrouve au sol. Un des arbitres demande à NOIR 2 s’il a besoin de soins médicaux sur le terrain. Comme NOIR 2 ne répond pas à la question, mais reste par terre, les arbitres interrompent le jeu et montrent les gestes 15 et 16 pour permettre à deux personnes de l’équipe NOIRE d’entrer sur le terrain et de donner des soins médicaux à NOIR 2. Les NOIRS refusent d’envoyer qui que ce soit sur le terrain, et avant que les arbitres ne prennent une autre mesure, NOIR 2 est prêt à continuer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "NOIR 2 peut continuer à jouer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "NOIR 2 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour le responsable officiel des NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.48",
+      "Phrase": "En présence d’un juge délégué national (JDN) A 30 secondes de la fin de la première mi-temps, BLANC 5 reçoit des soins médicaux sur le terrain. Après avoir reçu des soins médicaux, il quitte le terrain et ne peut réintégrer le terrain qu’après la troisième attaque de son équipe. Après une minute de la seconde mi-temps, lors de la deuxième attaque des BLANCS, BLANC 5 entre sur le terrain par un changement correcte avec BLANC 4. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Poursuite du jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 5 pour changement irrégulier (entrée sur le terrain trop tôt après avoir reçu des soins médicaux sur le terrain).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.49",
+      "Phrase": "En présence d’un juge délégué national (JDN) Après une collision, BLANC 4 et NOIR 5 sont au sol et semblent blessés. Les arbitres interrompent immédiatement le jeu et montrent les gestes 15 et 16 pour permettre aux deux équipes d’envoyer deux personnes sur le terrain pour prodiguer des soins médicaux. Avant qu’une personne ne soit entrer sur le terrain, NOIR 5 est prêt à jouer. BLANC 4 reçoit des soins médicaux sur le terrain. Après 20 secondes, le jeu peut reprendre. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 4 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Comme NOIR 5 n’a pas reçu de soins médicaux sur le terrain, il est autorisé à continuer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "NOIR 5 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.50",
+      "Phrase": "En présence d’un juge délégué national (JDN) BLANC 2 est blessé et a besoin de soins médicaux sur le terrain. La première mi-temps se termine après la première attaque de son équipe. Lorsque l’arbitre siffle pour le début de la seconde mi-temps, BLANC 2 est sur le terrain lors de l’attaque de son équipe. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur interrompt immédiatement le jeu et informe les arbitres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Poursuite du jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS au niveau de la zone de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune exclusion pour BLANC 2 qui doit quitter le terrain ; les BLANCS reste en possession du ballon car il s’agit d’une erreur du chronométreur/délégué.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.51",
+      "Phrase": "En présence d’un juge délégué national (JDN) BLANC 4 est en train de recevoir des soins médicaux sur le terrain. Après avoir reçu les soins, il doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe. Après la deuxième attaque des BLANCS, l’officiel A des BLANCS demande à BLANC 4 d’entrer sur le terrain pour jouer uniquement en défense. BLANC 4 entre sur le terrain par un changement avec BLANC 6. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continu (BLANC 4 est autorisé à jouer en défense).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour BLANC 4 pour entrée prématurée sur le terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4 pour changement irrégulier.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.52",
+      "Phrase": "En présence d’un juge délégué national (JDN) BLANC 11 glisse sur le terrain et se retrouve juste en dehors du terrain de l’autre côté de la zone de changement. Il se cogne la tête contre le panneau publicitaire. Les arbitres interrompent immédiatement le jeu pour demander des soins médicaux. Après 20 secondes, BLANC 11 est prêt à rejouer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLANC 11 est autorisé à continuer le match, car il était couché en dehors du terrain lorsqu’il a reçu des soins médicaux.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLANC 11 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.53",
+      "Phrase": "En présence d’un délégué national (JDN) Après une minute de jeu, il y a une altercation entre NOIR 3 et BLANC 6. NOIR 3 se retrouve par terre et semble blessé. Les arbitres choisissent un avertissement verbal à BLANC 6. Après avoir reçu des soins médicaux sur le terrain, NOIR 3 est prêt à continuer le match. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "NOIR 3 est autorisé à continuer le match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "NOIR 3 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.54",
+      "Phrase": "En présence d’un délégué national (JDN) Les NOIRS sont en contre-attaque. NOIR 2 part en dribble et est poussé par BLANC 10. Il perd partiellement le contrôle de son corps, mais arrive à passer le ballon à NOIR 4, qui marque. Après avoir marqué, NOIR 4 se tord la cheville en revenant en défense. Les arbitres interrompent le jeu, donnent une exclusion de 2 minutes à BLANC 10 et autorisent deux personnes à entrer sur le terrain pour prodiguer des soins médicaux à NOIR 4. Après 30 secondes, NOIR 4 est prêt à rejouer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "NOIR 4 est autorisé à continuer le match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "NOIR 4 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.55",
+      "Phrase": "En présence d’un délégué national (JDN) BLANC 11 tire. Le ballon frappe malheureusement le visage du défenseur NOIR 2 et il a besoin de soins médicaux sur le terrain. Après 20 secondes de traitement, NOIR 2 est prêt à rejouer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "NOIR 2 est autorisé à continuer le match, car la blessure a été causée par un ballon au visage.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "NOIR 2 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.56",
+      "Phrase": "NOIR 2 est par terre dans la surface de but des BLANCS après un tir, demandant des soins médicaux, apparemment à cause d’une blessure à la jambe. Les BLANCS viennent de commencer une contre-attaque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les arbitres interrompent immédiatement le jeu et montrent les gestes 15 et 16 pour demander des soins médicaux pour NOIR 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avantage jusqu’à ce qu’il y ait un résultat de la contre-attaque des BLANCS, puis interruption du jeu pour demander des soins médicaux pour NOIR 2.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.57",
+      "Phrase": "BLANC 2 s’échauffe sans protection de coude. Après 5 minutes de jeu, les BLANCS sont en possession du ballon. BLANC 2 entre sur le terrain lors d’un changement. Les arbitres remarquent que BLANC 2 porte maintenant une protection de coude avec des composants durs non recouverts. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Il est autorisé à porter une protection de coude avec des composants durs non recouverts.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les arbitres interrompent le jeu, BLANC 2 doit quitter le terrain et ne peut le réintégrer qu’après avoir retiré la protection de coude ou recouvert les composants durs non recouverts.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres interrompent le jeu, BLANC 2 doit quitter le terrain et ne peut le réintégrer qu’après avoir retiré la protection de coude.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive pour BLANC 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Sanction progressive pour le responsable officiel A des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.58",
+      "Phrase": "Les BLANCS attaquent près de la ligne des 9 mètres. BLANC 7 entre sur le terrain après un changement régulier en portant sa veste jaune par-dessus son maillot blanc. Quelle st la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les arbitres interrompent le jeu, BLANC 7 doit enlever sa veste jaune avant de continuer sur le terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.59",
+      "Phrase": "Les BLANCS sont en possession du ballon lorsque le chronométreur interrompt le match. Le chronométreur indique aux arbitres que BLANC 11 est entré sur le terrain et qu’il n’y a pas de BLANC 11 inscrit sur la feuille de match. Il s’avère que l’officiel a commis une erreur en inscrivant le joueur sur la feuille de match sous le numéro 13. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "BLANC 11 n’est pas autorisé à participer au match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "L’erreur est corrigée, et BLANC 11 a le droit de participer.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Remarque sur la feuille de match /rapport écrit conformément au règlement de la fédération compétente.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Sanction progressive pour l’officiel A des BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.60",
+      "Phrase": "Le score est de 29:29 à 10 secondes de la fin du match. Le gardien de but BLANC 12 effectue un renvoi et passe le ballon à BLANC 11. BLANC 11 voit que BLANC 9 est libre à la surface de but des NOIRS. Avant qu’il ne puisse effectuer la passe à BLANC 9, le chronométreur interrompt le jeu en raison d’un changement irrégulier. NOIR 2 est entré sur le terrain avant que NOIR 4 ne l’ait quitté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 2.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 2 (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.61",
+      "Phrase": "Le score est de 29:29 à 10 secondes de la fin du match. Le gardien de but BLANC 12 effectue un renvoi et passe le ballon à BLANC 11. BLANC 11 voit que BLANC 9 est seul à la surface de but des NOIRS. Il passe le ballon à BLANC 9. Avant que BLANC 9 ne tire, le chronométreur interrompt le jeu en raison d’un changement irrégulier. NOIR 2 est entré sur le terrain avant que NOIR 4 ne l’ait quitté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 2.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de NOIR 2 (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le délégué aurait dû attendre que l’occasion manifeste de but soit terminée avant d’interrompre le jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "4.62",
+      "Phrase": "Dans ce match nous utilisons le Vidéo Replay. L'équipe BLANCHE est en contre-attaque. BLANC 7 a le ballon sur la ligne médiane. À ce moment-là, NOIR 9 entre sur le terrain en tant que joueur supplémentaire. BLANC 7 passe le ballon à BLANC 11 qui a une occasion manifeste de but. À ce moment-là, le délégué siffle en raison du joueur supplémentaire sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Utilisation de la vidéo replay pour voir qui est entré sur le terrain en tant que joueur supplémentaire et pour voir quand le joueur est entré.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Temps mort d'équipe",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification sans rapport écrit pour NOIR 9 (carton rouge montré par les arbitres)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification avec rapport écrit pour NOIR 9 (les cartons rouges et bleus sont montrés par les arbitres)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Jet de 7 mètres pour les BLANCS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Le délégué aurait dû attendre que l'occasion manifeste de but soit terminée avant d’interrompre le jeu.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}
