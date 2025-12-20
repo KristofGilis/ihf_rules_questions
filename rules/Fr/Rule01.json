@@ -1,0 +1,115 @@
+{
+  "RuleNumber": "1",
+  "Name": "L'aire de jeu",
+  "Questions": [
+    {
+      "QuestionNumber": "1.1",
+      "Phrase": "Quelles sont les dimensions du terrain de jeu selon les règles ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "40 × 20 mètres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "42 × 20 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "38 × 18 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Longueur entre 38 et 42, largeur entre 18 et 22 mètres",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.2",
+      "Phrase": "Quelles sont les dimensions intérieures obligatoires du but ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1,92 × 2,92 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2,00 × 3,00 mètres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2,05 × 3,05 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2,08 × 3,08 mètres",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.3",
+      "Phrase": "Quelle est la largeur de la ligne de but entre les poteaux ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "5 cm",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "6 cm",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "8 cm",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "10 cm",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "1.4",
+      "Phrase": "Quelles affirmations concernant la zone d’engagement sont correctes ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Elle est constituée d’un cercle d’un diamètre de 3 mètres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Elle est constituée d’un cercle d’un diamètre de 4 mètres.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La zone d’engagement peut être une zone de couleur différente de celle du terrain de jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "La zone d’engagement peut être une ligne circulaire.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "La zone d’engagement est obligatoire pour toutes les compétitions de handball.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

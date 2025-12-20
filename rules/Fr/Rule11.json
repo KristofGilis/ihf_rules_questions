@@ -1,0 +1,162 @@
+{
+  "RuleNumber": "11",
+  "Name": "La Remise en jeu",
+  "Questions": [
+    {
+      "QuestionNumber": "11.1",
+      "Phrase": "BLANC 3 effectue une remise en jeu depuis une position à deux mètres en dehors de la ligne de touche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune décision n’est requise, car c’est autorisé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Répétition du jet sans coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Répétition du jet après coup de sifflet.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.2",
+      "Phrase": "NOIR 4 se tient avec un pied sur la ligne de touche et l’autre pied dans l’aire de jeu. Il effectue la remise en jeu et marque directement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Répéter la remise en jeu pour les NOIRS après le coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.3",
+      "Phrase": "BLANC 6 effectue une remise en jeu en se tenant avec un pied à l’intérieur du terrain et l’autre pied à un mètre en dehors de la ligne de touche. Il lance le ballon dans le but des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Répéter la remise en jeu pour les BLANCS après coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.4",
+      "Phrase": "BLANC 11 tire vers le but. Le ballon rebondit sur la barre transversale et touche un équipement matériel qui pend au plafond au-dessus de la surface de but des NOIRS. Ensuite, le ballon tombe dans les bras du gardien NOIR 1. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Remise en jeu pour les NOIRS après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu obligatoire",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.5",
+      "Phrase": "Pendant l’exécution d’un jet suite une interruption du jeu, à partir de quand les défenseurs peuvent se tenir à moins de 3 mètres du ballon ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Dès que l’arbitre a sifflé pour l’exécution du jet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le ballon a quitté la main du joueur effectuant un jet franc.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Dans le cas d’un jet franc ou d’une remise en jeu, lorsque les défenseurs sont positionnés sur leur propre ligne de surface de but.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pendant l’exécution d’un renvoi ou d’un engagement, lorsque le défenseur se tient en dehors de la surface de but ou de la zone d’engagement.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "11.6",
+      "Phrase": "BLANC 5 ne réussit pas à maîtriser la réception d’une passe. Il court après le ballon et l’arrête avant qu’il ne franchisse la ligne de touche. Dans son élan, il ne peut pas éviter de franchir lui-même la ligne de touche par la suite. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Remise en jeu pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

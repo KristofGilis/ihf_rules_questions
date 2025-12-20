@@ -1,0 +1,711 @@
+{
+  "RuleNumber": "16",
+  "Name": "Les Sanctions",
+  "Questions": [
+    {
+      "QuestionNumber": "16.1",
+      "Phrase": "L’officiel B des BLANCS se plaint et reçoit une exclusion de 2 minutes. Avant la reprise du jeu, il se plaint à nouveau et est donc disqualifié. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "L’équipe est réduite de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "L’équipe est réduite d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’équipe est réduite d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.2",
+      "Phrase": "BLANC 8 est exclu pour 2 minutes pour avoir poussé un adversaire. Il s’approche de l’arbitre pour l’insulter en utilisant les mots suivants : « Vous êtes stupide, vous êtes un idiot, vous n’apprendrez jamais ! » Avant de quitter le terrain, il crache au visage de l’arbitre. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 8, les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 8, les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 8, les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 8, les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.3",
+      "Phrase": "Quel est le nombre maximum d’avertissements qui doivent être donnés aux officiels d’une équipe pendant un match ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucun.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.4",
+      "Phrase": "Quand le temps d’exclusion d’un joueur commence-t-il ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Lorsque l’arbitre fait le geste pour l’exclusion.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le joueur exclu franchit la ligne de touche.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsque l’arbitre siffle pour la reprise du jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lorsque le chronométreur relance le chronomètre.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.5",
+      "Phrase": "À qui les exclusions doivent-elles être signalées ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Au joueur suspendu et au secrétaire/chronométreur.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "A l’officiel responsable de l’équipe et au chronométreur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Au chronométreur/secrétaire du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Au joueur exclu, à l’officiel responsable de l’équipe et au secrétaire de match.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.6",
+      "Phrase": "NOIR 5 a reçu deux exclusions de 2 minutes plus tôt dans le match. Une exclusion pour une faute qui a été sanctionnée de manière progressive puis une pour avoir lancé le ballon alors qu’il y avait un jet franc pour l’équipe adverse. Il commet ensuite le second changement irrégulier de son équipe et avant la reprise du jeu, il a une conduite antisportive grossière. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de NOIR 5 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; Les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 5 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; Les NOIRS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.7",
+      "Phrase": "BLANC 5 reçoit une exclusion de 2 minutes pour une faute. En quittant le terrain, il insulte les arbitres et est disqualifié. BLANC 5 est alors tellement énervé qu’il frappe un arbitre. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Rapport écrit (carton bleu montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.8",
+      "Phrase": "BLANC 7 vient d’être exclu pour deux minutes pour conduite antisportive. Avant la reprise du jeu, il dit à l’arbitre : « Tu dois être aveugle, idiot ! » Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Une autre exclusion de 2 minutes pour BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 7 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 7 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.9",
+      "Phrase": "BLANC 3 a été exclu pour deux minutes. Après avoir quitté le terrain, mais avant la reprise, il se rend coupable d’une conduite antisportive grossière dans la zone de changement contre l’officiel B des NOIRS. Juste avant cela, l’officiel B des NOIRS est entré sur le terrain sans autorisation. Aucune sanction n’a été prise contre les officiels des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 3 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour l’officiel B des NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.10",
+      "Phrase": "Lorsqu’un joueur est disqualifié, l’équipe est réduite d’un joueur sur le terrain pendant 2 minutes, sauf si la sanction est donnée :",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Pour une conduite antisportive grossière pendant la pause.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Pour une infraction en dehors du terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avant le début du match.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pour avoir insulté les arbitres.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.11",
+      "Phrase": "Pendant la pause, BLANC 7 agresse le gardien NOIR 12 alors qu’ils sont encore sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 7 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes au début de la seconde mi-temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Avertissement pour BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avertissement verbal pour BLANC 7 car le match est interrompu.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.12",
+      "Phrase": "Pendant la pause, l’arbitre est insulté par NOIR 7 en chemin vers les vestiaires. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de NOIR 7 sans rapport écrit (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes au début de la seconde mi- temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 7 avec rapport écrit (carton rouge et bleu montré par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.13",
+      "Phrase": "Après le coup de sifflet de la mi-temps, NOIR 5 entre en collision avec BLANC 9 sur le terrain, Les deux joueurs se crient tous les deux dessus. BLANC 9 pousse ensuite NOIR 5 à la poitrine des deux mains de sorte que NOIR 5 perd presque le contrôle de son corps. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 9 au début de la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 9 sans rapport écrit (carton rouge montré par les arbitres) ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes à partir du début de la seconde mi-temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 9 ; les BLANCS commence la seconde mi-temps au complet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 9 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes à partir du début de la seconde mi-temps.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.14",
+      "Phrase": "Après le match, BLANC 10 crie aux arbitres : « Vous nous avez volé le match, vous êtes des idiots ! » Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour BLANC 10.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 10 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Rapport écrit.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour BLANC 10 avec rapport écrit.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.15",
+      "Phrase": "Pendant la pause, BLANC 9 qui est sur le terrain, agresse l’officiel B des NOIRS, qui insulte ensuite BLANC 9. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 9 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes à partir du début de la seconde mi-temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de l’officiel B des NOIRS avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes à partir du début de la seconde mi-temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 9 (carton rouge montré par les arbitres) ; les BLANCS reprennent au complet la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel B des NOIRS (carton rouge montré par les arbitres) ; les NOIRS reprennent au complet la seconde mi- temps.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.16",
+      "Phrase": "BLANC 7 est disqualifié parce qu’il vient de recevoir sa troisième exclusion de 2 minutes. Il tente d’argumenter avec les arbitres et ne quitte pas le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune autre action.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.17",
+      "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes. BLANC 11 a reçu un avertissement en première mi-temps et est à nouveau coupable d’une conduite antisportive pendant la pause. Les BLANCS jouaient au complet lorsque la première mi-temps s’est terminée. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 11.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes à partir du début de la seconde mi-temps.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les BLANCS reprennent au complet sur le terrain à partir du début de la seconde mi-temps.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.18",
+      "Phrase": "BLANC 4 est blessé. Les arbitres sifflent un arrêt de temps de jeu et font le geste pour permettre aux BLANCS d’entrer sur le terrain et de soigner le joueur. Les officiels A et B des BLANCS, mais aussi l’officiel A des NOIRS, entrent sur le terrain. L’officiel A des NOIRS a déjà reçu un avertissement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucune intervention.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le jeu reprend, les NOIRS continuent avec le même nombre de joueurs sur le terrain qu’avant l’interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel A des NOIRS (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Lorsque le jeu reprend, les NOIRS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 4 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.19",
+      "Phrase": "BLANC 9 reçoit une disqualification à cause d’une faute grave contre BLANC 5. Avant la reprise du jeu, BLANC 9 frappe l’officiel A des BLANCS au visage. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de BLANC 9 sans rapport écrit (carton rouge montré par les arbitres) ; les NOIRS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 9 sans rapport écrit (carton rouge montré par les arbitres) ; les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Aucune autre sanction n’est possible.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de BLANC 9 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les NOIRS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 9 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.20",
+      "Phrase": "NOIR 8 reçoit une exclusion de 2 minutes pour une faute. Lorsqu’il quitte le terrain, avant la reprise du jeu, il s’adresse aux arbitres de manière antisportive. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Une exclusion de 2 minutes supplémentaire pour NOIR 8, les NOIRS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Une exclusion de 2 minutes supplémentaire pour NOIR 8, les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de NOIR 8 (carton rouge montré par les arbitres), les NOIRS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 8 (carton rouge montré par les arbitres), les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.21",
+      "Phrase": "Dans lesquelles des situations suivantes une équipe doit-elle être réduite d’un joueur sur le terrain pendant 4 minutes ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un joueur vient d’être exclu. En quittant le terrain, il proteste d’une manière qui justifie une exclusion de 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un joueur vient de recevoir une exclusion de 2 minutes. En quittant le terrain, il insulte les arbitres et est disqualifié.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un joueur vient de recevoir une exclusion de 2 minutes pour conduite antisportive envers un adversaire. Alors qu’il est encore sur le terrain, il frappe un adversaire au visage et est disqualifié.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Un joueur vient de recevoir une exclusion de 2 minutes pour conduite antisportive. Après avoir franchi la ligne de touche, il revient sur le terrain et proteste, et il reçoit une exclusion de 2 minutes supplémentaire.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un joueur vient d’être disqualifié pour avoir craché sur un adversaire. En quittant le terrain, il pousse un arbitre.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Un joueur vient d’être disqualifié pour une faute grave. Après avoir quitté le terrain, et après la reprise du match, il insulte les arbitres alors qu’il est assis dans les tribunes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.22",
+      "Phrase": "BLANC 5 reçoit une exclusion de 2 minutes à la 7e minute. Il se plaint avant la reprise du jeu et reçoit une exclusion de 2 minutes supplémentaire. Exactement une minute plus tard, il court sur le terrain et le chronométreur siffle. À cause de cette exclusion supplémentaire pour être entré sur le terrain, il est alors disqualifié. Il insulte ensuite les arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain de 07’00 à 08’00, de 2 joueurs de 08’00 à 10’00 et d’un joueur de 10’00 à 11’00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain de 07’00 à 08’00, de 2 joueurs de 08’00 à 11’00 et d’un joueur de 11’00 à 12’00.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain de 07’00 à 08’00, de 3 joueurs de 08’00 à 10’00 et de 2 joueurs de 10’00 à 11’00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain de 07’00 à 08’00, de 4 joueurs de 08’00 à 10’00 et de 2 joueurs de 10’00 à 11’00.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 5 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.23",
+      "Phrase": "L’officiel C des BLANCS reçoit un avertissement en première mi-temps pour conduite antisportive. Le temps de jeu est de 35’50, et l’officiel B des BLANCS, avec des gestes énergiques, montre qu’il n’est pas d’accord avec une décision des arbitres. Pour cela, il reçoit une exclusion de 2 minutes. Trois minutes avant la fin du match, l’officiel A des BLANCS entre sur le terrain sans l’autorisation des arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour l’officiel A des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des BLANCS ; les BLANCS sont réduits sur le terrain d’un joueur pendant 2 minutes ; l’officiel A peut rester dans la zone de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des BLANCS ; les BLANCS sont réduits sur le terrain d’un joueur pendant 2 minutes ; l’officiel A doit quitter la zone de changement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de l’officiel A des BLANCS (carton rouge montré par les arbitres) ; les BLANCS sont réduits sur le terrain d’un joueur pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de l’officiel A des BLANCS avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits sur le terrain d’un joueur pendant 2 minutes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.24",
+      "Phrase": "NOIR 11 marque un but. Pendant son tir, il est poussé sur le côté par BLANC 10 de sorte qu'il perd partiellement le contrôle de son corps. Les arbitres donnent une exclusion de 2 minutes pour BLANC 10. Les arbitres donnent le signal pour l’engagement suivant et avant l’exécution, BLANC 9 entre sur le terrain en tant que joueur supplémentaire. Le délégué siffle et le chronomètre est arrêté. Le chronomètre mural indique 1 minute et 58 secondes restantes de la suspension pour BLANC 10. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 9.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "L'équipe BLANCHE est réduite de deux joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Pendant 1 minute et 58 secondes, l'équipe BLANCHE est réduite de deux joueurs sur le terrain. Après 1 minute et 58 secondes, la première exclusion expire et l'équipe BLANCHE est réduite d'un joueur sur le terrain pendant encore 2 secondes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match reprend par un engagement pour l'équipe BLANCHE.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match reprend par un jet franc pour l'équipe NOIRE.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "16.25",
+      "Phrase": "L'équipe BLANCHE est en possession du ballon et le ballon est en jeu. L’officiel B de l'équipe BLANCHE se plaint d'une exclusion manquante contre les NOIRS. Le délégué interrompt le jeu et l'officiel B reçoit un avertissement (Carton jaune). En raison de cette sanction et avant que le jeu ne reprenne, il se plaint à nouveau et les arbitres lui donnent une exclusion de 2 minutes. L'officiel B insulte ensuite l'arbitre «d’idiot ». Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "L'équipe BLANCHE est réduite d'un joueur sur le terrain pendant 4 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "L'équipe BLANCHE est réduite de deux joueurs sur le terrain pendant 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L'équipe BLANCHE est réduite d'un joueur sur le terrain pendant 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification sans rapport écrit contre l'officiel B de l'équipe BLANCHE (carton rouge montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification avec rapport écrit contre l'officiel B de l'équipe BLANCHE (cartons rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Plus tard dans le match, il est possible d'infliger un avertissement (carton jaune) et/ou une exclusion de 2 minutes contre un autre officiel de l'équipe BLANCHE.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Avertissement (carton jaune), exclusion de 2 minutes et disqualification notée sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Le match reprend par un jet franc pour l'équipe BLANCHE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Le match reprend par un jet franc pour l'équipe NOIRE",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

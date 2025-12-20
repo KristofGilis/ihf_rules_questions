@@ -1,0 +1,280 @@
+{
+  "RuleNumber": "17",
+  "Name": "Les Arbitres",
+  "Questions": [
+    {
+      "QuestionNumber": "17.1",
+      "Phrase": "Les arbitres ne sont pas d’accord sur l’équipe qui doit jouer la remise en jeu. Comment cela doit-il être géré ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "L’arbitre de champ décide.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "L’arbitre de but décide.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les deux arbitres prennent une décision conjointe après consultation.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Pas d’arrêt du temps de jeu, mais la remise en jeu doit être exécutée après le coup de sifflet.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.2",
+      "Phrase": "Le signal de fin automatique ne fonctionne pas. Le chronométreur n’a pas remarqué le problème et ne réagit donc pas, même si le temps de jeu est déjà terminé. Qui doit donner le signal final dans ce cas ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Seul le secrétaire de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Seul l’arbitre de champ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Seul le délégué.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Seul un des arbitres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Seul le chronométreur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le chronométreur, le délégué ou l’un des arbitres.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.3",
+      "Phrase": "NOIR 2 a commis une infraction. L'arbitre de champ décide d’une disqualification contre NOIR 2 (carton rouge montré par l’arbitre) et un jet franc. L'arbitre de but décide d'une exclusion de 2 minutes pour NOIR 2 et d’un jet de 7 mètres. Comment NOIR 2 est sanctionné et comment le jeu reprend ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Si aucune décision commune n'est prise, exclusion de 2 minutes pour NOIR 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Si aucune décision commune n'est prise, disqualification de NOIR 2 (carton rouge montré par les arbitres)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Si aucune décision commune n'est prise, jet franc",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Si aucune décision commune n'est prise, jet de 7 mètres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les arbitres doivent tenter de parvenir à une décision commune.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.4",
+      "Phrase": "En cas de doute, qui décide de l’exactitude du temps ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur et le secrétaire du match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les deux arbitres prennent une décision conjointe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le chronométreur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les deux arbitres et le chronométreur prennent une décision conjointe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.5",
+      "Phrase": "Quelles sanctions doivent être notées sur la feuille de match ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Toutes les disqualifications sauf celles données à cause de trois exclusions de 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Toutes les sanctions sauf les avertissements.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Toutes les exclusions et toutes les disqualifications",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les disqualifications pour fautes dangereuses ou conduites antisportives grossières dans les 30 dernières secondes du match, si l’action vise à empêcher les adversaires d’avoir une chance de marquer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les disqualifications dues à une conduite antisportive grossière.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Toute sanction progressive dans les 30 dernières secondes du match, si l’action vise à empêcher les adversaires d’avoir une chance de marquer.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.6",
+      "Phrase": "Qui a le droit de s’adresser aux arbitres pendant un match ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Chaque joueur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Chaque officiel.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’officiel responsable de l’équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le capitaine de l’équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.7",
+      "Phrase": "Les arbitres ont des opinions différentes sur le temps de jeu restant. L’arbitre de but (premier arbitre mentionné) estime que 50 secondes restent à jouer tandis que l’arbitre de champ estime qu’il reste 42 secondes. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le temps de jeu le plus long s’applique (50 secondes).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le premier arbitre mentionné décide (50 secondes).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’arbitre de champ décide (42 secondes).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les deux arbitres doivent parvenir à une décision conjointe.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.8",
+      "Phrase": "Au début d’un match, quel arbitre devient l’arbitre de champ et quel arbitre devient l’arbitre de but ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le premier arbitre mentionné devient l’arbitre de champ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le premier arbitre mentionné devient l’arbitre de but.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres utilisent un tirage au sort pour décider qui commence où.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les arbitres sont libres de faire leur propre choix.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "17.9",
+      "Phrase": "Les deux arbitres sifflent après une collision entre deux joueurs. L’arbitre de champ montre une faute offensive mais l’arbitre de but signale une irrégularité de la part du défenseur. Comment cela doit-il être décidé ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La décision de l’arbitre de but est valable.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La décision de l’arbitre de champ est valable.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres se consultent pour prendre une décision conjointe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu obligatoire",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le temps mort n’est nécessaire que si la décision conjointe est défavorable à l’équipe attaquante.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le temps mort n’est pas obligatoire si les arbitres utilisent un équipement électronique pour leur communication interne.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "RuleNumber": "10",
+  "Name": "L’Engagement",
+  "Questions": [
+    {
+      "QuestionNumber": "10.1",
+      "Phrase": "Les BLANCS gagnent le tirage au sort et décident de commencer le match avec le ballon. Le représentant des NOIRS souhaite changer de côté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Changement de côté.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Changement de côté si les BLANCS sont d’accord.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Refaire le tirage au sort.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pas de changement de côté.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.2",
+      "Phrase": "Les BLANCS gagnent le tirage au sort et souhaitent changer de côté. Les NOIRS souhaitent que les BLANCS effectue l’engagement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Engagement pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Changement de côté et engagement pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Refaire le tirage au sort.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les représentants des 2 équipes doivent se mettre d’accord.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.3",
+      "Phrase": "Sans zone d’engagement D’où peut-on effectuer l’engagement ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jusqu’à 3 mètres avant la ligne médiane dans sa propre moitié de terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jusqu’à 3 mètres au-delà de la ligne médiane dans la moitié de terrain de l’équipe adverse.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Au centre du terrain, avec un pied sur la ligne médiane et l’autre pied sur ou avant la ligne, avec une tolérance latérale d’environ 1,5 mètre.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.4",
+      "Phrase": "Sans zone d’engagement Le score est de 15/15, et juste avant la fin du match, les NOIRS marquent pour atteindre le score de 15/16. Les BLANCS souhaitent effectuer rapidement l’engagement. Le joueur avec le ballon se tient au centre du terrain, un pied avant la ligne médiane et l’autre pied derrière la ligne. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correction ; puis coup de sifflet de reprise de l’exécution.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La position est correcte ; coup de sifflet de reprise de l’exécution.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Temps mort ; correction ; coup de sifflet de reprise de l’exécution.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.5",
+      "Phrase": "Les BLANCS sont sur le point d’effectuer l’engagement. Le gardien NOIR 1 n’est pas encore dans sa surface de but. L’arbitre de champ siffle pour le début du match et BLANC 9 marque immédiatement dans le but vide. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS depuis la ligne médiane.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Répétition de l’engagement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.6",
+      "Phrase": "Sans zone d’engagement Laquelle des affirmations suivantes concernant l’engagement est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jet doit être effectué depuis le centre du terrain dans les trois secondes suivant le coup de sifflet et doit être en direction de la moitié de terrain de l’équipe adverse.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un but contre l’équipe adverse peut être marqué directement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les positions irrégulières de l’équipe en défense doivent être corrigées.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Si le lanceur dribble le ballon après le coup de sifflet, alors un jet franc doit être accordé à l’équipe adverse.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les coéquipiers du lanceur sont autorisés à franchir la ligne médiane avant que le jet n’ait été effectué.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.7",
+      "Phrase": "Sans zone d’engagement NOIR 6 se tient prêt pour l’engagement au centre du terrain, un pied sur la ligne médiane et un pied dans sa moitié de terrain. L’arbitre siffle. Avant que le ballon ne quitte sa main, le lanceur franchit la ligne médiane. Au moment du coup de sifflet, il y avait encore des joueurs BLANCS dans la moitié de terrain des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jeu continue sans interruption.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction des positions des BLANCS et répétition du jet après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Correction de la position de NOIR 6 et répétition du jet après coup de sifflet.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.8",
+      "Phrase": "Avec zone d’engagement Les BLANCS marquent un but. Les NOIRS souhaitent effectuer un engagement rapide. NOIR 9 se trouve en position correcte à l’intérieur de la zone d’engagement. Après le coup de sifflet, NOIR 9 fait six pas avec le ballon à l’intérieur de la zone d’engagement. Avant la fin des 3 secondes suivant le coup de sifflet, NOIR 9 lance le ballon dans le but vide des BLANCS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction et répétition du jet après coup de sifflet.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.9",
+      "Phrase": "Avec zone d’engagement L'équipe BLANCHE a marqué un but. L'équipe NOIRE veut exécuter un engagement rapide. NOIR 9 reçoit le ballon. Il a le ballon et un pied complètement à l'intérieur de la zone d’engagement. L'autre pied est à l'extérieur du cercle. Les arbitres sifflent l'exécution de l'engagement. Après que NOIR 9 ait ramené l'autre pied à l'intérieur de la zone d’engagement, il lance le ballon dans le but vide des BLANCS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction, nouvel engagement pour les NOIRS après le coup de sifflet des arbitres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jet est exécuté correctement car les arbitres ont approuvé la position du lanceur en donnant le coup de sifflet pour l'exécution.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les arbitres auraient dû attendre que le lanceur soit à l'intérieur de la zone d’engagement avec le ballon et tout son corps avant de donner le coup de sifflet pour l'exécution.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.10",
+      "Phrase": "Avec zone d’engagement Les NOIRS souhaitent effectuer un engagement rapide. NOIR 8 court avec un pied et le ballon complètement à l’intérieur de la zone d’engagement, BLANC 7 se trouve également à l’intérieur de la zone d’engagement courant en direction de son propre but. Sans coéquipiers dans la direction de BLANC 7, NOIR 8 lance le ballon dans le dos de BLANC 7. BLANC 7 se trouve à l’intérieur de la zone d’engagement lorsque le ballon le touche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive pour BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Sanction progressive pour NOIR 8.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 8.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.11",
+      "Phrase": "Avec zone d’engagement Laquelle des affirmations suivantes concernant la zone d’engagement est incorrecte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le coup de sifflet pour l’exécution du jet peut être fait lorsque le lanceur a une partie de son corps à l’intérieur de la zone d’engagement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Il n’y a aucune restriction concernant les positions des coéquipiers du joueur qui exécute pendant l’exécution du jet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le joueur qui exécute est autorisé à sortir de la zone d’engagement pendant l’exécution du jet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Un joueur de l’équipe en défense est autorisé à intercepter le ballon après l’exécution, même si le ballon est toujours à l’intérieur de la zone d’engagement.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le joueur qui exécute n’est pas autorisé à faire rebondir le ballon après le coup de sifflet.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.12",
+      "Phrase": "Avec zone d’engagement Les BLANCS jouent avec 7 joueurs de champs et marquent un but. Les NOIRS souhaitent effectuer un engagement rapide. NOIR 6 a un pied et le ballon à l’intérieur de la zone d’engagement. Les arbitres sifflent. BLANC 8 entre clairement dans la zone d’engagement avec les bras actifs en essayant de contrer le ballon et interfère avec l’exécution. Pourtant, NOIR 6, qui a tout son corps et le ballon à l’intérieur de la zone d’engagement, effectue le jet comme un tir vers le but vide. Le ballon franchit la ligne de sortie de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Répétition de l’engagement après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Sanction progressive pour BLANC 8.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Exclusion directe de 2 minutes pour BLANC 8.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Disqualification de BLANC 8 (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.13",
+      "Phrase": "Avec zone d’engagement Laquelle des affirmations suivantes concernant la zone d’engagement est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le jet doit être effectué dans les 3 secondes suivant le coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un engagement peut entraîner un but pour l’équipe qui l’exécute.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les mauvaises positions des joueurs en défense doivent être corrigées.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Si le joueur saute après le coup de sifflet pour l’exécution du jet, la bonne décision est un jet franc pour l’équipe adverse.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les coéquipiers du lanceur ne sont pas autorisés à franchir la ligne médiane avant le coup de sifflet pour l’exécution.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "10.14",
+      "Phrase": "Avec zone d’engagement Quand un arbitre peut-il siffler pour l’exécution d’un engagement ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Lorsque le lanceur a au moins un pied et que le ballon se trouve à l'intérieur de la zone d’engagement, et que l'autre pied n'est pas en dehors de la zone d’engagement dans la moitié de terrain de l'adversaire.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le lanceur a au moins un pied à l'intérieur de la zone d’engagement et que l'autre pied n'est pas à l'extérieur du cercle dans la moitié de terrain de l'adversaire et que le ballon est toujours à l'extérieur de la zone d’engagement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsque le lanceur a au moins un pied et le ballon à l'intérieur de la zone d’engagement et que l'autre pied se trouve à l'extérieur du cercle dans la moitié de terrain de l'adversaire.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lorsque le lanceur a au moins un pied et le ballon à l'intérieur de la zone d’engagement, l'autre pied est à l'extérieur du cercle,dans la partie de terrain adverse et ses coéquipiers se trouvent à l'intérieur de la zone d’engagement dans la moitié de terrain de l'adversaire.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Lorsque le lanceur est à l'intérieur de la zone d’engagement avec tout son corps et le ballon.",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

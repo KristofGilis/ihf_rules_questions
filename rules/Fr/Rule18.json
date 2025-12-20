@@ -1,0 +1,209 @@
+{
+  "RuleNumber": "18",
+  "Name": "Le Secrétaire et le Chronométreur",
+  "Questions": [
+    {
+      "QuestionNumber": "18.1",
+      "Phrase": "En présence d'un juge délégué national (JDN) Que prévoient les Règles du Jeu concernant la répartition des missions entre le chronométreur et le secrétaire du match ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le contrôle de l’entrée et de la sortie des remplaçants est géré uniquement par le chronométreur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "En général, seul le chronométreur ou le délégué doivent interrompre le jeu lorsqu’il devient nécessaire.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le secrétaire de match doit siffler s’il constate qu’un remplaçant entre sur le terrain trop tôt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "S’il n’y a pas de chronomètre mural, le chronométreur informe les équipes du temps de jeu ou du temps restant.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le comptage du nombre d’attaques lorsqu’un joueur effectue 3 attaques après avoir reçu des soins médicaux sur le terrain est une tâche partagée entre le chronométreur et le secrétaire de match.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.2",
+      "Phrase": "BLANC 5 a une occasion manifeste de but. L’officiel A des BLANCS insulte le chronométreur. Le chronométreur siffle juste au moment où BLANC 5 est sur le point de tirer. L’action n’a été remarquée que par le chronométreur. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sanction contre l’officiel A des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Rapport écrit.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.3",
+      "Phrase": "L’officiel responsable des BLANCS insulte le secrétaire de match, sans que cela ne soit remarqué par les arbitres ou un délégué. Lors de la prochaine interruption du jeu, le secrétaire de match informe les arbitres de ce qui s’est passé. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion du responsable officiel des BLANCS, rapport écrit (carton rouge et bleu montré par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour le responsable officiel des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Rapport écrit.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour le responsable officiel des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune sanction personnelle n’est possible.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.4",
+      "Phrase": "Les BLANCS sont en possession du ballon sur la ligne de jet franc des NOIRS. Le délégué technique interrompt le jeu et explique aux arbitres que l’officiel A des NOIRS l’a insulté. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour l’officiel A des NOIRS, rapport écrit.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de l’officiel A des NOIRS avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS à la zone de changement des NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS sur la ligne de jet franc des NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.5",
+      "Phrase": "Les BLANCS sont en possession du ballon sur la ligne des jets francs NOIRS. Le chronométreur interrompt le jeu et explique aux arbitres que l’officiel A des BLANCS l’a insulté. L’action n’a été remarquée que par le chronométreur. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Rapport écrit.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour l’officiel A des BLANCS, rapport écrit.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jeu reprend par un jet franc pour les NOIRS à la zone de changement des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS sur la ligne de jet franc des NOIRS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.6",
+      "Phrase": "Pendant le match, l’officiel A des BLANCS se déplace à plusieurs reprises vers la table du chronométreur pour coacher juste à côté. Ce faisant, il proteste contre les décisions des arbitres. À cause du bruit dans la salle, les arbitres ne le remarquent pas. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur interrompt immédiatement le jeu et informe les arbitres du comportement incorrect de l’officiel A.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le chronométreur attend la prochaine interruption du jeu et informe les arbitres du comportement incorrect de l’officiel A.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour l’officiel A des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Aucune sanction n’est possible.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.7",
+      "Phrase": "Quand le Chronométreur / Secrétaire de match doit-il informer les arbitres d’une infraction du règlement concernant le comportement dans la zone de changement qui n’a pas été remarquée par les arbitres ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Immédiatement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Au moment de la prochaine interruption du jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "18.8",
+      "Phrase": "Si le juge délégué national (JDN) interrompt le jeu à cause d’une infraction des BLANCS lorsque le ballon est en jeu, le jeu reprend avec la possession du ballon par les NOIRS. Correct ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Oui.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Non. Règle",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}

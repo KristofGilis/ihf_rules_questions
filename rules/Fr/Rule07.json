@@ -1,0 +1,932 @@
+{
+  "RuleNumber": "7",
+  "Name": "Le Maniement du ballon, Le jeu passif",
+  "Questions": [
+    {
+      "QuestionNumber": "7.1",
+      "Phrase": "Le ballon est en l’air et se dirige vers la ligne de touche. BLANC 3 réussit à dévier le ballon de la main à BLANC 7 avant que le ballon ne franchisse la ligne. Pour ce faire, BLANC 3 franchit la ligne de touche avec un pied. BLANC 7 attrape le ballon et marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "But.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.2",
+      "Phrase": "Une passe risquée est effectuée de NOIR 3 vers NOIR 11. Lorsque le ballon est en l’air, NOIR 11 se rend compte qu’il ne pourra pas l’attraper, alors il frappe le ballon du poing pour le dévier vers NOIR 9 qui se tient au milieu du terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS depuis la position de NOIR 9.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS depuis la position de NOIR 11.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 11.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.3",
+      "Phrase": "BLANC 4 reçoit le ballon en étant debout. Il saute ensuite et atterrit sur son pied droit et saute sur son pied gauche avant de tirer. Combien de pas BLANC 4 a-t-il fait ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "4",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.4",
+      "Phrase": "Un joueur saute pour attraper le ballon qui lui est passé par un coéquipier. Il atterrit simultanément sur les deux pieds. Ensuite, il lève son pied droit pour faire un pas sur le côté et ramène son pied gauche jusqu’au pied droit. Combien de pas a-t-il fait ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "0",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.5",
+      "Phrase": "Un joueur attrape le ballon en plein vol qui lui est passé par un coéquipier. Il atterrit sur son pied droit et fait un cloche pied avec ce pied. Ensuite, il ramène son pied gauche, puis son pied droit pour tirer. Combien de pas a-t-il fait ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "0",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.6",
+      "Phrase": "BLANC 5 échappe le ballon en l’air mais arrive finalement à le contrôler. Il fait trois pas, dribble une fois, puis fait trois autres pas avant de marquer. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "But.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.7",
+      "Phrase": "BLANC 5 souhaite commencer une attaque. Il fait rebondir le ballon à plusieurs reprises tout en faisant cinq pas. Il prend ensuite le ballon à nouveau en main pour effectuer une passe. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "poursuite du jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7m pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.8",
+      "Phrase": "NOIR 6 reçoit le ballon, glisse et tombe. Allongé sur le dos, il passe le ballon à NOIR 9. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.9",
+      "Phrase": "BLANC 3 court entre deux adversaires pour pousser le ballon dans la direction de sa course. Il attrape à nouveau le ballon avant qu’il n’ait touché le sol. Il y a maintenant un espace libre vers le but des NOIRS. BLANC 3 fait rebondir le ballon une fois et marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.10",
+      "Phrase": "Après avoir fait rebondir le ballon une fois, BLANC 7 souhaite passer le ballon à BLANC 5, mais BLANC 5 est gêné par un adversaire. BLANC 7 est tellement confus qu’il laisse tomber le ballon mais il arrive à le rattraper avant qu’il n’ait touché le sol. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "poursuite du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.11",
+      "Phrase": "Comment est sanctionné le jeu passif répété ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc et avertissement.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc et exclusion de 2 minutes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc et disqualification (carton rouge montré par les arbitres).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.12",
+      "Phrase": "Après un tir vers le but de BLANC 4, le ballon rebondit sur le poteau des NOIRS et touche l’arbitre qui se tient dans la surface de but près du but. Après ce contact avec l’arbitre le ballon franchit la ligne de touche et non la ligne de sortie de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.13",
+      "Phrase": "Les BLANCS effectuent une remise en jeu. BLANC 5 lance le ballon sur le terrain où il touche l’arbitre et entre dans le but des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Répétition de la remise en jeu après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.14",
+      "Phrase": "NOIR 3 effectue un tir en suspension et BLANC 9 contre le ballon. Le ballon tombe par terre et BLANC 9 le ramasse à deux mains pour commencer une contre-attaque en dribblant. Il tire ensuite dans le but des NOIRS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 9.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Arrêt du temps de jeu.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.15",
+      "Phrase": "BLANC 5 dribble le ballon le long de la ligne de touche. NOIR 9 le gêne de manière régulière. Pour dépasser NOIR 9, BLANC 5 franchit la ligne de touche avec un pied lors de son dribble. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.16",
+      "Phrase": "Après une passe imprécise de BLANC 3 à BLANC 9, le ballon roule vers la ligne de touche près de la zone de changement des BLANCS. NOIR 10 est à un mètre de distance et est prêt à attraper le ballon lorsque BLANC 9 plonge pour attraper le ballon et le frappe du poing vers le centre du terrain vers BLANC 3. Son mouvement fait ensuite glisser BLANC 9 au-delà de la ligne de touche et il atterrit en dehors du terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour BLANC 9.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Remise en jeu pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.17",
+      "Phrase": "NOIR 7 est en attaque et prend une position en dehors du terrain sans avoir le ballon. Les arbitres indiquent au joueur qu’il doit rentrer sur le terrain, mais il ne réagit pas. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour NOIR 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Remise en jeu pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.18",
+      "Phrase": "Un joueur saute au-dessus de la surface de but de l’équipe adverse. Il a la maîtrise du ballon et le contrôle de son corps et il est en bonne position pour tirer. Cependant, au lieu de tirer, il se retourne en l’air et passe le ballon à un coéquipier qui passe le ballon plus loin. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Signal d’avertissement pour jeu passif.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc immédiat pour jeu passif.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc immédiat pour conduite antisportive.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Sanction progressive.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.19",
+      "Phrase": "BLANC 3 effectue un tir vers le but des NOIRS et touche le poteau. Le ballon rebondit hors de la surface de but. Sur la ligne de jet franc, BLANC 3 et NOIR 4 plongent pour attraper le ballon sans se mettre en danger mutuellement. NOIR 4 réussit à pousser le ballon vers NOIR 6 qui lance une contre-attaque et marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Avertissement pour NOIR 4.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "But pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS ou les NOIRS selon les circonstances.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les NOIRS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.20",
+      "Phrase": "BLANC 10 tente de passer le ballon à BLANC 8 qui se trouve proche de la surface de but des NOIRS. NOIR 10 reste complètement immobile devant BLANC 8 lorsque le ballon touche son pied. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "poursuite du jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Décision selon la personne qui récupère le ballon.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.21",
+      "Phrase": "BLANC 15 contre une passe de NOIR 9 et le ballon roule par terre. BLANC 15 et NOIR 9 plongent pour attraper le ballon. BLANC 15 attrape le ballon. Il se relève, fait trois pas avec le ballon et passe le ballon à un coéquipier qui marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet Franc pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.22",
+      "Phrase": "Les BLANCS mènent 24-23 à la 57e minute, mais ont un joueur de moins sur le terrain. L’arbitre de champ accorde un jet franc à BLANC 3. BLANC 6 tente d’effectuer le jet franc à plusieurs mètres de l’endroit correct, même si l’arbitre a indiqué l’endroit correct très clairement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Correction de la position, coup de sifflet de reprise du jeu, aucune autre action.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Correction de la position, coup de sifflet de reprise du jeu et les arbitres montrent le signal d’avertissement pour jeu passif.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Correction de la position, sanction progressive contre BLANC 6, coup de sifflet de reprise du jeu et les arbitres montrent le signal d’avertissement pour jeu passif.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.23",
+      "Phrase": "Les NOIRS jouent avec un joueur de moins. Les joueurs NOIRS ont déjà pris leurs positions en attaque et ont commencé la phase de construction. NOIR 6 et NOIR 8 décident de quitter le terrain pour un changement. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Signal d’avertissement pour jeu passif",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Signal d’avertissement s’il n’y a pas d’augmentation du rythme dans les 5 secondes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc immédiat pour les BLANCS pour jeu passif.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Avertissement pour NOIR 6 ou NOIR 8 s’il y a répétition.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 6 ou NOIR 8 s’il y a répétition.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.24",
+      "Phrase": "Quelles actions annulent le signal d’avertissement pour jeu passif ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Récupération du ballon pour l’équipe attaquante après qu’un gardien de but ait repoussé le tir à 7 mètres.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Récupération du ballon pour l’équipe attaquante après que le ballon a rebondi sur la barre transversale ou le poteau de but.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Temps mort d’équipe (TME).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Action de duels, avant une nouvelle phase passive de l’équipe.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune des actions des points a à d.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.25",
+      "Phrase": "Laquelle des instructions suivantes concernant le signal d’avertissement pour jeu passif (Geste 17) est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Si une tendance au jeu passif est constatée, elle est d’abord signalée par l’arbitre de but à l’aide du geste 17. L’arbitre de champ lève ensuite son bras de la même manière.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Si l’équipe en possession du ballon demande un temps mort d’équipe (TME) après que le signal d’avertissement a été montré, le signal d’avertissement doit être montré à nouveau lorsque le jeu reprend.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Si l’équipe en possession du ballon ne fait aucun effort clair pour se mettre en position de tirer au but après que le signal d’avertissement a été montré, alors soit l’arbitre de champ, soit l’arbitre de but accorde un jet franc pour jeu passif.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après que le signal d’avertissement a été montré, les arbitres décident du jeu passif au plus tard lorsqu’aucun tir sur le but n’est effectué après quatre passes.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.26",
+      "Phrase": "Les BLANCS retardent l’exécution d’un engagement. L’équipe a déjà été avertie pour ce type de retard tactique. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Poursuite du jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps de jeu ; engagement après coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Arrêt du temps de jeu ; engagement après coup de sifflet, geste 17 immédiat pour jeu passif.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Coup de sifflet d’engagement, geste 17 immédiat pour jeu passif des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Sanction progressive pour le responsable officiel des BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.27",
+      "Phrase": "Laquelle des affirmations suivantes concernant l’utilisation du signal d’avertissement pour jeu passif est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le geste 17 doit toujours être annulé lorsqu’un officiel de l’équipe en défense reçoit une sanction progressive au cours d’une attaque.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le geste 17 est montré pour la première fois au cours d’une attaque, le bras doit être baissé après une dizaine de secondes environ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le geste 17 doit être répété comme rappel après la première interruption, s’il a été montré auparavant.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le geste 17 doit toujours être annulé lorsqu’un joueur de l’équipe en défense reçoit une sanction au cours d’une attaque.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les arbitres doivent montrer le geste 17 lorsqu’un joueur a clairement le ballon maîtrisé.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.28",
+      "Phrase": "Laquelle des affirmations suivantes concernant le jeu passif est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Une équipe ne doit pas avoir plus de cinq secondes pour passer de la phase de construction à la phase de finition.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les arbitres doivent être conscients des changements lents et tardifs après que l’engagement a déjà été effectué.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres doivent observer si l’équipe tente d’augmenter le rythme ou de gagner un avantage spatial pendant la phase de construction.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les arbitres doivent surveiller le jeu passif dès qu’une équipe a pris possession du ballon dans sa propre moitié de terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Une équipe qui a tenté de lancer une contre-attaque doit pouvoir effectuer un changement normal lorsqu’elle passe d’une contre- attaque à une phase de construction normale.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.29",
+      "Phrase": "Les BLANCS sont en possession du ballon. Les arbitres montrent le signal d’avertissement pour jeu passif. Après une passe, BLANC 5 tire. Le tir est contré par NOIR 2 et le ballon rebondit vers BLANC 5, qui passe le ballon à BLANC 9. Combien de passes ont été effectuées ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "5",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.30",
+      "Phrase": "Les BLANCS sont en possession du ballon. Les arbitres montrent le signal d’avertissement pour jeu passif. BLANC 9 tente de passer le ballon à BLANC 2, mais la passe est déviée par NOIR 8 et le ballon rebondit vers BLANC 9. BLANC 9 tente un duel mais se voit accorder un jet franc. BLANC 8 effectue le jet franc en passant le ballon à BLANC 2. Combien de passes ont été effectuées ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.31",
+      "Phrase": "Les BLANCS sont en possession du ballon. Les arbitres remarquent une tendance au jeu passif dans le jeu des BLANCS. Les arbitres montrent le geste 17. Les NOIRS voient que le signal d’avertissement est montré et ils deviennent plus agressifs en défense en provocant des jets francs. Après trois passes des BLANCS, les NOIRS provoquent un jet franc. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les BLANCS ont 4 passes restantes avant de tirer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les BLANCS ont 2 passes restantes avant de tirer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS ont 1 passe restante avant de tirer.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS doit exécuter le jet franc comme un tir direct sur le but.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.32",
+      "Phrase": "Les BLANCS sont en attaque. Les arbitres remarquent une tendance au jeu passif et montrent le geste 17. Les BLANCS se passent le ballon quatre fois avant que BLANC 9 ne tire. Le tir est contré par NOIR 3 et le ballon passe au-delà de la ligne de touche. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le signal d’avertissement n’est plus valable.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les BLANCS ont 4 passes restantes avant de tirer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS ont 2 passes restantes avant de tirer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les BLANCS ont 1 passe restante avant de tirer.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.33",
+      "Phrase": "Les BLANCS sont en possession du ballon et en raison d’une tendance au jeu passif des BLANCS, les arbitres montrent le signal d’avertissement. Après 4 passes, BLANC 5 tire. NOIR 3 bloque le tir et le ballon revient à BLANC 5. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les BLANCS ont 1 passe restante avant de tirer.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le signal d’avertissement continue.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le signal d’avertissement n’est plus valable.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Les BLANCS n’ont plus de passes restantes avant de tirer.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.34",
+      "Phrase": "Les NOIRS sont en attaque. Les arbitres montrent le signal du jeu passif. NOIR 7 passe le ballon à NOIR 11. NOIR 11 tente un duel mais est arrêté par BLANC 3. Les arbitres accordent un jet franc à NOIR 11 qui effectue le jet franc et passe le ballon à NOIR 2 qui tente de tirer mais le tir est contré par le défenseur BLANC 4 et le ballon revient à NOIR 11. NOIR 11 tire, mais il est légèrement poussé par BLANC 5 et le gardien de but BLANC 1 réussit à arrêter le tir. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS ; nouvelle attaque car les NOIRS ont réussi à reprendre la possession du ballon après un tir.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS ; Geste 17, les NOIRS ont utilisé deux passes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les NOIRS ; Geste 17, les NOIRS ont utilisé trois passes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS ; Geste 17, les NOIRS ont utilisé quatre passes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.35",
+      "Phrase": "Le score est de 27-27 avec 20 secondes à jouer dans le match. Les BLANCS jouent sans gardien de but. Les arbitres montrent le signal d’avertissement pour jeu passif. Après trois passes, BLANC 8 passe le ballon à BLANC 7, qui tire. Le tir est contré par le défenseur NOIR 2 et le ballon franchit la ligne de touche. Peu après l’exécution de la remise en jeu, le signal sonore retentit à la table car les BLANCS ont demandé un temps mort d’équipe (TME). Comment le match doit-il reprendre ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Remise en jeu pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jet doit être effectué comme un tir direct vers le but.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Outre la possibilité d’effectuer le jet comme un tir direct vers le but, le lanceur peut également passer le ballon à un coéquipier.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "7.36",
+      "Phrase": "Les BLANCS attaquent. Deux passes après que le geste 17 ait été montré par les arbitres, BLANC 7 tire. Le ballon est contré par NOIR 8. BLANC 7 récupère le ballon et retente un tir. Le ballon est à nouveau contré par NOIR 8. BLANC 7 récupère le ballon après le contre et passe le ballon à BLANC 6 qui a une occasion manifeste de but. BLANC 6 est amené au sol par NOIR 7 par l’arrière de sorte qu’il perde totalement le contrôle de son corps. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion directe de 2 minutes pour NOIR 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification de NOIR 7 (carton rouge montré par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1782 @@
+{
+  "RuleNumber": "2",
+  "Name": "Temps de jeu, Signal de fin et Arrêt du temps de jeu",
+  "Questions": [
+    {
+      "QuestionNumber": "2.1",
+      "Phrase": "Le gardien de but BLANC 1 dévie un tir et le ballon franchit la ligne de but juste avant le signal de fin automatique du chronomètre mural. Les arbitres se rendent compte que le match s’est terminé cinq minutes trop tôt. Les joueurs étant toujours sur le terrain, la reprise du jeu se fait par :",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un renvoi pour les BLANCS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sans coup de sifflet de reprise du jeu",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après coup de sifflet de reprise du jeu",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.2",
+      "Phrase": "Après le signal de fin automatique pour la mi-temps, l’arbitre se rend compte immédiatement que la première mi-temps s’est terminée une minute trop tôt. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Prolonger la deuxième mi-temps d’une minute.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La minute est perdue et ne sera pas rattrapée.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Après la mi-temps, jouer d’abord une minute de chaque côté comme en première mi-temps, puis changer de côté et commencer normalement la deuxième mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Garder les joueurs sur le terrain et leur faire jouer la minute restante.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.3",
+      "Phrase": "BLANC 11 tire. Le gardien de but NOIR 1 arrête le ballon juste au moment où retentit le signal de fin. Les arbitres signalent au chronométreur qu’il reste 30 secondes dans la deuxième mi-temps. Tous les joueurs sont toujours sur le terrain. Comment faut-il reprendre le jeu ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après le coup de sifflet de reprise",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Sans coup de sifflet de reprise",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.4",
+      "Phrase": "Les BLANCS exécutent un jet franc après le coup de sifflet final. BLANC 3, puis BLANC 4 quittent le terrain pour être remplacés par BLANC 5, puis BLANC 6, qui entrent sur le terrain. Laquelle des affirmations suivantes est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur siffle et signale un changement irrégulier des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4 pour changement irrégulier.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 6 pour changement irrégulier.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le chronométreur n’a aucune raison de siffler.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.5",
+      "Phrase": "Un jet franc est tiré directement vers le but par les NOIRS, juste avant la fin du match. Le signal de fin automatique retentit juste avant que le ballon n’atteigne le but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Fin du match",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jet franc pour les NOIRS doit être retiré sans coup de sifflet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jet franc pour les NOIRS doit être retiré avec coup de sifflet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7 mètres pour les NOIRS",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.6",
+      "Phrase": "Peu de temps avant la fin du match, NOIR 2 reçoit le ballon proche de la surface de but des BLANCS et a une occasion manifeste de but. Il tente de marquer, mais est empêché par une faute. Avant que le ballon ne quitte la main de NOIR 2, le signal de fin retentit. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Fin du match",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7mpour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Fin du match, mention sur la feuille de match",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.7",
+      "Phrase": "Peu avant la fin de la première mi-temps, un jet de 7 mètres pour les BLANCS n’a pas encore été exécuté. Le jet de 7 mètres de BLANC 9 frappe la barre transversale, puis le dos du gardien de but, qui se trouve à environ 3 mètres devant son but, puis le ballon entre dans le but. Le signal de fin retentit lorsque le ballon est en l’air depuis la barre transversale vers le dos du gardien de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jet de 7m doit être réexécuté",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Mi-temps ; aucune autre décision.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.8",
+      "Phrase": "Après la fin du temps de jeu, un jet de 7m doit encore être exécuté. Les arbitres attendent le résultat immédiat du tir. Quel arbitre doit alors mettre fin au match ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "L’arbitre principal (nommé en premier)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "L’un des deux arbitres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "L’arbitre de champ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "L’arbitre de but",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.9",
+      "Phrase": "Quand le match commence-t-il ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Lorsque l’arbitre nommé en premier siffle.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsque le ballon quitte la main du lanceur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Lorsque le chronométreur lance son chronomètre",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après le coup de sifflet pour l’engagement donné par l’arbitre de champ.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.10",
+      "Phrase": "Lors d’une série de jets de 7 mètres, qui décide quel but doit être utilisé ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "L’équipe qui gagne le tirage au sort.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "L’équipe qui perd le tirage au sort.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "L’arbitre principal (nommé en premier)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.11",
+      "Phrase": "Un jet franc direct pour les NOIRS doit encore être exécuté après le signal de fin. Avant l’exécution du jet franc, BLANC 8 et BLANC 9 quittent le terrain en même temps. Ils sont remplacés d’abord par BLANC 10, puis immédiatement après par BLANC 11. Quelles affirmations sont correctes ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur siffle et indique aux arbitres qu’il y a eu un changement irrégulier des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 10 pour changement irrégulier.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 11 pour changement irrégulier.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le chronométreur ne doit pas siffler, car il n’y a pas d’infraction des règles.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "BLANC 11 doit retourner dans la zone de changement ; BLANC 8 ou BLANC 9 peuvent réintégrer le terrain.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.12",
+      "Phrase": "Juste avant la fin de la première mi-temps, BLANC 7 agresse NOIR 5 et anéantit une occasion manifeste de but. Le signal de fin automatique retentit avant que les arbitres n’aient le temps de siffler. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La première mi-temps est terminée ; aucune sanction progressive contre BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La première mi-temps est terminée ; aucun jet franc ou jet de 7 mètres n’est possible.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualification de BLANC 7 avec rapport écrit (carton rouge et bleu montrés par les arbitres)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7 mètres pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 7 (carton rouge montré par les arbitres)",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.13",
+      "Phrase": "Jusqu’à quand les arbitres peuvent-ils annuler un but qui a été accordé (sans VR) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jusqu’au coup de sifflet pour l’engagement",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jusqu’au coup de sifflet final.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "S’il a été marqué après que le chronométreur a interrompu le jeu ou si l’engagement a été effectué avant que l’interruption de jeu ne soit prise en compte.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Il ne peut jamais être annulé.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.14",
+      "Phrase": "Les arbitres viennent d’accorder une remise en jeu aux BLANCS. Au même moment, l’officiel des BLANCS demande un temps mort. Quelles affirmations sont correctes ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le temps mort n’est pas possible, car le ballon n’est pas en jeu.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le chronométreur siffle, arrête le chronomètre et montre le geste numéro 15.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les arbitres confirment le temps mort pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le secrétaire de match inscrit le temps mort sur la feuille de match.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.15",
+      "Phrase": "Dans quelles situations un arrêt du temps de jeu est-il obligatoire ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7 mètres",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Influence extérieure",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualification",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.16",
+      "Phrase": "BLANC 9 tire. Le gardien de but NOIR 12 arrête le ballon. Au même moment, le chronométreur siffle pour la fin de match. Les arbitres signalent au chronométreur qu’il reste 30 secondes dans la deuxième mi-temps. Tous les joueurs sont restés sur le terrain. Comment faut-il reprendre le jeu ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Après coup de sifflet",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.17",
+      "Phrase": "Fin du temps de jeu réglementaire. Le score est de 20 : 20 La rencontre doit être prolongée jusqu’à ce qu’un vainqueur soit désigné. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Pause d’une minute avant le début des prolongations",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Pause de cinq minutes avant le début des prolongations",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Pause d’une minute à la fin de la première mi-temps des prolongations",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pause de cinq minutes à la fin de la première mi-temps des prolongations",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.18",
+      "Phrase": "Dans quelles situations un arrêt du temps de jeu est-il obligatoire ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jeu passif",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Changement irrégulier",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Avertissement",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Remise en jeu",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.19",
+      "Phrase": "Qui n’est pas autorisé à participer à l'épreuve décisive des jets de 7 mètres lorsqu’un match est toujours à égalité après les prolongations (ou sans prolongations) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un joueur qui insulte les arbitres juste après la fin des prolongations.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les gardiens de but",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un joueur dont l’exclusion de 2 minutes n’a pas expiré à la fin des prolongations.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Un joueur disqualifié",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un joueur qui a reçu des soins médicaux sur le terrain et n’a pas encore effectué 3 attaques de son équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.20",
+      "Phrase": "Cinq secondes avant la fin du match, le gardien de but BLANC 12 dévie un tir. Le ballon touche le plafond au-dessus de la surface de but. Le signal de fin automatique retentit immédiatement avant que la remise en jeu ne soit exécutée par les NOIRS . Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Remise en jeu pour les NOIRS après le coup de sifflet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Arrêt du temps",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Fin du match",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Attendre le résultat de la remise en jeu, puis le match est terminé.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.21",
+      "Phrase": "NOIR 8 a déjà reçu un avertissement. Pendant un arrêt du temps, il s’assoit sur le banc et fait des commentaires irrespectueux sur les arbitres. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualification de NOIR 8 (carton rouge montrée par les arbitres)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Avertissement pour NOIR 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Aucune action possible",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "L’équipe NOIR est réduite d’un joueur sur le terrain pendant 2 minutes à la reprise du jeu après le temps mort.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.22",
+      "Phrase": "Qui a le droit de participer à une séance de tirs au but ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tous les joueurs inscrits sur la feuille de match.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les joueurs qui n’ont pas été exclus.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les joueurs qui n’étaient pas en cours d’exclusion de 2 minutes à la fin des prolongations.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les joueurs qui ont reçu l’autorisation des arbitres.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.23",
+      "Phrase": "Un jet franc doit encore être exécuté après le signal de fin. NOIR 9 prend une position correcte et tire vers le but BLANC. Lorsque le ballon quitte la main de NOIR 9, le chronométreur siffle. Le ballon entre dans le but sans laisser de chance au gardien BLANC 1. Le chronométreur informe les arbitres que BLANC 7, qui était sur le terrain en défense pendant le jet franc, est entré sur le terrain pour remplacer BLANC 6, juste avant le jet franc. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 7 (carton rouge montrée par les arbitres)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "But pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet de 7 mètres pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Répétition du jet franc pour les NOIRS après le coup de sifflet",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.24",
+      "Phrase": "Le match se termine à sur une égalité après les prolongations. Le règlement exige l'épreuve décisive de jet de 7m. BLANC 7 a été exclu de 2 minutes à la neuvième minute de la dernière période de prolongation d’une durée de 10 minutes. Il est désigné par le responsable de l’équipe pour participer aux jets de 7m. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "BLANC 7 peut participer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "BLANC 7 ne peut pas participer.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.25",
+      "Phrase": "Quand un arrêt du temps est-il obligatoire ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Lorsqu’un officiel de l’équipe a reçu une exclusion de 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Lorsqu’un joueur a reçu une troisième exclusion de 2 minutes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Après des conduites antisportives répétées.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lorsque les arbitres doivent se consulter mutuellement pour parvenir à une décision conjointe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Après une conduite antisportive grave.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Après un carton jaune présenté à un officiel d’équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.26",
+      "Phrase": "Juste avant la fin de la première mi-temps, BLANC 7 commet une agression sur NOIR 5, qui manque ainsi une occasion manifeste de but. Le signal automatique de fin retentit avant que les arbitres n’aient eu le temps de siffler. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La première mi-temps est terminée ; aucune autre action.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualification de BLANC 7 sans rapport écrit (carton rouge montrée par les arbitres).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7 mètres pour les NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualification de BLANC 7, rapport écrit (carton rouge et bleu montrés par les arbitres).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "L’équipe Blanc est réduite d’un joueur sur le terrain pendant 2 minutes en début de deuxième mi-temps.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.27",
+      "Phrase": "Après le coup de sifflet de fin de mi-temps, un jet franc doit encore être exécuté. Quels joueurs peuvent encore être remplacés ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tous les joueurs des deux équipes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Seuls les joueurs de l’équipe en défense",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Seuls les joueurs de l’équipe en attaque",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Seulement un joueur de l’équipe en attaque",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Seul le gardien de but de l’équipe en défense, si l’équipe joue sans gardien de but au moment du coup de sifflet final.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.28",
+      "Phrase": "Quelles positions les joueurs doivent-ils prendre lors de l’exécution d’un jet franc direct après le coup de sifflet final ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tous les coéquipiers du lanceur doivent se trouver en dehors de la ligne de jet franc de l’équipe adverse.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tous les coéquipiers du lanceur doivent se trouver dans leur propre moitié de terrain.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les joueurs adverses doivent se trouver à 3 mètres du lanceur ou sur leur propre ligne de surface de but.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Tous les coéquipiers du lanceur doivent se trouver à au moins 3 mètres du lanceur.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Tous les coéquipiers du lanceur peuvent rester avec le lanceur sur la ligne de jet franc de l’équipe adverse.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.29",
+      "Phrase": "BLANC 7 passe le ballon à BLANC 8. À ce moment là, le chronométreur siffle pour un temps mort pour les BLANCS. Les arbitres et les joueurs n’entendent pas le signal, BLANC 8 passe le ballon à BLANC 10, qui a une occasion manifeste de but. BLANC 10 est irrégulièrement arrêté par NOIR 5. Les arbitres accordent un jet de 7m pour les BLANCS et une exclusion de 2 minutes à NOIR 5. A cet instant, les arbitres se rendent compte que le chronométreur avait déjà sifflé pour la demande de temps mort. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet de 7m pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Temps mort d'équipe (TME) pour les BLANCS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Coup de sifflet pour la reprise du jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Reprise du jeu avec un jet franc pour les BLANCS l’endroit où se trouvait BLANC 7 au moment du coup de sifflet du chronométreur.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.30",
+      "Phrase": "Le signal sonore marquant la fin de la première mi-temps a retenti une minute trop tôt. Au moment du signal sonore, aucune des équipes n'était en possession du ballon, et il n'y avait aucune infraction. Le ballon était par terre dans la surface de jeu. Les deux équipes sont toujours sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La minute n'est pas jouée.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La minute est jouée avant la pause.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La minute est jouée après la pause, avant le début de la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "La minute est ajoutée à la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un tirage au sort détermine quelle équipe récupère le ballon au moment où la minute est jouée.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "L'équipe qui était en possession du ballon en dernier récupère la possession à la reprise du jeu.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.31",
+      "Phrase": "La première mi-temps a été arrêtée une minute trop tôt. Il n'y a eu aucune infraction et le ballon était en l'air au-dessus de la surface de but. Le gardien de but arrête le ballon après le signal sonore. Les deux équipes sont toujours sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La minute n'est pas jouée.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La minute est jouée avant la pause.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La minute est jouée après la pause, avant le début de la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "La minute est ajoutée à la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "L'équipe qui était en possession du ballon en dernier récupère le ballon au moment où le jeu reprend.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le jeu reprend avec un renvoi.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.32",
+      "Phrase": "La première mi-temps a été arrêtée une minute trop tôt. Il n'y a eu aucune infraction et le ballon était en l'air au-dessus de la surface de but. Après le signal sonore, le ballon a franchi la ligne de but. Les deux équipes sont toujours sur le terrain. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "La minute n'est pas jouée.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "La minute est jouée avant la pause.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La minute est jouée après la pause, avant le début de la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "La minute est ajoutée à la seconde mi-temps.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "L'équipe qui était en possession du ballon en dernier récupère le ballon au moment où le jeu reprend.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le jeu reprend avec un renvoi.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.33",
+      "Phrase": "Les BLANCS marquent un but. Les NOIRS veulent effectuer un engagement rapide. NOIR 5 part en dribble rapidement en direction de la ligne médiane. BLANC 3 utilise sa main ouverte pour subtiliser le ballon de NOIR 5. Sur la subtilisation, le ballon touche le pied de NOIR 5 et roule au-delà de la ligne médiane. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Arrêt du temps de jeu",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Engagement pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive contre BLANC 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Exclusion directe de 2 minutes pour BLANC 3",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.34",
+      "Phrase": "Dans quelles situations un arrêt du temps de jeu N’EST PAS obligatoire ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le ballon sort loin du terrain.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le chronométreur siffle.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Un joueur semble blessé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Lorsque les arbitres indiquent des directions différentes lors de la prise de décision.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Un changement d’un joueur de terrain par un gardien de but pour exécuter un renvoi.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.35",
+      "Phrase": "Qui peut demander un temps mort d'équipe (TME) ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Un officiel de l'équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Un joueur.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Seul le responsable officiel de l'équipe.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le capitaine de l'équipe.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.36",
+      "Phrase": "Laquelle des affirmations suivantes concernant les temps morts d’équipe (TME) est correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "L’officiel responsable d’équipe est le seul autorisé à demander un temps mort d’équipe (TME)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Si un temps mort est demandé pendant que l'équipe adverse est en possession du ballon, le chronométreur doit rendre la carton vert le carton vert à l'officiel de l'équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La période d'une minute pour le temps mort commence lorsque le chronométreur siffle.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les infractions aux règles pendant un temps mort d’équipe (TME) ont les mêmes conséquences que pendant le temps de jeu.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Après le temps mort d’équipe (TME), le jeu reprend toujours par un jet pour l'équipe qui a demandé le temps mort d’équipe (TME).",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.37",
+      "Phrase": "Les BLANCS sont en possession du ballon. L’officiel C des NOIRS demande un temps mort d'équipe (TME) en posant le carton vert sur la table devant le chronométreur. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le carton vert est placé sur la table.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le chronométreur siffle dès que les NOIRS sont en possession du ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le chronométreur rend le carton vert à l’officiel.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Seul le l’officiel responsable de l’équipe peut demander un temps mort d’équipe (TME).",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.38",
+      "Phrase": "NOIR 3 tente de tirer. Cependant, le ballon s’immobilise au sol dans la surface de but sans avoir été touché par aucun autre joueur. Au même moment, le responsable de l’équipe NOIR demande un temps mort d’équipe (TME). Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le chronométreur siffle, arrête le chronomètre en même temps et indique le temps mort d’équipe (TME) pour les NOIRS aux arbitres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le chronométreur rend le carton vert au responsable officiel des NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jeu reprend par un jet franc pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.39",
+      "Phrase": "Le gardien de but BLANC 1 passe le ballon à BLANC 8, qui est seul avec le gardien de but NOIR 12 près de la surface de but. Juste avant que le ballon n’atteigne BLANC 8, il y a un signal sonore du chronométreur : l’officiel A des BLANC a demandé un temps mort d'équipe (TME). Comment le jeu doit-il se poursuivre ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Jet franc pour les BLANCS à la ligne de jet franc BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Jet franc pour les BLANCS dans la zone de changement des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Jet franc pour les BLANCS sur la ligne de jet franc des NOIRS .",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.40",
+      "Phrase": "BLANC 4 arrête un tir de NOIR 11. Le ballon touche le plafond au-dessus de la surface de but. Immédiatement après cela, l’officiel A des NOIR place le carton vert sur la table devant le chronométreur. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les NOIRS reçoivent immédiatement un temps mort d’équipe (TME).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Les NOIRS ne reçoivent pas de temps mort d’équipe (TME) car le ballon a touché le plafond.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les NOIRS ne reçoivent pas de temps mort d’équipe (TME) car la possession du ballon est pour les BLANCS lorsque le jeu reprend.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Les NOIRS reçoivent un temps mort d’équipe (TME), mais seulement après la reprise du jeu.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.41",
+      "Phrase": "Les BLANCS sont en possession du ballon et demande un temps mort d’équipe (TME). À cause du bruit, les arbitres n’entendent pas le signal sonore du chronométreur. Ce n’est qu’après une dizaine de secondes, lorsque les NOIRS sont en possession du ballon, que les arbitres entendent le sifflet. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le temps mort d’équipe (TME) est accordé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le jeu reprend par un jet franc pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le temps mort d’équipe (TME) n’est pas accordé.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.42",
+      "Phrase": "À 78 :00, le joueur BLANC 7 reçoit une exclusion de 2 minutes. Le match se termine par un match nul. Le règlement exige une épreuve décisive de jet de 7 mètres. BLANC 7 est désigné par le responsable de l’équipe pour participer aux tirs au but. BLANC 7 effectue le tir au but et marque. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le but est valable, BLANC 7 est autorisé à participer.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le but n’est pas valable, BLANC 7 n’est pas autorisé à participer.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le tir est considéré comme raté.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de BLANC 7",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.43",
+      "Phrase": "À 55:00, le responsable officiel des BLANCS demande un temps mort d'équipe (TME), qui est le second du match. À 59:00, le même responsable officiel de l’équipe demande le troisième temps mort d'équipe (TME). Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le temps mort est possible.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le temps mort n’est pas possible.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.44",
+      "Phrase": "Les BLANCS sont en attaque. L’officiel A des BLANCS souhaite demander un temps mort d’équipe (TME) et se rend à la table pour placer le carton vert devant le chronométreur. Le carton vert est placé sur la table devant le chronométreur. Au même moment, BLANC 4 tire et marque. Le chronométreur siffle pour le temps mort juste après que le ballon ait franchi la ligne de but des NOIRS . Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "But pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le but n’est pas valable, car les BLANCS ont demandé un temps mort d'équipe (TME).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Temps mort d'équipe (TME) pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Pas de temps mort d'équipe (TME) pour les BLANCS, car ils ne sont plus en possession du ballon.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le carton vert doit être rendu à l’équipe.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet franc pour les NOIRS .",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.45",
+      "Phrase": "Les BLANCS ont eu leurs deuxième temps mort d'équipe (TME) à 55:10. À 59:25, l’officiel A des BLANCS souhaite demander un troisième temps mort d'équipe (TME) pour son équipe et place le carton vert sur la table devant le chronométreur. Les BLANCS sont en possession du ballon. Le chronométreur siffle et arrête le chronomètre. Il montre un temps mort pour les BLANCS. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Temps mort d'équipe (TME) pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Aucun temps mort d'équipe (TME) n’est accordé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour l’officiel A des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.46",
+      "Phrase": "Les BLANCS souhaite demander un temps mort d'équipe (TME). L’officiel A des BLANCS place le carton vert sur la table devant le chronométreur. Au même moment, BLANC 9 tire au but. Le chronométreur siffle pendant que le ballon est en l’air. Peu après le sifflet, le gardien de but NOIR 12 arrête le ballon. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucun temps mort n’est possible, car les BLANCS ne sont pas en possession du ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d'équipe (TME) pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le carton vert est rendu aux BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un renvoi pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.47",
+      "Phrase": "Les BLANCS souhaite demander un temps mort d'équipe (TME). L’officiel A des BLANCS place le carton vert sur la table devant le chronométreur. Avant que le chronométreur ne siffle pour le temps mort d'équipe (TME), BLANC 9 tire au but. Le tir est arrêté par le gardien de but NOIR 12 et le chronométreur siffle pendant que le ballon roule dans la surface de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucun temps mort d'équipe (TME) n’est possible, car les BLANCS ne sont pas en possession du ballon.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d'équipe (TME) pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le carton vert est rendu aux BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un renvoi pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le match est repris par un Jet Franc pour les NOIRS .",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.48",
+      "Phrase": "Les BLANCS souhaitent demander un temps mort d’équipe (TME). L’officiel A des BLANCS place le carton vert sur la table devant le chronométreur. Avant que le chronométreur ne siffle pour le temps mort d’équipe (TME), BLANC 9 tire au but. Le tir est arrêté par le gardien de but NOIR 12 et le chronométreur siffle pendant que le ballon est en l’air au-dessus de la surface de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucun temps mort d’équipe (TME) n’est possible, car les BLANCS ne sont pas en possession du ballon.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d’équipe (TME) pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le carton vert est rendu aux BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un renvoi pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.49",
+      "Phrase": "Les BLANCS souhaitent demander un temps mort d’équipe (TME). L’officiel A des BLANCS place le carton vert sur la table devant le chronométreur. Avant que le chronométreur ne siffle pour le temps mort d’équipe (TME), BLANC 11 commet une faute offensive. Le chronométreur siffle pour le temps mort d’équipe (TME) juste avant que l’arbitre ne siffle la faute offensive. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Les arbitres décident qu’il n’y aura pas de temps mort d’équipe (TME), car la faute offensive identifiée, a été commise avant que le chronométreur ne siffle pour le temps mort d’équipe (TME).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d’équipe (TME) pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le carton vert est rendu aux BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.50",
+      "Phrase": "Le temps mort électronique est utilisé dans le match. Les BLANCS ont eu leur deuxième temps mort d'équipe (TME) à 55:10. À 59:35, l’officiel A des BLANCS souhaite demander un troisième temps mort d’équipe (TME) et active le buzzer. Le ballon est en jeu et les BLANCS en possession du ballon. Le signal de buzzer retentit et le chronomètre s’arrête. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Temps mort pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Aucun temps mort d'équipe (TME) n’est accordé.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sanction progressive pour l’officiel A des BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Les NOIRS peuvent choisir entre un jet franc et un jet de 7 mètres.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.51",
+      "Phrase": "Le temps mort électronique est utilisé dans le match. Les BLANCS sont en possession du ballon. À 58:40, BLANC 7 commet une faute offensive. Avant que les arbitres ne puissent siffler pour la faute offensive, le signal sonore de retentit car l’officiel A des BLANCS a activé le buzzer pour demander un temps mort d'équipe (TME). Immédiatement après, les arbitres sifflent une faute offensive contre BLANC 7. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le temps mort d'équipe (TME) n’est pas possible car les BLANCS ne sont plus en possession du ballon.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d'équipe (TME) pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les BLANCS perdent un temps mort d'équipe (TME).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le match est repris par un jet de 7m pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Les NOIRS peuvent choisir entre un jet franc et un jet de 7 mètres.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Sanction progressive contre l’officiel A des BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.52",
+      "Phrase": "Le temps mort électronique est utilisé dans le match. À 29:50 en première mi-temps, BLANC 9 tire. Le tir est arrêté par le gardien de but NOIR 12 et après l’arrêt, le ballon est en l’air au-dessus de la surface de but. À ce moment-là, le signal sonore de retentit car l’officiel A des NOIRS a activé le buzzer pour demander un temps mort d'équipe (TME). Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Aucun temps mort d'équipe (TME) n’est possible car les NOIRS ne sont pas en possession du ballon.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d'équipe (TME) pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Les NOIRS perdent un temps mort d'équipe (TME).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le match est repris par un renvoi pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Les BLANCS peuvent choisir entre un jet de 7m et un jet franc.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Le match est repris par un jet de 7m pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Sanction progressive contre l’officiel A des NOIRS .",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.53",
+      "Phrase": "Les NOIRS sont en attaque. Les arbitres montrent le signal d’avertissement du jeu passif. Après deux passes, un coup de sifflet retentit de la part du délégué car l’officiel A des NOIRS a demandé un temps mort d'équipe (TME). Ni les arbitres ni les joueurs n’entendent le coup de sifflet et le jeu continue. La quatrième passe des NOIRS va au joueur à l’aile, qui a une occasion manifeste de but. Le joueur à l’aile saute pour tirer. En faisant cela, il est poussé par BLANC 4 et perd en partie le contrôle de son corps. Le gardien de but arrête le tir. Ce n’est qu’à ce moment-là que les arbitres et les joueurs se rendent compte que le délégué a interrompu le match à cause de la demande de temps mort d'équipe (TME). Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Temps mort d'équipe (TME) pour les NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le match est repris par un jet de 7m pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Aucune sanction.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Le signal d’avertissement du jeu passif est toujours valable ; les NOIRS ont effectué deux passes.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Le signal d’avertissement du jeu passif est toujours valable ; les NOIRS ont effectué quatre passes.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Le signal d’avertissement du jeu passif n’est plus valable car BLANC 4 est sanctionné d’une exclusion de 2 minutes.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.54",
+      "Phrase": "Les BLANCS tirent. Le gardien de but NOIR 1 arrête le tir. Le ballon rebondit dans la surface de but lorsque l’officiel A des BLANCS demande un temps mort d’équipe (TME) en plaçant le carton vert devant le chronométreur. Le chronométreur siffle lorsque le ballon rebondit dans la surface de but, mais le ballon est à proximité de BLANC 13, seul devant la surface de but. Quelle est la bonne décision ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Temps mort d’équipe (TME) pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Aucun temps mort d’équipe (TME) n’est possible, et le carton vert est rendue à l’officiel A des BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Jet franc pour les BLANCS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Renvoi pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Jet franc pour les NOIRS .",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Jet de 7m pour les BLANCS.",
+          "Correct": false
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.55",
+      "Phrase": "Le temps mort électronique est utilisé lors de la rencontre L’équipe BLANCHE est en attaque et le score est de 31-31. Il reste 20 secondes à jouer et BLANC 7 marque un but. L’officiel A des NOIRS court vers la table pour appuyer sur le buzzer mais avant que l’officiel n’arrive, NOIR 10 se lève et presse le buzzer juste avant l’exécution de l’engagement. Quelle est la décision correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Temps mort d’équipe pour les NOIRS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Pas de temps mort pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Le jeu reprend par un engagement pour les NOIRS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Le jeu reprend par un jet franc pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Le jeu reprend par un jet de 7m pour les BLANCS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "L'officiel A des BLANCS peux choisir entre un jet de 7m et un jet franc.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Sanction progressive pour l'officiel A de l'équipe NOIRE",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Exclusion de 2 minutes pour NOIR 10.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Disqualification sans rapport pour NOIR 10 (carton rouge montré par les arbitres)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "j",
+          "Phrase": "L’équipe NOIRE perd un TME.",
+          "Correct": true
+        }
+      ]
+    },
+    {
+      "QuestionNumber": "2.56",
+      "Phrase": "Dans ce match nous utilisons le Vidéo Replay ainsi que le temps mort électronique. Il reste 20 secondes à jouer dans le match. BLANC 7 court avec la balle en main. L'arbitre siffle marcher contre BLANC 7 et celui-ci garde le ballon deux secondes avant de le poser au sol. Au moment où NOIR 4 prend le ballon, l'officiel B des NOIRS presse le buzzer pour demander un temps-mort d'équipe. Les arbitres décident d'utiliser le Vidéo Replay pour voir si une infraction à la règle",
+      "Answers": []
+    },
+    {
+      "QuestionNumber": "8.11",
+      "Phrase": "a est possible contre BLANC 7. Lors du visionnage les arbitres se rendent compte que BLANC 7 n'a effectué que 3 pas avec le ballon. Quelle est la décision correcte ?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Le recours à la Vidéo Replay est possible.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Temps mort d’équipe immédiat pour l’équipe NOIRE.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "La décision du Temps mort est retardée après l’analyse de la Vidéo Replay.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Temps mort d'équipe.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Après la VR, Temps mort d’équipe pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Après la VR, pas de Temps mort d’équipe pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualification sans rapport contre BLANC 7 (carton rouge montré par les arbitres),",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Exclusion de 2 minutes pour BLANC 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Le match reprend par un jet franc pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "j",
+          "Phrase": "Le match reprend par un jet de 7m pour les NOIRS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "k",
+          "Phrase": "Le match reprend par un jet franc pour les BLANCS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "l",
+          "Phrase": "L’équipe NOIRE perd le bénéfice de son temps mort.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "m",
+          "Phrase": "Sanction progressive pour l’officiel B de l’équipe NOIRE.",
+          "Correct": false
+        }
+      ]
+    }
+  ]
+}
