@@ -21,10 +21,10 @@ Here an overview of all versions:
 
 | Language    | Version |
 | -------- | ------- |
-| English  | 1st of July 2025 (Questions v3 + Answers v4)     |
-| Dutch (translations provided by Sus Evers) | 1 juli 2025 (versie september 2025)     |
-| Serbian    | 1. Јула 2025 (Верзија 2)    |
-| French    | 1 juillet 2025 (version 14/10/2025)    |
+| English  | 1st of July 2025 (Final)     |
+| Dutch (translations provided by Sus Evers) | 1 juli 2025 (versie december 2025)     |
+| Serbian    | 1. Јула 2025 (Верзија 3)    |
+| French    | 1 juillet 2025 (version décembre 2025)    |
 
 
 ## Adding a New Language
