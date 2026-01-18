@@ -135,6 +135,7 @@ git push origin add-spanish-translations
 ### Create a Pull Request:
 
 Go to your fork on GitHub, and you should see an option to create a pull request. Click on it and provide a clear description of the changes you made.
+**NEW:** For new languages, add prove from your federation that the translations are provided by them.
 
 ### Wait for Review:
 
