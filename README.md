@@ -62,9 +62,9 @@ The JSON files (en.json, nl.json, srb.json, etc.) contain translations for vario
 
 ### Adding a New Language in JSON Files
 
-#### Duplicate the _template JSON File:
+#### Duplicate the template JSON File:
 
-If you are adding a new language, start by copying the _template.json file.
+If you are adding a new language, start by copying the template.json file.
 
 #### Translate Each Key:
 
