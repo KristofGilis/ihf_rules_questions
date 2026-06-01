@@ -40,6 +40,7 @@
     "en": "Anglais",
     "label": "Langue",
     "nl": "Néerlandais",
+    "fr": "Français",
     "srb": "Serbe"
   },
   "main": {
@@ -52,7 +53,11 @@
     "rules": "Règles"
   },
   "offline": {
-    "message": "Vous êtes actuellement hors ligne. Certaines fonctionnalités peuvent ne pas être disponibles."
+    "message": "Vous êtes actuellement hors ligne. Certaines fonctionnalités peuvent ne pas être disponibles.",
+    "refresh": "Actualiser les données hors ligne",
+    "syncing": "Synchronisation",
+    "up_to_date": "Les données hors ligne sont à jour",
+    "sync_error": "Échec de l'actualisation des données hors ligne"
   },
   "questions": {
     "calculate_score": "Calculer le score",
@@ -78,6 +83,7 @@
     "previous": "Précédent",
     "progress": "Question {{current}} sur {{total}}",
     "select_answers": "Sélectionnez toutes les réponses correctes",
+    "offline_no_data": "Aucune question hors ligne disponible. Veuillez vous connecter à Internet pour synchroniser les questions.",
     "select_answers_for_question": "Sélectionnez toutes les réponses correctes pour la question {{current}}",
     "setup_description": "Configurez les paramètres de votre quiz pour commencer",
     "time_remaining": "Temps restant"

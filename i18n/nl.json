@@ -38,6 +38,7 @@
   },
   "languages": {
     "en": "Engels",
+    "fr": "Frans",
     "label": "Taal",
     "nl": "Nederlands",
     "srb": "Servisch"
@@ -52,7 +53,14 @@
     "rules": "Spelregels"
   },
   "offline": {
-    "message": "Je bent momenteel offline. Sommige functies zijn mogelijk niet beschikbaar."
+    "message": "Je bent momenteel offline. Sommige functies zijn mogelijk niet beschikbaar.",
+    "refresh": "Offline gegevens vernieuwen",
+    "syncing": "Synchroniseren",
+    "up_to_date": "Offline gegevens zijn up-to-date"
+  },
+  "pwa": {
+    "update_available": "Een nieuwe versie is beschikbaar.",
+    "update_now": "Bijwerken"
   },
   "questions": {
     "calculate_score": "Bereken score",
@@ -75,6 +83,7 @@
     "leave_title": "Quiz Verlaten?",
     "leave_warning": "Je voortgang gaat verloren als je nu vertrekt. Weet je het zeker?",
     "next": "Volgende",
+    "offline_no_data": "Geen offline vragen beschikbaar. Maak verbinding met internet om de vragen eerst te synchroniseren.",
     "previous": "Vorige",
     "progress": "Vraag {{current}} van {{total}}",
     "select_answers": "Selecteer alle juiste antwoorden",

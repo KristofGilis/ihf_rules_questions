@@ -38,6 +38,7 @@
   },
   "languages": {
     "en": "English",
+    "fr": "French",
     "label": "Language",
     "nl": "Dutch",
     "srb": "Serbian"
@@ -52,7 +53,14 @@
     "rules": "Rules"
   },
   "offline": {
-    "message": "You are currently offline. Some features may not be available."
+    "message": "You are currently offline. Some features may not be available.",
+    "refresh": "Refresh offline data",
+    "syncing": "Syncing",
+    "up_to_date": "Offline data is up to date"
+  },
+  "pwa": {
+    "update_available": "A new version is available.",
+    "update_now": "Update"
   },
   "questions": {
     "calculate_score": "Calculate Score",
@@ -75,6 +83,7 @@
     "leave_title": "Leave Quiz?",
     "leave_warning": "Your progress will be lost if you leave now. Are you sure?",
     "next": "Next",
+    "offline_no_data": "No offline questions available. Please connect to the internet to sync the questions first.",
     "previous": "Previous",
     "progress": "Question {{current}} of {{total}}",
     "select_answers": "Select all correct answers",
