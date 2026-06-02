@@ -1,6 +1,5 @@
 {
   "accessibility.skip_to_main": "accessibility.skip_to_main",
-  "offline.message": "offline.message",
   "main.title": "main.title",
   "offline.refresh": "offline.refresh",
   "offline.syncing": "offline.syncing",
@@ -14,6 +13,8 @@
   "theme.light": "theme.light",
   "theme.dark": "theme.dark",
   "theme.system": "theme.system",
+  "offline.message": "offline.message",
+  "offline.dismiss": "offline.dismiss",
   "navigation.home": "navigation.home",
   "navigation.quiz": "navigation.quiz",
   "navigation.questions": "navigation.questions",

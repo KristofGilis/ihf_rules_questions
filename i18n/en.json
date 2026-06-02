@@ -53,6 +53,7 @@
     "rules": "Rules"
   },
   "offline": {
+    "dismiss": "Dismiss offline banner",
     "message": "You are currently offline. Some features may not be available.",
     "refresh": "Refresh offline data",
     "syncing": "Syncing",

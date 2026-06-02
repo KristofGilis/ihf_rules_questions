@@ -56,6 +56,7 @@
     "message": "Vous êtes actuellement hors ligne. Certaines fonctionnalités peuvent ne pas être disponibles.",
     "refresh": "Actualiser les données hors ligne",
     "syncing": "Synchronisation",
+    "dismiss": "Fermer la bannière hors ligne",
     "up_to_date": "Les données hors ligne sont à jour",
     "sync_error": "Échec de l'actualisation des données hors ligne"
   },
