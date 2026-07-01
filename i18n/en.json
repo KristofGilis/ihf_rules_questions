@@ -47,21 +47,30 @@
     "title": "IHF Rules Quiz"
   },
   "navigation": {
+    "collapse": "Collapse sidebar",
+    "expand": "Expand sidebar",
     "home": "Home",
     "questions": "Questions",
     "quiz": "Quiz",
-    "rules": "Rules"
+    "rules": "Rules",
+    "settings": "Settings"
   },
   "offline": {
+    "available": "Available offline",
     "dismiss": "Dismiss offline banner",
+    "last_synced": "Last synced",
     "message": "You are currently offline. Some features may not be available.",
+    "never_synced": "Data has not been synced yet",
+    "not_available": "Not available offline",
     "refresh": "Refresh offline data",
+    "sync_now": "Sync now",
     "syncing": "Syncing",
     "up_to_date": "Offline data is up to date"
   },
   "pwa": {
     "update_available": "A new version is available.",
-    "update_now": "Update"
+    "update_now": "Update",
+    "updating": "Updating..."
   },
   "questions": {
     "calculate_score": "Calculate Score",
@@ -122,6 +131,22 @@
     "review_mistakes": "Review Mistakes",
     "title": "Result",
     "wrong": "Wrong"
+  },
+  "settings": {
+    "description": "Manage your preferences",
+    "language_section": "Language",
+    "offline_section": "Offline",
+    "sidebar_collapse": "Collapse sidebar",
+    "sidebar_expand": "Expand sidebar",
+    "sidebar_expanded": "Expanded sidebar",
+    "sidebar_expanded_off": "Sidebar shows icons only",
+    "sidebar_expanded_on": "Sidebar shows icons and labels",
+    "sidebar_position": "Sidebar position",
+    "sidebar_position_left": "Left",
+    "sidebar_position_right": "Right",
+    "sidebar_section": "Sidebar",
+    "theme_section": "Theme",
+    "title": "Settings"
   },
   "theme": {
     "dark": "Dark",

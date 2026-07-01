@@ -1458,7 +1458,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Renvoi pour les NOIRS après le coup de sifflet.",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
@@ -1468,7 +1468,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Jet franc pour les NOIRS.",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "d",

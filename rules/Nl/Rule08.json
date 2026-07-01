@@ -1458,7 +1458,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Uitworp voor team ZWART na fluitsignaal",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
@@ -1468,7 +1468,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Vrije worp voor team ZWART",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "d",

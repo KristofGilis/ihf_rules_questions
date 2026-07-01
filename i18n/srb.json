@@ -47,21 +47,30 @@
     "title": "ИХФ Квиз о Правилима"
   },
   "navigation": {
+    "collapse": "Сакриј бочну траку",
+    "expand": "Прошири бочну траку",
     "home": "Почетна",
     "questions": "Питања",
     "quiz": "Квиз",
-    "rules": "Правила"
+    "rules": "Правила",
+    "settings": "Подешавања"
   },
   "offline": {
+    "available": "Доступно офлајн",
     "dismiss": "Затвори офлајн банер",
+    "last_synced": "Последња синхронизација",
     "message": "Тренутно сте офлајн. Неке функције можда неће бити доступне.",
+    "never_synced": "Подаци још нису синхронизовани",
+    "not_available": "Није доступно офлајн",
     "refresh": "Освежи офлајн податке",
+    "sync_now": "Синхронизуј сада",
     "syncing": "Синхронизација",
     "up_to_date": "Офлајн подаци су ажурни"
   },
   "pwa": {
     "update_available": "Доступна је нова верзија.",
-    "update_now": "Ажурирај"
+    "update_now": "Ажурирај",
+    "updating": "Ажурирање..."
   },
   "questions": {
     "calculate_score": "Прикажи бодове",
@@ -122,6 +131,22 @@
     "review_mistakes": "Прегледај Грешке",
     "title": "Резултат",
     "wrong": "Погрешно"
+  },
+  "settings": {
+    "description": "Управљајте својим подешавањима",
+    "language_section": "Језик",
+    "offline_section": "Офлајн",
+    "sidebar_collapse": "Сакриј бочну траку",
+    "sidebar_expand": "Прошири бочну траку",
+    "sidebar_expanded": "Проширена боčна трака",
+    "sidebar_expanded_off": "Бочна трака приказује само иконе",
+    "sidebar_expanded_on": "Бочна трака приказује иконе и натписе",
+    "sidebar_position": "Позиција боčне траке",
+    "sidebar_position_left": "Лево",
+    "sidebar_position_right": "Десно",
+    "sidebar_section": "Боčна трака",
+    "theme_section": "Тема",
+    "title": "Подешавања"
   },
   "theme": {
     "dark": "Тамна",

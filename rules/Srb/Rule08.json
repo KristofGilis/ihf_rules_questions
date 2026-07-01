@@ -1458,7 +1458,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Голманово бацање за ЦРНУ екипу после звучног сигнала",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "b",
@@ -1468,7 +1468,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Слободно бацање за ЦРНУ екипу",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "d",
