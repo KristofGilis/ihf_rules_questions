@@ -1458,7 +1458,7 @@
         {
           "AnswerNumber": "a",
           "Phrase": "Goalkeeper throw for BLACK team after whistle signal",
-          "Correct": true
+          "Correct": false
         },
         {
           "AnswerNumber": "b",
@@ -1468,7 +1468,7 @@
         {
           "AnswerNumber": "c",
           "Phrase": "Free throw for BLACK team",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "d",
