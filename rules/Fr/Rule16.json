@@ -21,6 +21,9 @@
           "Phrase": "L’équipe est réduite d’un joueur sur le terrain pendant 2 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "16:9"
       ]
     },
     {
@@ -47,6 +50,11 @@
           "Phrase": "Disqualification de BLANC 8, les BLANCS sont réduits de 2 joueurs sur le terrain pendant 2 minutes, rapport écrit (carton rouge et bleu montrés par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -73,6 +81,9 @@
           "Phrase": "3",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:1 comment"
       ]
     },
     {
@@ -99,6 +110,9 @@
           "Phrase": "Lorsque le chronométreur relance le chronomètre.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:5"
       ]
     },
     {
@@ -125,6 +139,9 @@
           "Phrase": "Au joueur exclu, à l’officiel responsable de l’équipe et au secrétaire de match.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:4"
       ]
     },
     {
@@ -146,6 +163,14 @@
           "Phrase": "Disqualification de NOIR 5 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; Les NOIRS sont réduits de 2 joueurs sur le terrain pendant 2 minutes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "8:10a",
+        "16:3a",
+        "16:6B",
+        "16:6d",
+        "16:9b"
       ]
     },
     {
@@ -172,6 +197,10 @@
           "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b 16:9c"
       ]
     },
     {
@@ -203,6 +232,11 @@
           "Phrase": "Disqualification de BLANC 7 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -229,6 +263,13 @@
           "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:9",
+        "16:1b",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -255,6 +296,9 @@
           "Phrase": "Pour avoir insulté les arbitres.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:11b"
       ]
     },
     {
@@ -276,6 +320,12 @@
           "Phrase": "Avertissement verbal pour BLANC 7 car le match est interrompu.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:6",
+        "16:6a",
+        "16:10",
+        "17:10"
       ]
     },
     {
@@ -302,6 +352,12 @@
           "Phrase": "Disqualification de NOIR 7 avec rapport écrit (carton rouge et bleu montré par les arbitres).",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:10",
+        "17:10"
       ]
     },
     {
@@ -328,6 +384,11 @@
           "Phrase": "Disqualification de BLANC 9 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes à partir du début de la seconde mi-temps.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:9",
+        "16:10",
+        "16:6b"
       ]
     },
     {
@@ -354,6 +415,9 @@
           "Phrase": "Avertissement pour BLANC 10 avec rapport écrit.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:11c"
       ]
     },
     {
@@ -380,6 +444,11 @@
           "Phrase": "Disqualification de l’officiel B des NOIRS (carton rouge montré par les arbitres) ; les NOIRS reprennent au complet la seconde mi- temps.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6",
+        "16:10"
       ]
     },
     {
@@ -401,6 +470,9 @@
           "Phrase": "L'équipe BLANCHE est réduite de 2 joueurs sur le terrain pendant 2 minutes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:9b"
       ]
     },
     {
@@ -432,6 +504,11 @@
           "Phrase": "Les BLANCS reprennent au complet sur le terrain à partir du début de la seconde mi-temps.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:3d",
+        "16:5",
+        "16:10"
       ]
     },
     {
@@ -468,6 +545,12 @@
           "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 4 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "16:3e",
+        "16:3 comment",
+        "Clarification 8c"
       ]
     },
     {
@@ -499,6 +582,10 @@
           "Phrase": "Disqualification de BLANC 9 avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:9d"
       ]
     },
     {
@@ -525,6 +612,11 @@
           "Phrase": "Disqualification de NOIR 8 (carton rouge montré par les arbitres), les NOIRS sont réduits d’un joueur sur le terrain pendant 4 minutes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3d",
+        "16:9a"
       ]
     },
     {
@@ -561,6 +653,9 @@
           "Phrase": "Un joueur vient d’être disqualifié pour une faute grave. Après avoir quitté le terrain, et après la reprise du match, il insulte les arbitres alors qu’il est assis dans les tribunes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:9"
       ]
     },
     {
@@ -592,6 +687,12 @@
           "Phrase": "Disqualification de BLANC 5 avec rapport écrit (carton rouge et bleu montrés par les arbitres).",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:3a",
+        "16:6d",
+        "16:9d"
       ]
     },
     {
@@ -623,6 +724,9 @@
           "Phrase": "Disqualification de l’officiel A des BLANCS avec rapport écrit (carton rouge et bleu montrés par les arbitres) ; les BLANCS sont réduits sur le terrain d’un joueur pendant 2 minutes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:6c"
       ]
     },
     {
@@ -659,6 +763,12 @@
           "Phrase": "Arrêt du temps de jeu.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "15:7",
+        "16:3a"
       ]
     },
     {
@@ -710,6 +820,13 @@
           "Phrase": "Le match reprend par un jet franc pour l'équipe NOIRE",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7-10",
+        "13:1a",
+        "16:6",
+        "16:8",
+        "16:9"
       ]
     }
   ]

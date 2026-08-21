@@ -26,6 +26,10 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:10",
+        "11:1"
       ]
     },
     {
@@ -52,6 +56,9 @@
           "Phrase": "Exclusion de 2 minutes pour NOIR 11.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:1"
       ]
     },
     {
@@ -78,6 +85,9 @@
           "Phrase": "4",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:3a"
       ]
     },
     {
@@ -104,6 +114,9 @@
           "Phrase": "2",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:3d"
       ]
     },
     {
@@ -130,6 +143,9 @@
           "Phrase": "0",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:3"
       ]
     },
     {
@@ -156,6 +172,11 @@
           "Phrase": "Remise en jeu pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:3",
+        "7:4",
+        "7:7"
       ]
     },
     {
@@ -182,6 +203,9 @@
           "Phrase": "Jet de 7m pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:4b"
       ]
     },
     {
@@ -203,6 +227,9 @@
           "Phrase": "Jet franc pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:6"
       ]
     },
     {
@@ -224,6 +251,10 @@
           "Phrase": "Renvoi pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:7",
+        "13:1a"
       ]
     },
     {
@@ -245,6 +276,10 @@
           "Phrase": "Jet franc pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:7",
+        "13:1a"
       ]
     },
     {
@@ -271,6 +306,10 @@
           "Phrase": "Jet franc et disqualification (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:7",
+        "13:1a"
       ]
     },
     {
@@ -292,6 +331,10 @@
           "Phrase": "Renvoi pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:9",
+        "11:1"
       ]
     },
     {
@@ -318,6 +361,10 @@
           "Phrase": "But pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:9",
+        "15:2"
       ]
     },
     {
@@ -344,6 +391,10 @@
           "Phrase": "Arrêt du temps de jeu.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:4",
+        "8:1a"
       ]
     },
     {
@@ -370,6 +421,11 @@
           "Phrase": "Poursuite du jeu.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:10",
+        "8:1c",
+        "13:1a"
       ]
     },
     {
@@ -396,6 +452,9 @@
           "Phrase": "Remise en jeu pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:1"
       ]
     },
     {
@@ -422,6 +481,9 @@
           "Phrase": "Remise en jeu pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:10"
       ]
     },
     {
@@ -448,6 +510,9 @@
           "Phrase": "Sanction progressive.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:12"
       ]
     },
     {
@@ -474,6 +539,10 @@
           "Phrase": "Renvoi pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:1",
+        "7:6"
       ]
     },
     {
@@ -495,6 +564,9 @@
           "Phrase": "Décision selon la personne qui récupère le ballon.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:8"
       ]
     },
     {
@@ -511,6 +583,10 @@
           "Phrase": "Jet Franc pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:1",
+        "7:3 comment"
       ]
     },
     {
@@ -532,6 +608,10 @@
           "Phrase": "Correction de la position, sanction progressive contre BLANC 6, coup de sifflet de reprise du jeu et les arbitres montrent le signal d’avertissement pour jeu passif.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "Clarification 4"
       ]
     },
     {
@@ -563,6 +643,11 @@
           "Phrase": "Exclusion de 2 minutes pour NOIR 6 ou NOIR 8 s’il y a répétition.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4.B.3"
       ]
     },
     {
@@ -594,6 +679,9 @@
           "Phrase": "Aucune des actions des points a à d.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 4.C"
       ]
     },
     {
@@ -620,6 +708,9 @@
           "Phrase": "Après que le signal d’avertissement a été montré, les arbitres décident du jeu passif au plus tard lorsqu’aucun tir sur le but n’est effectué après quatre passes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 4"
       ]
     },
     {
@@ -651,6 +742,11 @@
           "Phrase": "Sanction progressive pour le responsable officiel des BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4.B.2"
       ]
     },
     {
@@ -682,6 +778,9 @@
           "Phrase": "Les arbitres doivent montrer le geste 17 lorsqu’un joueur a clairement le ballon maîtrisé.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 4"
       ]
     },
     {
@@ -713,6 +812,10 @@
           "Phrase": "Une équipe qui a tenté de lancer une contre-attaque doit pouvoir effectuer un changement normal lorsqu’elle passe d’une contre- attaque à une phase de construction normale.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "Clarification 4"
       ]
     },
     {
@@ -734,6 +837,11 @@
           "Phrase": "5",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
       ]
     },
     {
@@ -755,6 +863,11 @@
           "Phrase": "3",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
       ]
     },
     {
@@ -781,6 +894,10 @@
           "Phrase": "Les BLANCS doit exécuter le jet franc comme un tir direct sur le but.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4"
       ]
     },
     {
@@ -807,6 +924,11 @@
           "Phrase": "Les BLANCS ont 1 passe restante avant de tirer.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
       ]
     },
     {
@@ -838,6 +960,11 @@
           "Phrase": "Les BLANCS n’ont plus de passes restantes avant de tirer.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
       ]
     },
     {
@@ -864,6 +991,11 @@
           "Phrase": "Jet franc pour les NOIRS ; Geste 17, les NOIRS ont utilisé quatre passes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4"
       ]
     },
     {
@@ -890,6 +1022,12 @@
           "Phrase": "Outre la possibilité d’effectuer le jet comme un tir direct vers le but, le lanceur peut également passer le ballon à un coéquipier.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4",
+        "Appendix 1 (Training Support “Passive play”)"
       ]
     },
     {
@@ -926,6 +1064,13 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "7:11",
+        "7:12",
+        "Clarification 4",
+        "Appendix 1 (Training Support “Passive Play”)"
       ]
     }
   ]

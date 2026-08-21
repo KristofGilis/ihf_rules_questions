@@ -26,6 +26,12 @@
           "Phrase": "2-minutenuitsluiting tegen WIT7",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:8",
+        "9:1",
+        "13:2",
+        "16:1b"
       ]
     },
     {
@@ -52,6 +58,11 @@
           "Phrase": "Uitworp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:8",
+        "9:1",
+        "13:2"
       ]
     },
     {
@@ -78,6 +89,11 @@
           "Phrase": "Doelpunt voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:3b",
+        "9:1",
+        "13:2"
       ]
     },
     {
@@ -99,6 +115,11 @@
           "Phrase": "Uitworp voor team WIT",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:4",
+        "9:1",
+        "12:1"
       ]
     },
     {
@@ -125,6 +146,10 @@
           "Phrase": "Uitworp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "14:2"
       ]
     },
     {
@@ -151,6 +176,10 @@
           "Phrase": "Schriftelijk verslag",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "comment"
       ]
     },
     {
@@ -182,6 +211,10 @@
           "Phrase": "Schriftelijk verslag",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "comment"
       ]
     },
     {
@@ -208,6 +241,12 @@
           "Phrase": "Beide doelpunten zijn ongeldig",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "9:1",
+        "9:2",
+        "16:3a"
       ]
     },
     {
@@ -239,6 +278,10 @@
           "Phrase": "Time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "15:2"
       ]
     },
     {
@@ -260,6 +303,11 @@
           "Phrase": "2-minutenuitsluiting tegen WIT9",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7e",
+        "9:1",
+        "16:1b"
       ]
     }
   ]

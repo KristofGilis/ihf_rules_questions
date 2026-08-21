@@ -31,6 +31,12 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "15:5b",
+        "16:3f"
       ]
     },
     {
@@ -62,6 +68,12 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:3",
+        "13:2",
+        "16:3b"
       ]
     },
     {
@@ -93,6 +105,12 @@
           "Phrase": "Jet franc pour les BLANCS depuis l’endroit où se trouve le ballon.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "13:6 comment",
+        "16:3f"
       ]
     },
     {
@@ -119,6 +137,11 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "16:3f"
       ]
     },
     {
@@ -145,6 +168,12 @@
           "Phrase": "Remise en jeu pour les NOIRS à la zone de changement des BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "13:1a",
+        "13:6",
+        "16:1b"
       ]
     },
     {
@@ -171,6 +200,9 @@
           "Phrase": "But pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:4a"
       ]
     },
     {
@@ -202,6 +234,12 @@
           "Phrase": "NOIR 12 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:8d",
+        "13:4b",
+        "Clarification 2 and 8"
       ]
     },
     {
@@ -228,6 +266,12 @@
           "Phrase": "Avertissement pour BLANC 5 et jet franc pour les NOIRS depuis l’endroit où la faute a été commise.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "13:6 comment",
+        "16:3f"
       ]
     },
     {
@@ -254,6 +298,11 @@
           "Phrase": "Avertissement pour l’officiel responsable des BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -280,6 +329,11 @@
           "Phrase": "Pour un jet franc depuis la ligne médiane, la tolérance sur le côté est à peu près la même que dans le cas d’un engagement. (sans zone d’engagement)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "13:6",
+        "13:6 comment"
       ]
     },
     {
@@ -306,6 +360,9 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4a"
       ]
     },
     {
@@ -327,6 +384,11 @@
           "Phrase": "Jet franc pour les BLANCS à la ligne des jets francs des NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7",
+        "13:6",
+        "Substitution Area Regulations 5+6"
       ]
     },
     {
@@ -358,6 +420,11 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:1",
+        "15:5b"
       ]
     },
     {
@@ -384,6 +451,9 @@
           "Phrase": "Remarque sur la feuille de match conformément au règlement de la fédération compétente.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4"
       ]
     },
     {
@@ -420,6 +490,11 @@
           "Phrase": "Disqualification de NOIR 11 (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "8:4",
+        "13:3"
       ]
     }
   ]

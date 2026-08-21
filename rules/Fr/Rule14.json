@@ -26,6 +26,12 @@
           "Phrase": "Arrêt du temps de jeu ; Jet de 7m pour les NOIRS ; Exclusion de 2 minutes pour l’officiel A des NOIRS ; Réduction des NOIRS sur le terrain d’un joueur pendant 2 minutes ; Rapport écrit concernant l’incident.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:10a",
+        "14:1c",
+        "16:6b"
       ]
     },
     {
@@ -57,6 +63,11 @@
           "Phrase": "Exclusion directe de 2 minutes pour BLANC 3.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8i",
+        "14:1a",
+        "15:2"
       ]
     },
     {
@@ -78,6 +89,9 @@
           "Phrase": "But pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "14:6"
       ]
     },
     {
@@ -104,6 +118,11 @@
           "Phrase": "Jet de 7m pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:3c",
+        "14:1a",
+        "16:1a"
       ]
     },
     {
@@ -130,6 +149,11 @@
           "Phrase": "Répétition du jet et avertissement pour BLANC 4.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:1a",
+        "14:7",
+        "15:7"
       ]
     },
     {
@@ -156,6 +180,9 @@
           "Phrase": "Jet de 7m répété et exclusion de BLANC 5.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "14:8"
       ]
     },
     {
@@ -182,6 +209,10 @@
           "Phrase": "Avertissement pour NOIR 12.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "14:10",
+        "16:1b"
       ]
     },
     {
@@ -208,6 +239,11 @@
           "Phrase": "Renvoi pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2c",
+        "14:1a",
+        "Clarification 6"
       ]
     },
     {
@@ -234,6 +270,11 @@
           "Phrase": "Sanction progressive contre BLANC 5.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:1a",
+        "14:7",
+        "15:7"
       ]
     },
     {
@@ -255,6 +296,12 @@
           "Phrase": "Sanction progressive pour NOIR 3.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7f",
+        "14:1a",
+        "16:1b",
+        "Clarification 6a"
       ]
     },
     {
@@ -286,6 +333,11 @@
           "Phrase": "Disqualification de BLANC 2 (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:2c",
+        "14:1a",
+        "Clarification 6a"
       ]
     },
     {
@@ -317,6 +369,9 @@
           "Phrase": "Rapport des arbitres sur la feuille de match conformément au règlement de la fédération compétente.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "14:1c"
       ]
     },
     {
@@ -343,6 +398,11 @@
           "Phrase": "Jet franc pour les BLANCS depuis l’endroit où se trouvait le ballon lorsque le signal sonore est arrivé.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "14:1b",
+        "Clarification 6a"
       ]
     },
     {
@@ -369,6 +429,12 @@
           "Phrase": "Les joueurs de l’équipe en défense doivent toujours se tenir à 3 mètres du tireur.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "14:3",
+        "14:5",
+        "14:8",
+        "14:9"
       ]
     },
     {
@@ -395,6 +461,12 @@
           "Phrase": "Avertissement pour NOIR 11.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2c",
+        "8:7f",
+        "14:1a",
+        "16:3a"
       ]
     },
     {
@@ -426,6 +498,10 @@
           "Phrase": "Observation des arbitres sur la feuille de match conformément au règlement de la fédération compétente.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "14:1c",
+        "Clarification 2a"
       ]
     },
     {
@@ -447,6 +523,12 @@
           "Phrase": "Renvoi pour les NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:4",
+        "12:1",
+        "13:2",
+        "14:7"
       ]
     },
     {
@@ -473,6 +555,11 @@
           "Phrase": "Arrêt du temps de jeu.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:2",
+        "14:4",
+        "15:2"
       ]
     },
     {
@@ -499,6 +586,11 @@
           "Phrase": "Jet de 7m pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "Clarification 6"
       ]
     },
     {
@@ -525,6 +617,12 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 3.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:2",
+        "8:3",
+        "Clarification 6c",
+        "New Guideline"
       ]
     },
     {
@@ -556,6 +654,13 @@
           "Phrase": "Disqualification de BLANC 6 (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4e",
+        "14:1",
+        "Clarification 6c",
+        "New Guideline"
       ]
     },
     {
@@ -592,6 +697,12 @@
           "Phrase": "Exclusion directe de 2 minutes pour BLANC 4.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8g",
+        "14:1",
+        "Clarification 6c",
+        "New Guideline"
       ]
     },
     {
@@ -628,6 +739,13 @@
           "Phrase": "Jet de 7m pour les NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4b",
+        "14:1",
+        "Clarification 6c",
+        "New Guideline"
       ]
     },
     {
@@ -659,6 +777,10 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 4.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8i",
+        "14:1"
       ]
     }
   ]

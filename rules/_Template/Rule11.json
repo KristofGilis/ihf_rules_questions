@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "11",
   "Name": "",
   "Questions": [
@@ -26,6 +26,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
       ]
     },
     {
@@ -52,6 +57,10 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:2"
       ]
     },
     {
@@ -78,6 +87,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
       ]
     },
     {
@@ -109,6 +123,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:1"
       ]
     },
     {
@@ -135,6 +152,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "11:5",
+        "13:8",
+        "15:4"
       ]
     },
     {
@@ -156,6 +178,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:1"
       ]
     }
   ]

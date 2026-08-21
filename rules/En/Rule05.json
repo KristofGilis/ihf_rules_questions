@@ -21,6 +21,13 @@
           "Phrase": "Repeat goalkeeper throw after restart signal",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "5:6",
+        "12:1",
+        "12:2",
+        "15:5b"
       ]
     },
     {
@@ -47,6 +54,13 @@
           "Phrase": "2-minute suspension for goalkeeper WHITE 12",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "5:3",
+        "5:9",
+        "6:2b",
+        "13:1a"
       ]
     },
     {
@@ -68,6 +82,9 @@
           "Phrase": "Goalkeeper throw for WHITE team after whistle signal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:4"
       ]
     },
     {
@@ -94,6 +111,10 @@
           "Phrase": "Progressive punishment against BLACK 1 since he has endangered an opponent",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "13:1a"
       ]
     },
     {
@@ -120,6 +141,10 @@
           "Phrase": "Progressive punishment against the goalkeeper",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "13:1a"
       ]
     },
     {
@@ -146,6 +171,10 @@
           "Phrase": "7-metre throw for BLACK team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "13:1a"
       ]
     },
     {
@@ -172,6 +201,10 @@
           "Phrase": "Warning for WHITE 1",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "12:1"
       ]
     },
     {
@@ -198,6 +231,10 @@
           "Phrase": "Correction and goalkeeper throw after whistle signal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "5:4"
       ]
     },
     {
@@ -224,6 +261,11 @@
           "Phrase": "Free throw for BLACK team",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "5:9",
+        "6:1",
+        "13:1a"
       ]
     },
     {
@@ -255,6 +297,9 @@
           "Phrase": "7-metre throw for WHITE team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3"
       ]
     },
     {
@@ -281,6 +326,11 @@
           "Phrase": "Time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "15:1",
+        "note"
       ]
     },
     {
@@ -312,6 +362,10 @@
           "Phrase": "Time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:9",
+        "13:1a"
       ]
     },
     {
@@ -338,6 +392,10 @@
           "Phrase": "No intervention because it is allowed",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:7",
+        "5:8"
       ]
     }
   ]

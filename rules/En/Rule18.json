@@ -31,6 +31,10 @@
           "Phrase": "Counting the number of attacks when a player is serving 3 attacks after receiving medical care on the court is a shared task for the timekeeper and scorekeeper.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "18:2"
       ]
     },
     {
@@ -62,6 +66,9 @@
           "Phrase": "Written report",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7"
       ]
     },
     {
@@ -93,6 +100,10 @@
           "Phrase": "No personal punishment possible",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "Clarification 7B"
       ]
     },
     {
@@ -119,6 +130,13 @@
           "Phrase": "The game is restarted with a free throw for WHITE team at the free-throw line of BLACK team.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "13:6",
+        "16:6b",
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -145,6 +163,10 @@
           "Phrase": "The game is restarted with a free throw for WHITE team at the free-throw line of BLACK team.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4a",
+        "Clarification 7B"
       ]
     },
     {
@@ -171,6 +193,10 @@
           "Phrase": "No punishment possible",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -187,6 +213,9 @@
           "Phrase": "At the time of the next interruption of the game",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     },
     {
@@ -203,6 +232,9 @@
           "Phrase": "No",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     }
   ]

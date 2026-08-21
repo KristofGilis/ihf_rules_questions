@@ -26,6 +26,11 @@
           "Phrase": "Repeat the throw-in after whistle signal",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
       ]
     },
     {
@@ -52,6 +57,10 @@
           "Phrase": "Goalkeeper throw for WHITE team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:2"
       ]
     },
     {
@@ -78,6 +87,11 @@
           "Phrase": "Goalkeeper throw for BLACK team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
       ]
     },
     {
@@ -109,6 +123,9 @@
           "Phrase": "Mandatory time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:1"
       ]
     },
     {
@@ -135,6 +152,11 @@
           "Phrase": "During the execution of a goalkeeper throw or a throw-off, when the defending player is standing outside the goal area or the throw-off area.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "11:5",
+        "13:8",
+        "15:4"
       ]
     },
     {
@@ -156,6 +178,9 @@
           "Phrase": "Throw-in for BLACK team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:1"
       ]
     }
   ]

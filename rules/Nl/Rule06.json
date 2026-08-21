@@ -26,6 +26,11 @@
           "Phrase": "Uitworp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "6:5",
+        "12:1"
       ]
     },
     {
@@ -52,6 +57,10 @@
           "Phrase": "Beginworp",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "12:1"
       ]
     },
     {
@@ -78,6 +87,9 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:5"
       ]
     },
     {
@@ -104,6 +116,9 @@
           "Phrase": "uitworp voor team ZWART na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:5"
       ]
     },
     {
@@ -130,6 +145,10 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1a"
       ]
     },
     {
@@ -156,6 +175,10 @@
           "Phrase": "Uitworp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1a"
       ]
     },
     {
@@ -182,6 +205,10 @@
           "Phrase": "hernemen van de beginworp na correctie",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1a"
       ]
     },
     {
@@ -208,6 +235,12 @@
           "Phrase": "Progressieve bestraffing voor ZWART7",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:2c",
+        "8:7f",
+        "14:1a",
+        "16:1b"
       ]
     },
     {
@@ -234,6 +267,11 @@
           "Phrase": "Diskwalificatie voor ZWART2 (rode kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2c",
+        "14:1a",
+        "Clarification 6a"
       ]
     },
     {
@@ -260,6 +298,11 @@
           "Phrase": "7-meterworp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "5:6",
+        "6:7b"
       ]
     },
     {
@@ -286,6 +329,11 @@
           "Phrase": "7-meterworp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "5:6",
+        "6:7b"
       ]
     },
     {
@@ -312,6 +360,10 @@
           "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2a",
+        "12:1"
       ]
     },
     {
@@ -338,6 +390,13 @@
           "Phrase": "Vrije worp voor team ZWART aan de wisselzone van team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "6:5",
+        "second paragraph",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -364,6 +423,10 @@
           "Phrase": "Wanneer een speler met bal het eigen doelgebied raakt.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2a",
+        "12:1"
       ]
     },
     {
@@ -395,6 +458,9 @@
           "Phrase": "Progressieve bestraffing voor ZWART4",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:7b"
       ]
     },
     {
@@ -426,6 +492,13 @@
           "Phrase": "Vrije worp voor team ZWART aan de vrijeworplijn van team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "4:5",
+        "6:4",
+        "12:1",
+        "13:3"
       ]
     },
     {
@@ -452,6 +525,10 @@
           "Phrase": "Waarschuwing voor WIT12",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "6:7c"
       ]
     },
     {
@@ -473,6 +550,10 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "13:4"
       ]
     },
     {
@@ -499,6 +580,12 @@
           "Phrase": "Vrije worp voor team ZWART aan de wisselzone van team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "6:5",
+        "first paragraph",
+        "16:3a"
       ]
     },
     {
@@ -525,6 +612,10 @@
           "Phrase": "Progressieve bestraffing voor ZWART2",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1b:"
       ]
     },
     {
@@ -551,6 +642,10 @@
           "Phrase": "Doelpunt is niet geldig",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:1",
+        "1:3"
       ]
     },
     {
@@ -572,6 +667,9 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2a"
       ]
     },
     {
@@ -603,6 +701,10 @@
           "Phrase": "Progressieve bestraffing voor WIT10",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:3",
+        "11:1"
       ]
     },
     {
@@ -629,6 +731,12 @@
           "Phrase": "Geen bestraffing",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:2",
+        "8:8i",
+        "14:1a",
+        "Clarification"
       ]
     },
     {
@@ -675,6 +783,11 @@
           "Phrase": "Na medische behandeling mag WIT12 verder spelen zonder het veld te verlaten.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "clarification 8",
+        "guideline 6:8"
       ]
     }
   ]

@@ -26,6 +26,10 @@
           "Phrase": "BLANC 11 peut être remplacé, mais son remplaçant ne peut pas porter le numéro 11.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:3"
       ]
     },
     {
@@ -52,6 +56,9 @@
           "Phrase": "NOIR 5 peut être utilisé comme joueur de champ dès que le gardien de but prévu est présent.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -83,6 +90,9 @@
           "Phrase": "L’officiel responsable A de l’équipe reçoit une sanction progressive.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2"
       ]
     },
     {
@@ -109,6 +119,9 @@
           "Phrase": "Six joueurs de champ",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -135,6 +148,9 @@
           "Phrase": "Un joueur qui a reçu l’autorisation de jouer du chronométreur, mais qui n’est pas inscrit sur la feuille de match.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:3"
       ]
     },
     {
@@ -161,6 +177,10 @@
           "Phrase": "Sanction progressive contre le responsable officiel des BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "16:1b"
       ]
     },
     {
@@ -187,6 +207,12 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 9.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a",
+        "Clarification 7"
       ]
     },
     {
@@ -213,6 +239,11 @@
           "Phrase": "Le jeu continue avec le jet correspondant à la situation et il doit y avoir un rapport écrit.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "13:3",
+        "13:4"
       ]
     },
     {
@@ -239,6 +270,9 @@
           "Phrase": "Avec l’autorisation du chronométreur.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11"
       ]
     },
     {
@@ -270,6 +304,10 @@
           "Phrase": "Réduction des BLANCS d’un joueur supplémentaire pendant 2 minutes sur le terrain.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "16:3e"
       ]
     },
     {
@@ -296,6 +334,11 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 2 et réduction de son équipe d’un joueur pendant 2 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:6",
+        "16:3a"
       ]
     },
     {
@@ -327,6 +370,10 @@
           "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 5 doit quitter le terrain immédiatement, et il ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "4:11"
       ]
     },
     {
@@ -353,6 +400,9 @@
           "Phrase": "Disqualification de BLANC 5 (carton rouge montrée par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -384,6 +434,12 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 4 et BLANC 11.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:5",
+        "13:6",
+        "16:3a"
       ]
     },
     {
@@ -410,6 +466,11 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -436,6 +497,11 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 27.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -462,6 +528,11 @@
           "Phrase": "Exclusion de 2 minutes pour NOIR 6.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -488,6 +559,10 @@
           "Phrase": "Un des deux gardiens de but arrivant en retard ne peut être utilisé que comme joueur de champ.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:8"
       ]
     },
     {
@@ -519,6 +594,11 @@
           "Phrase": "Les BLANCS restent en possession du ballon.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -550,6 +630,12 @@
           "Phrase": "Jet franc pour les NOIRS à hauteur de la zone de changement des BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -576,6 +662,13 @@
           "Phrase": "Attendre la fin de l’action, puis exclusion de NOIR 3 et reprise du jeu approprié selon la situation.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:2",
+        "guideline rule 13:2",
+        "14:2",
+        "16:3a"
       ]
     },
     {
@@ -607,6 +700,11 @@
           "Phrase": "Les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "13:1a",
+        "16:3a"
       ]
     },
     {
@@ -638,6 +736,11 @@
           "Phrase": "Disqualification de BLANC 3 (carton rouge montré par les arbitres) et les BLANCS sont réduits d’un joueur sur le terrain pendant 30 secondes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "13:1a",
+        "16:3a"
       ]
     },
     {
@@ -659,6 +762,10 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 5, et les BLANCS sont réduits de 2 joueurs sur le terrain pendant 15 secondes et d’un joueur pendant 1 minute et 45 secondes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "16:3a"
       ]
     },
     {
@@ -685,6 +792,12 @@
           "Phrase": "Exclusion de 2 minutes pour le gardien de but NOIR 1.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:5",
+        "13:1",
+        "16:3a"
       ]
     },
     {
@@ -716,6 +829,11 @@
           "Phrase": "Si le joueur refuse de suivre les instructions des arbitres pour quitter le terrain, il doit être sanctionné pour conduite antisportive.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:10",
+        "8:7",
+        "16:1b"
       ]
     },
     {
@@ -747,6 +865,12 @@
           "Phrase": "Le chronométreur aurait dû attendre que l'occasion manifeste de marquer soit terminée avant de siffler pour signaler le remplacement irrégulier.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "14:1a",
+        "16:3a",
+        "clarification 7"
       ]
     },
     {
@@ -768,6 +892,9 @@
           "Phrase": "Jet franc pour les BLANCS dans la zone de changement des NOIRS .",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:4 comment"
       ]
     },
     {
@@ -794,6 +921,11 @@
           "Phrase": "Disqualification de l’officiel D des NOIRS (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:7",
+        "16:3e"
       ]
     },
     {
@@ -830,6 +962,13 @@
           "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 6 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:6b",
+        "13:3",
+        "16:6a",
+        "16:8"
       ]
     },
     {
@@ -861,6 +1000,10 @@
           "Phrase": "Le jeu reprend par un jet franc pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "13:1"
       ]
     },
     {
@@ -887,6 +1030,11 @@
           "Phrase": "Les joueurs, y compris les gardiens de but, peuvent utiliser des numéros de 1 à 100.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:7",
+        "4:8",
+        "4:9"
       ]
     },
     {
@@ -913,6 +1061,10 @@
           "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le champ jusqu’à 23’00, puis d’un joueur jusqu’à 23’30.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "16:3d"
       ]
     },
     {
@@ -954,6 +1106,11 @@
           "Phrase": "S’il est détecté que les joueurs dans la zone de changement portent un équipement incorrect après le début du match.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "4:3",
+        "4:9"
       ]
     },
     {
@@ -985,6 +1142,9 @@
           "Phrase": "Le médecin des BLANCS, s’il n’est pas l’un des quatre officiels de l’équipe.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11"
       ]
     },
     {
@@ -1011,6 +1171,10 @@
           "Phrase": "Exclusion de 2 minutes pour l’officiel B des BLANCS, les BLANCS sont réduits d’un joueur sur le terrain pendant 2 minutes, l’officiel B peut rester dans la zone de changement.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "16:3e"
       ]
     },
     {
@@ -1032,6 +1196,10 @@
           "Phrase": "Un des officiels des BLANCS, qui se trouve sur le terrain, s’éloigne du joueur blessé et donne des instructions aux autres joueurs de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:11"
       ]
     },
     {
@@ -1063,6 +1231,9 @@
           "Phrase": "Aucune des réponses précédentes n’est valable.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:9"
       ]
     },
     {
@@ -1084,6 +1255,9 @@
           "Phrase": "Les BLANCS sont réduits de 2 joueurs sur le terrain pendant 57 secondes et d’un joueur pendant 1 minute et 3 secondes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6"
       ]
     },
     {
@@ -1120,6 +1294,11 @@
           "Phrase": "Rapport écrit conformément au règlement de la fédération compétente.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "9:1",
+        "9:2"
       ]
     },
     {
@@ -1156,6 +1335,9 @@
           "Phrase": "Si les officiels de l’équipe refusent de fournir les soins nécessaires à BLANC 12, le responsable officiel de l’équipe sera sanctionné progressivement.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
       ]
     },
     {
@@ -1172,6 +1354,9 @@
           "Phrase": "Après avoir reçu des soins médicaux sur le terrain, BLANC 1 ne peut réintégrer le terrain qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
       ]
     },
     {
@@ -1218,6 +1403,14 @@
           "Phrase": "Indépendamment du nombre d’attaques de son équipe, BLANC 7 peut réintégrer le terrain après avoir purgé une exclusion de 2 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "4:11",
+        "13:2",
+        "14:1",
+        "Clarification 8"
       ]
     },
     {
@@ -1244,6 +1437,9 @@
           "Phrase": "Jet franc pour les BLANCS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
       ]
     },
     {
@@ -1280,6 +1476,13 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "8:4",
+        "16:3c",
+        "Clarification 8"
       ]
     },
     {
@@ -1316,6 +1519,13 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4.11",
+        "8.4",
+        "16.3c",
+        "Clarification 8"
       ]
     },
     {
@@ -1337,6 +1547,12 @@
           "Phrase": "Sanction progressive pour le responsable officiel des NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:7",
+        "16:1b",
+        "Clarification 8"
       ]
     },
     {
@@ -1358,6 +1574,10 @@
           "Phrase": "Arrêt du temps de jeu.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1379,6 +1599,10 @@
           "Phrase": "NOIR 5 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1410,6 +1634,9 @@
           "Phrase": "Aucune exclusion pour BLANC 2 qui doit quitter le terrain ; les BLANCS reste en possession du ballon car il s’agit d’une erreur du chronométreur/délégué.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11 third paragraph"
       ]
     },
     {
@@ -1431,6 +1658,10 @@
           "Phrase": "Exclusion de 2 minutes pour BLANC 4 pour changement irrégulier.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1447,6 +1678,10 @@
           "Phrase": "BLANC 11 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1463,6 +1698,10 @@
           "Phrase": "NOIR 3 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1479,6 +1718,10 @@
           "Phrase": "NOIR 4 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1495,6 +1738,10 @@
           "Phrase": "NOIR 2 doit quitter le terrain et ne peut le réintégrer qu’après la troisième attaque de son équipe.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1511,6 +1758,10 @@
           "Phrase": "Avantage jusqu’à ce qu’il y ait un résultat de la contre-attaque des BLANCS, puis interruption du jeu pour demander des soins médicaux pour NOIR 2.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1552,6 +1803,10 @@
           "Phrase": "Jet franc pour les NOIRS",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:9 Guidelines",
+        "Regulations on Protective Equipment and Accessories"
       ]
     },
     {
@@ -1578,6 +1833,11 @@
           "Phrase": "Jet franc pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:7",
+        "4:9",
+        "Guidelines"
       ]
     },
     {
@@ -1614,6 +1874,12 @@
           "Phrase": "Sanction progressive pour l’officiel A des BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "4:7",
+        "4:8",
+        "New Guideline"
       ]
     },
     {
@@ -1645,6 +1911,11 @@
           "Phrase": "Disqualification de NOIR 2 (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "13:1a"
       ]
     },
     {
@@ -1681,6 +1952,12 @@
           "Phrase": "Le délégué aurait dû attendre que l’occasion manifeste de but soit terminée avant d’interrompre le jeu.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "14:1",
+        "Guideline rule 13:2"
       ]
     },
     {
@@ -1727,6 +2004,15 @@
           "Phrase": "Le délégué aurait dû attendre que l'occasion manifeste de but soit terminée avant d’interrompre le jeu.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "14:1",
+        "16:3a",
+        "17:13",
+        "Guideline 13:2",
+        "Video Replay Regulations"
       ]
     }
   ]

@@ -21,6 +21,10 @@
           "Phrase": "Let the game continue without interruption",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "12:2"
       ]
     },
     {
@@ -42,6 +46,11 @@
           "Phrase": "The position of the goalkeeper is correct.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "12:1",
+        "14:9"
       ]
     },
     {
@@ -68,6 +77,9 @@
           "Phrase": "Free throw for WHITE team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:1"
       ]
     },
     {
@@ -94,6 +106,10 @@
           "Phrase": "Correction, goalkeeper throw after whistle signal",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:5b"
       ]
     },
     {
@@ -120,6 +136,9 @@
           "Phrase": "When a teammate of the goalkeeper has touched the ball",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -146,6 +165,9 @@
           "Phrase": "Progressive punishment against BLACK 10",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -172,6 +194,9 @@
           "Phrase": "First number 8 (goalkeeper throw), then number 9 (free-throw direction)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:1 – Hand signals"
       ]
     },
     {
@@ -198,6 +223,9 @@
           "Phrase": "7-metre throw for BLACK team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -224,6 +252,9 @@
           "Phrase": "The opponents are allowed to stand directly outside the goal-area line.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -245,6 +276,9 @@
           "Phrase": "7-metre throw for WHITE team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -281,6 +315,11 @@
           "Phrase": "While executing a goalkeeper throw, the goalkeeper is not allowed to touch the goal-area line.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "12:2",
+        "15:2"
       ]
     }
   ]

@@ -26,6 +26,10 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -57,6 +61,11 @@
           "Phrase": "Waarschuwingsteken voor passief spel tonen",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:2",
+        "12:2",
+        "15:5b"
       ]
     },
     {
@@ -83,6 +92,11 @@
           "Phrase": "Zonder fluitsignaal voor de herneming",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:1a",
+        "13:7",
+        "15:7"
       ]
     },
     {
@@ -109,6 +123,13 @@
           "Phrase": "2-minutenuitsluiting voor ZWART6",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "12:1",
+        "12:2",
+        "15:5",
+        "15:9",
+        "16:1a"
       ]
     },
     {
@@ -135,6 +156,9 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2"
       ]
     },
     {
@@ -161,6 +185,11 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:1",
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -187,6 +216,10 @@
           "Phrase": "Herhaling van de inworp voor team WIT met fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "15:2"
       ]
     },
     {
@@ -218,6 +251,11 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:9",
+        "13:1a",
+        "15:2"
       ]
     },
     {
@@ -244,6 +282,9 @@
           "Phrase": "Vrije worp voor team WIT, 2-minutenuitsluiting voor ZWART7",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2"
       ]
     },
     {
@@ -270,6 +311,12 @@
           "Phrase": "Positie van WIT11 corrigeren en vrije worp na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:5b",
+        "15:9",
+        "16:1a",
+        "16:3b"
       ]
     },
     {
@@ -296,6 +343,11 @@
           "Phrase": "Waarschuwing voor ZWART8",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:5b",
+        "15:7"
       ]
     },
     {
@@ -322,6 +374,9 @@
           "Phrase": "Waarschuwing voor doelman ZWART12 wegens onsportief gedrag",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2"
       ]
     },
     {
@@ -343,6 +398,14 @@
           "Phrase": "Derde 2-minutenuitsluiting voor WIT5 en diskwalificatie (rode kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7c",
+        "15:4",
+        "15:9",
+        "16:3d",
+        "16:5",
+        "16:6d"
       ]
     },
     {
@@ -369,6 +432,10 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:7"
       ]
     },
     {
@@ -395,6 +462,11 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:3",
+        "15:1",
+        "15:7"
       ]
     },
     {
@@ -421,6 +493,11 @@
           "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "13:1a",
+        "15:2"
       ]
     },
     {
@@ -447,6 +524,10 @@
           "Phrase": "Vrije worp voor team WIT en verbale vermaning voor ZWART11",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:1",
+        "15:2"
       ]
     },
     {
@@ -473,6 +554,12 @@
           "Phrase": "Herneming van de uitworp voor team WIT na fluitsignaal",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:4",
+        "12:1",
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -504,6 +591,10 @@
           "Phrase": "Verbale waarschuwing voor WIT13 en WIT7",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2",
+        "15:7"
       ]
     },
     {
@@ -535,6 +626,11 @@
           "Phrase": "Einde van het spel, geen doelpunt",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "2:4",
+        "15:5a"
       ]
     },
     {
@@ -561,6 +657,14 @@
           "Phrase": "Vrije worp voor team ZWART; waarschuwing voor WIT9 of WIT18",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:1",
+        "15:5",
+        "15:6",
+        "15:7",
+        "2nd paragraph"
       ]
     },
     {
@@ -587,6 +691,10 @@
           "Phrase": "Beginworp",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -613,6 +721,11 @@
           "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2",
+        "15:7",
+        "15:8"
       ]
     },
     {
@@ -634,6 +747,10 @@
           "Phrase": "Correctie van de vrije worp voor team WIT na fluitsignaal",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "15:5b",
+        "15:7"
       ]
     },
     {
@@ -655,6 +772,11 @@
           "Phrase": "Hernemen van de vrije worp en progressieve bestraffing voor ZWART3",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:2",
+        "15:7",
+        "2nd Paragraph"
       ]
     },
     {
@@ -676,6 +798,10 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:1",
+        "note"
       ]
     },
     {
@@ -712,6 +838,12 @@
           "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team WIT.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "15:7",
+        "16:3a"
       ]
     }
   ]

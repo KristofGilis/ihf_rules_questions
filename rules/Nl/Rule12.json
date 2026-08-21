@@ -21,6 +21,10 @@
           "Phrase": "Verder spelen zonder onderbreking",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "12:2"
       ]
     },
     {
@@ -42,6 +46,11 @@
           "Phrase": "De opstelling van de doelverdediger is correct.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "12:1",
+        "14:9"
       ]
     },
     {
@@ -68,6 +77,9 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:1"
       ]
     },
     {
@@ -94,6 +106,10 @@
           "Phrase": "Correctie, uitworp na fluitsignaal",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:5b"
       ]
     },
     {
@@ -120,6 +136,9 @@
           "Phrase": "Wanneer een medespeler van de doelverdediger de bal aangeraakt heeft",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -146,6 +165,9 @@
           "Phrase": "Progressieve bestraffing voor ZWART10",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -172,6 +194,9 @@
           "Phrase": "Eerst nummer 8 (uitworp), dan nummer 9 (richting vrije worp)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:1 – Hand signals"
       ]
     },
     {
@@ -198,6 +223,9 @@
           "Phrase": "7-m-worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -224,6 +252,9 @@
           "Phrase": "De tegenspelers mogen zich ophouden net buiten de doelgebiedlijn.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -245,6 +276,9 @@
           "Phrase": "7m-worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2"
       ]
     },
     {
@@ -281,6 +315,11 @@
           "Phrase": "De doelverdediger mag bij de uitvoering van de uitworp de doelgebiedlijn niet raken.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "12:2",
+        "15:2"
       ]
     }
   ]

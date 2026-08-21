@@ -26,6 +26,10 @@
           "Phrase": "Jet franc pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -57,6 +61,11 @@
           "Phrase": "Montrer le signal d’avertissement pour jeu passif.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:2",
+        "12:2",
+        "15:5b"
       ]
     },
     {
@@ -83,6 +92,11 @@
           "Phrase": "Sans coup de sifflet.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:1a",
+        "13:7",
+        "15:7"
       ]
     },
     {
@@ -109,6 +123,13 @@
           "Phrase": "Exclusion de 2 minutes pour NOIR 6.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "12:1",
+        "12:2",
+        "15:5",
+        "15:9",
+        "16:1a"
       ]
     },
     {
@@ -135,6 +156,9 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2"
       ]
     },
     {
@@ -161,6 +185,11 @@
           "Phrase": "Jet franc pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:1",
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -187,6 +216,10 @@
           "Phrase": "Répétition du jet pour les BLANCS après le coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "15:2"
       ]
     },
     {
@@ -218,6 +251,11 @@
           "Phrase": "Jet franc pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:9",
+        "13:1a",
+        "15:2"
       ]
     },
     {
@@ -244,6 +282,9 @@
           "Phrase": "Jet franc pour les BLANCS, exclusion de 2 minutes pour NOIR 7.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2"
       ]
     },
     {
@@ -270,6 +311,12 @@
           "Phrase": "Corriger la position de BLANC 11 et jet franc après le coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:5b",
+        "15:9",
+        "16:1a",
+        "16:3b"
       ]
     },
     {
@@ -296,6 +343,11 @@
           "Phrase": "Avertissement pour NOIR 8.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:5b",
+        "15:7"
       ]
     },
     {
@@ -322,6 +374,9 @@
           "Phrase": "Avertissement de NOIR 12 pour conduite antisportive.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2"
       ]
     },
     {
@@ -343,6 +398,14 @@
           "Phrase": "Troisième exclusion de 2 minutes pour BLANC 5 et disqualification (carton rouge montré par les arbitres).",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7c",
+        "15:4",
+        "15:9",
+        "16:3d",
+        "16:5",
+        "16:6d"
       ]
     },
     {
@@ -369,6 +432,10 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:7"
       ]
     },
     {
@@ -395,6 +462,11 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:3",
+        "15:1",
+        "15:7"
       ]
     },
     {
@@ -421,6 +493,11 @@
           "Phrase": "Jet franc pour les NOIRS après le coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "13:1a",
+        "15:2"
       ]
     },
     {
@@ -447,6 +524,10 @@
           "Phrase": "Jet franc pour les BLANCS, avertissement verbal pour NOIR 11.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:1",
+        "15:2"
       ]
     },
     {
@@ -473,6 +554,12 @@
           "Phrase": "Renvoi répété pour les BLANCS après le coup de sifflet.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:4",
+        "12:1",
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -504,6 +591,10 @@
           "Phrase": "Avertissement verbal pour BLANC 7 et BLANC 13.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2",
+        "15:7"
       ]
     },
     {
@@ -535,6 +626,11 @@
           "Phrase": "Le match est terminé, pas de but.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "2:4",
+        "15:5a"
       ]
     },
     {
@@ -561,6 +657,14 @@
           "Phrase": "Jet franc pour les NOIRS ; avertissement pour BLANC 9 et BLANC 18.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:1",
+        "15:5",
+        "15:6",
+        "15:7",
+        "2nd paragraph"
       ]
     },
     {
@@ -587,6 +691,10 @@
           "Phrase": "Engagement.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:2"
       ]
     },
     {
@@ -613,6 +721,11 @@
           "Phrase": "Jet franc pour les NOIRS après le coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:2",
+        "15:7",
+        "15:8"
       ]
     },
     {
@@ -634,6 +747,10 @@
           "Phrase": "Répétition du jet franc pour les BLANCS après le coup de sifflet.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "15:5b",
+        "15:7"
       ]
     },
     {
@@ -655,6 +772,11 @@
           "Phrase": "Répétition du jet franc et sanction progressive pour NOIR 3.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "13:2",
+        "15:7",
+        "2nd Paragraph"
       ]
     },
     {
@@ -676,6 +798,10 @@
           "Phrase": "Jet franc pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "15:1",
+        "note"
       ]
     },
     {
@@ -712,6 +838,12 @@
           "Phrase": "Le match reprend sur un jet franc pour l'équipe BLANCHE.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "15:7",
+        "16:3a"
       ]
     }
   ]

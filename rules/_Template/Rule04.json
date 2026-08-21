@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "4",
   "Name": "",
   "Questions": [
@@ -26,6 +26,10 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:3"
       ]
     },
     {
@@ -52,6 +56,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -83,6 +90,9 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2"
       ]
     },
     {
@@ -109,6 +119,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -135,6 +148,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:3"
       ]
     },
     {
@@ -161,6 +177,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "16:1b"
       ]
     },
     {
@@ -187,6 +207,12 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a",
+        "Clarification 7"
       ]
     },
     {
@@ -213,6 +239,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "13:3",
+        "13:4"
       ]
     },
     {
@@ -239,6 +270,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11"
       ]
     },
     {
@@ -270,6 +304,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "16:3e"
       ]
     },
     {
@@ -296,6 +334,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:6",
+        "16:3a"
       ]
     },
     {
@@ -327,6 +370,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "4:11"
       ]
     },
     {
@@ -353,6 +400,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -384,6 +434,12 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:5",
+        "13:6",
+        "16:3a"
       ]
     },
     {
@@ -410,6 +466,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -436,6 +497,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -462,6 +528,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -488,6 +559,10 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:8"
       ]
     },
     {
@@ -519,6 +594,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -550,6 +630,12 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:5",
+        "13:3",
+        "16:3a"
       ]
     },
     {
@@ -576,6 +662,13 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:2",
+        "guideline rule 13:2",
+        "14:2",
+        "16:3a"
       ]
     },
     {
@@ -607,6 +700,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "13:1a",
+        "16:3a"
       ]
     },
     {
@@ -638,6 +736,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "13:1a",
+        "16:3a"
       ]
     },
     {
@@ -659,6 +762,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "16:3a"
       ]
     },
     {
@@ -685,6 +792,12 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:5",
+        "13:1",
+        "16:3a"
       ]
     },
     {
@@ -716,6 +829,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:10",
+        "8:7",
+        "16:1b"
       ]
     },
     {
@@ -747,6 +865,12 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "14:1a",
+        "16:3a",
+        "clarification 7"
       ]
     },
     {
@@ -768,6 +892,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:4 comment"
       ]
     },
     {
@@ -794,6 +921,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:7",
+        "16:3e"
       ]
     },
     {
@@ -830,6 +962,13 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:6b",
+        "13:3",
+        "16:6a",
+        "16:8"
       ]
     },
     {
@@ -861,6 +1000,10 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "13:1"
       ]
     },
     {
@@ -887,6 +1030,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:7",
+        "4:8",
+        "4:9"
       ]
     },
     {
@@ -913,6 +1061,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "16:3d"
       ]
     },
     {
@@ -954,6 +1106,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "4:3",
+        "4:9"
       ]
     },
     {
@@ -985,6 +1142,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11"
       ]
     },
     {
@@ -1011,6 +1171,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "16:3e"
       ]
     },
     {
@@ -1032,6 +1196,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:11"
       ]
     },
     {
@@ -1063,6 +1231,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:9"
       ]
     },
     {
@@ -1084,6 +1255,9 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6"
       ]
     },
     {
@@ -1120,6 +1294,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "9:1",
+        "9:2"
       ]
     },
     {
@@ -1156,6 +1335,9 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
       ]
     },
     {
@@ -1172,6 +1354,9 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
       ]
     },
     {
@@ -1218,6 +1403,14 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "4:11",
+        "13:2",
+        "14:1",
+        "Clarification 8"
       ]
     },
     {
@@ -1244,6 +1437,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
       ]
     },
     {
@@ -1280,6 +1476,13 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "8:4",
+        "16:3c",
+        "Clarification 8"
       ]
     },
     {
@@ -1316,6 +1519,13 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4.11",
+        "8.4",
+        "16.3c",
+        "Clarification 8"
       ]
     },
     {
@@ -1337,6 +1547,12 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:7",
+        "16:1b",
+        "Clarification 8"
       ]
     },
     {
@@ -1358,6 +1574,10 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1379,6 +1599,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1410,6 +1634,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:11 third paragraph"
       ]
     },
     {
@@ -1431,6 +1658,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1447,6 +1678,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1463,6 +1698,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1479,6 +1718,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1495,6 +1738,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1511,6 +1758,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
       ]
     },
     {
@@ -1552,6 +1803,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:9 Guidelines",
+        "Regulations on Protective Equipment and Accessories"
       ]
     },
     {
@@ -1578,6 +1833,11 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:7",
+        "4:9",
+        "Guidelines"
       ]
     },
     {
@@ -1614,6 +1874,12 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "4:7",
+        "4:8",
+        "New Guideline"
       ]
     },
     {
@@ -1645,6 +1911,11 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "13:1a"
       ]
     },
     {
@@ -1681,6 +1952,12 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "14:1",
+        "Guideline rule 13:2"
       ]
     },
     {
@@ -1727,6 +2004,15 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "14:1",
+        "16:3a",
+        "17:13",
+        "Guideline 13:2",
+        "Video Replay Regulations"
       ]
     }
   ]

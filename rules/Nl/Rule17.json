@@ -31,6 +31,10 @@
           "Phrase": "Geen time-out, de inworp wordt uitgevoerd na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8d",
+        "17:7"
       ]
     },
     {
@@ -67,6 +71,10 @@
           "Phrase": "Ofwel de tijdwaarnemer, de waarnemer of een van de scheidsrechters",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "17:9"
       ]
     },
     {
@@ -98,6 +106,9 @@
           "Phrase": "De scheidsrechters moeten proberen een gezamenlijke beslissing te bereiken.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "17:6"
       ]
     },
     {
@@ -124,6 +135,9 @@
           "Phrase": "De twee scheidsrechters en de tijdwaarnemer in gezamenlijk overleg",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "17:9"
       ]
     },
     {
@@ -160,6 +174,12 @@
           "Phrase": "Elke progressieve bestraffing in de laatste 30 seconden van de wedstrijd, indien de actie bedoeld is om de tegenstrever te verhinderen om een scorekans te creëren",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:10a-b",
+        "16:6",
+        "17:10"
       ]
     },
     {
@@ -186,6 +206,10 @@
           "Phrase": "De teamaanvoerder",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "17:11"
       ]
     },
     {
@@ -212,6 +236,9 @@
           "Phrase": "De twee scheidsrechters moeten tot een gezamenlijke beslissing komen",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "17:9"
       ]
     },
     {
@@ -238,6 +265,9 @@
           "Phrase": "De scheidsrechters mogen dit zelf vrij bepalen",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "17:1"
       ]
     },
     {
@@ -274,6 +304,9 @@
           "Phrase": "Time-out is niet verplicht, wanneer de scheidsrechters elektronische apparaten voor interne communicatie gebruiken",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "17:7"
       ]
     }
   ]

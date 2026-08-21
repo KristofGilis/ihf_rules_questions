@@ -31,6 +31,10 @@
           "Phrase": "Het tellen van het aantal aanvallen, wanneer een speler na verzorging op het speelveld 3 aanvallen aan de kant moet blijven, is een gezamenlijke taak van de wedstrijdsecretaris en de tijdwaarnemer.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "18:2"
       ]
     },
     {
@@ -62,6 +66,9 @@
           "Phrase": "Schriftelijk verslag",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7"
       ]
     },
     {
@@ -93,6 +100,10 @@
           "Phrase": "Geen persoonlijke bestraffing mogelijk",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "Clarification 7B"
       ]
     },
     {
@@ -119,6 +130,13 @@
           "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "13:6",
+        "16:6b",
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -145,6 +163,10 @@
           "Phrase": "Het spel wordt hernomen met een vrije worp voor team WIT aan de vrijeworplijn van team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4a",
+        "Clarification 7B"
       ]
     },
     {
@@ -171,6 +193,10 @@
           "Phrase": "Geen bestraffing mogelijk",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -187,6 +213,9 @@
           "Phrase": "Bij de eerstvolgende spelonderbreking",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     },
     {
@@ -203,6 +232,9 @@
           "Phrase": "Neen",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     }
   ]

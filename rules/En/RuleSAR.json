@@ -26,6 +26,9 @@
           "Phrase": "3.5 metres",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Substitution Area Regulations 1"
       ]
     },
     {
@@ -57,6 +60,11 @@
           "Phrase": "WHITE team will be reduced by 1 player on the court for 2 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3e",
+        "Substitution Area Regulations 5+6"
       ]
     }
   ]

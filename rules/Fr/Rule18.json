@@ -31,6 +31,10 @@
           "Phrase": "Le comptage du nombre d’attaques lorsqu’un joueur effectue 3 attaques après avoir reçu des soins médicaux sur le terrain est une tâche partagée entre le chronométreur et le secrétaire de match.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "18:2"
       ]
     },
     {
@@ -62,6 +66,9 @@
           "Phrase": "Rapport écrit.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7"
       ]
     },
     {
@@ -93,6 +100,10 @@
           "Phrase": "Aucune sanction personnelle n’est possible.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "Clarification 7B"
       ]
     },
     {
@@ -119,6 +130,13 @@
           "Phrase": "Le jeu reprend par un jet franc pour les BLANCS sur la ligne de jet franc des NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "13:6",
+        "16:6b",
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -145,6 +163,10 @@
           "Phrase": "Le jeu reprend par un jet franc pour les BLANCS sur la ligne de jet franc des NOIRS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4a",
+        "Clarification 7B"
       ]
     },
     {
@@ -171,6 +193,10 @@
           "Phrase": "Aucune sanction n’est possible.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -187,6 +213,9 @@
           "Phrase": "Au moment de la prochaine interruption du jeu.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     },
     {
@@ -203,6 +232,9 @@
           "Phrase": "Non.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     }
   ]

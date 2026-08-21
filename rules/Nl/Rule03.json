@@ -26,6 +26,9 @@
           "Phrase": "zoveel men wil",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "3:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "omtrek 60 cm, gewicht 500 g",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "3:2"
       ]
     },
     {
@@ -78,6 +84,9 @@
           "Phrase": "omtrek 56 cm, gewicht 375 g",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "3:2"
       ]
     },
     {
@@ -104,6 +113,9 @@
           "Phrase": "Wanneer een van de teams dit vraagt",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "3:4"
       ]
     }
   ]

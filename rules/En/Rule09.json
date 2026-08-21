@@ -26,6 +26,12 @@
           "Phrase": "2-minute suspension against WHITE 7",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "7:8",
+        "9:1",
+        "13:2",
+        "16:1b"
       ]
     },
     {
@@ -52,6 +58,11 @@
           "Phrase": "Goalkeeper throw for BLACK team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "7:8",
+        "9:1",
+        "13:2"
       ]
     },
     {
@@ -78,6 +89,11 @@
           "Phrase": "Goal for BLACK team",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:3b",
+        "9:1",
+        "13:2"
       ]
     },
     {
@@ -99,6 +115,11 @@
           "Phrase": "Goalkeeper throw for WHITE team",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:4",
+        "9:1",
+        "12:1"
       ]
     },
     {
@@ -125,6 +146,10 @@
           "Phrase": "Goalkeeper throw for WHITE team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "14:2"
       ]
     },
     {
@@ -151,6 +176,10 @@
           "Phrase": "Written report",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "comment"
       ]
     },
     {
@@ -182,6 +211,10 @@
           "Phrase": "Written report",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "comment"
       ]
     },
     {
@@ -208,6 +241,12 @@
           "Phrase": "Both goals are invalid.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "9:1",
+        "9:2",
+        "16:3a"
       ]
     },
     {
@@ -239,6 +278,10 @@
           "Phrase": "Time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "15:2"
       ]
     },
     {
@@ -260,6 +303,11 @@
           "Phrase": "2-minute suspension against WHITE 9",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7e",
+        "9:1",
+        "16:1b"
       ]
     }
   ]

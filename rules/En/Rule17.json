@@ -31,6 +31,10 @@
           "Phrase": "No time-out, but throw-in executed after whistle signal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8d",
+        "17:7"
       ]
     },
     {
@@ -67,6 +71,10 @@
           "Phrase": "Either the timekeeper, the delegate or one of the referees",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "17:9"
       ]
     },
     {
@@ -98,6 +106,9 @@
           "Phrase": "The referees must try to reach a joint decision",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "17:6"
       ]
     },
     {
@@ -124,6 +135,9 @@
           "Phrase": "The two referees and the timekeeper reach a joint decision.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "17:9"
       ]
     },
     {
@@ -160,6 +174,12 @@
           "Phrase": "Any progressive punishment during the last 30 seconds of the game, if the action is intended to prevent the opponents from creating a scoring chance",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:10a-b",
+        "16:6",
+        "17:10"
       ]
     },
     {
@@ -186,6 +206,10 @@
           "Phrase": "The team captain",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "17:11"
       ]
     },
     {
@@ -212,6 +236,9 @@
           "Phrase": "The two referees must reach a joint decision.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "17:9"
       ]
     },
     {
@@ -238,6 +265,9 @@
           "Phrase": "The referees are free to make their own choice.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "17:1"
       ]
     },
     {
@@ -274,6 +304,9 @@
           "Phrase": "Time-out not obligatory, if the referees are using electronic equipment for their internal communication",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "17:7"
       ]
     }
   ]

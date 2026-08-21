@@ -21,6 +21,13 @@
           "Phrase": "Répétition du renvoi après coup de sifflet.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "5:6",
+        "12:1",
+        "12:2",
+        "15:5b"
       ]
     },
     {
@@ -47,6 +54,13 @@
           "Phrase": "Exclusion de 2 minutes pour le gardien de but BLANC 12",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "5:3",
+        "5:9",
+        "6:2b",
+        "13:1a"
       ]
     },
     {
@@ -68,6 +82,9 @@
           "Phrase": "Renvoi pour l'équipe BLANCHE après le coup de sifflet",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:4"
       ]
     },
     {
@@ -94,6 +111,10 @@
           "Phrase": "Sanction progressive contre NOIR 1, car il a mis un adversaire en danger.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "13:1a"
       ]
     },
     {
@@ -120,6 +141,10 @@
           "Phrase": "Sanction progressive contre le gardien de but.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "13:1a"
       ]
     },
     {
@@ -146,6 +171,10 @@
           "Phrase": "Jet de 7m pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "13:1a"
       ]
     },
     {
@@ -172,6 +201,10 @@
           "Phrase": "Avertissement pour BLANC 1.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:10",
+        "12:1"
       ]
     },
     {
@@ -198,6 +231,10 @@
           "Phrase": "Correction et renvoi après coup de sifflet",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "5:4"
       ]
     },
     {
@@ -224,6 +261,11 @@
           "Phrase": "Jet franc pour les NOIRS",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "5:9",
+        "6:1",
+        "13:1a"
       ]
     },
     {
@@ -255,6 +297,9 @@
           "Phrase": "Jet de 7m pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3"
       ]
     },
     {
@@ -281,6 +326,11 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "15:1",
+        "note"
       ]
     },
     {
@@ -312,6 +362,10 @@
           "Phrase": "Arrêt du temps de jeu",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:9",
+        "13:1a"
       ]
     },
     {
@@ -338,6 +392,10 @@
           "Phrase": "Aucune intervention, car c’est autorisé.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "5:7",
+        "5:8"
       ]
     }
   ]

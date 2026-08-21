@@ -26,6 +26,9 @@
           "Phrase": "Unlimited",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "3:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "Circumference 60cm, weight 500g",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "3:2"
       ]
     },
     {
@@ -78,6 +84,9 @@
           "Phrase": "Circumference 56cm, weight 375g",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "3:2"
       ]
     },
     {
@@ -104,6 +113,9 @@
           "Phrase": "If one of the teams request it",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "3:4"
       ]
     }
   ]

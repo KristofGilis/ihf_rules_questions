@@ -26,6 +26,9 @@
           "Phrase": "Do not change ends",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "The team representatives must come to an agreement.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:1"
       ]
     },
     {
@@ -73,6 +79,9 @@
           "Phrase": "At the centre of the court with one foot on the centre line and the other foot on or behind the line, with a sideways tolerance of about 1.5 metres",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3a"
       ]
     },
     {
@@ -94,6 +103,11 @@
           "Phrase": "Time-out; correction; whistle signal for executing the throw-off",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:1",
+        "15:6"
       ]
     },
     {
@@ -120,6 +134,11 @@
           "Phrase": "Free throw for BLACK team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "10:4",
+        "15:2"
       ]
     },
     {
@@ -151,6 +170,12 @@
           "Phrase": "The teammates of the thrower are allowed to cross the centre line, before the throw has been taken.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:2",
+        "15:3",
+        "15:4"
       ]
     },
     {
@@ -177,6 +202,10 @@
           "Phrase": "Correction of the position of BLACK 6 and repeated throw-off after whistle signal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:7"
       ]
     },
     {
@@ -198,6 +227,10 @@
           "Phrase": "Correction, and new throw-off after whistle signal from the referees.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5b"
       ]
     },
     {
@@ -229,6 +262,10 @@
           "Phrase": "The referees should have waited until the thrower was inside the throw-off area with the ball and all his body before giving the whistle signal for the execution of the throw-off",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5"
       ]
     },
     {
@@ -265,6 +302,11 @@
           "Phrase": "Direct 2-minute suspension for BLACK 8",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8",
+        "10:3b",
+        "13:1a"
       ]
     },
     {
@@ -296,6 +338,9 @@
           "Phrase": "The thrower is not allowed to bounce the ball after the whistle signal for the execution.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10.3b"
       ]
     },
     {
@@ -342,6 +387,13 @@
           "Phrase": "Disqualification for WHITE 8 (red card shown by the referees).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8g",
+        "10:3b",
+        "14:1a",
+        "Clarification 6"
       ]
     },
     {
@@ -373,6 +425,10 @@
           "Phrase": "The teammates of the thrower are not allowed to cross the centre line at any time before the whistle signal for the execution of the throw.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:2"
       ]
     },
     {
@@ -404,6 +460,9 @@
           "Phrase": "When the thrower is inside the throw-off area with his entire body and the ball.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3b"
       ]
     }
   ]

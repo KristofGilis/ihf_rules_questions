@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "SAR",
   "Name": "Правила о простору за замену играча",
   "Questions": [
@@ -26,6 +26,9 @@
           "Phrase": "3,5 метра",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Substitution Area Regulations 1"
       ]
     },
     {
@@ -57,6 +60,11 @@
           "Phrase": "БЕЛА екипа ће бити редукована за једног играча у пољу на 2 минута",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3e",
+        "Substitution Area Regulations 5+6"
       ]
     }
   ]

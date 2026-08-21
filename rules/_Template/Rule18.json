@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "18",
   "Name": "",
   "Questions": [
@@ -31,6 +31,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "18:2"
       ]
     },
     {
@@ -62,6 +66,9 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7"
       ]
     },
     {
@@ -93,6 +100,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "Clarification 7B"
       ]
     },
     {
@@ -119,6 +130,13 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "13:6",
+        "16:6b",
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -145,6 +163,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4a",
+        "Clarification 7B"
       ]
     },
     {
@@ -171,6 +193,10 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -187,6 +213,9 @@
           "Phrase": "",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     },
     {
@@ -203,6 +232,9 @@
           "Phrase": "",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     }
   ]

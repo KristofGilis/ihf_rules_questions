@@ -26,6 +26,9 @@
           "Phrase": "Pas de changement de côté.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "Les représentants des 2 équipes doivent se mettre d’accord.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:1"
       ]
     },
     {
@@ -73,6 +79,9 @@
           "Phrase": "Au centre du terrain, avec un pied sur la ligne médiane et l’autre pied sur ou avant la ligne, avec une tolérance latérale d’environ 1,5 mètre.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3a"
       ]
     },
     {
@@ -94,6 +103,11 @@
           "Phrase": "Temps mort ; correction ; coup de sifflet de reprise de l’exécution.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:1",
+        "15:6"
       ]
     },
     {
@@ -120,6 +134,11 @@
           "Phrase": "Jet franc pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "10:4",
+        "15:2"
       ]
     },
     {
@@ -151,6 +170,12 @@
           "Phrase": "Les coéquipiers du lanceur sont autorisés à franchir la ligne médiane avant que le jet n’ait été effectué.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:2",
+        "15:3",
+        "15:4"
       ]
     },
     {
@@ -177,6 +202,10 @@
           "Phrase": "Correction de la position de NOIR 6 et répétition du jet après coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:7"
       ]
     },
     {
@@ -198,6 +227,10 @@
           "Phrase": "Correction et répétition du jet après coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5b"
       ]
     },
     {
@@ -229,6 +262,10 @@
           "Phrase": "Les arbitres auraient dû attendre que le lanceur soit à l'intérieur de la zone d’engagement avec le ballon et tout son corps avant de donner le coup de sifflet pour l'exécution.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5"
       ]
     },
     {
@@ -265,6 +302,11 @@
           "Phrase": "Exclusion directe de 2 minutes pour NOIR 8.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8",
+        "10:3b",
+        "13:1a"
       ]
     },
     {
@@ -296,6 +338,9 @@
           "Phrase": "Le joueur qui exécute n’est pas autorisé à faire rebondir le ballon après le coup de sifflet.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10.3b"
       ]
     },
     {
@@ -342,6 +387,13 @@
           "Phrase": "Disqualification de BLANC 8 (carton rouge montré par les arbitres).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8g",
+        "10:3b",
+        "14:1a",
+        "Clarification 6"
       ]
     },
     {
@@ -373,6 +425,10 @@
           "Phrase": "Les coéquipiers du lanceur ne sont pas autorisés à franchir la ligne médiane avant le coup de sifflet pour l’exécution.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:2"
       ]
     },
     {
@@ -404,6 +460,9 @@
           "Phrase": "Lorsque le lanceur est à l'intérieur de la zone d’engagement avec tout son corps et le ballon.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3b"
       ]
     }
   ]

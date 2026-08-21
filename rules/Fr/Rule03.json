@@ -26,6 +26,9 @@
           "Phrase": "Illimité",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "3:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "Circonférence 60 cm, poids 500 g",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "3:2"
       ]
     },
     {
@@ -78,6 +84,9 @@
           "Phrase": "Circonférence 56 cm, poids 375 g",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "3:2"
       ]
     },
     {
@@ -104,6 +113,9 @@
           "Phrase": "Si l’une des équipes le demande.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "3:4"
       ]
     }
   ]

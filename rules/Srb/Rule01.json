@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "1",
   "Name": "Игралиште",
   "Questions": [
@@ -26,6 +26,9 @@
           "Phrase": "Дужина између 38 и 42 метра, ширина између 18 и 22 метра",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "1:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "2,08 x 3,08 м",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "1:2"
       ]
     },
     {
@@ -78,6 +84,9 @@
           "Phrase": "10 цм",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "1:3"
       ]
     },
     {
@@ -109,6 +118,9 @@
           "Phrase": "Коришћење простора за почетно бацање је обавезно за сва рукометна такмичења",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "1:9"
       ]
     }
   ]

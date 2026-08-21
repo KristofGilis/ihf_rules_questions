@@ -31,6 +31,12 @@
           "Phrase": "7-meterworp",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "8:10b",
+        "14:1a",
+        "16:6b"
       ]
     },
     {
@@ -62,6 +68,14 @@
           "Phrase": "Progressieve bestraffing voor de verantwoordelijke teamofficial van team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "8:10b",
+        "14:1a",
+        "16:1b",
+        "16:6a",
+        "16:6b"
       ]
     },
     {
@@ -88,6 +102,11 @@
           "Phrase": "Geen bestraffing mogelijk, maar een schriftelijk verslag",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3e",
+        "16:10"
       ]
     },
     {
@@ -124,6 +143,14 @@
           "Phrase": "Team WIT speelt gedurende 4 minuten met één speler minder",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "8:10a",
+        "16:3a",
+        "16:6d",
+        "16:8",
+        "16:9c-d"
       ]
     },
     {
@@ -150,6 +177,13 @@
           "Phrase": "7m-worp, diskwalificatie van WIT2 en verder reduceren van team WIT voor de resterende uitsluitingstijd van WIT2; schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "8:10b",
+        "14:1a",
+        "16:6b",
+        "16:8"
       ]
     },
     {
@@ -171,6 +205,9 @@
           "Phrase": "Het spel gaat verder zonder onderbreking",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:1c"
       ]
     },
     {
@@ -202,6 +239,10 @@
           "Phrase": "Geen progressieve bestraffing voor ZWART7",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:2a",
+        "14:1a"
       ]
     },
     {
@@ -233,6 +274,12 @@
           "Phrase": "Diskwalificatie voor ZWART12, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5 comment",
+        "14:1a",
+        "16:6a",
+        "Clarification 6b"
       ]
     },
     {
@@ -259,6 +306,11 @@
           "Phrase": "Schriftelijk verslag (blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "13:1b",
+        "16:3b"
       ]
     },
     {
@@ -290,6 +342,11 @@
           "Phrase": "Schriftelijk rapport voor ZWART2 (blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "14:1a",
+        "16:6a"
       ]
     },
     {
@@ -316,6 +373,11 @@
           "Phrase": "2-minutenuitsluiting voor ZWART7",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "13:1b",
+        "16:1a"
       ]
     },
     {
@@ -347,6 +409,11 @@
           "Phrase": "7m-worp voor team WITA",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:4b",
+        "14:1a",
+        "16:3c"
       ]
     },
     {
@@ -373,6 +440,11 @@
           "Phrase": "Bij foutief wisselen tijdens een uitsluitingstijd (geen duidelijke doelkans)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:6",
+        "16:6a"
       ]
     },
     {
@@ -414,6 +486,12 @@
           "Phrase": "De waarnemer of de scheidsrechters hebben de mogelijkheid om het voordeel af te wachten en te fluiten voor de overtreding wanneer de open doelkans voorbij is.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:10b",
+        "14:1a",
+        "16:6b"
       ]
     },
     {
@@ -450,6 +528,11 @@
           "Phrase": "Team ZWART wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10b",
+        "14:1a",
+        "16:6b"
       ]
     },
     {
@@ -476,6 +559,11 @@
           "Phrase": "Herhaalde spelvertragingen om tijd te winnen",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "8:10b",
+        "16:6b"
       ]
     },
     {
@@ -507,6 +595,12 @@
           "Phrase": "Team ZWART mag een andere speler toevoegen om zijn team tot 16 spelers te vervolledigen",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:8",
+        "16:11b"
       ]
     },
     {
@@ -533,6 +627,10 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:1b"
       ]
     },
     {
@@ -559,6 +657,10 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b"
       ]
     },
     {
@@ -585,6 +687,10 @@
           "Phrase": "Diskwalificatie voor WIT4 (rode kaart getoond door de scheidsrechters) en team WIT wordt met 1 speler op het speelveld gereduceerd gedurende twee minuten",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "16:3b"
       ]
     },
     {
@@ -611,6 +717,13 @@
           "Phrase": "Voor het niet neerleggen van de bal voor een vrije worp tegen zijn eigen team (niet in de laatste 30 seconden)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "8:8b",
+        "8:8f",
+        "8:9",
+        "16:6b"
       ]
     },
     {
@@ -637,6 +750,12 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "16:6a",
+        "Clarification 6"
       ]
     },
     {
@@ -668,6 +787,10 @@
           "Phrase": "Een speler buiten het speeloppervlak spuwt naar een toeschouwer",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10",
+        "16:6b"
       ]
     },
     {
@@ -694,6 +817,10 @@
           "Phrase": "Diskwalificatie voor WIT3, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters), wat een onmiddellijke reductie gedurende 2 minuten van team WIT op het speelveld tot gevolg heeft",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:8"
       ]
     },
     {
@@ -720,6 +847,10 @@
           "Phrase": "Diskwalificatie voor WIT3 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:6b",
+        "16:6a"
       ]
     },
     {
@@ -746,6 +877,12 @@
           "Phrase": "Diskwalificatie van ZWART4, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters). Team ZWART mag 16 spelers in de wedstrijd opstellen maar wordt bij het begin van de wedstrijd op het veld met 1 speler gereduceerd gedurende 2 minuten",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:11b",
+        "17:10"
       ]
     },
     {
@@ -772,6 +909,12 @@
           "Phrase": "Diskwalificatie van ZWART1 en WIT3, schriftelijke verslagen (rode en blauwe kaart getoond door de scheidsrechters). De ploegen mogen elk tot 14 spelers aangevuld worden.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6a",
+        "16:11b",
+        "17:10"
       ]
     },
     {
@@ -803,6 +946,11 @@
           "Phrase": "Diskwalificatie voor ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "16:6a"
       ]
     },
     {
@@ -834,6 +982,13 @@
           "Phrase": "De doelverdediger verlaat het doelgebied en komt in balbezit, maar veroorzaakt een botsing met de tegenspeler die in tegenaanval loopt.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:9a",
+        "8:9d",
+        "16:6a",
+        "16:6b"
       ]
     },
     {
@@ -870,6 +1025,14 @@
           "Phrase": "WIT10 moet na verzorging het speelveld verlaten en mag pas terug opkomen na drie aanvallen van zijn team",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "4:11",
+        "8:6a",
+        "16:6a",
+        "17:2",
+        "17:10"
       ]
     },
     {
@@ -896,6 +1059,14 @@
           "Phrase": "Een doelverdediger die aanstalten maakt om te wisselen wanneer de tegenstander klaarstaat voor de uitvoering van een 7-meterworp.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "8:7c",
+        "8:8b",
+        "14:10",
+        "16:1b",
+        "16:3c"
       ]
     },
     {
@@ -932,6 +1103,9 @@
           "Phrase": "Revanche-actie na een ondergane overtreding",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:7"
       ]
     },
     {
@@ -958,6 +1132,11 @@
           "Phrase": "Een kwaadwillige actie, die op geen enkele wijze verband houdt met de spelsituatie",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:6",
+        "8:9f"
       ]
     },
     {
@@ -994,6 +1173,11 @@
           "Phrase": "Diskwalificatie van ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "16:6a"
       ]
     },
     {
@@ -1030,6 +1214,11 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:7a",
+        "16:3d"
       ]
     },
     {
@@ -1066,6 +1255,11 @@
           "Phrase": "7m-worp voor team WIT",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:5 comment",
+        "14:1a",
+        "16:6a"
       ]
     },
     {
@@ -1102,6 +1296,10 @@
           "Phrase": "Diskwalificatie voor official A van team ZWART, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10",
+        "16:6b"
       ]
     },
     {
@@ -1128,6 +1326,14 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:7a",
+        "8:10a",
+        "16:6b",
+        "16:8",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -1159,6 +1365,14 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7c",
+        "12:2",
+        "15:4",
+        "15:9",
+        "16:1b",
+        "16:3d"
       ]
     },
     {
@@ -1185,6 +1399,12 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "8:2",
+        "8:3",
+        "12:1"
       ]
     },
     {
@@ -1211,6 +1431,10 @@
           "Phrase": "Waarschuwing, aangezien de progressieve bestraffing op de bank gescheiden is van de progressieve bestraffingen op het speelveld",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:8a",
+        "16:3f"
       ]
     },
     {
@@ -1237,6 +1461,10 @@
           "Phrase": "Diskwalificatie met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:9",
+        "16:6b"
       ]
     },
     {
@@ -1268,6 +1496,13 @@
           "Phrase": "7m-worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4b",
+        "9:1",
+        "10:2",
+        "16:3c"
       ]
     },
     {
@@ -1299,6 +1534,12 @@
           "Phrase": "Diskwalificatie van ZWART1 zonder schriftelijk verslag (rode kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:5 comment",
+        "14:1a",
+        "16:6a",
+        "Clarification 6c"
       ]
     },
     {
@@ -1335,6 +1576,10 @@
           "Phrase": "Een speler slaat opzettelijk een tegenspeler in de maag.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:9a",
+        "8:10a"
       ]
     },
     {
@@ -1366,6 +1611,12 @@
           "Phrase": "Uitworp",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:5 Comment 2nd paragraph",
+        "14:1",
+        "14:2",
+        "Guidelines"
       ]
     },
     {
@@ -1397,6 +1648,13 @@
           "Phrase": "Time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "8:1",
+        "8:2",
+        "14:1a",
+        "Clarification 6c"
       ]
     },
     {
@@ -1428,6 +1686,14 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:1",
+        "8:4b",
+        "14:1a",
+        "16:3c",
+        "Clarification 6c"
       ]
     },
     {
@@ -1449,6 +1715,11 @@
           "Phrase": "7m-worp voor team ZWART.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "8:2",
+        "13:1b"
       ]
     },
     {
@@ -1485,6 +1756,13 @@
           "Phrase": "2-minutenuitsluiting voor WIT7",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:1",
+        "4:4-6",
+        "12:1 (II)",
+        "15:9"
       ]
     },
     {
@@ -1516,6 +1794,12 @@
           "Phrase": "Directe 2-minutenuitsluiting voor WIT10",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "8:8i",
+        "14:1a",
+        "16:3f"
       ]
     },
     {
@@ -1542,6 +1826,12 @@
           "Phrase": "Verplichte time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:1",
+        "12:1",
+        "12:2"
       ]
     },
     {
@@ -1578,6 +1868,12 @@
           "Phrase": "De waarnemer had moeten wachten tot de open doelkans voorbij was, vooraleer het spel te onderbreken.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:4-5",
+        "13:1b",
+        "Guideline rule 13:2"
       ]
     },
     {
@@ -1614,6 +1910,12 @@
           "Phrase": "De waarnemer had moeten wachten tot de open doelkans voorbij was, vooraleer het spel te onderbreken.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:4-5",
+        "14:1",
+        "Guideline rule 13:2"
       ]
     },
     {
@@ -1640,6 +1942,9 @@
           "Phrase": "De bal mag vrij opgehaald worden door gelijk welke speler op het speelveld van team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:1"
       ]
     },
     {
@@ -1676,6 +1981,11 @@
           "Phrase": "Diskwalificatie met schriftelijk verslag voor WIT3 (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:4b",
+        "13:1b",
+        "16:3c"
       ]
     },
     {
@@ -1712,6 +2022,12 @@
           "Phrase": "Diskwalificatie met schriftelijk verslag voor WIT11 (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "8:5a",
+        "8:11b",
+        "16:6a"
       ]
     },
     {
@@ -1743,6 +2059,12 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5a",
+        "13:1b",
+        "16:6a"
       ]
     },
     {
@@ -1779,6 +2101,10 @@
           "Phrase": "Diskwalificatie voor WIT2, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a"
       ]
     },
     {
@@ -1805,6 +2131,14 @@
           "Phrase": "Vrije worp voor team ZWART na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:7c",
+        "8:11a",
+        "15:7",
+        "15:9",
+        "16:3d"
       ]
     },
     {
@@ -1831,6 +2165,10 @@
           "Phrase": "7m-worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a"
       ]
     },
     {
@@ -1867,6 +2205,10 @@
           "Phrase": "7m-worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a"
       ]
     },
     {
@@ -1908,6 +2250,11 @@
           "Phrase": "Diskwalificatie voor WIT12 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:9",
+        "10:2"
       ]
     },
     {
@@ -1939,6 +2286,15 @@
           "Phrase": "Diskwalificatie voor ZWART6 (rode kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "2:5",
+        "2:6",
+        "15:2",
+        "15:4",
+        "15:9",
+        "16:3"
       ]
     },
     {
@@ -1970,6 +2326,11 @@
           "Phrase": "Diskwalificatie voor WIT12 (rode kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5 comments and Guideline",
+        "14:1a"
       ]
     },
     {
@@ -1996,6 +2357,9 @@
           "Phrase": "Diskwalificatie van ZWART5 (rode kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:11a and Guideline"
       ]
     },
     {
@@ -2027,6 +2391,11 @@
           "Phrase": "Diskwalificatie van ZWART5",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "2:4",
+        "Guideline 8:11a"
       ]
     },
     {
@@ -2068,6 +2437,11 @@
           "Phrase": "Diskwalificatie van ZWART2 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a",
+        "New Guideline"
       ]
     },
     {
@@ -2104,6 +2478,11 @@
           "Phrase": "Diskwalificatie van ZWART3 (rode kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a",
+        "New Guideline"
       ]
     },
     {
@@ -2135,6 +2514,11 @@
           "Phrase": "Diskwalificatie van ZWART3 (rode kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a",
+        "New Guideline"
       ]
     },
     {
@@ -2171,6 +2555,13 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5",
+        "8:11b",
+        "14:2",
+        "New Guideline"
       ]
     },
     {
@@ -2207,6 +2598,13 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5",
+        "8:11b",
+        "14:2",
+        "New Guideline"
       ]
     },
     {
@@ -2243,6 +2641,12 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11b",
+        "Guidelines",
+        "14:2"
       ]
     },
     {
@@ -2289,6 +2693,12 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "13:1a",
+        "Clarification 8"
       ]
     },
     {
@@ -2320,6 +2730,11 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8",
+        "13:1a"
       ]
     },
     {
@@ -2356,6 +2771,12 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4",
+        "8:8d",
+        "13:2"
       ]
     },
     {
@@ -2397,6 +2818,12 @@
           "Phrase": "Time-out",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4",
+        "8:8d",
+        "13:1a"
       ]
     },
     {
@@ -2423,6 +2850,12 @@
           "Phrase": "Vrije worp voor team WIT",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "Clarification 8",
+        "8:8d"
       ]
     },
     {
@@ -2464,6 +2897,12 @@
           "Phrase": "Na medische assistentie ontvangen te hebben, moet WIT1 het speelveld verlaten en mag dit pas terug betreden nadat zijn team 3 aanvallen vervolledigd heeft",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "Clarification 8",
+        "13:1a"
       ]
     },
     {
@@ -2505,6 +2944,13 @@
           "Phrase": "Na medische verzorging op het veld moet WIT7 het veld verlaten en mag hij pas weer betreden na de derde aanval van zijn team.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "8:6",
+        "13:1a",
+        "Clarification 8"
       ]
     },
     {
@@ -2541,6 +2987,10 @@
           "Phrase": "Time-out",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:8i",
+        "14:1"
       ]
     }
   ]

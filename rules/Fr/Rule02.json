@@ -26,6 +26,11 @@
           "Phrase": "Après coup de sifflet de reprise du jeu",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "12:1",
+        "15:5b"
       ]
     },
     {
@@ -52,6 +57,9 @@
           "Phrase": "Garder les joueurs sur le terrain et leur faire jouer la minute restante.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:7"
       ]
     },
     {
@@ -83,6 +91,11 @@
           "Phrase": "Sans coup de sifflet de reprise",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "12:1",
+        "15:5b"
       ]
     },
     {
@@ -119,6 +132,11 @@
           "Phrase": "Jet franc pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:5",
+        "4:5",
+        "16:3a"
       ]
     },
     {
@@ -145,6 +163,10 @@
           "Phrase": "Jet de 7 mètres pour les NOIRS",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "15:5"
       ]
     },
     {
@@ -171,6 +193,10 @@
           "Phrase": "Fin du match, mention sur la feuille de match",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "14:1a"
       ]
     },
     {
@@ -192,6 +218,9 @@
           "Phrase": "Mi-temps ; aucune autre décision.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4"
       ]
     },
     {
@@ -218,6 +247,9 @@
           "Phrase": "L’arbitre de but",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4"
       ]
     },
     {
@@ -244,6 +276,9 @@
           "Phrase": "Après le coup de sifflet pour l’engagement donné par l’arbitre de champ.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:3"
       ]
     },
     {
@@ -270,6 +305,10 @@
           "Phrase": "L’arbitre principal (nommé en premier)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:2",
+        "comments"
       ]
     },
     {
@@ -301,6 +340,11 @@
           "Phrase": "BLANC 11 doit retourner dans la zone de changement ; BLANC 8 ou BLANC 9 peuvent réintégrer le terrain.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:5",
+        "4:5",
+        "16:3a"
       ]
     },
     {
@@ -332,6 +376,12 @@
           "Phrase": "Disqualification de BLANC 7 (carton rouge montré par les arbitres)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "8:10a",
+        "14:1a",
+        "16:6b"
       ]
     },
     {
@@ -358,6 +408,10 @@
           "Phrase": "Il ne peut jamais être annulé.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:9 comment",
+        "9:2"
       ]
     },
     {
@@ -384,6 +438,10 @@
           "Phrase": "Le secrétaire de match inscrit le temps mort sur la feuille de match.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:9",
+        "Clarification 3"
       ]
     },
     {
@@ -410,6 +468,10 @@
           "Phrase": "Disqualification",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "Clarification 2"
       ]
     },
     {
@@ -436,6 +498,10 @@
           "Phrase": "Après coup de sifflet",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "15:5b"
       ]
     },
     {
@@ -462,6 +528,9 @@
           "Phrase": "Pause de cinq minutes à la fin de la première mi-temps des prolongations",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:2"
       ]
     },
     {
@@ -498,6 +567,10 @@
           "Phrase": "Remise en jeu",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5"
       ]
     },
     {
@@ -529,6 +602,13 @@
           "Phrase": "Un joueur qui a reçu des soins médicaux sur le terrain et n’a pas encore effectué 3 attaques de son équipe.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:2 comment",
+        "4:11",
+        "16:5",
+        "16:6b",
+        "16:10"
       ]
     },
     {
@@ -555,6 +635,11 @@
           "Phrase": "Attendre le résultat de la remise en jeu, puis le match est terminé.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "2:4",
+        "11:1"
       ]
     },
     {
@@ -586,6 +671,11 @@
           "Phrase": "L’équipe NOIR est réduite d’un joueur sur le terrain pendant 2 minutes à la reprise du jeu après le temps mort.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:7a",
+        "16:3d"
       ]
     },
     {
@@ -612,6 +702,10 @@
           "Phrase": "Les joueurs qui ont reçu l’autorisation des arbitres.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:2 comment",
+        "16:5"
       ]
     },
     {
@@ -643,6 +737,14 @@
           "Phrase": "Répétition du jet franc pour les NOIRS après le coup de sifflet",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "2:5",
+        "2:9 comment",
+        "4:5",
+        "9:1",
+        "paragraph 3"
       ]
     },
     {
@@ -659,6 +761,10 @@
           "Phrase": "BLANC 7 ne peut pas participer.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:2 comment",
+        "16:3d"
       ]
     },
     {
@@ -695,6 +801,9 @@
           "Phrase": "Après un carton jaune présenté à un officiel d’équipe.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8"
       ]
     },
     {
@@ -731,6 +840,12 @@
           "Phrase": "L’équipe Blanc est réduite d’un joueur sur le terrain pendant 2 minutes en début de deuxième mi-temps.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "8:6",
+        "14:1a",
+        "16:6a"
       ]
     },
     {
@@ -762,6 +877,9 @@
           "Phrase": "Seul le gardien de but de l’équipe en défense, si l’équipe joue sans gardien de but au moment du coup de sifflet final.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:5"
       ]
     },
     {
@@ -793,6 +911,10 @@
           "Phrase": "Tous les coéquipiers du lanceur peuvent rester avec le lanceur sur la ligne de jet franc de l’équipe adverse.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:5",
+        "13:8"
       ]
     },
     {
@@ -829,6 +951,14 @@
           "Phrase": "Reprise du jeu avec un jet franc pour les BLANCS l’endroit où se trouvait BLANC 7 au moment du coup de sifflet du chronométreur.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:9",
+        "2:9 comment",
+        "13:4a",
+        "15:5b",
+        "Clarification 3",
+        "paragraph 10"
       ]
     },
     {
@@ -865,6 +995,10 @@
           "Phrase": "L'équipe qui était en possession du ballon en dernier récupère la possession à la reprise du jeu.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "13:4b"
       ]
     },
     {
@@ -901,6 +1035,10 @@
           "Phrase": "Le jeu reprend avec un renvoi.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "13:4a"
       ]
     },
     {
@@ -937,6 +1075,10 @@
           "Phrase": "Le jeu reprend avec un renvoi.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "13:4b"
       ]
     },
     {
@@ -968,6 +1110,13 @@
           "Phrase": "Exclusion directe de 2 minutes pour BLANC 3",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8g",
+        "15:9",
+        "16:1b",
+        "Clarification 2c"
       ]
     },
     {
@@ -999,6 +1148,10 @@
           "Phrase": "Un changement d’un joueur de terrain par un gardien de but pour exécuter un renvoi.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "Clarification 2"
       ]
     },
     {
@@ -1025,6 +1178,9 @@
           "Phrase": "Le capitaine de l'équipe.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 3"
       ]
     },
     {
@@ -1056,6 +1212,10 @@
           "Phrase": "Après le temps mort d’équipe (TME), le jeu reprend toujours par un jet pour l'équipe qui a demandé le temps mort d’équipe (TME).",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3"
       ]
     },
     {
@@ -1082,6 +1242,10 @@
           "Phrase": "Seul le l’officiel responsable de l’équipe peut demander un temps mort d’équipe (TME).",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3"
       ]
     },
     {
@@ -1108,6 +1272,10 @@
           "Phrase": "Renvoi pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "Clarification 3"
       ]
     },
     {
@@ -1134,6 +1302,9 @@
           "Phrase": "Jet franc pour les BLANCS sur la ligne de jet franc des NOIRS .",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 3"
       ]
     },
     {
@@ -1160,6 +1331,11 @@
           "Phrase": "Les NOIRS reçoivent un temps mort d’équipe (TME), mais seulement après la reprise du jeu.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "2:10",
+        "Clarification 3"
       ]
     },
     {
@@ -1186,6 +1362,11 @@
           "Phrase": "Le jeu reprend par un jet franc pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "2:9 comment",
+        "Clarification 3"
       ]
     },
     {
@@ -1212,6 +1393,9 @@
           "Phrase": "Exclusion de BLANC 7",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:2 comment"
       ]
     },
     {
@@ -1228,6 +1412,10 @@
           "Phrase": "Le temps mort n’est pas possible.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3"
       ]
     },
     {
@@ -1264,6 +1452,10 @@
           "Phrase": "Jet franc pour les NOIRS .",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3"
       ]
     },
     {
@@ -1295,6 +1487,10 @@
           "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 3",
+        "2:10"
       ]
     },
     {
@@ -1326,6 +1522,11 @@
           "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "13:4",
+        "Clarification 3"
       ]
     },
     {
@@ -1362,6 +1563,11 @@
           "Phrase": "Le match est repris par un Jet Franc pour les NOIRS .",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "6:5",
+        "Clarification 3"
       ]
     },
     {
@@ -1398,6 +1604,11 @@
           "Phrase": "Le match est repris par un jet franc pour les NOIRS .",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "13:4",
+        "Clarification 3"
       ]
     },
     {
@@ -1429,6 +1640,11 @@
           "Phrase": "Le match est repris par un jet franc pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3",
+        "in connection with 2:4"
       ]
     },
     {
@@ -1465,6 +1681,11 @@
           "Phrase": "Les NOIRS peuvent choisir entre un jet franc et un jet de 7 mètres.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3",
+        "Electronic Team Time-out Regulations"
       ]
     },
     {
@@ -1511,6 +1732,11 @@
           "Phrase": "Sanction progressive contre l’officiel A des BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3",
+        "Electronic Team Time-out Regulations"
       ]
     },
     {
@@ -1562,6 +1788,11 @@
           "Phrase": "Sanction progressive contre l’officiel A des NOIRS .",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3",
+        "Electronic Team Time-out Regulations"
       ]
     },
     {
@@ -1608,6 +1839,11 @@
           "Phrase": "Le signal d’avertissement du jeu passif n’est plus valable car BLANC 4 est sanctionné d’une exclusion de 2 minutes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:9 comment",
+        "2:10",
+        "Clarification 3 and 4"
       ]
     },
     {
@@ -1644,6 +1880,11 @@
           "Phrase": "Jet de 7m pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "13:4a-b",
+        "Clarification 3"
       ]
     },
     {
@@ -1700,6 +1941,11 @@
           "Phrase": "L’équipe NOIRE perd un TME.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Clarification 3",
+        "Electronic Team Time-out Regulations"
       ]
     },
     {
@@ -1724,7 +1970,7 @@
         {
           "AnswerNumber": "d",
           "Phrase": "Temps mort d'équipe.",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "e",
@@ -1734,7 +1980,7 @@
         {
           "AnswerNumber": "f",
           "Phrase": "Après la VR, pas de Temps mort d’équipe pour les NOIRS.",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "g",
@@ -1759,7 +2005,7 @@
         {
           "AnswerNumber": "k",
           "Phrase": "Le match reprend par un jet franc pour les BLANCS.",
-          "Correct": false
+          "Correct": true
         },
         {
           "AnswerNumber": "l",
@@ -1771,6 +2017,14 @@
           "Phrase": "Sanction progressive pour l’officiel B de l’équipe NOIRE.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "2:9",
+        "clarification no. 3",
+        "17:13",
+        "Electronic Team Time-Out Regulations",
+        "Video Replay Regulations"
       ]
     }
   ]

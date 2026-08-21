@@ -26,6 +26,9 @@
           "Phrase": "Niet van speelveldhelft wisselen",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:1"
       ]
     },
     {
@@ -52,6 +55,9 @@
           "Phrase": "De teamverantwoordelijken moeten tot een overeenkomst komen",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:1"
       ]
     },
     {
@@ -73,6 +79,9 @@
           "Phrase": "In het midden van het terrein, met één voet op de middellijn, en de andere voet op of achter de middenlijn, met een zijwaartse tolerantie van ongeveer 1.5 meter",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3a"
       ]
     },
     {
@@ -94,6 +103,11 @@
           "Phrase": "Time-out, correctie, fluitsignaal voor de uitvoering van de beginworp",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:1",
+        "15:6"
       ]
     },
     {
@@ -120,6 +134,11 @@
           "Phrase": "Vrije worp voor team ZWART",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "10:4",
+        "15:2"
       ]
     },
     {
@@ -151,6 +170,12 @@
           "Phrase": "De medespelers van de werper mogen de middellijn overschrijden vooraleer de worp uitgevoerd is.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:2",
+        "15:3",
+        "15:4"
       ]
     },
     {
@@ -177,6 +202,10 @@
           "Phrase": "Correctie van de positie van ZWART6 en herhaling van de beginworp na fluitsignaal",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:7"
       ]
     },
     {
@@ -198,6 +227,10 @@
           "Phrase": "Correctie en nieuwe beginworp na fluitsignaal van de scheidsrechters",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5b"
       ]
     },
     {
@@ -229,6 +262,10 @@
           "Phrase": "De scheidsrechters hadden moeten wachten tot de werper volledig met de bal en zijn lichaam binnen de beginworpzone was, vooraleer het fluitsignaal te geven voor de uitvoering van de beginworp.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5"
       ]
     },
     {
@@ -265,6 +302,11 @@
           "Phrase": "Directe 2-minutenuitsluiting voor ZWART8",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:8",
+        "10:3b",
+        "13:1a"
       ]
     },
     {
@@ -296,6 +338,9 @@
           "Phrase": "Het is de werper niet toegestaan de bal te tippen na het fluitsignaal voor de uitvoering",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10.3b"
       ]
     },
     {
@@ -342,6 +387,13 @@
           "Phrase": "Diskwalificatie voor WIT8 (rode kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8g",
+        "10:3b",
+        "14:1a",
+        "Clarification 6"
       ]
     },
     {
@@ -373,6 +425,10 @@
           "Phrase": "De medespelers van de werper mogen de middenlijn overschrijden op ieder ogenblik voor het fluitsignaal voor de uitvoering van de worp",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:2"
       ]
     },
     {
@@ -404,6 +460,9 @@
           "Phrase": "Wanneer de werper zich binnen de beginworpzone bevindt met zijn hele lichaam en de bal.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "10:3b"
       ]
     }
   ]

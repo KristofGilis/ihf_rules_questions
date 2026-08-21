@@ -26,6 +26,11 @@
           "Phrase": "Répétition du jet après coup de sifflet.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
       ]
     },
     {
@@ -52,6 +57,10 @@
           "Phrase": "Renvoi pour les BLANCS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:2"
       ]
     },
     {
@@ -78,6 +87,11 @@
           "Phrase": "Renvoi pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
       ]
     },
     {
@@ -109,6 +123,9 @@
           "Phrase": "Arrêt du temps de jeu obligatoire",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:1"
       ]
     },
     {
@@ -135,6 +152,11 @@
           "Phrase": "Pendant l’exécution d’un renvoi ou d’un engagement, lorsque le défenseur se tient en dehors de la surface de but ou de la zone d’engagement.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "11:5",
+        "13:8",
+        "15:4"
       ]
     },
     {
@@ -156,6 +178,9 @@
           "Phrase": "Remise en jeu pour les NOIRS.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "11:1"
       ]
     }
   ]

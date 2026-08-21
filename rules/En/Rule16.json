@@ -21,6 +21,9 @@
           "Phrase": "WHITE team is reduced by 1 player on the court for 2 minutes",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "16:9"
       ]
     },
     {
@@ -47,6 +50,11 @@
           "Phrase": "Disqualification of WHITE 8, WHITE team is reduced by 2 players on the court for 2 minutes, written report (red and blue cards shown by the referees)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -73,6 +81,9 @@
           "Phrase": "3",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:1 comment"
       ]
     },
     {
@@ -99,6 +110,9 @@
           "Phrase": "When the timekeeper starts the stopwatch",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:5"
       ]
     },
     {
@@ -125,6 +139,9 @@
           "Phrase": "The suspended player, the responsible team official, and the scorekeeper",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:4"
       ]
     },
     {
@@ -146,6 +163,14 @@
           "Phrase": "Disqualification for BLACK 5, written report (red and blue cards shown by the referees); BLACK team is reduced by 2 players on the court for 2 minutes",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "8:10a",
+        "16:3a",
+        "16:6B",
+        "16:6d",
+        "16:9b"
       ]
     },
     {
@@ -172,6 +197,10 @@
           "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b 16:9c"
       ]
     },
     {
@@ -203,6 +232,11 @@
           "Phrase": "Disqualification of WHITE 7, written report (red and blue cards shown by the referees)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -229,6 +263,13 @@
           "Phrase": "WHITE team is reduced by 1 player on the court for 4 minutes",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:9",
+        "16:1b",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -255,6 +296,9 @@
           "Phrase": "For insulting the referees",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:11b"
       ]
     },
     {
@@ -276,6 +320,12 @@
           "Phrase": "Caution for WHITE 7, because the match was interrupted",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:6",
+        "16:6a",
+        "16:10",
+        "17:10"
       ]
     },
     {
@@ -302,6 +352,12 @@
           "Phrase": "Disqualification of BLACK 7, written report (red and blue cards shown by the referees)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:10",
+        "17:10"
       ]
     },
     {
@@ -328,6 +384,11 @@
           "Phrase": "Disqualification of WHITE 9, written report (red and blue cards shown by the referees); WHITE team will be reduced by 1 player on the court for 2 minutes from the beginning of the second half.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:9",
+        "16:10",
+        "16:6b"
       ]
     },
     {
@@ -354,6 +415,9 @@
           "Phrase": "Warning for WHITE 10, written report",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:11c"
       ]
     },
     {
@@ -380,6 +444,11 @@
           "Phrase": "Disqualification of official B from BLACK team (red card shown by the referees); BLACK team will not be reduced from the beginning of the second half.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6",
+        "16:10"
       ]
     },
     {
@@ -401,6 +470,9 @@
           "Phrase": "WHITE team is reduced by 2 players on the court for 2 minutes.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:9b"
       ]
     },
     {
@@ -432,6 +504,11 @@
           "Phrase": "WHITE team will not be reduced by players on the court from the beginning of the second half.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:3d",
+        "16:5",
+        "16:10"
       ]
     },
     {
@@ -468,6 +545,12 @@
           "Phrase": "After receiving medical care on the court, WHITE 4 must leave the court and can only re-enter following the third attack of his team.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "16:3e",
+        "16:3 comment",
+        "Clarification 8c"
       ]
     },
     {
@@ -499,6 +582,10 @@
           "Phrase": "Disqualification of BLACK 9, written report (red and blue cards shown by the referees); BLACK team will be reduced by 1 player on the court for 4 minutes.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:9d"
       ]
     },
     {
@@ -525,6 +612,11 @@
           "Phrase": "Disqualification of BLACK 8 (red card shown by the referees), BLACK team will be reduced by 1 player on the court for 4 minutes",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3d",
+        "16:9a"
       ]
     },
     {
@@ -561,6 +653,9 @@
           "Phrase": "A player has just been disqualified for a serious foul. After leaving the court, and after the match has been restarted, he insults the referees while sitting in the spectators’ area.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:9"
       ]
     },
     {
@@ -592,6 +687,12 @@
           "Phrase": "Disqualification of WHITE 5, written report (red and blue cards shown by the referees)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:3a",
+        "16:6d",
+        "16:9d"
       ]
     },
     {
@@ -623,6 +724,9 @@
           "Phrase": "Disqualification for official A from WHITE team with written report (red and blue cards shown by the referees); WHITE team are reduced on the court by 1 player for 2 minutes",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:6c"
       ]
     },
     {
@@ -659,6 +763,12 @@
           "Phrase": "Time-out.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "15:7",
+        "16:3a"
       ]
     },
     {
@@ -710,6 +820,13 @@
           "Phrase": "The match is restarted with a free throw for BLACK team",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7-10",
+        "13:1a",
+        "16:6",
+        "16:8",
+        "16:9"
       ]
     }
   ]

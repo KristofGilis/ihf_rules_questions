@@ -21,6 +21,9 @@
           "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 2 minuten",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "16:9"
       ]
     },
     {
@@ -47,6 +50,11 @@
           "Phrase": "Diskwalificatie van WIT8, team WIT wordt op het speelveld gereduceerd met 2 spelers voor 2 minuten; schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -73,6 +81,9 @@
           "Phrase": "3",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:1 comment"
       ]
     },
     {
@@ -99,6 +110,9 @@
           "Phrase": "Wanneer de tijdwaarnemer de chrono start",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:5"
       ]
     },
     {
@@ -125,6 +139,9 @@
           "Phrase": "De uitgesloten speler, de verantwoordelijke teamofficial en de wedstrijdsecretaris",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:4"
       ]
     },
     {
@@ -146,6 +163,14 @@
           "Phrase": "Diskwalificatie voor ZWART5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters), zijn team wordt op het speelveld gereduceerd met 2 spelers gedurende 2 minuten.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "8:10a",
+        "16:3a",
+        "16:6B",
+        "16:6d",
+        "16:9b"
       ]
     },
     {
@@ -172,6 +197,10 @@
           "Phrase": "Team WIT wordt op het speelveld gereduceerd met 1 speler voor 4 minuten",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b 16:9c"
       ]
     },
     {
@@ -203,6 +232,11 @@
           "Phrase": "Diskwalificatie van WIT7, schriftelijk verslag (rode en blauwe kaart worden getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -229,6 +263,13 @@
           "Phrase": "Team WIT wordt gereduceerd op het veld met 1 speler gedurende 4 minuten",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:9",
+        "16:1b",
+        "16:6b",
+        "16:9c"
       ]
     },
     {
@@ -255,6 +296,9 @@
           "Phrase": "Voor beledigen van de scheidsrechters.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:11b"
       ]
     },
     {
@@ -276,6 +320,12 @@
           "Phrase": "Vermaning voor WIT7 omdat de wedstrijd onderbroken was.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:6",
+        "16:6a",
+        "16:10",
+        "17:10"
       ]
     },
     {
@@ -302,6 +352,12 @@
           "Phrase": "Diskwalificatie van ZWART7, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechter)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:10",
+        "17:10"
       ]
     },
     {
@@ -328,6 +384,11 @@
           "Phrase": "Diskwalificatie van WIT9 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters) Team WIT wordt bij het begin van de 2e helft op het speelveld gereduceerd met 1 speler gedurende 2 minuten.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:9",
+        "16:10",
+        "16:6b"
       ]
     },
     {
@@ -354,6 +415,9 @@
           "Phrase": "Waarschuwing voor WIT10, schriftelijk verslag.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:11c"
       ]
     },
     {
@@ -380,6 +444,11 @@
           "Phrase": "Diskwalificatie van official B van team ZWART (rode kaart getoond door de scheidsrechters). Team ZWART wordt op het speelveld niet gereduceerd bij het begint de tweede helft.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6",
+        "16:10"
       ]
     },
     {
@@ -401,6 +470,9 @@
           "Phrase": "Team WIT wordt op het speelveld met 1 speler gereduceerd gedurende 2 minuten",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:9b"
       ]
     },
     {
@@ -432,6 +504,11 @@
           "Phrase": "Team WIT wordt niet gereduceerd in spelers op het speelveld bij het begint van de tweede helft",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:3d",
+        "16:5",
+        "16:10"
       ]
     },
     {
@@ -468,6 +545,12 @@
           "Phrase": "Na medische verzorging op het speelveld ontvangen te hebben, moet WIT4 het speelveld verlaten en kan pas na drie aanvallen van zijn team terug op het speelveld komen.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "16:3e",
+        "16:3 comment",
+        "Clarification 8c"
       ]
     },
     {
@@ -499,6 +582,10 @@
           "Phrase": "Diskwalificatie voor ZWART9 met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters); team ZWART wordt op het speelveld gereduceerd met 1 speler gedurende 4 minuten",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:9d"
       ]
     },
     {
@@ -525,6 +612,11 @@
           "Phrase": "Diskwalificatie voor ZWART8 (rode kaart getoond door de scheidsrechters); team ZWART zal op het speelveld gereduceerd worden met 1 speler gedurende 4 minuten",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3d",
+        "16:9a"
       ]
     },
     {
@@ -561,6 +653,9 @@
           "Phrase": "Een speler werd net gediskwalificeerd wegens een grove spelregelovertreding. Na het verlaten van het speelveld en na het hernemen van het spel, beledigt hij de scheidsrechters terwijl hij in de toeschouwerszone zit.",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:9"
       ]
     },
     {
@@ -592,6 +687,12 @@
           "Phrase": "Diskwalificatie van WIT5, schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters)",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:3a",
+        "16:6d",
+        "16:9d"
       ]
     },
     {
@@ -623,6 +724,9 @@
           "Phrase": "Diskwalificatie voor official A van team WIT met schriftelijk verslag (rode en blauwe kaart getoond door de scheidsrechters); Team WIT wordt op het speelveld gereduceerd met 1 speler gedurende 2 minuten",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "16:6c"
       ]
     },
     {
@@ -659,6 +763,12 @@
           "Phrase": "Time-out.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "15:7",
+        "16:3a"
       ]
     },
     {
@@ -710,6 +820,13 @@
           "Phrase": "De wedstrijd wordt hervat met een vrije worp voor team ZWART.",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:7-10",
+        "13:1a",
+        "16:6",
+        "16:8",
+        "16:9"
       ]
     }
   ]

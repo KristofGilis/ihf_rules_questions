@@ -1,4 +1,4 @@
-﻿{
+{
   "RuleNumber": "18",
   "Name": "Мерилац времена и записничар",
   "Questions": [
@@ -31,6 +31,10 @@
           "Phrase": "Рачунање броја напада када је играч у обавези да паузира 3 напада, после указане медицинске помоћи на терену, је заједнички задатак за мериоца времена и записничара",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "18:2"
       ]
     },
     {
@@ -62,6 +66,9 @@
           "Phrase": "Писани извештај",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7"
       ]
     },
     {
@@ -93,6 +100,10 @@
           "Phrase": "Лична казна није могућа",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "Clarification 7B"
       ]
     },
     {
@@ -119,6 +130,13 @@
           "Phrase": "Игра се наставља слободним бацањем за БЕЛУ екипу са линије слободног бацања ЦРНЕ екипе",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "13:6",
+        "16:6b",
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -145,6 +163,10 @@
           "Phrase": "Игра се наставља слободним бацањем за БЕЛУ екипу, са линије слободног бацања ЦРНЕ екипе",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "13:4a",
+        "Clarification 7B"
       ]
     },
     {
@@ -171,6 +193,10 @@
           "Phrase": "Казна није могућа",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B",
+        "Substitution Area Regulations 5"
       ]
     },
     {
@@ -187,6 +213,9 @@
           "Phrase": "У време следећег прекида игре",
           "Correct": true
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     },
     {
@@ -203,6 +232,9 @@
           "Phrase": "Не",
           "Correct": false
         }
+      ],
+      "RuleReferences": [
+        "Clarification 7B"
       ]
     }
   ]
