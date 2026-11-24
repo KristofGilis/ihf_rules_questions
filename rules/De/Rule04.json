@@ -1,0 +1,2019 @@
+{
+  "RuleNumber": "4",
+  "Name": "Mannschaft, Auswechseln, Ausrüstung, Spielerverletzung",
+  "Questions": [
+    {
+      "QuestionNumber": "4.1",
+      "Phrase": "Kurz vor Spielbeginn verletzt sich WEISS 11 so schwer, dass er nicht spielen kann. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WEISS 11 darf nicht ersetzt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 11 darf ersetzt werden, sofern die gegnerische Mannschaft einverstanden ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 11 darf grundsätzlich ersetzt werden, sein Ersatz darf die Nummer 11 tragen, muss aber im Spielprotokoll eingetragen sein. Zudem müssen die Schiedsrichter die für den jeweiligen Wettbewerb geltenden abweichenden Sonderregelungen beachten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WEISS 11 darf ersetzt werden, aber sein Ersatz darf nicht mit der Nummer 11 spielen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:3"
+      ]
+    },
+    {
+      "QuestionNumber": "4.2",
+      "Phrase": "Team SCHWARZ erscheint mit fünf Feldspielern, aber ohne etatmäßigen Torwart. Team SCHWARZ bestimmt Feldspieler SCHWARZ 5 als Torwart. Was sind die Konsequenzen für SCHWARZ 5?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "SCHWARZ 5 ist nach einer ordnungsgemäßen Auswechslung jederzeit als Feldspieler einsetzbar.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "SCHWARZ 5 darf nicht mehr als Feldspieler eingesetzt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "SCHWARZ 5 darf als Feldspieler eingesetzt werden, wenn die Offiziellen von Team WEISS einverstanden ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "SCHWARZ 5 darf als Feldspieler eingesetzt werden, sobald der vorgesehene Torwart anwesend ist.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1"
+      ]
+    },
+    {
+      "QuestionNumber": "4.3",
+      "Phrase": "Der Vereinspräsident von Heim-Team WEISS setzt sich nach Spielbeginn neben die beiden Betreuer, den Masseur, den Co-Trainer und den Trainer auf die Auswechselbank. Welche Konsequenzen müssen dies haben?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Auswechseltorwart muss hinter der Bank stehen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Vereinspräsident muss die Auswechselbank verlassen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein Offizieller muss die Auswechselbank verlassen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Personen, die nicht im Spielprotokoll vermerkt sind, müssen die Auswechselbank verlassen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Der Mannschaftsverantwortliche erhält eine progressive Strafe.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:2"
+      ]
+    },
+    {
+      "QuestionNumber": "4.4",
+      "Phrase": "Wie viele Spieler pro Mannschaft müssen bei Spielbeginn auf der Spielfläche mindestens antreten und im Spielprotokoll eingetragen sein?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "5 Spieler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "4 Feldspieler und 1 Torwart",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "5 Feldspieler und 1 Torwart",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "6 Feldspieler",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1"
+      ]
+    },
+    {
+      "QuestionNumber": "4.5",
+      "Phrase": "Welche der folgenden Spieler sind teilnahmeberechtigt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Spieler, der bei Spielbeginn anwesend und im Spielprotokoll eingetragen ist",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ein Spieler, der bei Spielbeginn nicht anwesend, aber im Spielprotokoll eingetragen ist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein Spieler, der bei Spielbeginn anwesend, aber nicht im Spielprotokoll eingetragen ist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ein Spieler, der zwar nicht im Spielprotokoll eingetragen ist, aber vom Zeitnehmer die Spielerlaubnis erhält",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:3"
+      ]
+    },
+    {
+      "QuestionNumber": "4.6",
+      "Phrase": "Bei Spielbeginn sind nur sechs Spieler von Team WEISS anwesend. Unmittelbar nach dem Anpfiff treffen die fehlenden Spieler ein. Nach dem Umkleiden läuft WEISS 7 über die Auswechsellinie einfach auf die Spielfläche. Im Spielprotokoll ist er nicht eingetragen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 7 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 7 und Eintragung ins Spielprotokoll",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 7 wird im Spielprotokoll nachgetragen, sofern dies den Regelungen des zuständigen Verbandes entspricht.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung des Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "16:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "4.7",
+      "Phrase": "Die Schiedsrichter haben auf Freiwurf für Team WEISS an der Freiwurflinie von Team SCHWARZ entschieden. Jetzt pfeift der Zeitnehmer und hält die Uhr an. Die Schiedsrichter erkundigen sich nach dem Grund des Pfiffs. Der Zeitnehmer teilt mit, dass WEISS 9 einen Wechselfehler begangen hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS an der Freiwurflinie von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ an der eigenen Freiwurflinie",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 9",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a",
+        "Clarification 7"
+      ]
+    },
+    {
+      "QuestionNumber": "4.8",
+      "Phrase": "SCHWARZ 14 wechselt bei einer Spielunterbrechung korrekt ein. Trotzdem kommt vom Zeitnehmertisch ein Pfiff, denn SCHWARZ 14 ist nicht mit dieser Nummer im Spielprotokoll eingetragen. Die Kontrolle des Spielprotokolls zeigt, dass der Spieler dort die Nummer 18 hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressive Bestrafung des Mannschafsverantwortlichen von SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS auf Höhe des Zeitnehmertisches",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrektur der Nummer im Spielprotokoll",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit dem der Spielsituation entsprechenden Wurf fortgesetzt. Ein schriftlicher Bericht ist erforderlich.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "13:3",
+        "13:4"
+      ]
+    },
+    {
+      "QuestionNumber": "4.9",
+      "Phrase": "Wann ist es bis zu zwei Personen (Offiziellen und/oder Spielern) einer Mannschaft gestattet, die Spielfläche zusätzlich zu betreten?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Während einer Spielzeitunterbrechung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Während einer Spielzeitunterbrechung und mit Erlaubnis eines Schiedsrichters",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bei Verletzung eines Spielers",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Mit Erlaubnis des Zeitnehmers",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11"
+      ]
+    },
+    {
+      "QuestionNumber": "4.10",
+      "Phrase": "Der Schiedsrichter pfeift und zeigt ein Time-out an, veranlasst durch die dritte Hinausstellung von WEISS 2. Als der Schiedsrichter dem Sekretär und dem Zeitnehmer die Disqualifikation anzeigt, läuft der Mannschaftsverantwortliche von Team WEISS auf die Spielfläche, um gegen die Hinausstellung zu protestieren. Ein anderer Offizieller von Team WEISS war zuvor schon verwarnt worden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation des Mannschaftsverantwortlichen von Team WEISS (rote Karte) und 2-Minuten-Reduzierung von Team WEISS um einen zusätzlichen Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Persönliche Verwarnung für den Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation des Mannschaftsverantwortlichen von Team WEISS mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung des Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen zusätzlichen Spieler",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "16:3e"
+      ]
+    },
+    {
+      "QuestionNumber": "4.11",
+      "Phrase": "Während eines Time-outs aufgrund der Verletzung eines Spielers läuft WEISS 2 als ein zusätzlicher Spieler von Team WEISS ohne Erlaubnis der Schiedsrichter auf das Spielfeld. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressive Bestrafung des Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 2 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 2 und 2-Minuten-Reduzierung seiner Mannschaft auf der Spielfläche",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:6",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.12",
+      "Phrase": "WEISS 5 liegt verletzt auf der Spielfläche. Der Feldschiedsrichter zeigt ein Time-out an und gestattet zwei Personen von Team WEISS, zur Behandlung von WEISS 5 die Spielfläche zu betreten. Der Offizielle B von Team SCHWARZ betritt das Spielfeld ebenfalls, um seinem Torwart Ratschläge zu geben. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Entscheidung, da das Signal allen Spielern und Offiziellen beider Mannschaften das Betreten der Spielfläche gestattet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle vier Offiziellen von Team SCHWARZ sind zu verwarnen und im Wiederholungsfall zu disqualifizieren.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Mannschaftsverantwortliche von Team SCHWARZ wird verwarnt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung des Offiziellen B von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Nach Behandlung auf der Spielfläche muss WEISS 5 die Spielfläche umgehend verlassen. WEISS 5 darf die Spielfläche erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "4:11"
+      ]
+    },
+    {
+      "QuestionNumber": "4.13",
+      "Phrase": "Torwart WEISS 16 muss wegen Verletzung durch WEISS 5 ersetzt werden. WEISS 5 wechselt seine Spielkleidung. Nach 20 Minuten ist WEISS 16 wieder einsatzfähig und der Offizielle A von Team WEISS wechselt: WEISS 5 wird erneut als Feldspieler eingesetzt (ohne Mitteilung an Sekretär/Zeitnehmer). Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Bestrafung, weil dies gestattet ist",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 5 (rote Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1"
+      ]
+    },
+    {
+      "QuestionNumber": "4.14",
+      "Phrase": "WEISS 4 verlässt die Spielfläche außerhalb seiner Auswechsellinie. Als er die Seitenlinie überschritten hat, aber noch nicht in seinem Auswechselraum angekommen ist, betritt WEISS 11 für ihn die Spielfläche über die Auswechsellinie. Entscheidung nach Pfiff des Zeitnehmers?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ an der Stelle, an der WEISS 4 die Spielfläche verlassen hat",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 4",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung von WEISS 4 und WEISS 11",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:5",
+        "13:6",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.15",
+      "Phrase": "SCHWARZ 3 begeht während einer Spielunterbrechung den ersten Wechselfehler seiner Mannschaft. Vorangegangen war eine Freiwurfentscheidung für Team SCHWARZ. Spieler SCHWARZ 3 war bis dahin weder verwarnt noch hinausgestellt worden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von SCHWARZ 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.16",
+      "Phrase": "Nachdem die Schiedsrichter auf 7-Meter-Wurf für Team WEISS entschieden haben, begeht WEISS 27, der als Werfer vorgesehen war, einen Wechselfehler. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 27",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.17",
+      "Phrase": "Team WEISS hat ein Tor erzielt. Vor Anpfiff des Anwurfs betritt SCHWARZ 10 die Spielfläche, bevor SCHWARZ 6 sie verlassen hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Anwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von SCHWARZ 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von SCHWARZ 6",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.18",
+      "Phrase": "Bei Spielbeginn sind von Team WEISS nur 12 Spieler anwesend, weil die beiden Torwarte noch fehlen. Team WEISS beginnt daher mit einem der 12 Feldspieler als Torwart. Welche der folgenden Aussagen treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der als Torwart beginnende Feldspieler muss im Spielprotokoll unter Ziffer 1, 12 oder 16 eingetragen werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der als Torwart beginnende Feldspieler darf später auch als Feldspieler eingesetzt werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die verspätet eintreffenden Torwarte von Team WEISS müssen im Spielprotokoll unter den Ziffern 1, 12 oder 16 nachgetragen werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einer der beiden verspätet eintreffenden Torwarte darf nur als Feldspieler eingesetzt werden.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.19",
+      "Phrase": "Während einer Spielzeitunterbrechung begeht Spieler WEISS 5 den ersten Wechselfehler seiner Mannschaft. Diese war zum Zeitpunkt der Spielzeitunterbrechung in Ballbesitz. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Bestrafung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung von WEISS 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WEISS bleibt in Ballbesitz",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.20",
+      "Phrase": "Torwart WEISS 3 will einen 7-Meter-Wurf ausführen. Um das leere Tor zu hüten, betritt WEISS 15 im Torwarttrikot die Spielfläche, nachdem er gegen einen Feldspieler ausgewechselt wurde. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 15",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Keine Bestrafung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:5",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.21",
+      "Phrase": "Bei einem Gegenstoß von Team WEISS, der sich dabei eine klare Torchance bietet, begeht SCHWARZ 3 einen Wechselfehler. Sekretär und Zeitnehmer reagieren nicht, aber der Feldschiedsrichter hat das Vergehen bemerkt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Sofortige Hinausstellung von SCHWARZ 3 und Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sofortige Hinausstellung von SCHWARZ 3 und 7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Torchance abwarten, dann Hinausstellung von SCHWARZ 3 und Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Torchance abwarten, dann Hinausstellung von SCHWARZ 3 und Wurf gemäß Spielsituation",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:2",
+        "guideline rule 13:2",
+        "14:2",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.22",
+      "Phrase": "Nach einer Abwehr durch Torwart WEISS 1 rollt der Ball entlang der Seitenlinie an der Auswechselbank von Team WEISS vorbei. Der auf der Bank sitzende Spieler WEISS 5 hält den Fuß ins Spielfeld und stoppt den Ball, damit WEISS 4 ihn noch vor der Seitenlinie aufnehmen kann. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 5 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "13:1a",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.23",
+      "Phrase": "30 Sekunden vor Ablauf seiner Hinausstellungszeit betritt WEISS 3 die Spielfläche, ohne in das Spiel einzugreifen. Team WEISS ist in Ballbesitz. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 3 und 30-Sekunden-Reduzierung von Team WEISS auf der Spielfläche um einen zusätzlichen Spieler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "30 Sekunden für WEISS 3 und 2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen zusätzlichen Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 3 und 30-Sekunden-Reduzierung von Team WEISS auf der Spielfläche um einen zusätzlichen Spieler",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "13:1a",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.24",
+      "Phrase": "WEISS 5 wurde hinausgestellt. Als 1 Minute und 45 Sekunden seiner Hinausstellungszeit verstrichen sind, wird er von seinem Trainer auf die Spielfläche geschickt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WEISS 5 wird erneut hinausgestellt, und Team WEISS wird auf der Spielfläche 2 Minuten und 15 Sekunden lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 5 wird disqualifiziert (rote Karte), und Team WEISS wird auf der Spielfläche 15 Sekunden lang um zwei Spieler und im Anschluss 1 Minute 45 Sekunden lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 5 wird erneut hinausgestellt, und Team WEISS wird 15 Sekunden lang um zwei Spieler und im Anschluss 1 Minute 45 Sekunden lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.25",
+      "Phrase": "Nach Ablauf seiner Hinausstellungszeit will Torwart SCHWARZ 1 seine Mannschaft, die sich gerade in der Abwehr befindet, ergänzen. Er betritt dazu die Spielfläche und übernimmt als sechster Feldspieler von Team SCHWARZ im Torwarttrikot die Außenposition. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von Torwart SCHWARZ 1",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:5",
+        "13:1",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.26",
+      "Phrase": "Wie ist zu entscheiden, wenn ein Spieler auf der Spielfläche blutet?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Spieler muss die Spielfläche sofort und unaufgefordert verlassen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Spieler darf bis zur nächsten Unterbrechung auf der Spielfläche bleiben.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Mitspieler, der den blutenden Spieler ersetzt, darf außerhalb der Wechsellinien eintreten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Spieler darf vor der nächsten Unterbrechung nicht zurückkommen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wenn der Spieler die Spielfläche entgegen ausdrücklicher Anweisung der Schiedsrichter nicht verlässt, ist er wegen unsportlichen Verhaltens zu bestrafen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:10",
+        "8:7",
+        "16:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "4.27",
+      "Phrase": "WEISS 5 ist allein vor Torwart SCHWARZ 1 und hat klare Torgelegenheit. SCHWARZ 11 begeht einen Wechselfehler, indem er das Spielfeld betritt, bevor SCHWARZ 9 das Spielfeld verlassen hat. Der Zeitnehmer pfeift wegen dieses Verstoßes, genau dann, wenn WEISS 5 werfen will. Richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung des eintretenden Spielers",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation des eintretenden Spielers",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Der Zeitnehmer kann warten, bis die klare Torgelegenheit vorbei ist, bevor er den Wechselfehler pfeift.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "14:1a",
+        "16:3a",
+        "clarification 7"
+      ]
+    },
+    {
+      "QuestionNumber": "4.28",
+      "Phrase": "Torwart SCHWARZ 1 hält einen Ball, spielt ihn zu einem Mitspieler, geht in der Nähe des Auswechselraums an die Seitenlinie und verlässt das Spielfeld. Er holt sich sein Handtuch und eine Flasche, aus der er einen Schluck nimmt. Ein anderer Torwart von Team SCHWARZ geht nicht auf das Spielfeld. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen, da dies gestattet ist",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 1 infolge eines Wechselfehlers",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS auf Höhe des Auswechselraums von Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:4 comment"
+      ]
+    },
+    {
+      "QuestionNumber": "4.29",
+      "Phrase": "Der Offizielle A von Team SCHWARZ ist bereits verwarnt worden. Bei einer Entscheidung der Schiedsrichter rennt Offizieller D von Team SCHWARZ protestierend mehrere Meter auf das Spielfeld. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Bestrafung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung des Offiziellen D von Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung des Offiziellen D von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Offiziellen D von Team SCHWARZ (rote Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:7",
+        "16:3e"
+      ]
+    },
+    {
+      "QuestionNumber": "4.30",
+      "Phrase": "Aufgrund einer Verletzung von WEISS 6 erfolgt eine Spielzeitunterbrechung. Die Ursache der Verletzung führte nicht zu einer progressiven Strafe für einen Spieler von Team SCHWARZ. Die Schiedsrichter haben zwei Personen das Betreten der Spielfläche gestattet, um WEISS 6 zu versorgen. Offizieller C von Team WEISS versorgt den verletzten Spieler WEISS 6. Offizieller A von Team WEISS ist der Meinung, SCHWARZ 5 habe die Verletzung verursacht. Er folgt SCHWARZ 5 in dessen Auswechselraum und schlägt ihm ins Gesicht. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation des Offiziellen A von Team WEISS, schriftlicher Bericht (rote und blaue Karte), 2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen Spieler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Spiel wird mit dem Wurf fortgesetzt, der dem Grund für die Unterbrechung entspricht.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung des Offiziellen A von Team WEISS, 2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation des Offiziellen A von Team WEISS ohne schriftlichen Bericht (rote Karte), 2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Nach Behandlung auf der Spielfläche muss WEISS 6 die Spielfläche verlassen. WEISS 6 darf die Spielfläche erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:6b",
+        "13:3",
+        "16:6a",
+        "16:8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.31",
+      "Phrase": "Unmittelbar nach dem Anwurf durch Team SCHWARZ stellen die Schiedsrichter fest, dass sich im Auswechselraum von Team SCHWARZ eine nicht im Spielprotokoll eingetragene Person befindet. Die Überprüfung ergibt, dass es sich um den Vereinsvorsitzenden handelt. Team SCHWARZ hatte jedoch bereits fünf Offizielle im Spielbericht eingetragen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Vereinsvorsitzende muss den Auswechselraum verlassen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Mannschaftsverantwortliche von Team SCHWARZ wird persönlich bestraft.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein weiterer Offizieller muss den Auswechselraum verlassen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "13:1"
+      ]
+    },
+    {
+      "QuestionNumber": "4.32",
+      "Phrase": "Was ist bezüglich der Spielkleidung richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle als Torwart eingesetzten Spieler einer Mannschaft müssen dieselbe Trikotfarbe verwenden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Spieler müssen auf dem Rücken und auf der Brust Nummern tragen, die mindestens 20 cm hoch sind.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Torwarte dürfen einen Kopfschutz aus weichem Material tragen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Alle Feldspieler und Torwarte dürfen Nummern von 1 bis 100 benutzen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:7",
+        "4:8",
+        "4:9"
+      ]
+    },
+    {
+      "QuestionNumber": "4.33",
+      "Phrase": "WEISS 10 sitzt seine erste Zeitstrafe ab (Spielzeit bei Beginn der Strafzeit: 21:00). Nach Wiederanpfiff reklamiert er so heftig, dass die Schiedsrichter das Spiel bei 21:30 mit Time-out unterbrechen und WEISS 10 mit einer weiteren Hinausstellung bestrafen. Welche Konsequenzen hat dies für Team WEISS?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird bis 25:00 auf der Spielfläche um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird bis 23:00 auf der Spielfläche um zwei Spieler und dann bis 23:30 um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "16:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "4.34",
+      "Phrase": "In welchen der folgenden Fälle ist der Mannschaftsverantwortliche persönlich zu bestrafen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wenn ein Spieler seiner Mannschaft den Auswechselraum ohne Abmeldung bei Sekretär/Zeitnehmer verlässt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn sich ab Spielbeginn im Auswechselraum Personen aufhalten, die nicht im Spielprotokoll eingetragen sind",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn ein zusätzlicher Spieler die Spielfläche betritt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn ein nicht teilnahmeberechtigter Spieler seiner Mannschaft die Spielfläche betritt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wenn festgestellt wird, dass Spieler auf dem Spielfeld nach Spielbeginn eine regelwidrige Ausrüstung tragen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Bei Regelverstößen im Auswechselraum, die nicht eindeutig einer bestimmten Person zugeordnet werden können.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Wenn nach Spielbeginn festgestellt wird, dass Spieler im Auswechselraum regelwidrige Ausrüstung tragen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "4:3",
+        "4:9"
+      ]
+    },
+    {
+      "QuestionNumber": "4.35",
+      "Phrase": "Die Schiedsrichter geben das Zeichen zum Betreten der Spielfläche, da sich ein Spieler von Team WEISS verletzt hat. Wer darf die Spielfläche betreten?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ausschließlich zwei Offizielle von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Je zwei Offizielle beider Mannschaften",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Zwei Personen (Offizielle oder Spieler) von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Zwei Personen (Offizielle oder Spieler) von beiden Mannschaften",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Der Arzt von Team WEISS, wenn er nicht einer der vier Offiziellen ist",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11"
+      ]
+    },
+    {
+      "QuestionNumber": "4.36",
+      "Phrase": "Der Offizielle C von Team WEISS hat bereits eine Verwarnung wegen Reklamierens erhalten. Später betritt der Offizielle B von Team WEISS die Spielfläche ohne Erlaubnis. Sein Verhalten ist allerdings nicht unsportlich. Welche Bestrafung ist richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung des Offiziellen B von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Offiziellen B, der die Bank zwei Minuten lang verlassen muss",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation des Offiziellen B von Team WEISS (rote Karte; Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung des Offiziellen B von Team WEISS; Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert; der Offizielle B darf im Auswechselraum bleiben.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "16:3e"
+      ]
+    },
+    {
+      "QuestionNumber": "4.37",
+      "Phrase": "Welche der folgenden Handlungen sind bei Time-out aufgrund einer Verletzung (die Schiedsrichter gaben Team WEISS die Erlaubnis zum Betreten der Spielfläche) NICHT erlaubt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Spieler von Team SCHWARZ halten sich nahe der Seitenlinie auf, um Anweisungen ihres Trainers zu erhalten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Spieler von Team WEISS nehmen Auswechslungen außerhalb der Auswechsellinie vor.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein Offizieller von Team WEISS befindet sich auf der Spielfläche und entfernt sich weit vom verletzten Spieler, um anderen Spielern Anweisungen zu geben.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:4",
+        "4:11"
+      ]
+    },
+    {
+      "QuestionNumber": "4.38",
+      "Phrase": "Vor Beginn des Spiels stellt der Delegierte fest, dass WEISS 7 Sprunggelenkprotektoren aus hartem Material trägt, die nicht abgedeckt sind. Was ist/sind die richtige(n) Entscheidung(en)?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WEISS 7 kann mit den Sprunggelenkprotektoren spielen, aber der Delegierte muss einen Bericht an die Spielleitende Stelle schicken.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 7 darf nicht mit Sprunggelenkprotektoren spielen, deren harte Teile nicht abgedeckt sind. Der Delegierte muss den zuständigen Mannschaftsoffiziellen darauf hinweisen, dass der Spieler die Protektoren entfernen oder die harten Teile weich polstern.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 7 erhält eine Verwarnung.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der verantwortliche Mannschaftsoffizielle erhält eine Verwarnung.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Keine der vorherigen Antworten ist gültig.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:9"
+      ]
+    },
+    {
+      "QuestionNumber": "4.39",
+      "Phrase": "Bei 29:00 der ersten Halbzeit erhält WEISS 5 eine Hinausstellung. Nach der Halbzeitpause, drei Sekunden nach Wiederanpfiff durch den Feldschiedsrichter, pfeift der Zeitnehmer. Team WEISS hat sieben Spieler auf der Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Spieler von Team WEISS muss die Spielfläche verlassen. Ansonsten ist keine weitere Strafe erforderlich.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des überzähligen Spielers von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche 57 Sekunden lang um zwei Spieler und im Anschluss 1 Minute und 3 Sekunden lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:6"
+      ]
+    },
+    {
+      "QuestionNumber": "4.40",
+      "Phrase": "Spielzeit: 43:27 – Spielunterbrechung durch den Zeitnehmer nach Torerfolg durch WEISS 15 und Anwurf. Der Zeitnehmer teilt den Schiedsrichtern mit, dass WEISS 15 nicht im Spielprotokoll aufgeführt ist. Im Spielprotokoll sind bereits 16 Spieler für Team WEISS eingetragen. Die Schiedsrichter stellen fest, dass WEISS 11 überhaupt nicht anwesend ist. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor wird annulliert",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor zählt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 11 wird gestrichen, WEISS 15 wird nachgetragen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "WEISS 15 darf nicht mitspielen und muss das Spielfeld verlassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung gegen den Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Vermerk im Spielbericht / Schriftlicher Bericht",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "9:1",
+        "9:2"
+      ]
+    },
+    {
+      "QuestionNumber": "4.41",
+      "Phrase": "Nach der Abwehr eines Wurfs von Team SCHWARZ bleibt Torwart WEISS 12 mit einer Knieverletzung auf dem Boden liegen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Torwart WEISS 12 darf nach Behandlung auf der Spielfläche weiterspielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Zwei teilnahmeberechtigte Personen von Team WEISS dürfen die Spielfläche betreten, um WEISS 12 auf dem Spielfeld zu behandeln, nachdem einer der Schiedsrichter die Handzeichen 15 und 16 gezeigt hat.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Nur eine teilnahmeberechtigte Person von Team WEISS darf die Spielfläche betreten, um WEISS 12 auf dem Spielfeld zu behandeln, nachdem einer der Schiedsrichter die Handzeichen 15 und 16 gezeigt hat.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Nach Behandlung auf der Spielfläche darf WEISS 12 diese erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Unabhängig von der Anzahl der Angriffe darf WEISS 12 die Spielfläche bei Wiederaufnahme des Spiels nach einer Spielhälfte wieder betreten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Lehnen die Offiziellen die Behandlung von WEISS 12 ab, muss der Mannschaftsverantwortliche progressive bestraft werden.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.42",
+      "Phrase": "Bei der Abwehr eines Wurfs von Team SCHWARZ prallt Torwart WEISS 1 mit dem Kopf an den Torpfosten. Er muss auf der Spielfläche behandelt werden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WEISS 1 darf nach Behandlung auf der Spielfläche weiterspielen, da er aufgrund einer Kopfverletzung behandelt werden musste.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nach Behandlung auf der Spielfläche darf WEISS 1 diese erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.43",
+      "Phrase": "Spiel ohne Delegierten: Nach Behandlung auf der Spielfläche sitzt WEISS 7 auf der Bank im Auswechselraum. Während des ersten Angriffs von Team WEISS fängt SCHWARZ 2 den Ball ab und sprintet allein auf Torwart WEISS 12 zu. Bevor SCHWARZ 2 zum Torwurf kommt, betritt WEISS 7 im Zuge eines Wechsels mit WEISS 9 die Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Zeitnehmer wartet den Torwurf von SCHWARZ 2 ab, bevor er das Spiel aufgrund eines Wechselfehlers von Team WEISS unterbricht.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Aufgrund des Wechselfehlers von Team WEISS unterbricht der Zeitnehmer das Spiel umgehend.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für WEISS 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 7 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Unabhängig von der Anzahl der Angriffe seiner Mannschaft darf WEISS 7 die Spielfläche nach Ablauf seiner Hinausstellung wieder betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "4:11",
+        "13:2",
+        "14:1",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.44",
+      "Phrase": "Nach Behandlung auf der Spielfläche sitzt SCHWARZ 11 auf der Auswechselbank und beschwert sich über eine Entscheidung der Schiedsrichter. Dafür erhält er seine erste Hinausstellung des Spiels. Im Anschluss an den zweiten Angriff von Team SCHWARZ betritt SCHWARZ 11 nach dem Ablauf seiner Hinausstellung wieder die Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für SCHWARZ 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Weiterspielen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11 – Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.45",
+      "Phrase": "SCHWARZ 10 wird an der Freiwurflinie angespielt. Kurz nachdem er den Ball fängt, wird er von WEISS 3 zu Boden gezogen. Er fällt unglücklich, verletzt sich am Ellbogen und muss auf der Spielfläche behandelt werden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung für WEISS 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für WEISS 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Zwei teilnahmeberechtigte Personen von Team SCHWARZ dürfen die Spielfläche betreten, um SCHWARZ 10 auf der Spielfläche zu behandeln, nachdem einer der Schiedsrichter die Handzeichen 15 und 16 gezeigt hat.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "SCHWARZ 10 darf nach Behandlung auf der Spielfläche weiterspielen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Nach Behandlung auf der Spielfläche darf SCHWARZ 10 diese erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "8:4",
+        "16:3c",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.46",
+      "Phrase": "Während eines Gegenstoßes wird SCHWARZ 10 von SCHWARZ 9 angespielt. Kurz nachdem SCHWARZ 9 den Pass spielt, wird er von WEISS 11 zu Boden gezogen. SCHWARZ 10 fängt den Ball. Kurz darauf fällt er und bleibt verletzt am Boden liegen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung für WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für WEISS 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Zwei teilnahmeberechtigte Personen von Team SCHWARZ dürfen die Spielfläche betreten, um SCHWARZ 10 auf der Spielfläche zu behandeln, nachdem einer der Schiedsrichter die Handzeichen 15 und 16 gezeigt hat.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "SCHWARZ 10 darf nach Behandlung auf der Spielfläche weiterspielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Nach Behandlung auf der Spielfläche darf SCHWARZ 10 diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4.11",
+        "8.4",
+        "16.3c",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.47",
+      "Phrase": "Drei Minuten vor Spielende lautet der Spielstand 21:21. SCHWARZ 2, der erfolgreichste Torschütze seiner Mannschaft, verstaucht sich den Knöchel und bleibt verletzt am Boden liegen. Einer der Schiedsrichter erkundigt sich bei SCHWARZ 2, ob er auf der Spielfläche behandelt werden muss. SCHWARZ 2 antwortet nicht, bleibt aber weiter liegen. Daher unterbrechen die Schiedsrichter das Spiel und zeigen die Handzeichen 15 und 16, um zwei Personen von Team SCHWARZ zur Behandlung von SCHWARZ 2 das Betreten der Spielfläche zu gestatten. Team SCHWARZ lehnt ab, und noch bevor die Schiedsrichter weitere Maßnahmen ergreifen können, ist SCHWARZ 2 wieder in der Lage, weiterzuspielen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "SCHWARZ 2 darf weiterspielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "SCHWARZ 2 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Mannschaftsverantwortliche von Team SCHWARZ ist progressive zu bestrafen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:7",
+        "16:1b",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.48",
+      "Phrase": "30 Sekunden vor dem Ende der ersten Halbzeit wird WEISS 5 auf der Spielfläche behandelt. Nach der Behandlung verlässt er die Spielfläche und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten. Eine Minute nach Beginn der zweiten Halbzeit, während des zweiten Angriffs von Team WEISS, betritt WEISS 5 im Zuge eines korrekten Wechsels mit WEISS 4 die Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für WEISS 5 aufgrund eines Wechselfehlers (verfrühtes Betreten der Spielfläche nach Behandlung auf der Spielfläche)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.49",
+      "Phrase": "Nach einem Zusammenstoß bleiben WEISS 4 und SCHWARZ 5 scheinbar verletzt am Boden liegen. Die Schiedsrichter unterbrechen das Spiel umgehend und zeigen die Handzeichen 15 und 16, um je zwei Personen beider Mannschaften zur Behandlung der Spieler das Betreten der Spielfläche zu gestatten. Noch bevor eine der Personen das Spielfeld betritt, ist SCHWARZ 5 wieder in der Lage, weiterzuspielen. WEISS 4 wird dagegen auf der Spielfläche behandelt. Nach 20 Sekunden wird das Spiel fortgesetzt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nach Behandlung auf der Spielfläche darf WEISS 4 diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Da SCHWARZ 5 nicht auf der Spielfläche behandelt wurde, darf er weiterspielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "SCHWARZ 5 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.50",
+      "Phrase": "WEISS 2 ist verletzt und muss auf der Spielfläche behandelt werden. Die 1. Halbzeit endet nach dem ersten Angriff von Team WEISS. Als der Schiedsrichter die 2. Halbzeit anpfeift, befindet sich WEISS 2 während des Angriffs seiner Mannschaft auf der Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Zeitnehmer unterbricht das Spiel umgehend und informiert die Schiedsrichter.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Weiterspielen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Keine Hinausstellung für WEISS 2, der die Spielfläche verlassen muss; Team WEISS bleibt in Ballbesitz, da Fehler des Zeitnehmers/Delegierten",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11 third paragraph"
+      ]
+    },
+    {
+      "QuestionNumber": "4.51",
+      "Phrase": "WEISS 4 wird auf der Spielfläche behandelt. Nach der Behandlung verlässt er die Spielfläche und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten. Nach dem zweiten Angriff von Team WEISS schickt Offizieller A den Spieler WEISS 4 auf das Spielfeld, um eine Aufgabe in der Verteidigung zu übernehmen. WEISS 4 betritt das Spielfeld im Zuge eines Wechsels mit WEISS 6, um ausschließlich in der Verteidigung zu agieren. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen, WEISS 4 darf in der Verteidigung spielen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung für WEISS 4, da er das Spielfeld zu früh betreten hat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für WEISS 4 aufgrund eines Wechselfehlers",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.52",
+      "Phrase": "WEISS 11 rutscht auf dem Boden und bleibt knapp außerhalb der Spielfläche auf der gegenüberliegenden Seite des Auswechselraums liegen. Er prallt dabei mit dem Kopf gegen die Bande. Die Schiedsrichter unterbrechen das Spiel umgehend, um WEISS 11 behandeln zu lassen. Nach 20 Sekunden ist WEISS 11 wieder in der Lage, weiterzuspielen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WEISS 11 darf weiterspielen, da er sich während der Behandlung außerhalb der Spielfläche befand.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 11 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.53",
+      "Phrase": "Eine Minute nach Spielbeginn kommt es zu einem Zweikampf zwischen Kreisspieler SCHWARZ 3 und WEISS 6. SCHWARZ 3 bleibt danach scheinbar verletzt am Boden liegen. Die Schiedsrichter ermahnen WEISS 6. SCHWARZ 3 bittet um Behandlung auf der Spielfläche. Nach der Behandlung auf der Spielfläche ist SCHWARZ 3 wieder in der Lage, weiterzuspielen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "SCHWARZ 3 darf weiterspielen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "SCHWARZ 3 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.54",
+      "Phrase": "Team SCHWARZ spielt einen Gegenstoß. SCHWARZ 2 prellt den Ball und wird von WEISS 10 gestoßen. SCHWARZ 2 kommt ins Straucheln, kann den Ball aber dennoch zu SCHWARZ 4 spielen, der daraufhin ein Tor erzielt. Beim Rückzug in die Verteidigung verstaucht sich SCHWARZ 4 den Knöchel. Die Schiedsrichter unterbrechen das Spiel, entscheiden auf Hinausstellung für WEISS 10 und erteilen zwei Personen die Erlaubnis, zur Behandlung von SCHWARZ 4 die Spielfläche zu betreten. Nach 30 Sekunden ist SCHWARZ 4 wieder in der Lage, weiterzuspielen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "SCHWARZ 4 darf weiterspielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "SCHWARZ 4 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.55",
+      "Phrase": "Bei einem Torwurf trifft WEISS 11 den Verteidiger SCHWARZ 2 unglücklich im Gesicht. SCHWARZ 2 muss auf der Spielfläche behandelt werden. Nach 20 Sekunden ist SCHWARZ 2 wieder in der Lage, weiterzuspielen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "SCHWARZ 2 darf weiterspielen, da die Verletzung durch einen Ball ins Gesicht zustande kam.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "SCHWARZ 2 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.56",
+      "Phrase": "Nach einem Torwurf bleibt Kreisspieler SCHWARZ 2 im Torraum von Team WEISS liegen und bittet um Behandlung – scheinbar aufgrund einer Beinverletzung. Team WEISS hat soeben einen Gegenstoß eingeleitet. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Schiedsrichter müssen das Spiel umgehend unterbrechen und die Handzeichen 15 und 16 zeigen, um zur Behandlung von SCHWARZ 2 auf der Spielfläche aufzufordern.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Spiel wird fortgesetzt, bis der Gegenstoß von Team WEISS abgeschlossen ist. Danach muss das Spiel unterbrochen werden, um zur Behandlung von SCHWARZ 2 auf der Spielfläche aufzufordern.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "4.57",
+      "Phrase": "WEISS 2 wärmt sich ohne Ellbogenschutz auf. Fünf Minuten nach Spielbeginn befindet sich Team WEISS in Ballbesitz. WEISS 2 wird regelkonform eingewechselt. Die Schiedsrichter stellen fest, dass WEISS 2 nun Ellbogenschutz trägt, bei dem nicht alle harten Teile abgedeckt sind. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen, denn es ist erlaubt, mit Ellbogenschutz zu spielen, bei dem nicht alle harten Teile abgedeckt sind.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Schiedsrichter müssen das Spiel unterbrechen, WEISS 2 muss die Spielfläche verlassen und darf diese erst wieder betreten, nachdem er die harten Teile vollständig abdeckt hat.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter müssen das Spiel unterbrechen, WEISS 2 muss die Spielfläche verlassen und darf diese erst wieder betreten, nachdem er den Ellbogenschutz abgelegt hat.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung für WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung des Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:9 Guidelines",
+        "Regulations on Protective Equipment and Accessories"
+      ]
+    },
+    {
+      "QuestionNumber": "4.58",
+      "Phrase": "Team WEISS befindet sich im Angriff nahe der Freiwurflinie. WEISS 7 betritt nach einem regulären Wechsel die Spielfläche. Er trägt einen gelben Pullover über seinem regulären weißen Trikot. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Schiedsrichter unterbrechen das Spiel, WEISS 7muss den gelben Pullover ausziehen, bevor er weiterspielen darf.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:7",
+        "4:9",
+        "Guidelines"
+      ]
+    },
+    {
+      "QuestionNumber": "4.59",
+      "Phrase": "Mannschaft WEISS ist in Ballbesitz, als der Zeitnehmer das Spiel unterbricht. Der Zeitnehmer teilt den Schiedsrichtern mit, dass WEISS 11 die Spielfläche betreten hat, aber kein Spieler WEISS 11 im Spielprotokoll eingetragen ist. Es stellt sich heraus, dass der Spieler vom Mannschaftsverantwortlichen irrtümlich als Nummer 13 eingetragen wurde. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 11 darf nicht am Spiel teilnehmen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Fehler wird korrigiert und WEISS 11 ist berechtigt am Spiel teilzunehmen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Vermerk im Spielbericht/ Schriftlicher Bericht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Progressive Bestrafung des Mannschaftsverantwortlichen von WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "4:7",
+        "4:8",
+        "New Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "4.60",
+      "Phrase": "Beim Spielstand von 29:29 sind noch 10 Sekunden zu spielen. Der Torwart WEISS 12 führt einen Abwurf aus und spielt den Ball zu WEISS 11. WEISS 11 sieht, das WEISS 9 sich in einer freien Position an der Torraumlinie von Mannschaft SCHWARZ befindet. Bevor er den Pass zu WEISS 9 spielen kann, unterbricht der Zeitnehmer das Spiel wegen eines Wechselfehlers. SCHWARZ 2 hatte die Spielfläche betreten, bevor SCHWARZ 4 diese verlassen hatte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für SCHWARZ 2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 2",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "4.61",
+      "Phrase": "Es steht 29:29, und es sind noch 10 Sekunden zu spielen. Torwart WEISS 12 führt einen Abwurf aus und spielt den Ball an WEISS 11 weiter. Spieler WEISS 11 sieht, dass WEISS 9 an der Torraumlinie der Mannschaft SCHWARZ in einer freien Position ist. Er passt den Ball an WEISS 9 weiter. Bevor WEISS 9 auf das Tor werfen kann, unterbricht der Delegierte das Spiel wegen einer fehlerhaften Auswechslung. SCHWARZ 2 hat das Spielfeld betreten, bevor SCHWARZ 4 es verlassen hat. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für SCHWARZ 2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Der Delegierte hätte mit der Unterbrechung des Spiels warten müssen, bis die klare Torgelegenheit vorbei war.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5",
+        "14:1",
+        "Guideline rule 13:2"
+      ]
+    },
+    {
+      "QuestionNumber": "4.62",
+      "Phrase": "Es ist möglich, den Videobeweis (VR) in diesem Spiel zu verwenden. Mannschaft WEISS befindet sich in einem Gegenstoß, WEISS 7 hat den Ball an der Mittellinie. In diesem Moment betritt SCHWARZ 9 als zusätzlicher Spieler das Spielfeld. Spieler WEISS 7 spielt den Ball zu WEISS 11, der eine klare Torgelegenheit hat. In diesem Moment pfeift der Delegierte wegen des zusätzlichen Spielers auf dem Spielfeld. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nutzung des Videobeweises, um zu sehen, wer das Spielfeld als zusätzlicher Spieler betreten hat, und um zu sehen, wann der Spieler das Spielfeld betreten hat.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung SCHWARZ 9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation ohne schriftlichen Bericht für SCHWARZ 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation mit schriftlichem Bericht für SCHWARZ 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Freiwurf WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "7-Meter-Wurf WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Der Delegierte hätte mit der Unterbrechung des Spiels warten müssen, bis die klare Torgelegenheit vorbei war.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "14:1",
+        "16:3a",
+        "17:13",
+        "Guideline 13:2",
+        "Video Replay Regulations"
+      ]
+    }
+  ]
+}

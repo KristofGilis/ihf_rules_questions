@@ -1,0 +1,2997 @@
+{
+  "RuleNumber": "8",
+  "Name": "Regelwidrigkeiten und unsportliches Verhalten",
+  "Questions": [
+    {
+      "QuestionNumber": "8.1",
+      "Phrase": "Während eines Gegenstoßes von Team WEISS läuft SCHWARZ 7 als zusätzlicher Spieler auf das Spielfeld und umklammert WEISS 5 so, dass ihm eine klare Torchance genommen wird. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 7 ohne schriftlichen Bericht",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 7 mit schriftlichem Bericht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "8:10b",
+        "14:1a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.2",
+      "Phrase": "Der verspätet eingetroffene SCHWARZ 8 ist nicht im Spielprotokoll eingetragen. Er rennt aus der Kabine direkt auf das Spielfeld und vereitelt eine klare Torchance, indem er den im Sprung befindlichen Ballbesitzer so stößt, dass dieser die Körperkontrolle verliert. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 8 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 8 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung des Mannschaftsverantwortlichen von Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:3",
+        "8:10b",
+        "14:1a",
+        "16:1b",
+        "16:6a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.3",
+      "Phrase": "Offizieller B von Team WEISS protestiert auf dem Weg in die Kabine (während der Halbzeitpause) bei den Schiedsrichtern. In der ersten Halbzeit wurde bereits Offizieller A von Team WEISS verwarnt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung des Offiziellen von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation des Offiziellen von Team WEISS (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS beginnt die zweite Halbzeit mit einem Spieler weniger.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Keine Bestrafung, aber schriftlicher Bericht",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3e",
+        "16:10"
+      ]
+    },
+    {
+      "QuestionNumber": "8.4",
+      "Phrase": "WEISS 6 wurde schon zweimal für zwei Minuten hinausgestellt. Jetzt begeht er den zweiten Wechselfehler seiner Mannschaft. Wie ist zu entscheiden, wenn er sich besonders grob unsportlich verhält, nachdem die Schiedsrichter ihn über den Wechselfehler informiert haben?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 6 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 6 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "8:10a",
+        "16:3a",
+        "16:6d",
+        "16:8",
+        "16:9c-d"
+      ]
+    },
+    {
+      "QuestionNumber": "8.5",
+      "Phrase": "WEISS 2 wurde hinausgestellt, aber schon nach einer Minute wird er vom Offiziellen A wieder auf die Spielfläche geschickt. Noch bevor der Zeitnehmer pfeift, vereitelt WEISS 2 eine klare Torchance von Team SCHWARZ. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ und erneute Hinausstellung von WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ, erneute Hinausstellung von WEISS 2 und weitere Reduzierung von Team WEISS für die Reststrafzeit",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ, Disqualifikation von WEISS 2 ohne schriftlichen Bericht und weitere Reduzierung seiner Mannschaft für die Reststrafzeit (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ, Disqualifikation von WEISS 2 und weitere Reduzierung seiner Mannschaft für die Reststrafzeit; schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "8:10b",
+        "14:1a",
+        "16:6b",
+        "16:8"
+      ]
+    },
+    {
+      "QuestionNumber": "8.6",
+      "Phrase": "Bei einem Angriff von Team WEISS sperrt Kreisspieler WEISS 7 ohne Ball Gegenspieler SCHWARZ 4 mit seinem Rumpf. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressive Bestrafung von WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:1c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.7",
+      "Phrase": "Außenspieler WEISS 4 kommt zu einer klaren Torchance. Im letzten Moment versucht SCHWARZ 7, ihm den Ball aus der Hand zu spielen, wobei er allerdings nur den Unterarm von WEISS 4 trifft. Der Ball geht am Tor vorbei. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung von SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Keine Bestrafung von SCHWARZ 7",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:2a",
+        "14:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.8",
+      "Phrase": "WEISS 6 läuft einen Gegenstoß. Torwart SCHWARZ 12 verlässt seinen Torraum, gelangt in Ballbesitz, verursacht aber einen Zusammenprall mit WEISS 6. Möglicherweise hätte aber ein Abwehrspieler den Spieler WEISS 6 noch regelkonform stoppen können. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 12 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von SCHWARZ 12 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:5 comment",
+        "14:1a",
+        "16:6a",
+        "Clarification 6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.9",
+      "Phrase": "WEISS 2 möchte einen Mitspieler in der anderen Spielfeldhälfte anspielen. Dieser wird aber von SCHWARZ 5 fest umklammert. SCHWARZ 5 hatte vorher schon eine Verwarnung wegen Anrennens eines Gegenspielers ohne Ball erhalten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 5 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Schriftlicher Bericht (blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "13:1b",
+        "16:3b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.10",
+      "Phrase": "Der am Kreis freistehende Spieler WEISS 9 wird angespielt, aber von SCHWARZ 2 am Wurfarm zurückgezogen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von SCHWARZ 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 2 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Schriftlicher Bericht (blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "14:1a",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.11",
+      "Phrase": "Kurz nachdem SCHWARZ 9 in der ersten Spielminute wegen Stoßens verwarnt wurde, umklammert SCHWARZ 7 den Kreisspieler von Team WEISS (keine klare Torchance). Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verwarnung von SCHWARZ 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von SCHWARZ 7",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "13:1b",
+        "16:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.12",
+      "Phrase": "Bevor WEISS 4, der frei am Torraum angespielt wird, auf das Tor werfen kann, wird er von SCHWARZ 3 zu Boden gezogen und verliert den Ball. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von SCHWARZ 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 3 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:4b",
+        "14:1a",
+        "16:3c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.13",
+      "Phrase": "Wann ist ein Spieler zu disqualifizieren (rote Karte oder rote und blaue Karte)?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bei einer Regelwidrigkeit, die die Gesundheit eines Gegenspielers gefährdet",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bei einem besonders grob unsportlichen Verhalten auf oder außerhalb der Spielfläche",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bei wiederholtem unsportlichen Verhalten auf der Spielfläche",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Bei einem Wechselfehler während einer Hinausstellungszeit (ohne klare Torchance)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:6",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.14",
+      "Phrase": "Bei einem Gegenstoß von WEISS 5 läuft Offizieller C von Team SCHWARZ von der Bank auf das Spielfeld in Richtung des eigenen Torraums. WEISS 5 ist so überrascht, dass er seinen Lauf abbricht. Nach Auffassung des Schiedsrichters bot sich ihm eine klare Torchance. Offizieller C hatte weder Spieler noch Ball berührt, und die kürzeste Distanz zu WEISS 5 betrug ungefähr zehn Meter. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Offiziellen C ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation des Offiziellen C, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Der Delegierte oder die Schiedsrichter haben die Möglichkeit, den Vorteil laufen zu lassen und pfeifen erst, wenn die klare Torgelegenheit vorbei ist.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:10b",
+        "14:1a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.15",
+      "Phrase": "Team WEISS hat einen Gegenstoß eingeleitet. WEISS 5 will WEISS 7 anspielen, weil dieser sich ganz allein an der gegnerischen Torraumlinie befindet. Offizieller D von Team SCHWARZ läuft auf das Spielfeld und fängt den Pass ab. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung des Offiziellen D von Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Offiziellen D von Team SCHWARZ ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation des Offiziellen D von Team SCHWARZ, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10b",
+        "14:1a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.16",
+      "Phrase": "Welche der folgenden Handlungen sind als besonders grob unsportliches Verhalten einzustufen und daher mit Disqualifikation und schriftlichem Bericht (rote und blaue Karte) zu bestrafen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wiederholte Abwehr mit Fuß oder Unterschenkel durch einen Feldspieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vereitelung einer klaren Torchance durch einen Offiziellen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Anspucken einer anderen Person",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wiederholte Spielverzögerung, um Zeit zu schinden",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "8:10b",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.17",
+      "Phrase": "Beim Betreten der Halle begegnen die Schiedsrichter dem bereits umgezogenen, aber noch nicht im Spielprotokoll eingetragenen SCHWARZ 4. Er ruft sofort: „Aber nicht schon wieder diese Idioten!“ Er lässt sich erst in der 12. Minute als 16. Spieler nachtragen. Jetzt bemerkt ihn der Schiedsrichter. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von SCHWARZ 4 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Keine Reduzierung von Team SCHWARZ auf der Spielfläche",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 4, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team SCHWARZ darf sich mit einem anderen Spieler auf 16 Spieler ergänzen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:8",
+        "16:11b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.18",
+      "Phrase": "Bei einer Freiwurfentscheidung für Team WEISS betritt der Offizielle C von Team SCHWARZ das Spielfeld und ruft: „Aber das ist doch Freiwurf für uns!“ Die Offiziellen von Team SCHWARZ hatten zuvor noch keine Strafe erhalten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Mannschaftsverantwortliche von Team SCHWARZ muss den Offiziellen C aus der Halle führen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für den Offiziellen C von Team SCHWARZ; Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verwarnung des Offiziellen C von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.19",
+      "Phrase": "WEISS 3 wurde auf der Spielfläche wegen eines progressiv zu bestrafenden Vergehens verwarnt. Nach einem Wechsel beleidigt er von der Auswechselbank aus den Schiedsrichter. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 3 ohne schriftlichen Bericht (rote Karte); Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 3, schriftlicher Bericht (rote und blaue Karte); Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 3; Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.20",
+      "Phrase": "Bei einem Gegenstoß wird SCHWARZ 9 von WEISS 4, der schon verwarnt wurde, am Trikot festgehalten. Trotzdem kann SCHWARZ 9 den Ball noch zu SCHWARZ 8 spielen, der ein Tor erzielt. Der Schiedsrichter will nun WEISS 4 nachträglich bestrafen. WEISS 4 sitzt allerdings bereits auf der Auswechselbank. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 4; Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 4 darf in den nächsten zwei Minuten nicht mitspielen, aber seine Mannschaft bleibt auf der Spielfläche vollständig.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Keine Bestrafung mehr möglich",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 4 (rote Karte); Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "16:3b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.21",
+      "Phrase": "Wann ist ein Spieler zu disqualifizieren (rote oder rote und blaue Karte)?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bei grob unsportlichem Verhalten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bei Verhinderung einer klaren Torchance durch absichtliche Fußabwehr eines Wurfes oder Passes",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bei fehlerhaftem Wechseln während einer Hinausstellungszeit (keine klare Torchance)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn er den Ball bei einer Freiwurfentscheidung gegen seine Mannschaft nicht sofort niederlegt (nicht in den letzten 30 Sekunden)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "8:8b",
+        "8:8f",
+        "8:9",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.22",
+      "Phrase": "Team SCHWARZ befindet sich im Angriff. WEISS 11 trennt SCHWARZ 6 durch eine Regelwidrigkeit, die die Gesundheit des Gegenspielers gefährdet, vom Ball. Zwischen SCHWARZ 6 und dem Tor standen noch zwei weitere Spieler von Team WEISS. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 11 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "16:6a",
+        "Clarification 6"
+      ]
+    },
+    {
+      "QuestionNumber": "8.23",
+      "Phrase": "Welche der folgenden Vergehen sind laut Regelwerk mit einer Disqualifikation und schriftlichem Bericht (rote und blaue Karte) zu ahnden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Unerlaubtes Betreten der Spielfläche durch einen Offiziellen ab dem zweiten Mal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Aufforderung zum Spielabbruch durch einen Offiziellen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn ein 7-Meter-Werfer den Kopf des Torwarts trifft, wobei der Torwart seinen Kopf nicht in Richtung des Balls bewegt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn ein Spieler den Ball nach einer Schiedsrichterentscheidung demonstrativ auf die Tribüne wirft",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wenn ein Spieler außerhalb der Spielfläche einen Zuschauer anspuckt",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.24",
+      "Phrase": "WEISS 3 ist wegen regelwidrigen Verhaltens hinausgestellt worden und befindet sich auf der Auswechselbank. Als in der Nähe ein Einwurf ansteht, ruft er dem Schiedsrichter beleidigende Worte zu. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 3 ohne schriftlichen Bericht (rote Karte); Team WEISS wird auf der Spielfläche direkt im Anschluss um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 3, schriftlicher Bericht (rote und blaue Karte); Team WEISS wird auf der Spielfläche direkt im Anschluss um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:8"
+      ]
+    },
+    {
+      "QuestionNumber": "8.25",
+      "Phrase": "Aus Enttäuschung über einen misslungenen Spielzug ohrfeigt WEISS 3 einen Mitspieler. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Bestrafung, weil es sich um einen Mitspieler handelt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 3 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 3, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:6b",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.26",
+      "Phrase": "Beim Betreten der Halle begegnen die Schiedsrichter dem bereits umgezogenen SCHWARZ 4, der sofort ruft: „Aber nicht schon wieder diese Idioten!“ Die Schiedsrichter stellen vor Spielbeginn fest, dass SCHWARZ 4 im Spielprotokoll eingetragen ist. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 4 zu Beginn des Spiels",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 4 ohne schriftlichen Bericht (rote Karte); Team SCHWARZ wird auf der Spielfläche zu Beginn des Spiels zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 4, schriftlicher Bericht (rote und blaue Karte); Team SCHWARZ darf im Spiel 16 Spieler einsetzen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 4, schriftlicher Bericht (rote und blaue Karte); Team SCHWARZ darf im Spiel 16 Spieler einsetzen, wird aber auf der Spielfläche zu Beginn des Spiels zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:11b",
+        "17:10"
+      ]
+    },
+    {
+      "QuestionNumber": "8.27",
+      "Phrase": "Beim Aufwärmen vor dem Spiel prallen WEISS 3 und Torwart SCHWARZ 1 unbeabsichtigt zusammen. Die beiden Spieler beschimpfen sich. Torwart SCHWARZ 1 ohrfeigt WEISS 3, der sofort zurückschlägt. Beide Spieler sind im Spielprotokoll eingetragen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von SCHWARZ 1 mit schriftlichem Bericht (rote Karte) und Hinausstellung von WEISS 3; beide Mannschaften dürfen jeweils 16 Spieler einsetzen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 1 und WEISS 3 mit schriftlichem Bericht (rote und blaue Karte); beide Mannschaften dürfen jeweils 16 Spieler einsetzen, werden aber auf der Spielfläche die ersten zwei Minuten um jeweils einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von SCHWARZ 1 und WEISS 3, die zu Beginn des Spiels abgesessen werden muss. Ein schriftlicher Bericht ist erforderlich.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 1 und WEISS 3 mit schriftlichem Bericht (rote und blaue Karte); beide Mannschaften dürfen jeweils 16 Spieler einsetzen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6a",
+        "16:11b",
+        "17:10"
+      ]
+    },
+    {
+      "QuestionNumber": "8.28",
+      "Phrase": "WEISS 9 setzt zum Sprungwurf an. SCHWARZ 5 greift ihm von hinten in den Wurfarm und zieht WEISS 9 nach hinten weg. Zwischen WEISS 9 und dem Tor stehen noch zwei weitere Abwehrspieler. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 5 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von SCHWARZ 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von SCHWARZ 5, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.29",
+      "Phrase": "Welche der folgenden Vergehen sind mit einer Disqualifikation (rote Karte) zu ahnden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Unerlaubtes Betreten der Spielfläche durch einen Offiziellen ab dem zweiten Mal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ein Spieler in Ballbesitz läuft einen Gegenstoß und wird dabei umgerissen. Die Situation ist nicht besonders gefährlich.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf in das Gesicht des sich nicht in Richtung Ball bewegenden Torwarts",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ein Spieler wirft den Ball aus Protest gegen eine Schiedsrichter-Entscheidung auf die Tribüne.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Der Torwart verlässt den Torraum und kommt in Ballbesitz, verursacht aber einen Zusammenprall mit dem Gegenspieler, der einen Gegenstoß läuft.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:9a",
+        "8:9d",
+        "16:6a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.30",
+      "Phrase": "Nach seiner dritten Hinausstellung wird WEISS 9 disqualifiziert. Noch in Sportkleidung setzt er sich in die erste Zuschauerreihe hinter der Seitenlinie gegenüber den Auswechselbereichen. Direkt vor ihm begeht SCHWARZ 3 ein besonders grobes Foul an WEISS 10, der verletzt liegen bleibt. Bevor die Schiedsrichter eine Strafe aussprechen können, läuft WEISS 9 auf die Spielfläche und schlägt SCHWARZ 3 nieder. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 3, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 9 ist nicht mehr am Spiel beteiligt, weshalb keine Meldung erforderlich ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Schriftlicher Bericht über das Verhalten von WEISS 9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von SCHWARZ 3 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Nach Behandlung auf der Spielfläche muss WEISS 10 die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "4:11",
+        "8:6a",
+        "16:6a",
+        "17:2",
+        "17:10"
+      ]
+    },
+    {
+      "QuestionNumber": "8.31",
+      "Phrase": "Wann ist eine Verwarnung erforderlich?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bei einer Regelwidrigkeit, die sich hauptsächlich oder ausschließlich gegen den Körper des Gegenspielers richtet",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bei einer Regelwidrigkeit während der Ausführung eines formellen Wurfs durch die gegnerische Mannschaft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn der Ball bei einer Entscheidung gegen die eigene Mannschaft nicht auf den Boden gelegt wird",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Beim Versuch eines Torwarts, einen Wechsel vorzunehmen, wenn der Werfer zum 7-Meter-Wurf bereit ist",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "8:7c",
+        "8:8b",
+        "14:10",
+        "16:1b",
+        "16:3c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.32",
+      "Phrase": "Was ist als unsportliches Verhalten zu bewerten?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Treffen des Kopfes eines sich nicht in Richtung Ball bewegenden Abwehrspielers",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Passives Verhalten des Torwarts bei der Ausführung eines 7-Meter-Wurfs, wenn davon auszugehen ist, dass er den Wurf nicht abwehren will",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Versuch, die Schiedsrichter durch Schauspielerei zu irritieren",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Aktives Blocken von Würfen durch das Benutzen von Füßen und Unterschenkeln",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wiederholtes Betreten des Torraumes aus taktischen Gründen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Revanchefoul nach einem Vergehen",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:7"
+      ]
+    },
+    {
+      "QuestionNumber": "8.33",
+      "Phrase": "In welchen Situationen ist eine Disqualifikation mit einem schriftlichen Bericht (rote und blaue Karte) verbunden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tätlichkeit auf der Spielfläche während der Halbzeitpause",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bei besonders rücksichtslosen oder gefährlichen Vergehen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Revanchefoul nach einem Vergehen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Eine arglistige Aktion, die ohne Bezug zu einer Spielhandlung erfolgt",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:6",
+        "8:9f"
+      ]
+    },
+    {
+      "QuestionNumber": "8.34",
+      "Phrase": "Es erfolgt ein Anwurf für Team WEISS. Der Anpfiff ist erfolgt, der Ball hat die Hand des anwerfenden Spielers WEISS 9 aber noch nicht verlassen. WEISS 3 läuft nach dem Pfiff schnell über die Mittellinie, wird aber von seinem Gegenspieler SCHWARZ 5 von hinten so zu Boden gezogen, dass er die Körperkontrolle völlig verliert. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 5 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Anwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation von SCHWARZ 5, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "13:1b",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.35",
+      "Phrase": "SCHWARZ 8 wurde infolge eines Wechselfehlers hinausgestellt. Zwei Sekunden nach Wiederanpfiff äußert er sich auf der Bank in unsportlicher Weise gegenüber den Schiedsrichtern. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Erneute Hinausstellung von SCHWARZ 8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 8 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche eine Minute und 58 Sekunden lang um zwei Spieler und im Anschluss zwei Sekunden lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche die nächsten zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:7a",
+        "16:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "8.36",
+      "Phrase": "Torwart WEISS 1 wirft einen langen Pass auf WEISS 15, der alleine auf das gegnerische Tor zuläuft. Torwart SCHWARZ 12 verlässt seinen Torraum, springt ab, fängt den Ball und prallt in der Luft mit WEISS 15 zusammen. Beide Spieler fallen zu Boden und bleiben verletzt liegen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out, Hinausstellung von WEISS 15",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out, Hinausstellung von SCHWARZ 12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out, Disqualifikation von SCHWARZ 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:5 comment",
+        "14:1a",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.37",
+      "Phrase": "Team SCHWARZ ist in Ballbesitz. Der Delegierte unterbricht das Spiel, weil Offizieller A von Team SCHWARZ wegen eines nicht geahndeten Fouls einen Stuhl auf die Spielfläche geworfen hat. Gegen die Offiziellen von Team SCHWARZ wurden bisher keine Strafen ausgesprochen. Im Moment des Abpfiffs bot sich SCHWARZ 7 eine klare Torchance. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung des Trainers von Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Trainers von Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation des Trainers von Team SCHWARZ ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation des Trainers von Team SCHWARZ, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.38",
+      "Phrase": "Offizieller A von Team WEISS reagiert auf eine Entscheidung der Schiedsrichter gegen seine Mannschaft mit lautstarken Protesten und ruft: „Ihr seid doch Idioten“. Gegen einen anderen Offiziellen von Team WEISS wurde zehn Minuten zuvor bereits eine Verwarnung ausgesprochen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung des Offiziellen A von Team WEISS wegen unsportlichen Verhaltens",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Offiziellen A von Team WEISS und 2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation des Offiziellen A von Team WEISS, schriftlicher Bericht (rote und blaue Karte) und 2-Minuten-Reduzierung von Team WEISS auf der Spielfläche um einen Spieler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:7a",
+        "8:10a",
+        "16:6b",
+        "16:8",
+        "Substitution Area Regulations 5"
+      ]
+    },
+    {
+      "QuestionNumber": "8.39",
+      "Phrase": "Torwart WEISS 1 will einen Abwurf ausführen. Gegenspieler SCHWARZ 3 betritt zum wiederholten Mal den Torraum und versucht ohne Körperkontakt, den Abwurf zu verhindern. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS mit Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team WEISS mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verwarnung von SCHWARZ 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von SCHWARZ 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:7c",
+        "12:2",
+        "15:4",
+        "15:9",
+        "16:1b",
+        "16:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "8.40",
+      "Phrase": "WEISS 4 berührt den im gegnerischen Torraum rollenden Ball. In diesem Moment wird er von SCHWARZ 6 zu Boden gestoßen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressive Bestrafung von SCHWARZ 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "8:2",
+        "8:3",
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "8.41",
+      "Phrase": "WEISS 7 verbüßt wegen unsportlichen Verhaltens seine erste Zeitstrafe. Zehn Sekunden nach Wiederanpfiff gestikuliert er auf der Bank heftig, um zu zeigen, dass er mit den Schiedsrichtern nicht einverstanden ist. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 7 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für WEISS 7 (muss insgesamt vier Minuten lang auf der Bank bleiben)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Weitere Hinausstellung für WEISS 7; Team WEISS wird auf der Spielfläche zunächst eine Minute und 50 Sekunden lang um zwei Spieler und im Anschluss zehn Sekunden lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung, da die progressive Bestrafung auf der Bank anders zu behandeln ist als eine Bestrafung auf der Spielfläche",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:8a",
+        "16:3f"
+      ]
+    },
+    {
+      "QuestionNumber": "8.42",
+      "Phrase": "WEISS 6 wird von SCHWARZ 3 regelwidrig gestoßen und spuckt demonstrativ vor SCHWARZ 3 auf den Boden. Wie ist WEISS 6 zu bestrafen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressiv",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation ohne schriftlichen Bericht (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:9",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.43",
+      "Phrase": "Torwart WEISS 12 läuft aus seinem Torraum dem im Gegenstoß laufenden Spieler SCHWARZ 10 entgegen. WEISS 12 erreicht SCHWARZ 10 seitlich und hält ihn fest, wobei SCHWARZ 10 den Ball fangen kann und ihn ins leere Tor wirft. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Anwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4b",
+        "9:1",
+        "10:2",
+        "16:3c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.44",
+      "Phrase": "Torwart WEISS 12 spielt einen langen Pass zu dem im Gegenstoß laufenden WEISS 4. Dieser springt, erreicht den Ball und stößt mit Torwart SCHWARZ 1 zusammen, der seinen Torraum verlassen hat, um den Gegenstoß zu verhindern. Im Augenblick des Zusammenpralls steht SCHWARZ 4 an der 9-Meter-Linie. Nach dem Zusammenprall verliert WEISS 4 die Körperkontrolle und fällt zu Boden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Stürmerfoul: Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung gegen SCHWARZ 1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von SCHWARZ 1 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:5 comment",
+        "14:1a",
+        "16:6a",
+        "Clarification 6c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.45",
+      "Phrase": "Welche der folgenden Vergehen sind laut Regelwerk mit Disqualifikation und schriftlichem Bericht (rote und blaue Karte) zu bestrafen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Spieler spuckt einen Gegenspieler an.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ein Offizieller versucht, seine Mannschaft dazu zu bewegen, das Spiel abzubrechen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn ein 7-Meter-Werfer den Kopf des Torwarts trifft, ohne dass der Torwart seinen Kopf in Richtung Ball bewegt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Nach einer Schiedsrichterentscheidung wirft ein Spieler den Ball demonstrativ auf die Tribüne.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Ein Spieler spuckt außerhalb der Spielfläche einen Zuschauer an.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Ein Spieler schlägt einen Gegenspieler absichtlich in den Magen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:9a",
+        "8:10a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.46",
+      "Phrase": "Spielzeit: 59:26. Spieler SCHWARZ 10 befindet sich allein im Gegenstoß. Bei der Annahme des Passes von seinem Mitspieler stößt SCHWARZ 10 mit Torwart WEISS 1 zusammen, der seinen Torraum verlassen hat. Bevor SCHWARZ 10 zu Boden geht, gelingt ihm ein Pass zu SCHWARZ 7, der auf das leere Tor wirft, aber nicht trifft. Die Schiedsrichter unterbrechen das Spiel mit Time-out. Spielzeit: 59:31. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Rote Karte für WEISS 1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Blaue Karte für WEISS 1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Abwurf",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:5 Comment 2nd paragraph",
+        "14:1",
+        "14:2",
+        "Guidelines"
+      ]
+    },
+    {
+      "QuestionNumber": "8.47",
+      "Phrase": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. SCHWARZ 5 fängt einen Pass ab und gelangt in Ballbesitz. Er setzt sofort zum Torwurf an. WEISS 2 will SCHWARZ 5 am Torwurf hindern, indem er versucht, ihm den Ball aus der Hand zu spielen. Dabei schlägt er gegen den Unterarm von SCHWARZ 5, sodass sein Wurf das Tor verfehlt. Team WEISS erhielt zuvor bereits drei Verwarnungen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "8:1",
+        "8:2",
+        "14:1a",
+        "Clarification 6c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.48",
+      "Phrase": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. SCHWARZ 5 fängt einen Pass ab und gelangt in Ballbesitz. Er setzt sofort zum Torwurf an. WEISS 2 will SCHWARZ 5 am Torwurf hindern, indem er ihn zu Boden zieht. Der Wurf verfehlt das Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:1",
+        "8:4b",
+        "14:1a",
+        "16:3c",
+        "Clarification 6c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.49",
+      "Phrase": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. WEISS 4 wirft auf das Tor, aber Torwart SCHWARZ 1 wehrt den Ball ab. SCHWARZ 1 passt den Ball zu SCHWARZ 9. Als Torwart WEISS 12 seinen Torraum betritt, setzt SCHWARZ 9 zum Torwurf an, wird aber durch ein Foul von WEISS 2 gestört. Der Ball geht über die Torauslinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "8:2",
+        "13:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "8.50",
+      "Phrase": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. WEISS 4 wirft auf das Tor, aber Torwart SCHWARZ 1 wehrt den Ball ab. SCHWARZ 1 steht nun mit dem Ball in der Hand in seinem Torraum und ist bereit zum Abwurf. In diesem Moment unterbricht der Delegierte das Spiel aufgrund eines Wechselfehlers: Torwart WEISS 1 hat das Spielfeld betreten, bevor WEISS 7 das Spielfeld verlassen hatte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team SCHWARZ nach Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung von WEISS 1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Hinausstellung von WEISS 7",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:1",
+        "4:4-6",
+        "12:1 (II)",
+        "15:9"
+      ]
+    },
+    {
+      "QuestionNumber": "8.51",
+      "Phrase": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. WEISS 4 wirft auf das Tor, aber Torwart SCHWARZ 12 wehrt den Ball ab. SCHWARZ 12 passt den Ball zu SCHWARZ 9, der auf das Tor wirft. Feldspieler WEISS 10 betritt den eignen Torraum und kann den Ball abwehren. Der Ball geht über die Torauslinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung von WEISS 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung von WEISS 10",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "8:8i",
+        "14:1a",
+        "16:3f"
+      ]
+    },
+    {
+      "QuestionNumber": "8.52",
+      "Phrase": "Team WEISS spielt mit sieben Feldspielern und befindet sich im Angriff. WEISS 6 wirft auf das Tor, aber Torwart SCHWARZ 1 wehrt den Ball ab. SCHWARZ 1 wirft sofort auf das leere Tor, doch der Ball geht am Tor vorbei über die Torauslinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Um den Spielfluss nicht zu unterbrechen, kann der Abwurf von einem beliebigen auf dem Spielfeld befindlichen Spieler von Team WEISS ausgeführt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS muss wechseln, damit sich ein Torwart auf dem Spielfeld befindet, der den Abwurf ausführen kann.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out ist obligatorisch",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:1",
+        "12:1",
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "8.53",
+      "Phrase": "Team SCHWARZ spielt mit sieben Feldspielern. SCHWARZ 5 wirft auf das Tor, aber Torwart WEISS 1 wehrt den Ball ab. WEISS 1 wirft auf das leere Tor von Team SCHWARZ. Gleichzeitig begeht Torwart SCHWARZ 12 einen Wechselfehler, indem er das Spielfeld betritt, bevor SCHWARZ 7 dieses verlassen hat. Mit einem Pfiff unterbricht der Delegierte sofort das Spiel. Unmittelbar nach dem Pfiff überquert der Ball die Torauslinie von Team SCHWARZ. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Der Delegierte hätte warten sollen, bis die klare Torgelegenheit vorbei ist, bevor er das Spiel unterbricht.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:4-5",
+        "13:1b",
+        "Guideline rule 13:2"
+      ]
+    },
+    {
+      "QuestionNumber": "8.54",
+      "Phrase": "Team SCHWARZ spielt mit sieben Feldspielern. SCHWARZ 6 wirft auf das Tor, aber Torwart WEISS 1 wehrt den Ball ab. WEISS 1 wirft auf das leere Tor von Team SCHWARZ. Gleichzeitig begeht Torwart SCHWARZ 12 einen Wechselfehler, indem er das Spielfeld betritt, bevor SCHWARZ 7 dieses verlassen hat. Mit einem Pfiff unterbricht der Delegierte sofort das Spiel. Unmittelbar nach dem Pfiff überquert der Ball die Torlinie und landet im Tor von Team SCHWARZ. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Der Delegierte hätte warten sollen, bis die klare Torgelegenheit vorbei ist, bevor er das Spiel unterbricht.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:1",
+        "4:4-5",
+        "14:1",
+        "Guideline rule 13:2"
+      ]
+    },
+    {
+      "QuestionNumber": "8.55",
+      "Phrase": "Team SCHWARZ spielt mit sieben Feldspielern. WEISS 9 fängt den Ball ab und trifft ins leere Tor von Team SCHWARZ. Der Ball bleibt im Torraum liegen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team WEISS und Anwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Im Zuge eines regulären Wechsels muss ein Torwart das Spielfeld betreten, um den Ball im Torraum aufzunehmen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Ball kann von einem beliebigen Feldspieler von Team SCHWARZ aufgenommen werden.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:1"
+      ]
+    },
+    {
+      "QuestionNumber": "8.56",
+      "Phrase": "Sechs Sekunden vor Spielende lautet der Spielstand 27:27. Team WEISS befindet sich im Angriff. WEISS 7 will Kreisspieler WEISS 3 anspielen. SCHWARZ 7 fängt den Ball ab. In diesem Moment wird er von WEISS 3 zu Boden gezogen. Eine Sekunde später endet das Spiel mit dem Schlusssignal der öffentlichen Zeitmessanlage. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Spiel ist zu Ende.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 3 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation von WEISS 3 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:4b",
+        "13:1b",
+        "16:3c"
+      ]
+    },
+    {
+      "QuestionNumber": "8.57",
+      "Phrase": "Zehn Sekunden vor Spielende lautet der Spielstand 27:27. Team WEISS befindet sich im Angriff. SCHWARZ 5 fängt den Ball ab und leitet einen Gegenstoß ein. Kurz darauf wird er von WEISS 11 von hinten angegriffen, der ihn gefährlich stößt. SCHWARZ 5 verliert die Körperkontrolle. Bevor die Schiedsrichter diese Regelwidrigkeit pfeifen, ertönt das Schlusssignal der öffentlichen Zeitmessanlage. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Spiel ist zu Ende.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 11 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation von WEISS 11 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "8:5a",
+        "8:11b",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.58",
+      "Phrase": "Spielzeit: 59:27. SCHWARZ 10 befindet sich in Ballbesitz und führt einen Sprungwurf aus. WEISS 2 stößt ihn dabei so stark in die Brust, dass er vollständig die Körperkontrolle verliert und mit dem Ball auf den Boden stürzt. Der Schiedsrichter pfeift, und die Uhr wird bei 59:31 angehalten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 2 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5a",
+        "13:1b",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.59",
+      "Phrase": "15 Sekunden vor Spielende befindet sich Team SCHWARZ in Ballbesitz. Die Schiedsrichter entscheiden auf Freiwurf für Team SCHWARZ an der Mittellinie. Bevor SCHWARZ 7 den Freiwurf ausführen kann, wird er von WEISS 2 geblockt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Korrektur und Wiederholung des Freiwurfs für Team SCHWARZ nach Wiederanpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 2 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation von WEISS 2 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.60",
+      "Phrase": "Team SCHWARZ befindet sich im Angriff. Drei Sekunden vor Spielende entscheiden die Schiedsrichter auf Freiwurf für Team SCHWARZ an der Freiwurflinie. SCHWARZ 10 befindet sich in korrekter Position und kann den Freiwurf direkt auf das Tor ausführen. Doch einen Meter von SCHWARZ 10 entfernt steht WEISS 5 und blockt den Torwurf. Im Anschluss ertönt das Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 5 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ nach Wiederanpfiff",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:7c",
+        "8:11a",
+        "15:7",
+        "15:9",
+        "16:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "8.61",
+      "Phrase": "Team SCHWARZ befindet sich im Angriff. Drei Sekunden vor Spielende entscheiden die Schiedsrichter auf Freiwurf für Team SCHWARZ an der Freiwurflinie. SCHWARZ 10 befindet sich in korrekter Position, um den Freiwurf direkt auf das Tor auszuführen. Bevor SCHWARZ 10 werfen kann, wird er von WEISS 5 daran gehindert. Dieser bewegt sich bis auf einen Meter auf ihn zu. Dabei springt er vor ihm auf und bewegt seine erhobenen Arme. Das Schlusssignal ertönt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 5 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.62",
+      "Phrase": "19 Sekunden vor Spielende versucht WEISS 2, die gegnerische Abwehr zu durchbrechen. Doch aufgrund eines Schrittfehlers erfolgt ein Pfiff der Schiedsrichter. WEISS 2 wirft nach dem Pfiff der Schiedsrichter auf das Tor. Torwart SCHWARZ 12 fängt den Ball und kann nun einen Gegenstoß einleiten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 2 (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.63",
+      "Phrase": "Der Spielstand ist 28:26 für Mannschaft WEISS. Es sind noch 25 Sekunden zu spielen. Mannschaft SCHWARZ erzielt ein Tor. Der Torwart WEISS 12 schießt danach den Ball absichtlich mit dem Fuß in den Zuschauerbereich. Es ist klar, dass er damit das Spiel verzögern möchte, damit der Anwurf nicht unverzüglich ausgeführt werden kann. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Anwurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung für WEISS 12",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation ohne Bericht für WEISS 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualifikation mit Bericht für WEISS 12",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:9",
+        "10:2"
+      ]
+    },
+    {
+      "QuestionNumber": "8.64",
+      "Phrase": "Der Spielstand ist 25:25 und es sind noch 3 Sekunden zu spielen. Mannschaft WEISS ist im Angriff. SCHWARZ 5 verursacht einen Freiwurf für WEISS 2 an der Freiwurflinie. Kurz darauf ertönt das Schlusssignal. Die Schiedsrichter pfeifen den nach dem Schlusssignal noch auszuführenden Freiwurf an. Bevor der Ball die Hand des Werfers verlassen hat, geht SCHWARZ 6 vorwärts und blockt, zu nahe stehend, den Ball. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Spiel ist aus.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Freiwurf muss wiederholt werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für SCHWARZ 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 6",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "2:5",
+        "2:6",
+        "15:2",
+        "15:4",
+        "15:9",
+        "16:3"
+      ]
+    },
+    {
+      "QuestionNumber": "8.65",
+      "Phrase": "Mannschaft WEISS spielt ohne Torwart, mit 7 Feldspielern. SCHWARZ 5 fängt einen Pass ab und läuft mit dem Ball in Richtung des leeren Tores von Mannschaft WEISS. Der Torwart WEISS 12 betritt die Spielfläche nach einem korrekten Wechselvorgang und läuft in die gleiche Richtung wie SCHWARZ 5. Im Moment als SCHWARZ 5 auf das Tor wirft, stößt WEISS 12 den Gegner SCHWARZ 5 von der Seite, sodass dieser die Körperkontrolle teilweise verliert und der Wurf das Tor verfehlt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für WEISS 12",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation ohne Bericht für WEISS 12",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5 comments and Guideline",
+        "14:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.66",
+      "Phrase": "Der Spielstand ist 26:26 und es sind noch 4 Sekunden zu spielen. Mannschaft WEISS ist im Angriff. WEISS 4 erhält einen Freiwurf. WEISS 4 führt den Freiwurf umgehend aus. Der Ball wird aber von SCHWARZ 5, der zu nahe steht, aktiv geblockt. Zur selben Zeit ertönt das Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Freiwurf muss wiederholt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für SCHWARZ 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 5",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:11a and Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "8.67",
+      "Phrase": "Der Spielstand ist 26:26 und es sind noch 4 Sekunden zu spielen. Mannschaft WEISS ist im Angriff. SCHWARZ 5 verursacht einen Freiwurf für WEISS 6. SCHWARZ 5 begibt sich umgehend in einen korrekten Abstand. WEISS 6 führt den Freiwurf aus und trifft SCHWARZ 5, der keine aktive Aktion gemacht hat. Der Ball prallt zu WEISS 6 zurück. Zur selben Zeit ertönt das Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine weitere Aktion, Spiel ist zu Ende",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Freiwurf muss wiederholt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für SCHWARZ 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 5",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "2:4",
+        "Guideline 8:11a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.68",
+      "Phrase": "Der Spielstand ist 29:29 und es sind noch 20 Sekunden zu spielen. Der Torwart WEISS 12 wehrt einen Wurf auf sein Tor ab und der Ball geht über die Torauslinie. Die Schiedsrichter entscheiden auf Abwurf für Mannschaft WEISS. WEISS 12 will den Abwurf schnell ausführen. SCHWARZ 2 läuft in den Torraum und verhindert die Ausführung des Abwurfes. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Mannschaft WEISS mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft WEISS mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung für SCHWARZ 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualifikation mit Bericht für SCHWARZ 2",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a",
+        "New Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "8.69",
+      "Phrase": "Der Spielstand ist 29:29, und es sind noch 20 Sekunden zu spielen. Der Torwart WEISS 12 wehrt einen Wurf auf sein Tor ab, und der Ball geht über die Torauslinie. Die Schiedsrichter entscheiden auf Abwurf für Mannschaft WEISS. WEISS 12 ist zur Ausführung des Abwurfs bereit. Bevor der Ball die Hand verlassen hat, pfeift der Zeitnehmer einen Wechselfehler von Mannschaft SCHWARZ. SCHWARZ 3 hatte die Spielfläche betreten, bevor SCHWARZ 11 sie verlassen hatte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Mannschaft WEISS nach Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft WEISS am Auswechselraum von Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung für SCHWARZ 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 3",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a",
+        "New Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "8.70",
+      "Phrase": "Der Spielstand ist 29:29, und es sind noch 20 Sekunden zu spielen. Torwart WEISS 12 wehrt einen Wurf auf sein Tor ab, und der Ball geht über die Torauslinie. Die Schiedsrichter entscheiden auf Abwurf für Mannschaft WEISS. WEISS 12 führt den Wurf aus und passt zu WEISS 9, der unmittelbar außerhalb des Torraums steht. Bevor der Ball die Torraumlinie überquert hat, ertönt ein Pfiff des Zeitnehmers wegen eines Wechselfehlers von Mannschaft SCHWARZ. SCHWARZ 3 hatte die Spielfläche betreten, bevor SCHWARZ 11 sie verlassen hatte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS am Auswechselraum von Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für SCHWARZ 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 3",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11a",
+        "New Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "8.71",
+      "Phrase": "Der Spielstand ist 29:29, und es sind noch 10 Sekunden zu spielen. Mannschaft WEISS ist in einem Tempogegenstoß. SCHWARZ 10 attackiert WEISS 9 in gesundheitsgefährdender Weise. Bevor WEISS 9 fällt, spielt er den Ball zu WEISS 11. WEISS 11 wirft auf das Tor, aber Torwart SCHWARZ 12 kann den Wurf abwehren. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung für SCHWARZ 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5",
+        "8:11b",
+        "14:2",
+        "New Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "8.72",
+      "Phrase": "Der Spielstand ist 29:29, und es sind noch 10 Sekunden zu spielen. Mannschaft WEISS ist in einem Tempogegenstoß. SCHWARZ 10 attackiert WEISS 9 in gesundheitsgefährdender Weise. Bevor WEISS 9 fällt, spielt er den Ball zu WEISS 11. WEISS 11 erzielt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung für SCHWARZ 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:5",
+        "8:11b",
+        "14:2",
+        "New Guideline"
+      ]
+    },
+    {
+      "QuestionNumber": "8.73",
+      "Phrase": "Der Spielstand ist 29:29, und es sind noch 10 Sekunden zu spielen. Mannschaft WEISS ist in einem Tempogegenstoß. SCHWARZ 10 attackiert WEISS 9 in gesundheitsgefährdender Weise. Bevor WEISS 9 fällt, spielt er den Ball zu WEISS 11. WEISS 11 spielt den Ball zu WEISS 4. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung für SCHWARZ 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Schiedsrichter pfeift nach dem Pass von WEISS 11 zu WEISS 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:11b",
+        "Guidelines",
+        "14:2"
+      ]
+    },
+    {
+      "QuestionNumber": "8.74",
+      "Phrase": "WEISS 7 befindet sich in einem Gegenstoß. Er hat eine klare Torchance und wirft ungehindert aufs Tor. Der Ball trifft Torwart SCHWARZ 12 am Kopf, der dann zu Boden fällt. Der abprallende Ball wird von WEISS 9 aufgenommen, der eine klare Torchance an der Torraumlinie von Mannschaft SCHWARZ hat. In diesem Moment unterbrechen die Schiedsrichter das Spiel, um eine medizinische Behandlung für Torwart SCHWARZ 12 zu fordern. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung für WEISS 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf Mannschaft SCHWARZ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Keine Strafe für WEISS 7.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Torwart SCHWARZ 12 muss das Spielfeld verlassen und darf erst wieder eingewechselt werden, wenn seine Mannschaft 3 Angriffe abgeschlossen hat.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Time-out.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "13:1a",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "8.75",
+      "Phrase": "Mannschaft WEISS führt 7 Sekunden vor Spielende mit einem Tor Vorsprung. Die Mannschaft WEISS ist bereit, einen Anwurf aus der Anwurfzone auszuführen, und die Schiedsrichter pfeifen den Anwurf an. Anstatt den Ball einem Mitspieler zuzuspielen, legt WEISS 7 den Ball innerhalb der Anwurfzone auf den Boden und geht weg. Kein Mitspieler ist daran interessiert, die Anwurfzone zu betreten, um den Ball aufzuheben. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Korrektur des Anwurfs.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter müssen 3 Sekunden nach dem Anpfiff zur Ausführung des Anwurfs warten, bevor sie einen Freiwurf für Mannschaft SCHWARZ geben.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für WEISS 7.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.76",
+      "Phrase": "SCHWARZ 8 gelingt ein Durchbruch gegen die Abwehr von WEISS und hat keine Spieler zwischen sich und dem Torwart WEISS 1. Als er auf das Tor werfen will, wird er von WEISS 7 von der Seite gestoßen. Auch wenn SCHWARZ 8 teilweise die Körperkontrolle verliert, kann er hart auf das Tor werfen. Der Ball trifft den Kopf von Torwart WEISS 1, ändert die Richtung und geht ins Tor. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für SCHWARZ 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für WEISS 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4",
+        "8:8d",
+        "13:2"
+      ]
+    },
+    {
+      "QuestionNumber": "8.77",
+      "Phrase": "Der Kreisläufer SCHWARZ 8 erhält den Ball. Als er versucht, sich in Richtung Tor zu drehen, wird er von WEISS 7 stark festgehalten und heruntergezogen. Er erlangt jedoch wieder die volle Körperkontrolle. Ohne dass ein Spieler zwischen ihm und dem Torwart steht, springt er in den Torraum. Er wirft hart und unter voller Körperkontrolle. Der Ball trifft den Torwart WEISS 1 am Kopf. Der erste Kontakt mit dem Ball erfolgt am Kopf. Der Ball ändert seine Richtung und geht ins Tor. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung für SCHWARZ 8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Hinausstellung für WEISS 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:4",
+        "8:8d",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.78",
+      "Phrase": "Außenspieler SCHWARZ 3 hat eine klare Torchance und wirft aufs Tor. Der Ball berührt/streift den Kopf von Torhüter WEISS 1, ohne die Richtung zu ändern. Der Ball geht ins Tor. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung für SCHWARZ 3.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Progressive Bestrafung für WEISS 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Mannschaft WEISS.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "Clarification 8",
+        "8:8d"
+      ]
+    },
+    {
+      "QuestionNumber": "8.79",
+      "Phrase": "Außenspieler SCHWARZ 3 hat eine klare Torchance und wirft aufs Tor. Der Ball trifft seitlich den Kopf von Torhüter WEISS 1 und ändert die Richtung. Der Kopf ist der erste Kontaktpunkt mit dem Ball. Der Ball geht ins Tor. WEISS 1 fällt zu Boden, hält sich die Hand vor das Gesicht und benötigt offensichtlich medizinische Hilfe. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Schiedsrichter fordern medizinische Hilfe für WEISS 1 an und zeigen dazu erst Handzeichen 15 und dann 16.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für SCHWARZ 3.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung für WEISS 1.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Tor.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Freiwurf für Mannschaft WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Nach der medizinischen Versorgung muss WEISS 1 das Spielfeld verlassen und darf erst wieder eingewechselt werden, wenn seine Mannschaft 3 Angriffe abgeschlossen hat.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "Clarification 8",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "8.80",
+      "Phrase": "10 Sekunden vor Ende des Spiels Mannschaft SCHWARZ ist im Angriff. Während der Ball im Spiel ist, trifft SCHWARZ 10 absichtlich WEISS 7 mit dem Ellbogen im Gesicht. Spieler WEISS 7 fällt zu Boden und bleibt verletzt liegen. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation ohne schriftlichen Bericht für SCHWARZE 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation mit schriftlichem Bericht für SCHWARZE 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit 7-Meter-Wurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Die Schiedsrichter können zwei Personen von Mannschaft WEISS die Erlaubnis erteilen, das Spielfeld zu betreten, um WEISS 7 zu helfen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Nachdem WEISS 7 auf dem Spielfeld medizinisch versorgt wurde, muss WEISS 7 das Spielfeld verlassen und darf erst nach dem dritten Angriff seiner Mannschaft wieder eingewechselt werden.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:11",
+        "8:6",
+        "13:1a",
+        "Clarification 8"
+      ]
+    },
+    {
+      "QuestionNumber": "8.81",
+      "Phrase": "WEISS spiel mit leerem Tor. SCHWARZ 7 fängt einen Pass ab und wirft auf das leere Tor. Spieler WEISS 4 fängt den Ball, während er knapp außerhalb des Torraums läuft. Er ist nicht in der Lage, zu stoppen und betritt den Torraum mit beiden Füßen und dem Ball in den Händen. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung für WEISS 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung für WEISS 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Keine Strafe",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:8i",
+        "14:1"
+      ]
+    }
+  ]
+}

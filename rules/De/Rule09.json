@@ -1,0 +1,314 @@
+{
+  "RuleNumber": "9",
+  "Name": "Torgewinn",
+  "Questions": [
+    {
+      "QuestionNumber": "9.1",
+      "Phrase": "WEISS 7 steht im Abwehrzentrum. SCHWARZ 3 versucht, einen Bodenpass zum Außenspieler zu spielen. WEISS 7 versucht, den Ball zu stoppen, indem er seinen Fuß deutlich anhebt, Dabei geht der Ball vom Fuß ins Tor von Team WEISS. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 7",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "7:8",
+        "9:1",
+        "13:2",
+        "16:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "9.2",
+      "Phrase": "Nach einem Wurf auf das Tor von Team SCHWARZ prallt der Ball vom Torpfosten ab, trifft den Fuß des im Spielfeld stehenden SCHWARZ 3 und springt von dort ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:8",
+        "9:1",
+        "13:2"
+      ]
+    },
+    {
+      "QuestionNumber": "9.3",
+      "Phrase": "Von Torwart WEISS 1 abgewehrt prallt der Ball vom Rücken von WEISS 3, der zwei Meter im Torraum steht, ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung von WEISS 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "6:3b",
+        "9:1",
+        "13:2"
+      ]
+    },
+    {
+      "QuestionNumber": "9.4",
+      "Phrase": "Torwart WEISS 1 hält den Ball, der die Torlinie zu drei Vierteln passiert hat, vier Sekunden auf der Torlinie fest. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "6:4",
+        "9:1",
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "9.5",
+      "Phrase": "WEISS 3 betritt seinen Torraum und versucht, einen Wurf mit dem Fuß abzuwehren. Der Ball prallt von seinem Fuß ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "14:2"
+      ]
+    },
+    {
+      "QuestionNumber": "9.6",
+      "Phrase": "WEISS 11 wirft einen Heber über den gegnerischen Torwart, der weit vor seinem Tor steht. Bevor der Ball die Torlinie überqueren kann, wird er vom Manager von Team SCHWARZ weggestoßen, der in der ersten Zuschauerreihe hinter dem Tor sitzt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation des Managers von Team SCHWARZ mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Schriftlicher Bericht",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "comment"
+      ]
+    },
+    {
+      "QuestionNumber": "9.7",
+      "Phrase": "Ein im Spielprotokoll nicht eingetragener Offizieller von Heim-Team WEISS fängt zwei Sekunden vor Spielschluss beim Stand von 25:25 den auf das leere Tor zufliegenden Ball ab und verhindert so einen Torerfolg von Team SCHWARZ. Unmittelbar danach ertönt das automatische Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Endstand 25:25",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Endstand 25:26",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Offiziellen mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Schriftlicher Bericht",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "comment"
+      ]
+    },
+    {
+      "QuestionNumber": "9.8",
+      "Phrase": "Es kommt zum Tor durch 7-Meter-Wurf von SCHWARZ 9. Team WEISS führt nach Anpfiff der Schiedsrichter einen schnellen Anwurf aus, der nach zwei Pässen zu einem Tor durch WEISS 4 führt. In diesem Augenblick pfeift der Zeitnehmer und meldet, dass SCHWARZ 9, der inzwischen wieder auf der Auswechselbank sitzt, zum Zeitpunkt des 7-Meter-Wurfs noch 20 Sekunden seiner ersten Hinausstellung auf der Bank hätte verbringen müssen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der 7-Meter-Wurf für Team SCHWARZ ist zu wiederholen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "SCHWARZ 9 erhält seine zweite Hinausstellung.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Beide Tore gelten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Beide Tore sind zu annullieren.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:6",
+        "9:1",
+        "9:2",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "9.9",
+      "Phrase": "WEISS 5 führt kurz vor Spielende beim Stand von 22:21 für seine Mannschaft einen Anwurf regelgerecht nach Anpfiff aus, indem er den Ball Richtung eigenes Tor wirft. Torwart WEISS 1 berührt den Ball nicht, da er sich im eigenen Torraum befindet. Der Ball geht ins Tor. Die Mitspieler von WEISS 5 hatten nach dem Anpfiff, aber bevor der Ball gespielt wurde, sprintend die Mittellinie in Richtung gegnerisches Tor weit überschritten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wiederholung des Anwurfs mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Persönliche Strafe gegen WEISS 5",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "15:2"
+      ]
+    },
+    {
+      "QuestionNumber": "9.10",
+      "Phrase": "WEISS 9 versucht, einen Hüftwurf mit dem Bein abzuwehren, indem er den Fuß deutlich anhebt, der Ball geht aber von seinem Fuß ins Tor. Es war der zweite Versuch, einen Wurf mit dem Fuß abzuwehren. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung gegen WEISS 9",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:7e",
+        "9:1",
+        "16:1b"
+      ]
+    }
+  ]
+}

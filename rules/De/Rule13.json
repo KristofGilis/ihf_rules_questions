@@ -1,0 +1,501 @@
+{
+  "RuleNumber": "13",
+  "Name": "Freiwurf",
+  "Questions": [
+    {
+      "QuestionNumber": "13.1",
+      "Phrase": "Es kommt zum Freiwurf für Team WEISS. Bevor WEISS 5 den Ball aufnehmen kann, nimmt SCHWARZ 6 den Ball auf und läuft mit ihm unter dem Arm in Richtung eigenes Tor. Nach einigen Schritten rollt er den Ball WEISS 5 zu. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS mit Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verwarnung von SCHWARZ 6",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "15:5b",
+        "16:3f"
+      ]
+    },
+    {
+      "QuestionNumber": "13.2",
+      "Phrase": "SCHWARZ 7 befindet sich in Ballbesitz und will einen Gegenstoß einleiten, wird aber von WEISS 17 festgehalten. Der Schiedsrichter will gerade pfeifen, als er auf Vorteil erkennt, denn SCHWARZ 8 hat den Ball noch bekommen und wirft auf das Tor. Torwart WEISS 12 hält und will einen Gegenstoß einleiten. Gegen beide Mannschaften wurden bereits je drei Verwarnungen ausgesprochen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 17",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "8:3",
+        "13:2",
+        "16:3b"
+      ]
+    },
+    {
+      "QuestionNumber": "13.3",
+      "Phrase": "Team WEISS erhält einen Freiwurf, als SCHWARZ 6 im Ballbesitz ist. SCHWARZ 6 entfernt sich vier Meter von der Stelle, an der Team WEISS den Freiwurf ausführen müsste. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von SCHWARZ 6",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 6",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 6 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS dort, wo der zum Freiwurf führende Fehler begangen wurde",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team WEISS dort, wo sich der Ball befindet",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "13:6 comment",
+        "16:3f"
+      ]
+    },
+    {
+      "QuestionNumber": "13.4",
+      "Phrase": "Nach einer Freiwurfentscheidung gegen WEISS 4 nimmt dieser den Ball, durchquert den Torraum und legt ihn hin. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 4",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung von WEISS 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "16:3f"
+      ]
+    },
+    {
+      "QuestionNumber": "13.5",
+      "Phrase": "WEISS 5 ist in Ballbesitz, als Offizieller B von Team WEISS lautstark gegen die Schiedsrichter protestiert. Die Schiedsrichter pfeifen, und die Zeit wird angehalten. Die Schiedsrichter verwarnen den Offiziellen. Richtige Spielfortsetzung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ mit Anpfiff in der Nähe des gegnerischen Auswechselraums",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS mit Anpfiff in der Nähe ihres Auswechselraums",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS mit Anpfiff dort, wo sich der Ball bei Spielunterbrechung befand",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einwurf für Team SCHWARZ in der Nähe des gegnerischen Auswechselraums",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "13:1a",
+        "13:6",
+        "16:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "13.6",
+      "Phrase": "Das Spiel wird vom Feldschiedsrichter ohne Regelwidrigkeit einer Mannschaft unterbrochen (kein Time-out). SCHWARZ 13 hat kurz vor dem unterbrechenden Pfiff den Ball in Richtung Tor von Team WEISS geworfen. Der Ball ist noch unterwegs und landet nach dem Pfiff unhaltbar im Tor. Richtige Spielfortsetzung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "13:4a"
+      ]
+    },
+    {
+      "QuestionNumber": "13.7",
+      "Phrase": "WEISS 7 läuft einen Gegenstoß. Ein Spieler von SCHWARZ befindet sich zwischen ihm und dem Torwart, als WEISS 7 auf das Tor wirft und den Torwart SCHWARZ 12 am Kopf trifft. SCHWARZ 12 bricht zusammen. Der Ball prallt zu WEISS 9 zurück, der allein an der Torraumlinie steht. WEISS 9 wirft den Ball in Richtung des leeren Tores. Kurz bevor der Ball die Torlinie überquert, pfeift der Schiedsrichter, um das Spiel zu unterbrechen. Torwart SCHWARZ 12 muss auf der Spielfläche behandelt werden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-m-Wurf für WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS mit Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "SCHWARZ 12 muss die Spielfläche verlassen und darf diese erst wieder nach dem dritten Angriff seiner Mannschaft betreten.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "8:8d",
+        "13:4b",
+        "Clarification 2 and 8"
+      ]
+    },
+    {
+      "QuestionNumber": "13.8",
+      "Phrase": "Team SCHWARZ erhält einen Freiwurf, während WEISS 5 noch in Ballbesitz ist. WEISS 5 bewegt sich in Richtung Schiedsrichter und überreicht diesem höflich den Ball. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 5 und Freiwurf für Team SCHWARZ dort wo sich der Ball befindet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung von WEISS 5 und Freiwurf für Team SCHWARZ dort, wo sich der Ball befindet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 5 und Freiwurf für Team SCHWARZ dort, wo auf Freiwurf erkannt wurde",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung von WEISS 5 und Freiwurf für Team SCHWARZ dort, wo auf Freiwurf erkannt wurde",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:8b",
+        "13:5",
+        "13:6 comment",
+        "16:3f"
+      ]
+    },
+    {
+      "QuestionNumber": "13.9",
+      "Phrase": "Team WEISS begeht einen Wechselfehler, nachdem der Schiedsrichter Team WEISS gerade einen 7-Meter-Wurf zugesprochen hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung gegen Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung des Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "13.10",
+      "Phrase": "Welche der folgenden Aussagen zum Ausführungsort eines Freiwurfs sind richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wird der Ball nach einer Freiwurfentscheidung nicht sofort niedergelegt, darf der Gegner den Wurf dort ausführen, wo sich der Ball befindet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nach einem Wechselfehler darf der Freiwurf statt am Auswechselraum am Ballort ausgeführt werden, wenn dies für die ausführende Mannschaft von Vorteil ist.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bei passivem Spiel wird der Freiwurf immer dort ausgeführt, wo sich der Ball zum Zeitpunkt des Pfiffs befand.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Bei einem Freiwurf an der Mittellinie kann noch ein bis zu 1,50 Meter entfernter Ausführungsort des Freiwurfs toleriert werden.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "13:6",
+        "13:6 comment"
+      ]
+    },
+    {
+      "QuestionNumber": "13.11",
+      "Phrase": "SCHWARZ 11 ist in Ballbesitz und versucht, Abwehrspieler WEISS 2 zu umspielen. Aufgrund eines Pfiffs aus dem Zuschauerbereich bricht WEISS 2 die Verteidigung ab. SCHWARZ 11 kommt frei zum Torwurf. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out, Rücksprache mit Zeitnehmer",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "13:4a"
+      ]
+    },
+    {
+      "QuestionNumber": "13.12",
+      "Phrase": "Team WEISS ist an der Freiwurflinie von Team SCHWARZ in Ballbesitz. Offizieller A von Team SCHWARZ reklamiert so stark gegen eine Schiedsrichterentscheidung, dass es zu einer Spielunterbrechung kommt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Progressive Bestrafung des Offiziellen A von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS am Auswechselraum von Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS an der Freiwurflinie von Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:7",
+        "13:6",
+        "Substitution Area Regulations 5+6"
+      ]
+    },
+    {
+      "QuestionNumber": "13.13",
+      "Phrase": "SCHWARZ 6 wird verwarnt. Beim Anpfiff zum folgenden Freiwurf für Team WEISS übersieht der Feldschiedsrichter WEISS 11, der sich zwischen Freiwurf- und Torraumlinie befindet. WEISS 11 erhält den Ball und hat eine klare Torchance. Der Torschiedsrichter hat die Situation erkannt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wiederholung des Freiwurfs nach Korrektur und Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Torschiedsrichter entscheidet auf Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Torschiedsrichter verwarnt WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "13:7",
+        "15:1",
+        "15:5b"
+      ]
+    },
+    {
+      "QuestionNumber": "13.14",
+      "Phrase": "Mannschaft WEISS ist in Ballbesitz. Mannschaft SCHWARZ hat ihre Abwehrpositionen eingenommen. WEISS 8 läuft nahe der Seitenlinie. WEISS 4 passt den Ball in die Richtung von WEISS 8. WEISS 8 stößt mit einem Fotografen zusammen, der zwischen Tribüne und Spielfeld geht und dabei die Seitenlinie berührt. WEISS 8 kann den Ball nicht fangen und verliert die Körperkontrolle. Bevor die Schiedsrichter das Spiel unterbrechen, überquert der Ball die Seitenlinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Spiel wird mit Einwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Eintrag im Spielbericht",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "13:4"
+      ]
+    },
+    {
+      "QuestionNumber": "13.15",
+      "Phrase": "Mannschaft SCHWARZ ist im Angriff. Die Schiedsrichter entscheiden auf Freiwurf für SCHWARZ 2. Bevor SCHWARZ 2 den Freiwurf ausführen kann, zieht SCHWARZ 11 den Gegenspieler WEISS 8 nach unten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ mit Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung für SCHWARZ 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung für SCHWARZ 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 11",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:3",
+        "8:4",
+        "13:3"
+      ]
+    }
+  ]
+}

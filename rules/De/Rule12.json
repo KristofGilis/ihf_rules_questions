@@ -1,0 +1,326 @@
+{
+  "RuleNumber": "12",
+  "Name": "Abwurf",
+  "Questions": [
+    {
+      "QuestionNumber": "12.1",
+      "Phrase": "Während der Ausführung eines Abwurfs berührt der Torwart von Team WEISS seine Torraumlinie mit einem Fuß. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wiederholung des Abwurfs mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "12.2",
+      "Phrase": "Nach dem Anpfiff eines 7-Meter-Wurfs tritt der Torwart von Team WEISS mit einem Fuß auf die Torwartgrenzlinie. Der Ball geht über das Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wiederholung mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Kein Tor, daher Spielfortsetzung mit Abwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrekte Position des Torwarts",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "12:1",
+        "14:9"
+      ]
+    },
+    {
+      "QuestionNumber": "12.3",
+      "Phrase": "Der Torwart von Team WEISS wehrt ab und wirft sich nach dem rollenden Ball. SCHWARZ 7 steht unbedrängt bereit, den Ball aufzunehmen. Der Torwart von Team WEISS schlägt den Ball im letzten Moment mit der Hand über die eigene Torauslinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "12.4",
+      "Phrase": "Torwart WEISS 12 fällt der Ball beim Abwurfversuch aus der Hand direkt auf den Fuß. Von dort rollt er über die Torraumlinie ins Spielfeld. WEISS 12 läuft dem Ball nach, nimmt ihn auf und geht mit dem Ball in der Hand zurück in seinen Torraum, um erneut abzuwerfen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Korrektur, Abwurf mit Anpfiff",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "12:2",
+        "15:5b"
+      ]
+    },
+    {
+      "QuestionNumber": "12.5",
+      "Phrase": "Wann gilt ein Abwurf als ausgeführt, d. h. wann darf der Ball frühestens von einem Feldspieler gespielt werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Während der Ball sich noch über dem Torraum befindet",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn der Ball die Torraumlinie in Richtung Spielfeld passiert hat",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn der Ball die Hand des Torwarts verlassen hat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn ein Mitspieler des Torwarts den Ball berührt hat",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "12.6",
+      "Phrase": "Torwart WEISS 12 will abwerfen. SCHWARZ 10 versucht, an der Torraumlinie regelgerecht in Ballbesitz zu gelangen. Dies gelingt ihm und er kommt zum Torerfolg. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung von SCHWARZ 10",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "12.7",
+      "Phrase": "Der Torwart von Team WEISS wehrt einen Wurf über die Torauslinie ab. Welche Handzeichen zeigt der Torschiedsrichter?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nr. 8 (Abwurf)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nr. 9 (Freiwurf-Richtung)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Erst Nr. 9, dann Nr. 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Erst Nr. 8, dann Nr. 9",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "12:1 – Hand signals"
+      ]
+    },
+    {
+      "QuestionNumber": "12.8",
+      "Phrase": "Torwart WEISS 1 fällt der Ball beim Abwurf aus der Hand. Der Ball springt in Richtung Spielfeld, wo SCHWARZ 6 ihn erwartet. WEISS 2 hechtet in den Torraum und stößt den in der Luft befindlichen Ball über die Seitenlinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team WEISS nach Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "12.9",
+      "Phrase": "Welche der folgenden Aussagen zum Abwurf sind richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Abwurf gilt als ausgeführt, wenn der Ball die Hand des Torwarts verlassen hat.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Beim Abwurf müssen die Gegenspieler den 3-Meter-Abstand einhalten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Abwurf gilt als ausgeführt, wenn der Ball die Hand des Torwarts verlassen und die Torraumlinie passiert hat.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Beim Abwurf dürfen sich die Gegenspieler direkt an der Torraumlinie aufstellen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "12.10",
+      "Phrase": "Torwart SCHWARZ 1 will einen Abwurf ausführen. Da Team SCHWARZ knapp im Rückstand ist, hat er es sehr eilig. Deshalb rutscht ihm der Ball aus der Hand und gelangt zu seinem noch im Torraum befindlichen Mitspieler SCHWARZ 6, der den Ball mit dem Fuß zu seinem Torwart zurückspielt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team SCHWARZ nach Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "12:2"
+      ]
+    },
+    {
+      "QuestionNumber": "12.11",
+      "Phrase": "Welche der folgenden Aussagen zum Abwurf sind richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Spieler der gegnerischen Mannschaft müssen sich außerhalb der Freiwurflinie befinden, bis der Ball im Spiel ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Spieler der gegnerischen Mannschaft müssen sich außerhalb der Torraumlinie und drei Meter von der Stelle entfernt befinden, an welcher der Torwart den Abwurf ausführt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Den Spielern der gegnerischen Mannschaft ist es erlaubt, den Ball zu berühren, bevor dieser die Torraumlinie der abwerfenden Mannschaft überquert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Torwart kann beim Abwurf kein Eigentor verursachen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Der Torwart kann mit dem Abwurf nicht direkt ein Tor erzielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Der Torwart darf bei der Ausführung des Abwurfs die Torraumlinie nicht betreten.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "12:2",
+        "15:2"
+      ]
+    }
+  ]
+}

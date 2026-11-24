@@ -1,0 +1,1077 @@
+{
+  "RuleNumber": "7",
+  "Name": "Spielen des Balles, passives Spiel",
+  "Questions": [
+    {
+      "QuestionNumber": "7.1",
+      "Phrase": "Spieler WEISS 3 gelingt es, den in Richtung Seitenlinie fliegenden Ball noch vor der Seitenlinie mit einer Hand WEISS 7 zuzuspielen. Er überquert dabei mit einem Fuß die Seitenlinie. WEISS 7 fängt den Ball und erzielt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von WEISS 3",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:10",
+        "11:1"
+      ]
+    },
+    {
+      "QuestionNumber": "7.2",
+      "Phrase": "Bei einem riskanten Anspiel von Außenspieler SCHWARZ 3 zu Kreisspieler SCHWARZ 11 bemerkt dieser im Sprung, dass er den Ball nicht fangen können wird. Deshalb schlägt er ihn mit der Faust zu SCHWARZ 9, der mitten im Spielfeld steht. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS auf Höhe der Position von SCHWARZ 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS auf Höhe der Position von SCHWARZ 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von SCHWARZ 11",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:1"
+      ]
+    },
+    {
+      "QuestionNumber": "7.3",
+      "Phrase": "Ein Spieler steht, fängt den Ball, springt und landet auf dem rechten Fuß, springt auf den linken Fuß und wirft. Wie viele Schritte hat er ausgeführt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "4",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "7.4",
+      "Phrase": "Ein Spieler springt und fängt den Ball. Beim Landen berührt er den Boden mit beiden Füßen gleichzeitig. Danach hebt er den rechten Fuß, macht einen seitlichen Schritt und zieht den linken Fuß nach. Wie viele Schritte hat er ausgeführt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "0",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "7.5",
+      "Phrase": "Ein Spieler fängt den Ball in der Luft, landet auf dem rechten Fuß und springt mit diesem ab. Er setzt den linken und dann den rechten Fuß auf und wirft. Wie viele Schritte hat er ausgeführt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "0",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:3"
+      ]
+    },
+    {
+      "QuestionNumber": "7.6",
+      "Phrase": "WEISS 5 muss beim Versuch, den Ball zu fangen, mehrfach nachfassen, ehe er ihn unter Kontrolle bekommt. Anschließend macht er drei Schritte, tippt einmal und wirft den Ball nach weiteren drei Schritten ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:3",
+        "7:4",
+        "7:7"
+      ]
+    },
+    {
+      "QuestionNumber": "7.7",
+      "Phrase": "WEISS 5 will einen Angriff einleiten. Dazu prellt er wiederholt. Nach fünf Schritten nimmt er den Ball auf und spielt ihn ab. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:4b"
+      ]
+    },
+    {
+      "QuestionNumber": "7.8",
+      "Phrase": "SCHWARZ 6 fängt den Ball, rutscht aus und kommt zu Fall. Auf dem Rücken liegend spielt er zu SCHWARZ 9 weiter. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:6"
+      ]
+    },
+    {
+      "QuestionNumber": "7.9",
+      "Phrase": "WEISS 3 läuft zwischen zwei Gegenspieler und stößt den Ball vorwärts in die eigene Laufrichtung. Bevor der Ball den Boden berührt, fängt er ihn und hat jetzt freie Bahn. Nach einmaligem Tippen wirft er den Ball ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:7",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "7.10",
+      "Phrase": "WEISS 7 will nach einmaligem Tippen WEISS 5 anspielen, der aber gedeckt wird. WEISS 7 ist so irritiert, dass ihm der Ball entgleitet. Er fängt ihn jedoch wieder auf, bevor er den Boden berührt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:7",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "7.11",
+      "Phrase": "Wie ist wiederholtes passives Spiel zu ahnden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf und Verwarnung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf und Hinausstellung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf und Disqualifikation (rote Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:7",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "7.12",
+      "Phrase": "Nach einem Wurf von WEISS 4 prallt der Ball vom Pfosten ab, trifft den neben dem Tor im Torraum stehenden Schiedsrichter und überquert deshalb nicht die Torauslinie, sondern die Seitenlinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:9",
+        "11:1"
+      ]
+    },
+    {
+      "QuestionNumber": "7.13",
+      "Phrase": "WEISS 5 führt einen Einwurf aus, der Ball trifft den Schiedsrichter im Spielfeld und gelangt ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wiederholung des Einwurfs mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Tor",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "7:9",
+        "15:2"
+      ]
+    },
+    {
+      "QuestionNumber": "7.14",
+      "Phrase": "WEISS 9 blockt den von SCHWARZ 3 mittels Sprungwurf geworfenen Ball ab. Der Ball fällt auf den Boden. WEISS 9 nimmt ihn mit beiden Händen auf, beginnt prellend einen Gegenstoß und wirft ins Tor von Team SCHWARZ. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung von WEISS 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:4",
+        "8:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "7.15",
+      "Phrase": "WEISS 5 prellt den Ball an der Seitenlinie entlang. SCHWARZ 2 versperrt ihm regelkonform den Weg. Um an SCHWARZ 2 vorbeizukommen, überschreitet WEISS 5 während des Prellens die Seitenlinie mit einem Teil des linken Fußes. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:10",
+        "8:1c",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "7.16",
+      "Phrase": "Der Ball rollt nach einem ungenauen Pass von WEISS 3 zu WEISS 9 in der Nähe der Auswechselbank von Team WEISS in Richtung Seitenlinie. SCHWARZ 10 steht einen Meter vom Ball entfernt kurz vor der Ballaufnahme. Nun hechtet sich WEISS 9 nach dem Ball und faustet ihn in Richtung Spielfeldmitte zurück zu WEISS 3. Danach rutscht WEISS 9 durch seinen Schwung über die Seitenlinie hinaus. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung von WEISS 9",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:1"
+      ]
+    },
+    {
+      "QuestionNumber": "7.17",
+      "Phrase": "SCHWARZ 7, dessen Mitspieler in Ballbesitz ist, nimmt ohne Ball eine Position außerhalb der Spielfläche ein. Die Schiedsrichter weisen ihn vergeblich darauf hin, dass er auf die Spielfläche zurück muss. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung von SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:10"
+      ]
+    },
+    {
+      "QuestionNumber": "7.18",
+      "Phrase": "Ein Spieler springt in den gegnerischen Torraum. Er hat Ball- und Körperkontrolle und befindet sich in einer guten Wurfposition. Anstatt zu werfen, dreht er über dem Torraum ab und spielt den Ball zurück zu einem Mitspieler, der den Ball weiterspielt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vorwarnzeichen für passives Spiel",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sofortiger Freiwurf wegen passiven Spiels",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sofortiger Freiwurf wegen unsportlichen Verhaltens",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:12"
+      ]
+    },
+    {
+      "QuestionNumber": "7.19",
+      "Phrase": "WEISS 3 wirft auf das Tor und trifft den Pfosten. Der Ball rollt aus dem Torraum. Etwa an der Freiwurflinie hechten WEISS 3 und SCHWARZ 4 – ohne einander zu gefährden – nach dem Ball. SCHWARZ 4 kann den Ball zu SCHWARZ 6 lenken, der zum Gegenstoß startet und ein Tor erzielt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von SCHWARZ 4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Je nach Situation Freiwurf für Team WEISS oder SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:1",
+        "7:6"
+      ]
+    },
+    {
+      "QuestionNumber": "7.20",
+      "Phrase": "WEISS 10 versucht ein Kreisanspiel zu WEISS 8. Der vor diesem stehende Abwehrspieler SCHWARZ 10 wird von dem Ball am Fuß getroffen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Entscheidend ist hier, wer in Ballbesitz gelangt.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:8"
+      ]
+    },
+    {
+      "QuestionNumber": "7.21",
+      "Phrase": "WEISS 15 blockt einen Pass von SCHWARZ 9. Danach rollt der Ball am Boden. WEISS 15 und SCHWARZ 9 hechten beide nach dem Ball. WEISS 15 bekommt den Ball und rutscht den Boden entlang. Er steht auf, macht drei Schritte, spielt den Ball zu einem Mitspieler. Der Mitspieler erzielt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:1",
+        "7:3 comment"
+      ]
+    },
+    {
+      "QuestionNumber": "7.22",
+      "Phrase": "In Unterzahl liegt Team WEISS in der 57. Minute mit 24:23 in Führung. Der Feldschiedsrichter hat auf Freiwurf für Team WEISS entschieden. WEISS 6 will diesen provokativ mehrere Meter vom eigentlichen Ausführungsort entfernt ausführen, obwohl der Schiedsrichter die Ausführungsstelle klar angezeigt hat und die Mannschaft schon vorher darauf hingewiesen wurde, derartige Verzögerungen zu unterlassen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Korrektur des Ausführungsortes, Anpfiff, keine weitere Maßnahme",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Korrektur des Ausführungsortes, Anpfiff, Anzeige des Handzeichens für passives Spiel, sobald der Ball wieder ins Spiel gebracht wurde",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrektur des Ausführungsortes, progressive Strafe gegen WEISS 6, Anpfiff des Freiwurfs, Anzeige des Handzeichens für passives Spiel",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "Clarification 4"
+      ]
+    },
+    {
+      "QuestionNumber": "7.23",
+      "Phrase": "Die Spieler von Team SCHWARZ haben in Unterzahl in der normalen Aufbauphase ihre Angriffspositionen eingenommen und die Mannschaft startet mit einer vorbereitenden Passfolge die Aufbauphase. Jetzt lassen sich SCHWARZ 6 und SCHWARZ 8 auswechseln und die Mannschaft wartet auf die Auswechselspieler. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vorwarnzeichen für passives Spiel",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vorwarnzeichen für passives Spiel, wenn binnen fünf Sekunden kein Tempowechsel erfolgt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Sofortiger Freiwurf für Team WEISS wegen passiven Spiels",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Im Wiederholungsfall Verwarnung gegen SCHWARZ 6 oder SCHWARZ 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Im Wiederholungsfall Hinausstellung von SCHWARZ 6 oder SCHWARZ 8",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4.B.3"
+      ]
+    },
+    {
+      "QuestionNumber": "7.24",
+      "Phrase": "Durch welche Aktionen wird das Vorwarnzeichen für passives Spiel aufgehoben?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bei erneutem Ballbesitz nach Abwehr eines 7-Meter-Wurfs durch gegnerischen Torwart",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bei erneutem Ballbesitz nach einem Wurf gegen Pfosten/Latte",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team-Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Bei einer druckvollen Aktion vor der nächsten passiven Phase",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Durch keine der genannten Aktionen",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "Clarification 4.C"
+      ]
+    },
+    {
+      "QuestionNumber": "7.25",
+      "Phrase": "Welche der folgenden Aussagen zum Vorwarnzeichen für passives Spiel (Handzeichen 17) treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wird eine Tendenz zu passivem Spiel erkannt, zeigt dies zuerst der Feldschiedsrichter mithilfe von Handzeichen 17 an. Der Torschiedsrichter übernimmt daraufhin dieses Zeichen und hebt anschließend ebenfalls entsprechend den Arm.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Sollte die angreifende Mannschaft nach dem Anzeigen des Vorwarnzeichens ein Team-Time-out beantragen, so muss das Vorwarnzeichen nach Wiederaufnahme des Spiels erneut angezeigt werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Vorwarnzeichen sollte generell nicht unmittelbar nach der Ausführung eines Freiwurfs angezeigt werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Nach Anzeige des Vorwarnzeichens müssen die Schiedsrichter spätestens dann auf passives Spiel entscheiden, wenn nach vier Pässen kein Torwurf ausgeführt, also, wenn der 5. Pass von einem Mitspieler angenommen wurde.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Clarification 4"
+      ]
+    },
+    {
+      "QuestionNumber": "7.26",
+      "Phrase": "Team WEISS lässt sich sehr viel Zeit bei der Ausführung eines Anwurfs. Die Mannschaft war wegen derselben taktischen Verzögerung bereits ermahnt worden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out, Anwurf mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out, Anwurf mit Anpfiff, sofortige Anzeige von Handzeichen 17",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Anpfiff des Anwurfs, sofortige Anzeige von Handzeichen 17, sobald der Ball wieder ins Spiel gebracht wurde.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung des Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4.B.2"
+      ]
+    },
+    {
+      "QuestionNumber": "7.27",
+      "Phrase": "Welche der folgenden Aussagen bezüglich der richtigen Handhabung des Vorwarnzeichens für passives Spiel treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Vorwarnzeichen gilt immer als aufgehoben, wenn ein Offizieller der verteidigenden Mannschaft progressiv bestraft wird.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn das Vorwarnzeichen während eines Angriffs zum ersten Mal gezeigt wird, sind die Arme nach ungefähr zehn Sekunden herunterzunehmen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Vorwarnzeichen sollte nach der ersten Unterbrechung zur Information wiederholt werden, wenn es bereits vor der Unterbrechung gezeigt wurde.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Vorwarnzeichen gilt immer als aufgehoben, wenn ein Spieler der verteidigenden Mannschaft progressiv bestraft wird.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Schiedsrichter müssen das Vorwarnzeichen zeigen, wenn ein Spieler den Ball eindeutig unter Kontrolle hat.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Clarification 4"
+      ]
+    },
+    {
+      "QuestionNumber": "7.28",
+      "Phrase": "Welche der folgenden Aussagen bezüglich des passiven Spiels treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einer Mannschaft sollten von der Aufbauphase bis zur Abschlussphase nicht mehr als fünf Sekunden zugestanden werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Passives Spiel kann bereits in dem Moment beginnen, in dem eine Mannschaft in ihrer eigenen Spielfeldhälfte in Ballbesitz gelangt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Vorwarnzeichen kann nicht angezeigt werden, solange der Ball nicht im Spiel ist.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Um eine Tendenz zum passiven Spiel erkennen und bewerten zu können, müssen verschiedene Beobachtungskriterien auf alle Elemente des Angriffs einer Mannschaft von der Balleroberung bis zum Ballverlust herangezogen werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Einer Mannschaft, die aus der eigenen Spielfeldhälfte einen Gegenstoß versucht hat, muss ein zügiger Spielerwechsel erlaubt sein, wenn sie vom Gegenstoß zu einer normalen Aufbauphase übergeht.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "Clarification 4"
+      ]
+    },
+    {
+      "QuestionNumber": "7.29",
+      "Phrase": "Team WEISS befindet sich im Ballbesitz. Die Schiedsrichter zeigen das Vorwarnzeichen für passives Spiel. Nach einem Pass wirft WEISS 5 auf das Tor. SCHWARZ 2 blockt den Torwurf, und der Ball landet wieder bei WEISS 5, der ihn zu WEISS 9 spielt. Wie viele Pässe wurden gespielt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "3",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "4",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "5",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
+      ]
+    },
+    {
+      "QuestionNumber": "7.30",
+      "Phrase": "Team WEISS befindet sich im Ballbesitz. Die Schiedsrichter zeigen das Vorwarnzeichen für passives Spiel an. WEISS 9 versucht WEISS 2 anzuspielen, doch der Pass wird von SCHWARZ 8 geblockt, wodurch der Ball wieder bei WEISS 9 landet. WEISS 9 setzt zum Durchbruch an, erhält aber einen Freiwurf. WEISS 8 führt den Freiwurf aus, indem er WEISS 2 anspielt. Wie viele Pässe wurden gespielt?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
+      ]
+    },
+    {
+      "QuestionNumber": "7.31",
+      "Phrase": "Team WEISS befindet sich im Ballbesitz. Die Schiedsrichter erkennen bei Team WEISS eine Tendenz zum passiven Spiel und zeigen das Vorwarnzeichen an. Team SCHWARZ sieht das Vorwarnzeichen und beginnt, aggressiver zu verteidigen, um einen Freiwurf zu verursachen. Nach drei Pässen von Team WEISS verursacht Team SCHWARZ einen Freiwurf. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team WEISS stehen noch vier Pässe zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS stehen noch zwei Pässe zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS steht noch ein Pass zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS muss den Freiwurf direkt auf das Tor werfen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4"
+      ]
+    },
+    {
+      "QuestionNumber": "7.32",
+      "Phrase": "Team WEISS befindet sich im Angriff. Die Schiedsrichter erkennen bei Team WEISS eine Tendenz zum passiven Spiel und zeigen das Vorwarnzeichen an. Team WEISS spielt vier Pässe, bevor WEISS 9 auf das Tor wirft. SCHWARZ 3 blockt den Wurf, und der Ball fliegt über die Seitenlinie, wodurch es zum Einwurf für Team WEISS kommt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Vorwarnzeichen ist nicht mehr gültig.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS stehen noch vier Pässe zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS stehen noch zwei Pässe zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS steht noch ein Pass zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
+      ]
+    },
+    {
+      "QuestionNumber": "7.33",
+      "Phrase": "Team WEISS befindet sich im Ballbesitz. Aufgrund einer Tendenz zum passiven Spiel bei Team WEISS zeigen die Schiedsrichter das Vorwarnzeichen an. Nach vier Pässen wirft WEISS 5 auf das Tor. SCHWARZ 3 blockt den Wurf, und der Ball landet wieder bei WEISS 5. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS steht noch ein Pass zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Vorwarnzeichen ist weiterhin gültig.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Vorwarnzeichen ist nicht mehr gültig.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WEISS stehen keine Pässe mehr zur Verfügung, um auf das Tor zu werfen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11-12",
+        "Clarification 4",
+        "Appendix 1 (Training support “Passive play”)"
+      ]
+    },
+    {
+      "QuestionNumber": "7.34",
+      "Phrase": "Mannschaft SCHWARZ ist im Angriff. Die Schiedsrichter zeigen das Vorwarnsignal. SCHWARZ 7 passt den Ball zu SCHWARZ 11. SCHWARZ 11 versucht einen Durchbruch, wird aber von WEISS 3 gestoppt. Die Schiedsrichter geben einen Freiwurf für Mannschaft SCHWARZ. SCHWARZ 11 führt den Freiwurf aus und passt den Ball zu SCHWARZ 2. Dieser versucht einen Torwurf, der jedoch von WEISS 4 geblockt wird. Der Ball gelangt zu SCHWARZ 11 zurück. SCHWARZ 11 wirft auf das Tor, wird dabei aber leicht von WEISS 5 gestoßen. Torwart WEISS 1 kann den Wurf halten. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ; normale Aufbauphase, weil Mannschaft SCHWARZ nach dem Torwurf in Ballbesitz gekommen ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ; Vorwarnsignal, Mannschaft SCHWARZ hat 2 Pässe gespielt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ; Vorwarnsignal, Mannschaft SCHWARZ hat 3 Pässe gespielt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ; Vorwarnsignal, Mannschaft SCHWARZ hat 4 Pässe gespielt",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4"
+      ]
+    },
+    {
+      "QuestionNumber": "7.35",
+      "Phrase": "Es steht 27:27 und es sind noch 20 Sekunden zu spielen. Die Mannschaft WEISS spielt ohne Torwart. Das Vorwarnsignal wird von den Schiedsrichtern gezeigt. Nach drei Pässen spielt WEISS 8 den Ball zu WEISS 7, der aufs Tor wirft. Der Ball wird vom Abwehrspieler SCHWARZ 2 geblockt, und der Ball geht über die die Seitenlinie. Kurz nach der Ausführung des Einwurfs ertönt der Pfiff vom Zeitnehmer, weil Mannschaft WEISS ein Team-Time-out beantragt hat. Wie soll das Spiel wieder aufgenommen werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für die Mannschaft WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für die Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Wurf muss als direkter Wurf auf das Tor ausgeführt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Neben der Möglichkeit, den Wurf als direkten Torwurf auszuführen, darf der Werfer den Ball einem Mitspieler zuspielen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "7:11",
+        "7:12",
+        "Clarification 4",
+        "Appendix 1 (Training Support “Passive play”)"
+      ]
+    },
+    {
+      "QuestionNumber": "7.36",
+      "Phrase": "Die Mannschaft WEISS spielt im Angriff. Zwei Pässe nach dem Vorwarnsignal des Schiedsrichters wirft WEISS 7 auf das Tor. Der Ball wird von SCHWARZ 8 geblockt. WEISS 8 erhält den Abpraller und versucht, auf das Tor zu werfen. Wieder wird der Ball von SCHWARZ 8 geblockt. WEISS 8 erhält den Ball nach dem Block und spielt den Ball zu WEISS 6, der eine klare Torchance hat. WEISS 6 wird von hinten von SCHWARZ 7 so zu Boden gezogen, dass er völlig die Körperkontrolle verliert. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Direkte 2-Minuten für SCHWARZ 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation ohne Bericht für SCHWARZ 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "7:11",
+        "7:12",
+        "Clarification 4",
+        "Appendix 1 (Training Support “Passive Play”)"
+      ]
+    }
+  ]
+}

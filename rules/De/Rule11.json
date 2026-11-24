@@ -1,0 +1,187 @@
+{
+  "RuleNumber": "11",
+  "Name": "Einwurf",
+  "Questions": [
+    {
+      "QuestionNumber": "11.1",
+      "Phrase": "WEISS 3 führt einen Einwurf aus. Er steht dabei zwei Meter außerhalb der Seitenlinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Entscheidung erforderlich, da kein Regelverstoß",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wiederholung des Einwurfs ohne Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wiederholung des Einwurfs mit Anpfiff",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
+      ]
+    },
+    {
+      "QuestionNumber": "11.2",
+      "Phrase": "SCHWARZ 4 steht mit einem Fuß auf der Seitenlinie, mit dem anderen im Spielfeld und trifft mit seinem Einwurf direkt ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wiederholung des Einwurfs für Team SCHWARZ mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:2"
+      ]
+    },
+    {
+      "QuestionNumber": "11.3",
+      "Phrase": "WEISS 6 führt, mit einem Fuß im und mit dem anderen außerhalb des Spielfelds stehend, einen Einwurf aus und trifft direkt ins Tor von Team SCHWARZ. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Erneuter Einwurf für Team WEISS nach Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "11:4",
+        "15:1",
+        "15:5"
+      ]
+    },
+    {
+      "QuestionNumber": "11.4",
+      "Phrase": "Es erfolgt ein Wurf auf das Tor von Team SCHWARZ. Der Ball prallt von der Latte gegen ein Sportgerät an der Hallendecke über dem Torraum von Team SCHWARZ. Von dort fällt er direkt in die fangbereiten Arme des Torwarts. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einwurf für Team SCHWARZ mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out ist obligatorisch",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "11:1"
+      ]
+    },
+    {
+      "QuestionNumber": "11.5",
+      "Phrase": "Wann darf die abwehrende Mannschaft den Abstand von drei Metern bei Würfen nach einer Spielunterbrechung unterschreiten?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Sobald der Schiedsrichter den Wurf angepfiffen hat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn der Ball die Hand des Werfers verlassen hat, der einen Freiwurf ausführt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn die Abwehrspieler beim Freiwurf oder Einwurf an der eigenen Torraumlinie stehen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Bei der Ausführung eines Abwurfs oder eines Anwurfs, wenn sich der Abwehrspieler außerhalb des Torraums oder der Anwurfzone befindet",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "11:5",
+        "13:8",
+        "15:4"
+      ]
+    },
+    {
+      "QuestionNumber": "11.6",
+      "Phrase": "WEISS 5 verpasst ein Zuspiel. Er läuft dem Ball nach und kann ihn vor dem Überqueren der Seitenlinie stoppen. Er selbst gelangt anschließend über die Seitenlinie, ohne dabei den Ball noch zu berühren. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "11:1"
+      ]
+    }
+  ]
+}
