@@ -276,10 +276,10 @@
         }
       ],
       "RuleReferences": [
-        "8:5 comment",
+        "8:5 Kommentar",
         "14:1a",
         "16:6a",
-        "Clarification 6b"
+        "Erläuterung 6b"
       ]
     },
     {
@@ -755,7 +755,7 @@
         "8:5",
         "13:1b",
         "16:6a",
-        "Clarification 6"
+        "Erläuterung 6"
       ]
     },
     {
@@ -1257,7 +1257,7 @@
         }
       ],
       "RuleReferences": [
-        "8:5 comment",
+        "8:5 Kommentar",
         "14:1a",
         "16:6a"
       ]
@@ -1333,7 +1333,7 @@
         "8:10a",
         "16:6b",
         "16:8",
-        "Substitution Area Regulations 5"
+        "Auswechselraum-Reglement 5"
       ]
     },
     {
@@ -1536,10 +1536,10 @@
         }
       ],
       "RuleReferences": [
-        "8:5 comment",
+        "8:5 Kommentar",
         "14:1a",
         "16:6a",
-        "Clarification 6c"
+        "Erläuterung 6c"
       ]
     },
     {
@@ -1613,10 +1613,10 @@
         }
       ],
       "RuleReferences": [
-        "8:5 Comment 2nd paragraph",
+        "8:5 Kommentar, Abs. 2",
         "14:1",
         "14:2",
-        "Guidelines"
+        "Richtlinien"
       ]
     },
     {
@@ -1654,7 +1654,7 @@
         "8:1",
         "8:2",
         "14:1a",
-        "Clarification 6c"
+        "Erläuterung 6c"
       ]
     },
     {
@@ -1693,7 +1693,7 @@
         "8:4b",
         "14:1a",
         "16:3c",
-        "Clarification 6c"
+        "Erläuterung 6c"
       ]
     },
     {
@@ -1873,7 +1873,7 @@
         "4:1",
         "4:4-5",
         "13:1b",
-        "Guideline rule 13:2"
+        "Richtlinie zu Regel 13:2"
       ]
     },
     {
@@ -1915,7 +1915,7 @@
         "4:1",
         "4:4-5",
         "14:1",
-        "Guideline rule 13:2"
+        "Richtlinie zu Regel 13:2"
       ]
     },
     {
@@ -2329,7 +2329,7 @@
       ],
       "RuleReferences": [
         "2:8",
-        "8:5 comments and Guideline",
+        "8:5 Kommentare und Richtlinie",
         "14:1a"
       ]
     },
@@ -2359,7 +2359,7 @@
         }
       ],
       "RuleReferences": [
-        "8:11a and Guideline"
+        "8:11a und Richtlinie"
       ]
     },
     {
@@ -2395,7 +2395,7 @@
       "RuleReferences": [
         "2:3",
         "2:4",
-        "Guideline 8:11a"
+        "Richtlinie 8:11a"
       ]
     },
     {
@@ -2441,7 +2441,7 @@
       "RuleReferences": [
         "2:8",
         "8:11a",
-        "New Guideline"
+        "Neue Richtlinie"
       ]
     },
     {
@@ -2482,7 +2482,7 @@
       "RuleReferences": [
         "2:8",
         "8:11a",
-        "New Guideline"
+        "Neue Richtlinie"
       ]
     },
     {
@@ -2518,7 +2518,7 @@
       "RuleReferences": [
         "2:8",
         "8:11a",
-        "New Guideline"
+        "Neue Richtlinie"
       ]
     },
     {
@@ -2561,7 +2561,7 @@
         "8:5",
         "8:11b",
         "14:2",
-        "New Guideline"
+        "Neue Richtlinie"
       ]
     },
     {
@@ -2604,7 +2604,7 @@
         "8:5",
         "8:11b",
         "14:2",
-        "New Guideline"
+        "Neue Richtlinie"
       ]
     },
     {
@@ -2645,7 +2645,7 @@
       "RuleReferences": [
         "2:8",
         "8:11b",
-        "Guidelines",
+        "Richtlinien",
         "14:2"
       ]
     },
@@ -2698,7 +2698,7 @@
         "2:8",
         "4:11",
         "13:1a",
-        "Clarification 8"
+        "Erläuterung 8"
       ]
     },
     {
@@ -2854,7 +2854,7 @@
       "RuleReferences": [
         "2:8",
         "4:11",
-        "Clarification 8",
+        "Erläuterung 8",
         "8:8d"
       ]
     },
@@ -2901,7 +2901,7 @@
       "RuleReferences": [
         "2:8",
         "4:11",
-        "Clarification 8",
+        "Erläuterung 8",
         "13:1a"
       ]
     },
@@ -2950,7 +2950,7 @@
         "4:11",
         "8:6",
         "13:1a",
-        "Clarification 8"
+        "Erläuterung 8"
       ]
     },
     {

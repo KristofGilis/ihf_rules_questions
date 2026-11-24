@@ -83,7 +83,7 @@
         }
       ],
       "RuleReferences": [
-        "16:1 comment"
+        "16:1 Kommentar"
       ]
     },
     {
@@ -549,8 +549,8 @@
       "RuleReferences": [
         "4:11",
         "16:3e",
-        "16:3 comment",
-        "Clarification 8c"
+        "16:3 Kommentar",
+        "Erläuterung 8c"
       ]
     },
     {

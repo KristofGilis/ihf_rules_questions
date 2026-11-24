@@ -586,7 +586,7 @@
       ],
       "RuleReferences": [
         "7:1",
-        "7:3 comment"
+        "7:3 Kommentar"
       ]
     },
     {
@@ -611,7 +611,7 @@
       ],
       "RuleReferences": [
         "7:11",
-        "Clarification 4"
+        "Erläuterung 4"
       ]
     },
     {
@@ -647,7 +647,7 @@
       "RuleReferences": [
         "7:11",
         "7:12",
-        "Clarification 4.B.3"
+        "Erläuterung 4.B.3"
       ]
     },
     {
@@ -681,7 +681,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 4.C"
+        "Erläuterung 4.C"
       ]
     },
     {
@@ -710,7 +710,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 4"
+        "Erläuterung 4"
       ]
     },
     {
@@ -746,7 +746,7 @@
       "RuleReferences": [
         "7:11",
         "7:12",
-        "Clarification 4.B.2"
+        "Erläuterung 4.B.2"
       ]
     },
     {
@@ -780,7 +780,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 4"
+        "Erläuterung 4"
       ]
     },
     {
@@ -815,7 +815,7 @@
       ],
       "RuleReferences": [
         "7:11",
-        "Clarification 4"
+        "Erläuterung 4"
       ]
     },
     {
@@ -840,8 +840,8 @@
       ],
       "RuleReferences": [
         "7:11-12",
-        "Clarification 4",
-        "Appendix 1 (Training support “Passive play”)"
+        "Erläuterung 4",
+        "Anhang 1 (Schulungshilfe „Passives Spiel“)"
       ]
     },
     {
@@ -866,8 +866,8 @@
       ],
       "RuleReferences": [
         "7:11-12",
-        "Clarification 4",
-        "Appendix 1 (Training support “Passive play”)"
+        "Erläuterung 4",
+        "Anhang 1 (Schulungshilfe „Passives Spiel“)"
       ]
     },
     {
@@ -897,7 +897,7 @@
       ],
       "RuleReferences": [
         "7:11-12",
-        "Clarification 4"
+        "Erläuterung 4"
       ]
     },
     {
@@ -927,8 +927,8 @@
       ],
       "RuleReferences": [
         "7:11-12",
-        "Clarification 4",
-        "Appendix 1 (Training support “Passive play”)"
+        "Erläuterung 4",
+        "Anhang 1 (Schulungshilfe „Passives Spiel“)"
       ]
     },
     {
@@ -963,8 +963,8 @@
       ],
       "RuleReferences": [
         "7:11-12",
-        "Clarification 4",
-        "Appendix 1 (Training support “Passive play”)"
+        "Erläuterung 4",
+        "Anhang 1 (Schulungshilfe „Passives Spiel“)"
       ]
     },
     {
@@ -995,7 +995,7 @@
       "RuleReferences": [
         "7:11",
         "7:12",
-        "Clarification 4"
+        "Erläuterung 4"
       ]
     },
     {
@@ -1026,8 +1026,8 @@
       "RuleReferences": [
         "7:11",
         "7:12",
-        "Clarification 4",
-        "Appendix 1 (Training Support “Passive play”)"
+        "Erläuterung 4",
+        "Anhang 1 (Schulungshilfe „Passives Spiel“)"
       ]
     },
     {
@@ -1069,8 +1069,8 @@
         "2:8",
         "7:11",
         "7:12",
-        "Clarification 4",
-        "Appendix 1 (Training Support “Passive Play”)"
+        "Erläuterung 4",
+        "Anhang 1 (Schulungshilfe „Passives Spiel“)"
       ]
     }
   ]
