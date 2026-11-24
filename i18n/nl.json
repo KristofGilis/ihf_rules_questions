@@ -22,6 +22,14 @@
     "created_by": "Gemaakt door",
     "github_button": "Bekijk op GitHub",
     "hero_description": "Test je kennis van de IHF handbalregels met interactieve quizzen",
+    "android_app": {
+      "download": "Ontdek het op Google Play",
+      "badge": "store-badges/google-play-nl-nl.svg"
+    },
+    "ios_app": {
+      "download": "Download in de App Store",
+      "badge": "store-badges/app-store-nl-nl.svg"
+    },
     "loading": "Laden...",
     "quiz_card": {
       "button": "Start Quiz",
@@ -33,10 +41,15 @@
       "content": "Ga naar de lijst met alle spelregels. Vanaf hier kun je alle vragen krijgen die betrekking hebben op de geselecteerde spelregel.",
       "title": "Spelregels"
     },
+    "search_card": {
+      "content": "Zoek alle vragen en antwoorden op vraagnummer, zin of antwoordzin in elke taal.",
+      "title": "Zoeken"
+    },
     "timed_mode_description": "Race tegen de klok",
     "version": "Versie {{version}}"
   },
   "languages": {
+    "de": "Duits",
     "en": "Engels",
     "fr": "Frans",
     "label": "Taal",
@@ -53,6 +66,7 @@
     "questions": "Vragen",
     "quiz": "Quiz",
     "rules": "Spelregels",
+    "search": "Zoeken",
     "settings": "Instellingen"
   },
   "offline": {
@@ -67,6 +81,39 @@
     "syncing": "Synchroniseren",
     "up_to_date": "Offline gegevens zijn up-to-date"
   },
+  "privacy": {
+    "title": "Privacybeleid",
+    "updated": "Laatst bijgewerkt: 26 oktober 2026",
+    "intro": "Dit beleid geldt voor de IHF Rules Quiz-website en progressieve webapp en de native Handball Rules Quiz-apps. Kristof Gilis beheert deze diensten. Mail voor privacyvragen of verzoeken naar",
+    "data_heading": "Website en eerdere winkelversies",
+    "device_label": "Op je apparaat:",
+    "device": "De app bewaart je taal-, thema- en weergavevoorkeuren, samen met gedownloade regels, vragen, antwoorden, score-instellingen en synchronisatiegegevens. Tijdens een quiz blijven je antwoorden in de app beschikbaar.",
+    "online_label": "Wanneer de website of een eerdere winkelversie verbinding maakt:",
+    "online": "De app verstuurt verzoeken om inhoud en zoekresultaten op te halen. Deze verzoeken kunnen je gekozen taal en zoektekst bevatten. Voor online scoreberekening stuurt de app vraag-ID's en ID's van geselecteerde antwoorden naar de API.",
+    "technical_label": "Technische verzoekgegevens:",
+    "technical": "De hostingdiensten voor de website en API kunnen gegevens verwerken die nodig zijn om de dienst te leveren en te beveiligen, zoals een IP-adres, het tijdstip van een verzoek, de opgevraagde pagina of het eindpunt, de antwoordstatus en browser- of apparaatgegevens.",
+    "contact_label": "Als je contact met ons opneemt:",
+    "contact": "We ontvangen je e-mailadres en de informatie in je bericht om je te kunnen antwoorden.",
+    "no_account": "Voor de app is geen account nodig. De app gebruikt geen advertenties, analyses of afzonderlijke dienst voor crashrapporten. De API houdt geen persoonlijke quizgeschiedenis bij.",
+    "purpose_heading": "Waarom we deze gegevens gebruiken",
+    "purpose": "We gebruiken ze om de quiz en spelregels aan te bieden, je keuzes te onthouden, gedownloade inhoud offline beschikbaar te maken, scores te berekenen, berichten te beantwoorden en de dienst werkend en veilig te houden. Voor persoonsgegevens die de online dienst verwerkt, baseren we ons op ons gerechtvaardigd belang om deze functies aan te bieden en te beveiligen. Je kunt bezwaar maken tegen verwerking op basis van gerechtvaardigd belang door contact met ons op te nemen.",
+    "offline": "De website en eerdere winkelversies hebben een eerste download nodig voor offline gebruik. De herbouwde native apps bevatten de inhoud en werken onmiddellijk offline.",
+    "hosting_heading": "Hosting en delen van gegevens",
+    "hosting_before_link": "Microsoft Azure host de website en API en verwerkt dienstverzoeken namens ons. We verkopen je gegevens niet en delen ze niet met aanbieders van advertenties of analyses. Microsoft kan dienstgegevens in andere landen verwerken onder de waarborgen die worden beschreven in het",
+    "dpa_label": "Addendum inzake gegevensbescherming",
+    "hosting_after_link": "Neem contact met ons op voor informatie over doorgiften die voor deze dienst relevant zijn.",
+    "retention_heading": "Bewaren en verwijderen",
+    "retention_local": "Websitevoorkeuren en gedownloade inhoud blijven bewaard totdat de sitegegevens worden gewist of verwijderd. Eerdere winkelversies kunnen hun cache bewaren tot de appgegevens worden verwijderd. De herbouwde native apps bewaren voorkeuren en quizstatus lokaal totdat ze worden vervangen of verwijderd zoals hierboven beschreven. We bewaren geen persoonlijke quizgeschiedenis op de server.",
+    "retention_logs": "Bij controle op 24 oktober 2026 waren applicatie- en HTTP-verzoeklogs voor de website en API in Azure App Service uitgeschakeld. Geen van beide apps stuurt diagnostische logs naar Azure Monitor. Omdat deze logs uitstaan, bewaren we via deze instellingen geen verzoeklogs. Azure kan nog steeds technische gegevens verwerken om zijn hostingdienst te leveren en te beschermen. Als we logging inschakelen, werken we dit beleid bij met de bewaartermijn. Je kunt ons vragen persoonsgegevens die we bewaren te verwijderen. We bewaren contactberichten alleen zolang dat nodig is om het verzoek en eventuele bijbehorende verplichtingen af te handelen.",
+    "rights_heading": "Je keuzes en rechten",
+    "choices": "Je kunt taal en weergave wijzigen in Instellingen. Wis de siteopslag om websitegegevens te verwijderen; verwijder de app of wis de appopslag om native gegevens te verwijderen. De native quiz, het privacybeleid en de ondersteuningspagina’s werken offline. Ondersteuning mailen vereist een verbinding.",
+    "rights_before_email": "Afhankelijk van de toepasselijke wetgeving kun je vragen om inzage in, correctie of verwijdering van je persoonsgegevens, om beperking van de verwerking, bezwaar maken tegen de verwerking of om een overdraagbare kopie vragen. Mail naar",
+    "rights_after_email": "om een verzoek in te dienen. Je kunt ook een klacht indienen bij je lokale toezichthouder voor gegevensbescherming.",
+    "changes_heading": "Wijzigingen in dit beleid",
+    "changes": "We kunnen dit beleid bijwerken wanneer de app of de manier waarop we gegevens verwerken verandert. De datum bovenaan toont wanneer deze pagina voor het laatst is herzien.",
+    "native_heading": "Volledig offline native apps",
+    "native_details": "De SwiftUI-app voor iOS bevat de inhoud en werkt vanaf de eerste start offline. Regels, vragen, zoeken en scoreberekening werken op het apparaat. Taal, weergave en quizstatus worden lokaal opgeslagen; antwoorden en resultaten worden niet naar onze API verstuurd. Normaal gebruik doet geen netwerkverzoeken. Het privacybeleid en de ondersteuningspagina’s zitten in de app. Ondersteuning mailen opent je e-maildienst en vereist een verbinding. Appwinkels leveren app- en inhoudsupdates. Apparaatback-ups kunnen voorkeuren en quizstatus bevatten. Verwijder de app of wis de appopslag om lokale gegevens te verwijderen. Een opgeslagen quiz blijft bestaan totdat je hem verwijdert of vervangt, de inhoudsversie verandert of appgegevens worden verwijderd."
+  },
   "pwa": {
     "update_available": "Een nieuwe versie is beschikbaar.",
     "update_now": "Bijwerken",
@@ -75,12 +122,19 @@
   "questions": {
     "calculate_score": "Bereken score",
     "description": "Bekijk en bestudeer alle beschikbare vragen in je eigen tempo",
+    "hidden_exceptions_count": "{{count}} verborgen",
+    "hide_correct_answer": "Verberg correct antwoord",
+    "hide_correct_answers": "Verberg Correcte Antwoorden",
     "loading": "Vragen laden...",
     "no_questions": "Geen vragen beschikbaar",
     "recalculate_score": "Herbereken",
     "recalculate_score_full": "Herbereken Score",
     "restart": "Opnieuw",
+    "rule_references": "Regelverwijzingen",
+    "show_correct_answer": "Toon correct antwoord",
+    "show_correct_answers": "Toon Correcte Antwoorden",
     "show_score": "Toon Score",
+    "shown_exceptions_count": "{{count}} getoond",
     "title": "Alle vragen",
     "wrong": "Fout"
   },
@@ -104,6 +158,7 @@
   "quiz_results": {
     "completion_time": "Voltooiingstijd",
     "correct": "Correct",
+    "correct_answer": "Correct Antwoord",
     "home": "Home",
     "question": "Vraag",
     "retake": "Opnieuw Doen",
@@ -132,10 +187,24 @@
     "title": "Resultaat",
     "wrong": "Fout"
   },
+  "search": {
+    "clear": "Zoekopdracht wissen",
+    "description": "Zoek alle vragen en antwoorden op vraagnummer, zin of antwoordzin in elke taal.",
+    "no_results": "Geen vragen komen overeen met je zoekopdracht.",
+    "placeholder": "Zoek vragen...",
+    "prompt": "Typ een trefwoord om vragen te zoeken.",
+    "tip_keyword": "Of typ een trefwoord — typefouten en gedeeltelijke woorden zijn prima.",
+    "tip_number": "Voer een vraagnummer of de exacte zin in voor een precieze match.",
+    "tip_offline": "Zoeken werkt ook offline, met de gegevens die al op je apparaat zijn gesynchroniseerd.",
+    "title": "Vragen zoeken"
+  },
   "settings": {
     "description": "Beheer je voorkeuren",
     "language_section": "Taal",
     "offline_section": "Offline",
+    "privacy_policy": "Privacybeleid lezen",
+    "privacy_section": "Privacy",
+    "support_contact": "Hulp krijgen",
     "sidebar_collapse": "Zijbalk inklappen",
     "sidebar_expand": "Zijbalk uitklappen",
     "sidebar_expanded": "Uitgeklapte zijbalk",
@@ -147,6 +216,18 @@
     "sidebar_section": "Zijbalk",
     "theme_section": "Thema",
     "title": "Instellingen"
+  },
+  "support": {
+    "title": "Ondersteuning",
+    "intro": "Hulp nodig bij de IHF Rules Quiz-website of de Handball Rules Quiz-app? Stuur ons een e-mail en we antwoorden je.",
+    "contact_heading": "Contact",
+    "contact_details": "Vertel ons wat er gebeurde, welk apparaat en welke appversie je gebruikt, en welke taal je hebt gekozen. Vermeld geen gevoelige persoonsgegevens.",
+    "offline_heading": "De app offline gebruiken",
+    "offline_details": "De website en eerdere winkelversies hebben een eerste download nodig voor offline gebruik. De herbouwde native apps bevatten de inhoud en werken onmiddellijk offline.",
+    "content_heading": "Feedback over vragen of regels",
+    "content_details": "Lijkt een vraag of regel onjuist? Vermeld het nummer en de taal zodat we dit kunnen onderzoeken.",
+    "privacy_before_link": "Lees ons",
+    "privacy_link": "privacybeleid voor informatie over gegevensgebruik"
   },
   "theme": {
     "dark": "Donker",

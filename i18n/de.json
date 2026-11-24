@@ -1,0 +1,238 @@
+{
+  "accessibility": {
+    "skip_to_main": "Zum Hauptinhalt springen"
+  },
+  "errors": {
+    "client_error": "Ein unerwarteter Fehler ist aufgetreten. Bitte lade die Seite neu.",
+    "data_loading": "Beim Laden der Daten ist ein Fehler aufgetreten. Bitte versuche es erneut.",
+    "http_error": "Bei der Verbindung mit dem Server ist ein Fehler aufgetreten.",
+    "network_connection": "Der Server ist nicht erreichbar. Bitte prüfe deine Internetverbindung.",
+    "not_found": "Die angeforderte Seite oder Ressource wurde nicht gefunden.",
+    "server_error": "Auf dem Server ist ein Fehler aufgetreten. Bitte versuche es später erneut.",
+    "unknown_error": "Etwas ist schiefgelaufen. Bitte versuche es erneut."
+  },
+  "home": {
+    "alert": "Weitere Sprachversionen entstehen mit deiner Hilfe. Vielen Dank an alle, die dazu beitragen!",
+    "all_questions_card": {
+      "content": "Alle verfügbaren Fragen ansehen und üben.",
+      "title": "Alle Fragen"
+    },
+    "all_rights_reserved": "Alle Rechte vorbehalten",
+    "collaborate": "Bei weiteren Sprachen mithelfen",
+    "created_by": "Erstellt von",
+    "github_button": "Auf GitHub ansehen",
+    "hero_description": "Teste dein Wissen über die IHF-Handballregeln mit interaktiven Quizfragen.",
+    "android_app": {
+      "download": "Bei Google Play herunterladen",
+      "badge": "store-badges/google-play-en-us.svg"
+    },
+    "ios_app": {
+      "download": "Im App Store laden",
+      "badge": "store-badges/app-store-en-us.svg"
+    },
+    "loading": "Wird geladen …",
+    "quiz_card": {
+      "button": "Quiz starten",
+      "count": "Anzahl der Fragen",
+      "timed_mode": "Zeitmodus (90 Sek. pro Frage)",
+      "title": "Quiz starten"
+    },
+    "rules_card": {
+      "content": "Wähle eine Regel aus, um die zugehörigen Fragen zu sehen.",
+      "title": "Regeln"
+    },
+    "search_card": {
+      "content": "Durchsuche alle Fragen und Antworten nach Nummer oder Text in einer beliebigen Sprache.",
+      "title": "Suche"
+    },
+    "timed_mode_description": "Gegen die Zeit spielen",
+    "version": "Version {{version}}"
+  },
+  "languages": {
+    "de": "Deutsch",
+    "en": "Englisch",
+    "fr": "Französisch",
+    "label": "Sprache",
+    "nl": "Niederländisch",
+    "srb": "Serbisch"
+  },
+  "main": {
+    "title": "IHF-Handballregelquiz"
+  },
+  "navigation": {
+    "collapse": "Seitenleiste einklappen",
+    "expand": "Seitenleiste ausklappen",
+    "home": "Startseite",
+    "questions": "Fragen",
+    "quiz": "Quiz",
+    "rules": "Regeln",
+    "search": "Suche",
+    "settings": "Einstellungen"
+  },
+  "offline": {
+    "available": "Offline verfügbar",
+    "dismiss": "Offline-Hinweis schließen",
+    "last_synced": "Zuletzt synchronisiert",
+    "message": "Du bist offline. Einige Funktionen sind möglicherweise nicht verfügbar.",
+    "never_synced": "Daten wurden noch nicht synchronisiert",
+    "not_available": "Offline nicht verfügbar",
+    "refresh": "Offline-Daten aktualisieren",
+    "sync_now": "Jetzt synchronisieren",
+    "syncing": "Synchronisierung läuft",
+    "up_to_date": "Offline-Daten sind aktuell"
+  },
+  "privacy": {
+    "title": "Datenschutzerklärung",
+    "updated": "Zuletzt aktualisiert am 26. Oktober 2026",
+    "intro": "Diese Erklärung gilt für die Website und Progressive Web App des IHF-Regelquiz sowie für die nativen Handballregelquiz-Apps. Kristof Gilis betreibt diese Dienste. Bei Fragen zum Datenschutz oder für Anfragen erreichst du uns per E-Mail unter",
+    "data_heading": "Website und frühere Store-Versionen",
+    "device_label": "Auf deinem Gerät",
+    "device": "Die App speichert Sprache, Design und Anzeigeeinstellungen sowie heruntergeladene Regeln, Fragen, Antworten, Bewertungseinstellungen und Synchronisierungsinformationen. Deine Antworten bleiben während eines Quiz in der App.",
+    "online_label": "Wenn sich die Website oder eine frühere Store-Version verbindet",
+    "online": "Die App sendet Anfragen zum Laden von Inhalten und Suchergebnissen. Diese können die gewählte Sprache und den Suchtext enthalten. Bei der Online-Bewertung sendet sie die Kennungen der Fragen und der ausgewählten Antworten an die API, um das Ergebnis zu berechnen.",
+    "technical_label": "Technische Anfragedaten",
+    "technical": "Das Web- und API-Hosting kann Daten verarbeiten, die zur Bereitstellung und zum Schutz des Dienstes erforderlich sind, etwa IP-Adresse, Anfragezeit, angeforderte Seite oder Schnittstelle, Antwortstatus und Browser- oder Geräteinformationen.",
+    "contact_label": "Wenn du uns kontaktierst",
+    "contact": "Wir erhalten deine E-Mail-Adresse und die Angaben in deiner Nachricht, damit wir dir antworten können.",
+    "no_account": "Für die App ist kein Konto erforderlich. Sie verwendet keine Werbung, Analysedienste oder gesonderte Absturzberichte. Die API speichert keinen persönlichen Quizverlauf.",
+    "purpose_heading": "Warum wir diese Informationen verwenden",
+    "purpose": "Wir stellen damit Quiz und Regeln bereit, merken uns deine Einstellungen, machen heruntergeladene Inhalte offline verfügbar, berechnen Ergebnisse, beantworten Nachrichten und halten den Dienst funktionsfähig und sicher. Bei der Verarbeitung personenbezogener Daten durch den Online-Dienst stützen wir uns auf unser berechtigtes Interesse an der Bereitstellung und Absicherung dieser Funktionen. Du kannst dieser Verarbeitung widersprechen, indem du uns kontaktierst.",
+    "offline": "Die Website und frühere Store-Versionen müssen Inhalte einmal herunterladen, bevor sie offline funktionieren. Die neu entwickelten nativen Apps enthalten alle Inhalte und funktionieren sofort offline.",
+    "hosting_heading": "Hosting und Weitergabe",
+    "hosting_before_link": "Microsoft Azure hostet Website und API und verarbeitet Dienstanfragen in unserem Auftrag. Wir verkaufen deine Informationen nicht und geben sie nicht an Werbe- oder Analyseanbieter weiter. Microsoft kann Dienstdaten unter den in seinem folgenden Dokument beschriebenen Schutzmaßnahmen in anderen Ländern verarbeiten:",
+    "dpa_label": "Datenschutznachtrag",
+    "hosting_after_link": "Kontaktiere uns für Einzelheiten zu den für diesen Dienst relevanten Datenübermittlungen.",
+    "retention_heading": "Speicherung und Löschung",
+    "retention_local": "Website-Einstellungen und heruntergeladene Inhalte bleiben erhalten, bis die Website-Daten gelöscht oder vom Browser entfernt werden. Frühere Store-Versionen können heruntergeladene Daten bis zur Löschung der App-Daten behalten. Die neu entwickelten nativen Apps behalten Einstellungen und gespeicherte Quizdaten lokal, bis sie wie oben beschrieben ersetzt oder entfernt werden. Wir speichern keinen Quizverlauf auf dem Server.",
+    "retention_logs": "Bei der Prüfung am 24. Oktober 2026 waren in Azure App Service die Anwendungs- und HTTP-Anfrageprotokolle für Website und API deaktiviert. Keine der Apps sendet Diagnoseprotokolle an Azure Monitor. Mit diesen Einstellungen speichern wir keine Anfrageprotokolle. Azure kann weiterhin technische Daten zur Bereitstellung und Absicherung seines Hostingdienstes verarbeiten. Falls wir die Protokollierung aktivieren, ergänzen wir hier die Speicherfrist. Du kannst die Löschung deiner bei uns gespeicherten personenbezogenen Daten verlangen. Nachrichten bewahren wir nur so lange auf, wie es für die Anfrage und damit verbundene Pflichten nötig ist.",
+    "rights_heading": "Deine Möglichkeiten und Rechte",
+    "choices": "Sprache und Design kannst du in den Einstellungen ändern. Lösche die Website-Daten, um Webdaten zu entfernen. Lösche die App oder ihre Daten, um lokale App-Daten zu entfernen. Quiz, Datenschutzerklärung und Hilfeseiten der nativen App funktionieren offline. Für eine Support-E-Mail brauchst du eine Verbindung.",
+    "rights_before_email": "Je nach geltendem Recht kannst du Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung oder eine übertragbare Kopie deiner Daten verlangen oder der Verarbeitung widersprechen. Schreibe an",
+    "rights_after_email": "um eine Anfrage zu stellen. Du kannst dich auch bei deiner örtlichen Datenschutzaufsichtsbehörde beschweren.",
+    "changes_heading": "Änderungen dieser Erklärung",
+    "changes": "Wir können diese Erklärung aktualisieren, wenn sich die App oder ihre Datenverarbeitung ändert. Das Datum oben zeigt die letzte Änderung.",
+    "native_heading": "Vollständig offline nutzbare native Apps",
+    "native_details": "Die mit SwiftUI entwickelte iOS-App enthält alle Inhalte und funktioniert ab dem ersten Start offline. Regeln, Fragen, Suche und Bewertung laufen auf dem Gerät. Sprache, Design und Quizfortschritt bleiben lokal. Antworten und Ergebnisse werden nicht an unsere API gesendet. Bei normaler Nutzung erfolgen keine Netzwerkanfragen. Datenschutzerklärung und Hilfe sind in der App enthalten. Eine Support-E-Mail öffnet deinen E-Mail-Dienst und benötigt eine Verbindung. App-Stores liefern App- und Inhaltsupdates. Gerätesicherungen können lokale Einstellungen und Quizdaten enthalten. Lösche die App oder ihre Daten, um diese lokalen Daten zu entfernen. Ein gespeichertes Quiz bleibt erhalten, bis du es verwirfst oder ersetzt, sich seine Inhaltsversion ändert oder die App-Daten gelöscht werden."
+  },
+  "pwa": {
+    "update_available": "Eine neue Version ist verfügbar.",
+    "update_now": "Aktualisieren",
+    "updating": "Wird aktualisiert …"
+  },
+  "questions": {
+    "calculate_score": "Ergebnis berechnen",
+    "description": "Sieh dir alle verfügbaren Fragen an und übe in deinem Tempo.",
+    "hidden_exceptions_count": "{{count}} ausgeblendet",
+    "hide_correct_answer": "Richtige Antwort ausblenden",
+    "hide_correct_answers": "Richtige Antworten ausblenden",
+    "loading": "Fragen werden geladen …",
+    "no_questions": "Keine Fragen verfügbar",
+    "recalculate_score": "Neu berechnen",
+    "recalculate_score_full": "Ergebnis neu berechnen",
+    "restart": "Neu starten",
+    "rule_references": "Regelbezüge",
+    "show_correct_answer": "Richtige Antwort anzeigen",
+    "show_correct_answers": "Richtige Antworten anzeigen",
+    "show_score": "Ergebnis anzeigen",
+    "shown_exceptions_count": "{{count}} angezeigt",
+    "title": "Alle Fragen",
+    "wrong": "Falsch"
+  },
+  "quiz": {
+    "calculating_score": "Dein Ergebnis wird berechnet …",
+    "complete": "Quiz abschließen",
+    "configure": "Quiz einrichten",
+    "leave_cancel": "Bleiben",
+    "leave_confirm": "Verlassen",
+    "leave_title": "Quiz verlassen?",
+    "leave_warning": "Wenn du jetzt gehst, geht dein Fortschritt verloren. Möchtest du das Quiz verlassen?",
+    "next": "Weiter",
+    "offline_no_data": "Es sind keine Offline-Fragen verfügbar. Stelle eine Internetverbindung her, um die Fragen zu synchronisieren.",
+    "previous": "Zurück",
+    "progress": "Frage {{current}} von {{total}}",
+    "select_answers": "Wähle alle richtigen Antworten aus",
+    "select_answers_for_question": "Wähle alle richtigen Antworten für Frage {{current}} aus",
+    "setup_description": "Lege deine Quiz-Einstellungen fest",
+    "time_remaining": "Verbleibende Zeit"
+  },
+  "quiz_results": {
+    "completion_time": "Benötigte Zeit",
+    "correct": "Richtig",
+    "correct_answer": "Richtige Antwort",
+    "home": "Startseite",
+    "question": "Frage",
+    "retake": "Neues Quiz",
+    "review": "Antworten ansehen",
+    "title": "Quiz-Ergebnis",
+    "wrong": "Falsch",
+    "your_answer": "Deine Antwort"
+  },
+  "rule": {
+    "description": "Übe die Fragen zu dieser Regel."
+  },
+  "rules": {
+    "description": "Sieh dir alle IHF-Handballregeln an. Wähle eine Regel für die zugehörigen Fragen.",
+    "loading": "Regeln werden geladen …",
+    "no_rules": "Keine Regeln verfügbar",
+    "title": "Regeln"
+  },
+  "score_overview": {
+    "all_correct": "Alle Antworten richtig!",
+    "click_to_review": "Zur Frage springen",
+    "correct": "Richtig",
+    "of_total_correct": "/ {{total}} richtig",
+    "perfect": "Perfekt!",
+    "question_number": "Frage {{number}}",
+    "review_mistakes": "Fehler ansehen",
+    "title": "Ergebnis",
+    "wrong": "Falsch"
+  },
+  "search": {
+    "clear": "Suche löschen",
+    "description": "Durchsuche alle Fragen und Antworten nach Nummer oder Text in einer beliebigen Sprache.",
+    "no_results": "Keine passenden Fragen gefunden.",
+    "placeholder": "Fragen suchen …",
+    "prompt": "Gib einen Suchbegriff ein.",
+    "tip_keyword": "Du kannst auch nach Stichwörtern suchen. Tippfehler und Wortteile sind möglich.",
+    "tip_number": "Gib eine Fragennummer oder den genauen Wortlaut ein, um eine Frage gezielt zu finden.",
+    "tip_offline": "Die Suche funktioniert auch offline mit bereits synchronisierten Daten.",
+    "title": "Fragen suchen"
+  },
+  "settings": {
+    "description": "Passe deine Einstellungen an.",
+    "language_section": "Sprache",
+    "offline_section": "Offline",
+    "privacy_policy": "Datenschutzerklärung lesen",
+    "privacy_section": "Datenschutz",
+    "support_contact": "Hilfe erhalten",
+    "sidebar_collapse": "Seitenleiste einklappen",
+    "sidebar_expand": "Seitenleiste ausklappen",
+    "sidebar_expanded": "Ausgeklappte Seitenleiste",
+    "sidebar_expanded_off": "Die Seitenleiste zeigt nur Symbole",
+    "sidebar_expanded_on": "Die Seitenleiste zeigt Symbole und Beschriftungen",
+    "sidebar_position": "Position der Seitenleiste",
+    "sidebar_position_left": "Links",
+    "sidebar_position_right": "Rechts",
+    "sidebar_section": "Seitenleiste",
+    "theme_section": "Design",
+    "title": "Einstellungen"
+  },
+  "support": {
+    "title": "Hilfe",
+    "intro": "Brauchst du Hilfe mit der Website oder der App des Handballregelquiz? Schreibe uns eine E-Mail. Wir antworten dir.",
+    "contact_heading": "Kontakt",
+    "contact_details": "Beschreibe, was passiert ist, und nenne dein Gerät, die App-Version und die gewählte Sprache. Teile keine sensiblen persönlichen Daten.",
+    "offline_heading": "Offline-Nutzung",
+    "offline_details": "Die Website und frühere Store-Versionen müssen Inhalte einmal herunterladen, bevor sie offline funktionieren. Die neu entwickelten nativen Apps enthalten alle Inhalte und funktionieren sofort offline.",
+    "content_heading": "Rückmeldung zu Fragen oder Regeln",
+    "content_details": "Wenn dir eine Frage oder Regel fehlerhaft erscheint, nenne die Nummer und die Sprache, damit wir sie prüfen können.",
+    "privacy_before_link": "Informationen zur Datennutzung findest du in unserer",
+    "privacy_link": "Datenschutzerklärung"
+  },
+  "theme": {
+    "dark": "Dunkel",
+    "light": "Hell",
+    "system": "System",
+    "toggle": "Design wechseln"
+  }
+}

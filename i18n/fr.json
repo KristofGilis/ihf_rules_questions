@@ -22,6 +22,14 @@
     "created_by": "Créé par",
     "github_button": "Voir sur GitHub",
     "hero_description": "Testez vos connaissances des règles du handball IHF avec des quiz interactifs",
+    "android_app": {
+      "download": "Disponible sur Google Play",
+      "badge": "store-badges/google-play-fr-fr.svg"
+    },
+    "ios_app": {
+      "download": "Télécharger sur l’App Store",
+      "badge": "store-badges/app-store-fr-fr.svg"
+    },
     "loading": "Chargement...",
     "quiz_card": {
       "button": "Commencer le quiz",
@@ -33,10 +41,15 @@
       "content": "Accédez à la liste de toutes les règles. À partir d'ici, vous pouvez obtenir toutes les questions liées à la règle sélectionnée.",
       "title": "Règles"
     },
+    "search_card": {
+      "content": "Recherchez toutes les questions et réponses par numéro, phrase ou réponse dans n'importe quelle langue.",
+      "title": "Recherche"
+    },
     "timed_mode_description": "Course contre la montre",
     "version": "Version {{version}}"
   },
   "languages": {
+    "de": "Allemand",
     "en": "Anglais",
     "fr": "Français",
     "label": "Langue",
@@ -53,6 +66,7 @@
     "questions": "Questions",
     "quiz": "Quiz",
     "rules": "Règles",
+    "search": "Recherche",
     "settings": "Paramètres"
   },
   "offline": {
@@ -67,6 +81,39 @@
     "syncing": "Synchronisation",
     "up_to_date": "Les données hors ligne sont à jour"
   },
+  "privacy": {
+    "title": "Politique de confidentialité",
+    "updated": "Dernière mise à jour : 26 octobre 2026",
+    "intro": "Cette politique concerne le site web et l’application web progressive IHF Rules Quiz, ainsi que les applications natives Handball Rules Quiz. Kristof Gilis exploite ces services. Pour toute question ou demande relative à la confidentialité, écrivez à",
+    "data_heading": "Site web et anciennes versions des boutiques",
+    "device_label": "Sur votre appareil :",
+    "device": "L'application enregistre vos préférences de langue, de thème et d'affichage, ainsi que les règles, questions, réponses et paramètres de calcul du score téléchargés et les informations de synchronisation. Vos réponses restent dans l'application pendant le quiz.",
+    "online_label": "Quand le site ou une ancienne version se connecte :",
+    "online": "L'application envoie des requêtes pour charger le contenu et les résultats de recherche. Ces requêtes peuvent contenir la langue choisie et votre texte de recherche. Pour calculer le score en ligne, elle transmet à l'API les identifiants des questions et des réponses sélectionnées.",
+    "technical_label": "Données techniques des requêtes :",
+    "technical": "Les services d'hébergement du site et de l'API peuvent traiter les informations nécessaires pour fournir et protéger le service, comme une adresse IP, l'heure de la requête, la page ou le point d'accès demandé, le statut de la réponse et des informations sur le navigateur ou l'appareil.",
+    "contact_label": "Si vous nous contactez :",
+    "contact": "Nous recevons votre adresse e-mail et les informations que vous incluez dans votre message afin de pouvoir vous répondre.",
+    "no_account": "L'application ne nécessite pas de compte. Elle n'utilise ni publicité, ni outil d'analyse, ni service distinct de rapport d'incidents. L'API ne conserve pas d'historique personnel des quiz.",
+    "purpose_heading": "Pourquoi nous utilisons ces données",
+    "purpose": "Nous les utilisons pour fournir le quiz et le contenu des règles, mémoriser vos choix, rendre le contenu téléchargé accessible hors ligne, calculer les scores, répondre aux messages et assurer le fonctionnement et la sécurité du service. Pour les données personnelles traitées par le service en ligne, nous nous fondons sur notre intérêt légitime à fournir et protéger ces fonctions. Vous pouvez vous opposer à un traitement fondé sur cet intérêt légitime en nous contactant.",
+    "offline": "Le site web et les anciennes versions nécessitent un premier téléchargement pour fonctionner hors ligne. Les applications natives reconstruites comprennent le contenu et fonctionnent immédiatement hors ligne.",
+    "hosting_heading": "Hébergement et partage",
+    "hosting_before_link": "Microsoft Azure héberge le site web et l'API et traite les requêtes du service pour notre compte. Nous ne vendons pas vos données et ne les partageons pas avec des fournisseurs de publicité ou d'analyse. Microsoft peut traiter les données du service dans d'autres pays selon les garanties décrites dans son",
+    "dpa_label": "Addendum sur la protection des données",
+    "hosting_after_link": "Contactez-nous pour obtenir des précisions sur les transferts concernant ce service.",
+    "retention_heading": "Conservation et suppression",
+    "retention_local": "Les préférences du site et le contenu téléchargé restent jusqu’à la suppression ou l’éviction des données du site. Les anciennes versions peuvent conserver leur cache jusqu’à la suppression des données de l’application. Les applications natives reconstruites conservent les préférences et l’état du quiz localement jusqu’à leur remplacement ou suppression comme décrit ci-dessus. Aucun historique personnel de quiz n’est conservé sur le serveur.",
+    "retention_logs": "Lors de la vérification du 24 octobre 2026, la journalisation des applications et des requêtes HTTP était désactivée pour le site et l'API dans Azure App Service. Aucune des deux applications n'envoie de journaux de diagnostic à Azure Monitor. Ces journaux étant désactivés, nous ne conservons pas de journaux de requêtes au moyen de ces paramètres. Azure peut néanmoins traiter des données techniques pour fournir et protéger son service d'hébergement. Si nous activons la journalisation, nous mettrons cette politique à jour avec la durée de conservation. Vous pouvez demander la suppression des données personnelles que nous détenons. Nous conservons les messages de contact uniquement le temps nécessaire pour traiter la demande et les obligations qui y sont liées.",
+    "rights_heading": "Vos choix et vos droits",
+    "choices": "Vous pouvez modifier la langue et l’apparence dans les réglages. Effacez les données du site pour supprimer les données web ; supprimez l’application ou ses données pour effacer les données natives. Le quiz natif, la politique de confidentialité et les pages d’assistance fonctionnent hors ligne. Envoyer un e-mail nécessite une connexion.",
+    "rights_before_email": "Selon la loi applicable, vous pouvez demander l'accès à vos données personnelles, leur rectification ou leur suppression, la limitation de leur traitement, vous opposer à ce traitement ou demander une copie portable. Écrivez à",
+    "rights_after_email": "pour exercer vos droits. Vous pouvez également déposer une plainte auprès de votre autorité locale de protection des données.",
+    "changes_heading": "Modifications de cette politique",
+    "changes": "Nous pouvons mettre à jour cette politique lorsque l'application ou nos pratiques de traitement des données changent. La date indiquée en haut de la page correspond à sa dernière révision.",
+    "native_heading": "Applications natives entièrement hors ligne",
+    "native_details": "L’application iOS en SwiftUI contient son contenu et fonctionne hors ligne dès le premier lancement. Règles, questions, recherche et calcul du score fonctionnent sur l’appareil. La langue, l’apparence et l’état du quiz sont conservés localement ; les réponses et résultats ne sont pas envoyés à notre API. L’utilisation normale ne génère aucun appel réseau. La politique de confidentialité et les pages d’assistance sont incluses dans l’application. Contacter l’assistance par e-mail ouvre votre messagerie et nécessite une connexion. Les boutiques distribuent les mises à jour de l’application et du contenu. Les sauvegardes de l’appareil peuvent contenir les préférences et l’état du quiz. Supprimez l’application ou ses données pour effacer les données locales. Un quiz enregistré reste jusqu’à son abandon, son remplacement, un changement de version du contenu ou la suppression des données."
+  },
   "pwa": {
     "update_available": "Une nouvelle version est disponible.",
     "update_now": "Mettre à jour",
@@ -75,12 +122,19 @@
   "questions": {
     "calculate_score": "Calculer le score",
     "description": "Parcourez et étudiez toutes les questions disponibles à votre rythme",
+    "hidden_exceptions_count": "{{count}} masquée(s)",
+    "hide_correct_answer": "Masquer la réponse correcte",
+    "hide_correct_answers": "Masquer les réponses correctes",
     "loading": "Chargement des questions...",
     "no_questions": "Aucune question disponible",
     "recalculate_score": "Recalculer",
     "recalculate_score_full": "Recalculer le score",
     "restart": "Redémarrer",
+    "rule_references": "Références des règles",
+    "show_correct_answer": "Afficher la réponse correcte",
+    "show_correct_answers": "Afficher les réponses correctes",
     "show_score": "Afficher le score",
+    "shown_exceptions_count": "{{count}} affichée(s)",
     "title": "Toutes les questions",
     "wrong": "Faux"
   },
@@ -104,6 +158,7 @@
   "quiz_results": {
     "completion_time": "Temps de complétion",
     "correct": "Correct",
+    "correct_answer": "Bonne réponse",
     "home": "Accueil",
     "question": "Question",
     "retake": "Reprendre le quiz",
@@ -132,10 +187,24 @@
     "title": "Résultat",
     "wrong": "Faux"
   },
+  "search": {
+    "clear": "Effacer la recherche",
+    "description": "Recherchez toutes les questions et réponses par numéro, phrase ou réponse dans n'importe quelle langue.",
+    "no_results": "Aucune question ne correspond à votre recherche.",
+    "placeholder": "Rechercher des questions...",
+    "prompt": "Saisissez un mot-clé pour rechercher des questions.",
+    "tip_keyword": "Ou tapez un mot-clé — les fautes de frappe et les mots partiels sont acceptés.",
+    "tip_number": "Saisissez un numéro de question ou sa phrase exacte pour une correspondance précise.",
+    "tip_offline": "La recherche fonctionne aussi hors ligne, avec les données déjà synchronisées sur votre appareil.",
+    "title": "Recherche de questions"
+  },
   "settings": {
     "description": "Gérez vos préférences",
     "language_section": "Langue",
     "offline_section": "Hors ligne",
+    "privacy_policy": "Lire la politique de confidentialité",
+    "privacy_section": "Confidentialité",
+    "support_contact": "Obtenir de l’aide",
     "sidebar_collapse": "Réduire la barre latérale",
     "sidebar_expand": "Agrandir la barre latérale",
     "sidebar_expanded": "Barre latérale agrandie",
@@ -147,6 +216,18 @@
     "sidebar_section": "Barre latérale",
     "theme_section": "Thème",
     "title": "Paramètres"
+  },
+  "support": {
+    "title": "Assistance",
+    "intro": "Besoin d’aide avec le site IHF Rules Quiz ou l’application Handball Rules Quiz ? Envoyez-nous un e-mail et nous vous répondrons.",
+    "contact_heading": "Contact",
+    "contact_details": "Indiquez-nous ce qui s’est passé, votre appareil, la version de l’application et la langue choisie. N’incluez pas de données personnelles sensibles.",
+    "offline_heading": "Utiliser l’application hors ligne",
+    "offline_details": "Le site web et les anciennes versions nécessitent un premier téléchargement pour fonctionner hors ligne. Les applications natives reconstruites comprennent le contenu et fonctionnent immédiatement hors ligne.",
+    "content_heading": "Commentaires sur les questions ou les règles",
+    "content_details": "Si une question ou une règle semble incorrecte, indiquez son numéro et la langue afin que nous puissions vérifier.",
+    "privacy_before_link": "Pour en savoir plus sur l’utilisation des données, consultez notre",
+    "privacy_link": "politique de confidentialité"
   },
   "theme": {
     "dark": "Sombre",

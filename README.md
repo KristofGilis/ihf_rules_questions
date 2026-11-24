@@ -8,7 +8,7 @@ This project manages the IHF rules and questions in multiple languages. I update
 
 The rules are defined in a RuleDto object that contains a list of QuestionDto objects, which in turn hold AnswerDto objects. There will be a separate folder for each language.
 
-Translations for the UI are stored in JSON files (`en.json`, `nl.json` `srb.json`, `fr.json`, etc.).
+Translations for the UI are stored in JSON files (`en.json`, `nl.json`, `srb.json`, `fr.json`, and `de.json`).
 
 
 ## Versions

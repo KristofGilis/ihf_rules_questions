@@ -22,6 +22,14 @@
     "created_by": "Created by",
     "github_button": "View on GitHub",
     "hero_description": "Test your knowledge of IHF handball rules with interactive quizzes",
+    "android_app": {
+      "download": "Get it on Google Play",
+      "badge": "store-badges/google-play-en-us.svg"
+    },
+    "ios_app": {
+      "download": "Download on the App Store",
+      "badge": "store-badges/app-store-en-us.svg"
+    },
     "loading": "Loading...",
     "quiz_card": {
       "button": "Start Quiz",
@@ -33,10 +41,15 @@
       "content": "Go to the list of all rules. From here you can get all questions related to the selected rule.",
       "title": "Rules"
     },
+    "search_card": {
+      "content": "Search all questions and answers by question number, phrase or answer phrase in any language.",
+      "title": "Search"
+    },
     "timed_mode_description": "Race against the clock",
     "version": "Version {{version}}"
   },
   "languages": {
+    "de": "German",
     "en": "English",
     "fr": "French",
     "label": "Language",
@@ -53,6 +66,7 @@
     "questions": "Questions",
     "quiz": "Quiz",
     "rules": "Rules",
+    "search": "Search",
     "settings": "Settings"
   },
   "offline": {
@@ -67,6 +81,39 @@
     "syncing": "Syncing",
     "up_to_date": "Offline data is up to date"
   },
+  "privacy": {
+    "title": "Privacy policy",
+    "updated": "Last updated: 26 October 2026",
+    "intro": "This policy covers the IHF Rules Quiz website and progressive web app, and the native Handball Rules Quiz apps. Kristof Gilis operates these services. For privacy questions or requests, email",
+    "data_heading": "Website and earlier store builds",
+    "device_label": "On your device:",
+    "device": "The app saves your language, theme, and display preferences, along with downloaded rules, questions, answers, scoring configuration, and sync information. Quiz answers are held in the app while you take a quiz.",
+    "online_label": "When the website or an earlier store build connects:",
+    "online": "The app sends requests to load content and search results. These requests may include your selected language and search text. For online scoring, it sends question IDs and selected answer IDs to the API to calculate a result.",
+    "technical_label": "Technical request data:",
+    "technical": "The web and API hosting services may process information needed to deliver and protect the service, such as an IP address, request time, requested page or endpoint, response status, and browser or device information.",
+    "contact_label": "If you contact us:",
+    "contact": "We receive the email address and information you include in your message so we can reply.",
+    "no_account": "The app does not require an account. It does not use advertising, analytics, or a separate crash reporting service. The API does not maintain a personal quiz history.",
+    "purpose_heading": "Why we use this information",
+    "purpose": "We use it to provide the quiz and rules content, remember your choices, make downloaded content available offline, calculate scores, respond to messages, and keep the service working and secure. For personal data processed by the online service, we rely on our legitimate interests in providing and securing these functions. You can object to processing based on legitimate interests by contacting us.",
+    "offline": "The website and earlier store builds need an initial content download for offline use. The rebuilt native apps include their content and work offline immediately.",
+    "hosting_heading": "Hosting and sharing",
+    "hosting_before_link": "Microsoft Azure hosts the website and API and processes service requests on our behalf. We do not sell your information or share it with advertising or analytics providers. Microsoft may process service data in other countries under the safeguards described in its",
+    "dpa_label": "Data Protection Addendum",
+    "hosting_after_link": "Contact us for details about transfers relevant to this service.",
+    "retention_heading": "Retention and deletion",
+    "retention_local": "Website preferences and downloaded content remain until site data is cleared or evicted. Earlier store builds may retain their downloaded cache until app data is removed. The rebuilt native apps keep preferences and saved quiz state locally until they are replaced or removed as described above. We do not keep a server-side quiz history.",
+    "retention_logs": "As checked on 24 October 2026, application and HTTP request logging are disabled for the website and API in Azure App Service, and neither app sends diagnostic logs to Azure Monitor. Because those logs are off, we do not retain request logs through these settings. Azure may still process technical data to provide and protect its hosting service. If we enable logging, we will update this policy with the retention period. You can ask us to delete personal data we hold. We keep contact messages only as long as needed to handle the request and any related obligations.",
+    "rights_heading": "Your choices and rights",
+    "choices": "You can change language and appearance in Settings. Clear site storage to remove website data; delete the app or clear its storage to remove native app data. The native quiz, privacy policy and support pages work offline. Sending support email needs a connection.",
+    "rights_before_email": "Depending on applicable law, you may ask to access, correct, delete, or restrict your personal data, object to its processing, or request a portable copy. Email",
+    "rights_after_email": "to make a request. You may also complain to your local data protection authority.",
+    "changes_heading": "Changes to this policy",
+    "changes": "We may update this policy when the app or its data practices change. The updated date at the top shows when this page was last revised.",
+    "native_heading": "Fully offline native apps",
+    "native_details": "The SwiftUI iOS app includes its content and works offline from the first launch. Rules, questions, search and scoring run on the device. Language, appearance and quiz state are stored locally; answers and results are not sent to our API. Normal use makes no network requests. The privacy policy and support pages are included in the app. Choosing to email support opens your email service and requires connectivity. App stores deliver app and content updates. Device backups may include local preferences and quiz state. Delete the app or clear its storage to remove local native data. A saved quiz remains until you discard or replace it, its content version changes, or app data is removed."
+  },
   "pwa": {
     "update_available": "A new version is available.",
     "update_now": "Update",
@@ -75,12 +122,19 @@
   "questions": {
     "calculate_score": "Calculate Score",
     "description": "Browse and study all available questions at your own pace",
+    "hidden_exceptions_count": "{{count}} hidden",
+    "hide_correct_answer": "Hide correct answer",
+    "hide_correct_answers": "Hide Correct Answers",
     "loading": "Loading questions...",
     "no_questions": "No questions available",
     "recalculate_score": "Recalculate",
     "recalculate_score_full": "Recalculate Score",
     "restart": "Restart",
+    "rule_references": "Rule References",
+    "show_correct_answer": "Show correct answer",
+    "show_correct_answers": "Show Correct Answers",
     "show_score": "Show Score",
+    "shown_exceptions_count": "{{count}} shown",
     "title": "All Questions",
     "wrong": "Wrong"
   },
@@ -104,6 +158,7 @@
   "quiz_results": {
     "completion_time": "Completion Time",
     "correct": "Correct",
+    "correct_answer": "Correct Answer",
     "home": "Home",
     "question": "Question",
     "retake": "Retake Quiz",
@@ -132,10 +187,24 @@
     "title": "Result",
     "wrong": "Wrong"
   },
+  "search": {
+    "clear": "Clear search",
+    "description": "Search all questions and answers by question number, phrase or answer phrase in any language.",
+    "no_results": "No questions match your search.",
+    "placeholder": "Search questions...",
+    "prompt": "Type a keyword to search questions.",
+    "tip_keyword": "Or type a keyword — spelling mistakes and partial words are okay.",
+    "tip_number": "Enter a question number or its exact phrase for a precise match.",
+    "tip_offline": "Search works offline too, using the data already synced to your device.",
+    "title": "Search Questions"
+  },
   "settings": {
     "description": "Manage your preferences",
     "language_section": "Language",
     "offline_section": "Offline",
+    "privacy_policy": "Read privacy policy",
+    "privacy_section": "Privacy",
+    "support_contact": "Get help",
     "sidebar_collapse": "Collapse sidebar",
     "sidebar_expand": "Expand sidebar",
     "sidebar_expanded": "Expanded sidebar",
@@ -147,6 +216,18 @@
     "sidebar_section": "Sidebar",
     "theme_section": "Theme",
     "title": "Settings"
+  },
+  "support": {
+    "title": "Support",
+    "intro": "Need help with the IHF Rules Quiz website or the Handball Rules Quiz app? Contact us by email and we will reply.",
+    "contact_heading": "Contact",
+    "contact_details": "Please tell us what happened, your device and app version, and your selected language. Do not include sensitive personal information.",
+    "offline_heading": "Using the app offline",
+    "offline_details": "The website and earlier store builds need an initial content download for offline use. The rebuilt native apps include their content and work offline immediately.",
+    "content_heading": "Question or rule feedback",
+    "content_details": "If a question or rule seems incorrect, include its number and the language so we can investigate.",
+    "privacy_before_link": "For information about data use, read our",
+    "privacy_link": "privacy policy"
   },
   "theme": {
     "dark": "Dark",
