@@ -25,6 +25,12 @@ Here an overview of all versions:
 | Dutch (translations provided by Sus Evers) | 1 juli 2025 (versie december 2025)     |
 | Serbian    | 1. Јула 2025 (Верзија 3)    |
 | French    | 1 juillet 2025 (version décembre 2025)    |
+| German (DHB) | 1st of January 2026 |
+
+The [German catalogue](rules/De) contains 432 questions from the January 2026
+DHB catalogue. It uses the shared English answer key for scoring and rule
+references. [RuleSAR.json](rules/De/RuleSAR.json) contains the German rule
+`ARR` and questions `ARR1` and `ARR2`.
 
 
 ## Adding a New Language
