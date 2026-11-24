@@ -1,0 +1,241 @@
+{
+  "RuleNumber": "18",
+  "Name": "Zeitnehmer und Sekretär",
+  "Questions": [
+    {
+      "QuestionNumber": "18.1",
+      "Phrase": "Welche der folgenden Vorgaben trifft das Regelwerk hinsichtlich der Aufgabenteilung von Zeitnehmer und Sekretär?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Kontrolle des Aus- und Eintretens der Auswechselspieler ist dem Zeitnehmer vorbehalten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Generell sollten alle notwendigen Spielunterbrechungen vom Zeitnehmer vorgenommen werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Erkennt der Sekretär ein verfrühtes Eintreten eines Auswechselspielers, muss er pfeifen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn keine öffentliche Zeitmessanlage vorhanden ist, unterrichtet der Zeitnehmer die Mannschaftsverantwortlichen über die bereits gespielte bzw. noch verbleibende Zeit.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Zeitnehmer und Sekretär sind gemeinsam dafür zuständig, die Angriffe zu zählen, wenn ein Spieler nach Behandlung auf der Spielfläche diese erst nach drei Angriffen seiner Mannschaft wieder betreten darf.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "18:2"
+      ]
+    },
+    {
+      "QuestionNumber": "18.2",
+      "Phrase": "WEISS 5 hat eine klare Torchance. Offizieller A von Team WEISS beleidigt den Zeitnehmer, woraufhin dieser genau in dem Moment pfeift, als WEISS 5 zum Wurf ansetzt. Das Vergehen wurde nur vom Zeitnehmer bemerkt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bestrafung des Offiziellen A von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Schriftlicher Bericht",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 7"
+      ]
+    },
+    {
+      "QuestionNumber": "18.3",
+      "Phrase": "Ein Mannschaftsverantwortlicher beleidigt den Sekretär, ohne dass die Schiedsrichter dies bemerken. Bei der nächsten Unterbrechung meldet der Sekretär das Vergehen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation des Mannschaftsverantwortlichen, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Mannschaftsverantwortlichen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Schriftlicher Bericht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung des Mannschaftsverantwortlichen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Keine persönliche Strafe möglich",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "18:1",
+        "Erläuterung 7B"
+      ]
+    },
+    {
+      "QuestionNumber": "18.4",
+      "Phrase": "Team WEISS ist an der gegnerischen 9-Meter-Linie in Ballbesitz. Der Delegierte unterbricht das Spiel und berichtet den Schiedsrichtern, dass Offizieller A von Team SCHWARZ ihn beleidigt hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ermahnung des Offiziellen A von Team SCHWARZ, schriftlicher Bericht",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation des Offiziellen A von Team SCHWARZ, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team WEISS am Auswechselraum von Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team WEISS an der 9-Meter-Linie von Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "13:6",
+        "16:6b",
+        "Erläuterung 7B",
+        "Auswechselraum-Reglement 5"
+      ]
+    },
+    {
+      "QuestionNumber": "18.5",
+      "Phrase": "Team WEISS ist an der gegnerischen 9-Meter-Linie in Ballbesitz. Der Zeitnehmer unterbricht das Spiel und berichtet den Schiedsrichtern, dass Offizieller A von Team WEISS ihn beleidigt hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Schriftlicher Bericht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Offiziellen A von Team WEISS, schriftlicher Bericht",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spielfortsetzung mit dem der Spielsituation entsprechenden Wurf durch Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "13:4a",
+        "Erläuterung 7B"
+      ]
+    },
+    {
+      "QuestionNumber": "18.6",
+      "Phrase": "Der Mannschaftsverantwortliche von Team WEISS begibt sich zum Coachen während des Spieles wiederholt unmittelbar an den Zeitnehmertisch. Dabei protestiert er gegen Entscheidungen der Schiedsrichter. Die Schiedsrichter bemerken wegen des Lärms in der Halle nichts. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Zeitnehmer unterbricht sofort das Spiel und unterrichtet die Schiedsrichter über das Fehlverhalten des Offiziellen A.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Zeitnehmer wartet bis zur nächsten Unterbrechung des Spieles und informiert die Schiedsrichter über das Fehlverhalten des Offiziellen A.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung gegen den Offiziellen A von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Keine Bestrafung möglich",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 7B",
+        "Auswechselraum-Reglement 5"
+      ]
+    },
+    {
+      "QuestionNumber": "18.7",
+      "Phrase": "Haben die Schiedsrichter einen Verstoß gegen das Auswechselraum-Reglement nicht bemerkt, müssen sie von Zeitnehmer/Sekretär",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "sofort darauf aufmerksam gemacht werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "bei der nächsten Spielunterbrechung darauf aufmerksam gemacht werden.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 7B"
+      ]
+    },
+    {
+      "QuestionNumber": "18.8",
+      "Phrase": "Wenn der Delegierte aufgrund eines Verstoßes durch Mannschaft WEISS eine sofortige Unterbrechung des Spiels für erforderlich hält, während der Ball im Spiel ist, wird das Spiel anschließend mit Ballbesitz für Mannschaft SCHWARZ fortgesetzt. Trifft diese Aussage zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ja",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nein",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 7B"
+      ]
+    }
+  ]
+}

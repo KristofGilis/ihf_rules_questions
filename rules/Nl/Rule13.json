@@ -109,7 +109,7 @@
       "RuleReferences": [
         "8:8b",
         "13:5",
-        "13:6 comment",
+        "13:6 Commentaar",
         "16:3f"
       ]
     },
@@ -239,7 +239,7 @@
         "4:11",
         "8:8d",
         "13:4b",
-        "Clarification 2 and 8"
+        "Verduidelijking 2 en 8"
       ]
     },
     {
@@ -270,7 +270,7 @@
       "RuleReferences": [
         "8:8b",
         "13:5",
-        "13:6 comment",
+        "13:6 Commentaar",
         "16:3f"
       ]
     },
@@ -333,7 +333,7 @@
       "RuleReferences": [
         "7:11",
         "13:6",
-        "13:6 comment"
+        "13:6 Commentaar"
       ]
     },
     {
@@ -388,7 +388,7 @@
       "RuleReferences": [
         "8:7",
         "13:6",
-        "Substitution Area Regulations 5+6"
+        "Wisselzonereglement 5+6"
       ]
     },
     {

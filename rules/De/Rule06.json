@@ -1,0 +1,794 @@
+{
+  "RuleNumber": "6",
+  "Name": "Torraum",
+  "Questions": [
+    {
+      "QuestionNumber": "6.1",
+      "Phrase": "Der Ball liegt auf der Torraumlinie. Angriffsspieler WEISS 7 nimmt ihn auf. Es bietet sich ihm eine klare Torchance, und er will auf das Tor werfen, als er regelwidrig angegriffen wird. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "1:3",
+        "6:5",
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "6.2",
+      "Phrase": "Der Ball rollt im Torraum von Team WEISS. SCHWARZ 8 nimmt ihn auf und erzielt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Anwurf",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "6.3",
+      "Phrase": "WEISS 3 steht mit beiden Füßen im Spielfeld und fängt einen von seinem Torwart abgeprallten Ball. Da er von SCHWARZ 10 regelkonform bedrängt wird, prellt er den Ball mehrmals im eigenen Torraum. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:5"
+      ]
+    },
+    {
+      "QuestionNumber": "6.4",
+      "Phrase": "WEISS 7 befindet sich zwar außerhalb des Torraums von Team SCHWARZ, fängt den Ball jedoch deutlich über dem Torraum und wirft ihn ins Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team SCHWARZ mit Anpfiff",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:5"
+      ]
+    },
+    {
+      "QuestionNumber": "6.5",
+      "Phrase": "WEISS 8, der von einigen Gegenspielern regelkonform bedrängt wird, rollt den Ball absichtlich in den eigenen Torraum, wo er liegen bleibt. Torwart WEISS 1 nimmt ihn nicht auf. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.6",
+      "Phrase": "WEISS 5 spielt den Ball absichtlich in den eigenen Torraum. Der Ball trifft den Torpfosten und rollt in Richtung Spielfeld. Torwart WEISS 12 nimmt ihn auf und wirft ihn zu WEISS 7, der ein Tor erzielt. Richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.7",
+      "Phrase": "WEISS 10 führt nach einem Torerfolg von Team SCHWARZ den Anwurf aus. Da er keinen anspielbaren Feldspieler sieht, überrascht er seinen Torwart WEISS 12, der im Torraum steht, mit einem Rückpass. WEISS 12 nimmt den Ball auf und spielt zu WEISS 9. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wiederholung des Anwurfs nach Korrektur",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.8",
+      "Phrase": "Abwehrspieler SCHWARZ 7 sieht, dass Kreisspieler WEISS 9 völlig frei steht. Um einen Pass zu WEISS 9 zu verhindern, läuft er – zum wiederholten Mal – durch den Torraum. Er befindet sich bereits wieder außerhalb des Torraums, als WEISS 9 tatsächlich angespielt wird. WEISS 9 dreht sich und läuft frontal gegen SCHWARZ 7. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Strafe gegen SCHWARZ 7",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "6:2c",
+        "8:7f",
+        "14:1a",
+        "16:1b"
+      ]
+    },
+    {
+      "QuestionNumber": "6.9",
+      "Phrase": "Der von Torwart SCHWARZ 1 abgeprallte Ball wird von Angriffsspieler WEISS 4 an der Torraumlinie erwartet. Um es nicht zu einer klaren Torchance kommen zu lassen, betritt Abwehrspieler SCHWARZ 2 seinen Torraum und verhindert so die Ballannahme durch WEISS 4. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Strafe gegen SCHWARZ 2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 2 (rote Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:2c",
+        "14:1a",
+        "Erläuterung 6a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.10",
+      "Phrase": "WEISS 10 spielt den Ball in Richtung des eigenen Torraums. Torwart WEISS 1 springt in seinem Torraum ab, fängt den Ball in der Luft, hält ihn sicher fest und landet dann außerhalb des Torraums. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "5:6",
+        "6:7b"
+      ]
+    },
+    {
+      "QuestionNumber": "6.11",
+      "Phrase": "WEISS 11 spielt den Ball in Richtung des eigenen Torraums. Torwart WEISS 1 springt in seinem Torraum ab und fängt den Ball in der Luft. Er hält den Ball sicher fest und landet mit einem Fuß innerhalb, mit dem anderen Fuß außerhalb des Torraums. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "5:6",
+        "6:7b"
+      ]
+    },
+    {
+      "QuestionNumber": "6.12",
+      "Phrase": "Angreifer WEISS 7 betritt mit Ball den gegnerischen Torraum. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team SCHWARZ mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ mit Anpfiff",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:2a",
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "6.13",
+      "Phrase": "Der Ball liegt im Torraum von Team WEISS. In diesem Moment pfeift der Zeitnehmer und erklärt, dass WEISS 5 einen Wechselfehler begangen hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ an der Freiwurflinie",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "6:5",
+        "Abs. 2",
+        "13:3",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.14",
+      "Phrase": "In welchen der folgenden Fälle ist auf Abwurf zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wenn ein Spieler der angreifenden Mannschaft mit Ball den gegnerischen Torraum berührt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn ein Spieler der angreifenden Mannschaft ohne Ball den gegnerischen Torraum betritt und dadurch einen Vorteil erlangt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn ein Spieler den Ball über die gegnerische Torauslinie ablenkt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn ein Spieler mit Ball den eigenen Torraum betritt",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:2a",
+        "12:1"
+      ]
+    },
+    {
+      "QuestionNumber": "6.15",
+      "Phrase": "Team WEISS befindet sich im Angriff. SCHWARZ 4 steht an seiner Torraumlinie. Der Ball ist frei in der Luft. SCHWARZ 4 erreicht ihn und lenkt ihn in seinen Torraum. Der Ball wird vom Torwart berührt und überquert die Torauslinie. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung von SCHWARZ 4",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:7b"
+      ]
+    },
+    {
+      "QuestionNumber": "6.16",
+      "Phrase": "Torwart WEISS 12 hat einen Ball gehalten und diesen im Torraum in den Händen, als der Zeitnehmer wegen eines Wechselfehlers von Team WEISS pfeift. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Hinausstellung von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team SCHWARZ an der Freiwurflinie von Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8a",
+        "4:5",
+        "6:4",
+        "12:1",
+        "13:3"
+      ]
+    },
+    {
+      "QuestionNumber": "6.17",
+      "Phrase": "Torwart WEISS 12 springt außerhalb seines Torraums im Spielfeld ab, nimmt einen von einem Mitspieler gespielten Ball in der Luft an und wirft ihn über die eigene Torauslinie. Dann landet er in seinem Torraum. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung von WEISS 12",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "5:3",
+        "6:7c"
+      ]
+    },
+    {
+      "QuestionNumber": "6.18",
+      "Phrase": "WEISS 9 wirft auf das Tor. Torwart SCHWARZ 1 wehrt ab, und der Ball rollt in Richtung Spielfeld, wo ein Spieler von Team WEISS zur Annahme bereit steht. Da sich der Torwart bei der Abwehraktion verletzt hat, unterbricht der Schiedsrichter das Spiel, als der Ball noch im Torraum in Richtung Spielfeld rollt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "13:4"
+      ]
+    },
+    {
+      "QuestionNumber": "6.19",
+      "Phrase": "Der Ball rollt im Torraum von Team WEISS. In diesem Moment pfeift der Zeitnehmer und erklärt, dass WEISS 5 einen Wechselfehler begangen hat. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ an der Freiwurflinie von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ am Auswechselraum von Team WEISS",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "6:5",
+        "Abs. 1",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.20",
+      "Phrase": "Torwart SCHWARZ 12 wehrt einen Torwurf von WEISS 5 ab. Dabei fliegt der Ball über den Torraum in Richtung des Kreisspielers WEISS 11, der ungedeckt und anspielbereit an der Torraumlinie steht. Verteidiger SCHWARZ 2 springt in Richtung des Balls und spielt ihn im Sprung über dem Torraum in Richtung Seitenlinie. Aufgrund von Harz am Ball bleibt dieser im Torraum liegen, ohne dass der Torwart ihn berührt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung von SCHWARZ 2",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:7b",
+        "13:1b:"
+      ]
+    },
+    {
+      "QuestionNumber": "6.21",
+      "Phrase": "Torwart SCHWARZ 1 wehrt einen Torwurf ab und möchte den Ball zu SCHWARZ 6 spielen, der bereit zum Gegenstoß ist. Bei der Ausführung des Abwurfs berührt Torwart SCHWARZ 1 die Torraumlinie. SCHWARZ 6 bekommt den Ball und erzielt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor zählt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrektur und Wiederholung des Abwurfs mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Tor zählt nicht",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:1",
+        "1:3"
+      ]
+    },
+    {
+      "QuestionNumber": "6.22",
+      "Phrase": "WEISS 6 befindet sich im Gegenstoß. Er springt, wirft auf das Tor und landet im Torraum von Team SCHWARZ. Torwart SCHWARZ 12 wehrt den Ball ab. Der Ball fliegt zu WEISS 11, der ein Tor erzielt, während WEISS 6 zwischen ihm und Torwart SCHWARZ 12 am Boden liegt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:2a"
+      ]
+    },
+    {
+      "QuestionNumber": "6.23",
+      "Phrase": "Mannschaft WEISS ist im Angriff und spielt ohne Torwart. WEISS 11 wirft auf das Tor. Der Torwart SCHWARZ 1 hält den Ball. Er führt den Abwurf als Wurf auf das leere Tor aus. WEISS 10 versucht den Wurf abzuwehren. Er springt außerhalb seines Torraums ab, und während er sich in der Luft über dem Torraum befindet, berührt er den Ball, der dann die Torauslinie überquert. Nach der Ballberührung landet WEISS 10 im Torraum. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Einwurf für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung für WEISS 10",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:3",
+        "11:1"
+      ]
+    },
+    {
+      "QuestionNumber": "6.24",
+      "Phrase": "Mannschaft WEISS ist im Angriff und spielt ohne Torwart. WEISS 11 wirft auf das Tor. Torwart SCHWARZ 1 hält den Ball. Er führt den Abwurf als Wurf auf das leere Tor aus. WEISS 10 versucht den Wurf abzuwehren. Er springt außerhalb seines Torraums ab, und während er sich in der Luft über dem Torraum befindet, fängt er den Ball und landet mit dem Ball in der Hand im Torraum. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für WEISS 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Keine Bestrafung",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "6:2",
+        "8:8i",
+        "14:1a",
+        "Erläuterung"
+      ]
+    },
+    {
+      "QuestionNumber": "6.25",
+      "Phrase": "SCHWARZ 5 wirft auf das Tor. Torhüter WEISS 12 hält den Ball. Bei der Abwehr schlägt WEISS12 mit dem Kopf gegen den Torpfosten und fällt verletzt zu Boden. SCHWARZ 3 fängt den Abpraller des Torhüters ab und hat eine klare Torchance an der Torraumlinie von WEISS. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vorteil für SCHWARZ 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Spiel wird sofort unterbrochen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Spiel wird mit einem 7-Meter-Wurf SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit einem Freiwurf SCHWARZ fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Die Schiedsrichter können zwei Personen der Mannschaft WEISS die Erlaubnis erteilen, das Spielfeld zu betreten, um eine medizinische Behandlung für WEISS 12 durchzuführen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Nach der medizinischen Behandlung muss WEISS 12 das Spielfeld verlassen und kann erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Nach der medizinischen Behandlung kann WEISS 12 weiterspielen, ohne das Spielfeld zu verlassen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "Erläuterung 8",
+        "Richtlinie 6:8"
+      ]
+    }
+  ]
+}

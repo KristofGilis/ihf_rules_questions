@@ -1,0 +1,469 @@
+{
+  "RuleNumber": "10",
+  "Name": "Anwurf",
+  "Questions": [
+    {
+      "QuestionNumber": "10.1",
+      "Phrase": "Team WEISS gewinnt das Losen und entscheidet sich für den Anwurf. Team SCHWARZ verlangt Seitenwechsel. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Seiten werden gewechselt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Seiten werden gewechselt, wenn Team WEISS einverstanden ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Losen wird wiederholt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Seiten werden nicht gewechselt.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10:1"
+      ]
+    },
+    {
+      "QuestionNumber": "10.2",
+      "Phrase": "Team WEISS gewinnt das Losen. Sie verlangt, dass die Seiten gewechselt werden. Team SCHWARZ vertritt die Ansicht, dass Team WEISS anwerfen müsse. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Anwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Seitenwechsel und Anwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wiederholung des Losens",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Mannschaftsvertreter müssen sich einigen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10:1"
+      ]
+    },
+    {
+      "QuestionNumber": "10.3",
+      "Phrase": "Wo darf der Anwurf ausgeführt werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Irgendwo auf der Mittellinie",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Genau in der in der Mitte der Anwurfzone, beide Füße müssen sich dazu in der Anwurfzone befinden",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Von der Anwurfzone aus, bei der Ausführung muss sich der Spieler mit Ball und ganzem Körper inkl. Füße/ Hände in der Anwurfzone befinden.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "10:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "10.4",
+      "Phrase": "Kurz vor Spielende, beim Stand von 15:15, erzielt der Gastverein das 15:16. Der Heimverein will einen schnellen Anwurf ausführen. Der Ausführende steht mit einem Fuß innerhalb der Anwurfzone, mit dem anderen Fuß außerhalb der Anwurfzone in der gegnerischen Hälfte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Korrektur, Anpfiff zum Anwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Korrekte Position, Anpfiff zum Anwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Time-out, Korrektur, Anpfiff zum Anwurf",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:1",
+        "15:6"
+      ]
+    },
+    {
+      "QuestionNumber": "10.5",
+      "Phrase": "Team WEISS hat Anwurf. Torwart SCHWARZ 1 befindet sich noch nicht in seinem Torraum. Trotzdem pfeift der Feldschiedsrichter das Spiel an, und WEISS 9 wirft direkt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS an der Mittellinie",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wiederholung des Anwurfs",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "9:1",
+        "10:4",
+        "15:2"
+      ]
+    },
+    {
+      "QuestionNumber": "10.6",
+      "Phrase": "Welche der folgenden Aussagen zum Anwurf sind richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Anwurf ist innerhalb von drei Sekunden nach dem Anpfiff von der Anwurfzone aus in Richtung der gegnerischen Hälfte auszuführen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Anwurf kann unmittelbar zu einem Tor für die anwerfende Mannschaft führen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Beim Anwurf sind nicht korrekte Positionen von Spielern der verteidigenden Mannschaft zu korrigieren.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Prellt der Werfer nach dem Anpfiff zum Anwurf den Ball, ist auf Freiwurf für den Gegner zu entscheiden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Mitspieler des anwerfenden Spielers dürfen die Mittellinie nicht vor dem Anpfiff überschreiten, es sei denn, sie befinden sich innerhalb der Anwurfzone.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:2",
+        "15:3",
+        "15:4"
+      ]
+    },
+    {
+      "QuestionNumber": "10.7",
+      "Phrase": "Bereit zum Anwurf befindet sich SCHWARZ 6 mit Ball vollständig innerhalb der Anwurfzone. Der Schiedsrichter pfeift an und der Werfer prellt den Ball. Zum Zeitpunkt des Anpfiffs befinden sich noch Spieler von Team WEISS in der gegnerischen Spielfeldhälfte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weiterspielen lassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrektur der Positionen von Team WEISS und Wiederholung des Anwurfs mit Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Korrektur der Position von SCHWARZ 6 und Wiederholung des Anwurfs mit Anpfiff",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10:3a",
+        "15:7"
+      ]
+    },
+    {
+      "QuestionNumber": "10.8",
+      "Phrase": "Team WEISS hat ein Tor geworfen. Team SCHWARZ will einen schnellen Anwurf ausführen. SCHWARZ 9 steht in korrekter Position in der Anwurfzone. Nach dem Anpfiff der Schiedsrichter macht SCHWARZ 9 mit dem Ball 6 Schritte in der Anwurfzone. Innerhalb von 3 Sekunden nach dem Anpfiff des Anwurfs wirft SCHWARZ 9 den Ball in das leere Tor von Team WEISS. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrektur und erneuter Anwurf nach Pfiff der Schiedsrichter",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5b"
+      ]
+    },
+    {
+      "QuestionNumber": "10.9",
+      "Phrase": "Mannschaft WEISS hat ein Tor erzielt. Mannschaft SCHWARZ will einen schnellen Anwurf ausführen. SCHWARZ 9 erhält den Ball. Er hat den Ball und einen Fuß komplett in der Anwurfzone. Der andere Fuß befindet sich außerhalb der Anwurfzone in der eigenen Hälfte. Die Schiedsrichter pfeifen zur Ausführung des Anwurfes an. Bevor SCHWARZ 9 den anderen Fuß in den Abwurfraum bewegt, wirft er den Ball ins leere Tor von WEISS. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Mannschaft SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Korrektur, erneut Anwurf für Mannschaft SCHWARZ nach Anpfiff des Schiedsrichters",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Wurf wurde korrekt ausgeführt, da die Schiedsrichter die Position des Werfers mit dem Anpfiff zur Ausführung freigegeben haben.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Schiedsrichter hätten warten müssen, bis sich der Werfer vollständig mit dem Ball in der Anwurfzone befindet, bevor sie den Anpfiff zur Ausführung des Anwurfs geben.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:5"
+      ]
+    },
+    {
+      "QuestionNumber": "10.10",
+      "Phrase": "Mannschaft SCHWARZ will einen schnellen Anwurf aus der Anwurfzone ausführen. SCHWARZ 8 befindet sich mit Ball vollständig innerhalb der Anwurfzone. Gleichzeitig befindet sich WEISS 7 ebenfalls in der Anwurfzone und läuft in Richtung seines eigenen Tores. Obwohl kein Mitspieler von Mannschaft SCHWARZ in Richtung von WEISS 7 läuft, wirft SCHWARZ 8 nach Anpfiff den Ball in den Rücken von WEISS 7. WEISS 7 befindet sich noch innerhalb der Anwurfzone, als der Ball ihn trifft. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für die Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für die Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Progressive Bestrafung für WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Progressive Bestrafung für SCHWARZ 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Direkte 2-Minuten-Hinausstellung für SCHWARZ 8",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:8",
+        "10:3b",
+        "13:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "10.11",
+      "Phrase": "Welche der folgenden Aussagen zum Anwurf aus der Anwurfzone sind falsch?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Anpfiff zur Ausführung des Anwurfs kann gegeben werden, wenn sich der Werfer mit einem Körperteil innerhalb der Anwurfzone befindet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Es gibt keine Einschränkung hinsichtlich der Positionen der Mitspieler des Werfers bei der Ausführung des Anwurfs.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Dem Werfer ist es erlaubt, während der Ausführung des Anwurfs die Anwurfzone zu verlassen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ein Spieler der abwehrenden Mannschaft darf den Ball nach der Ausführung abfangen, auch wenn der Ball sich noch innerhalb der Anwurfzone befindet.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Dem Werfer ist es nicht erlaubt, den Ball nach dem Anpfiff zur Ausführung zu prellen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10.3b"
+      ]
+    },
+    {
+      "QuestionNumber": "10.12",
+      "Phrase": "Mannschaft WEISS spielt mit 7 Feldspielern und wirft ein Tor. Mannschaft SCHWARZ will einen schnellen Anwurf ausführen. SCHWARZ 6 befindet sich mit Ball vollständig innerhalb der Anwurfzone. Der Schiedsrichter pfeift die Ausführung an. WEISS 8 betritt eindeutig die Anwurfzone und versucht, mit aktiven Armen den Ball zu blockieren und stört die Ausführung. Trotzdem kann SCHWARZ 6, der sich inzwischen mit dem ganzen Körper und dem Ball innerhalb der Anwurfzone befindet, den Anwurf als Wurf auf das leere Tor ausführen. Der Ball überquert die Torauslinie. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf für Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Erneut Anwurf nach Anpfiff.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Mannschaft SCHWARZ.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Progressive Bestrafung für WEISS 8.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Direkte 2-Minuten-Hinausstellung für WEISS 8.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Disqualifikation für WEISS 8 (Rote Karte).",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8g",
+        "10:3b",
+        "14:1a",
+        "Erläuterung 6"
+      ]
+    },
+    {
+      "QuestionNumber": "10.13",
+      "Phrase": "Welche der folgenden Aussagen zum Anwurf aus der Anwurfzone sind richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Anwurf muss innerhalb von 3 Sekunden nach dem Anpfiff ausgeführt werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ein Anwurf kann zu einem Tor für die ausführende Mannschaft führen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Im Zusammenhang mit einem Anwurf müssen falsche Positionen von Abwehrspielern korrigiert werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn der Werfer nach dem Pfiff zur Wurfausführung springt, ist die korrekte Entscheidung Freiwurf für die gegnerische Mannschaft.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Mitspieler des Werfers dürfen die Mittellinie zu keinem Zeitpunkt vor dem Anpfiff zur Ausführung des Wurfes überqueren.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "10:3b",
+        "15:2"
+      ]
+    },
+    {
+      "QuestionNumber": "10.14",
+      "Phrase": "(Mit Anwurfzone) Wann kann ein Schiedsrichter zur Ausführung des Anwurfs anpfeifen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wenn sich der Werfer mit mindestens einem Fuß und dem Ball in der Anwurfzone befindet und der andere Fuß nicht außerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte steht.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn sich der Werfer mit mindestens einem Fuß in der Anwurfzone befindet und der andere Fuß nicht außerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte steht, der Ball aber noch außerhalb der Anwurfzone ist.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn sich der Werfer mit mindestens einem Fuß und dem Ball in der Anwurfzone befindet und der andere Fuß außerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte steht.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn sich der Werfer mit mindestens einem Fuß und dem Ball in der Anwurfzone befindet, der andere Fuß außerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte steht, sich aber Mitspieler des Werfers innerhalb der Anwurfzone in der gegnerischen Spielfeldhälfte befinden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wenn sich der Werfer mit dem ganzen Körper und dem Ball in der Anwurfzone befindet.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "10:3b"
+      ]
+    }
+  ]
+}

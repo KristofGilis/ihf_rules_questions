@@ -308,7 +308,7 @@
       ],
       "RuleReferences": [
         "2:2",
-        "comments"
+        "Commentaires"
       ]
     },
     {
@@ -410,7 +410,7 @@
         }
       ],
       "RuleReferences": [
-        "2:9 comment",
+        "2:9 Commentaire",
         "9:2"
       ]
     },
@@ -441,7 +441,7 @@
       ],
       "RuleReferences": [
         "2:9",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -471,7 +471,7 @@
       ],
       "RuleReferences": [
         "2:8",
-        "Clarification 2"
+        "Interprétation 2"
       ]
     },
     {
@@ -604,7 +604,7 @@
         }
       ],
       "RuleReferences": [
-        "2:2 comment",
+        "2:2 Commentaire",
         "4:11",
         "16:5",
         "16:6b",
@@ -704,7 +704,7 @@
         }
       ],
       "RuleReferences": [
-        "2:2 comment",
+        "2:2 Commentaire",
         "16:5"
       ]
     },
@@ -741,10 +741,10 @@
       "RuleReferences": [
         "2:4",
         "2:5",
-        "2:9 comment",
+        "2:9 Commentaire",
         "4:5",
         "9:1",
-        "paragraph 3"
+        "Alinéa 3"
       ]
     },
     {
@@ -763,7 +763,7 @@
         }
       ],
       "RuleReferences": [
-        "2:2 comment",
+        "2:2 Commentaire",
         "16:3d"
       ]
     },
@@ -954,11 +954,11 @@
       ],
       "RuleReferences": [
         "2:9",
-        "2:9 comment",
+        "2:9 Commentaire",
         "13:4a",
         "15:5b",
-        "Clarification 3",
-        "paragraph 10"
+        "Interprétation 3",
+        "Alinéa 10"
       ]
     },
     {
@@ -1116,7 +1116,7 @@
         "8:8g",
         "15:9",
         "16:1b",
-        "Clarification 2c"
+        "Interprétation 2c"
       ]
     },
     {
@@ -1151,7 +1151,7 @@
       ],
       "RuleReferences": [
         "2:8",
-        "Clarification 2"
+        "Interprétation 2"
       ]
     },
     {
@@ -1180,7 +1180,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1215,7 +1215,7 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1245,7 +1245,7 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1275,7 +1275,7 @@
       ],
       "RuleReferences": [
         "6:5",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1304,7 +1304,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1335,7 +1335,7 @@
       "RuleReferences": [
         "2:8",
         "2:10",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1365,8 +1365,8 @@
       ],
       "RuleReferences": [
         "2:8",
-        "2:9 comment",
-        "Clarification 3"
+        "2:9 Commentaire",
+        "Interprétation 3"
       ]
     },
     {
@@ -1395,7 +1395,7 @@
         }
       ],
       "RuleReferences": [
-        "2:2 comment"
+        "2:2 Commentaire"
       ]
     },
     {
@@ -1415,7 +1415,7 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1455,7 +1455,7 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1489,7 +1489,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 3",
+        "Interprétation 3",
         "2:10"
       ]
     },
@@ -1526,7 +1526,7 @@
       "RuleReferences": [
         "2:10",
         "13:4",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1567,7 +1567,7 @@
       "RuleReferences": [
         "2:10",
         "6:5",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1608,7 +1608,7 @@
       "RuleReferences": [
         "2:10",
         "13:4",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1643,8 +1643,8 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3",
-        "in connection with 2:4"
+        "Interprétation 3",
+        "en relation avec 2:4"
       ]
     },
     {
@@ -1684,8 +1684,8 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3",
-        "Electronic Team Time-out Regulations"
+        "Interprétation 3",
+        "Règlement relatif au temps mort d’équipe électronique"
       ]
     },
     {
@@ -1735,8 +1735,8 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3",
-        "Electronic Team Time-out Regulations"
+        "Interprétation 3",
+        "Règlement relatif au temps mort d’équipe électronique"
       ]
     },
     {
@@ -1791,8 +1791,8 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3",
-        "Electronic Team Time-out Regulations"
+        "Interprétation 3",
+        "Règlement relatif au temps mort d’équipe électronique"
       ]
     },
     {
@@ -1841,9 +1841,9 @@
         }
       ],
       "RuleReferences": [
-        "2:9 comment",
+        "2:9 Commentaire",
         "2:10",
-        "Clarification 3 and 4"
+        "Interprétation 3 et 4"
       ]
     },
     {
@@ -1884,7 +1884,7 @@
       "RuleReferences": [
         "2:10",
         "13:4a-b",
-        "Clarification 3"
+        "Interprétation 3"
       ]
     },
     {
@@ -1944,8 +1944,8 @@
       ],
       "RuleReferences": [
         "2:10",
-        "Clarification 3",
-        "Electronic Team Time-out Regulations"
+        "Interprétation 3",
+        "Règlement relatif au temps mort d’équipe électronique"
       ]
     },
     {
@@ -2021,10 +2021,10 @@
       "RuleReferences": [
         "2:8",
         "2:9",
-        "clarification no. 3",
+        "Interprétation n° 3",
         "17:13",
-        "Electronic Team Time-Out Regulations",
-        "Video Replay Regulations"
+        "Règlement relatif au temps mort d’équipe électronique",
+        "Règlement relatif à l’assistance vidéo"
       ]
     }
   ]

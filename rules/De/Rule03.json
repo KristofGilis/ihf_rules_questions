@@ -1,0 +1,122 @@
+{
+  "RuleNumber": "3",
+  "Name": "Ball",
+  "Questions": [
+    {
+      "QuestionNumber": "3.1",
+      "Phrase": "Wie viele Farben darf der Spielball haben?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "beliebig viele",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "3:1"
+      ]
+    },
+    {
+      "QuestionNumber": "3.2",
+      "Phrase": "Welchen der folgenden vier Bälle müssen die Schiedsrichter für ein Männerspiel wählen, für das ein Ball gemäß Regel 3:2a verwendet werden darf??",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Umfang 57 cm, Gewicht 450 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Umfang 58 cm, Gewicht 400 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Umfang 59 cm, Gewicht 425 g",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Umfang 60 cm, Gewicht 500 g",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "3:2"
+      ]
+    },
+    {
+      "QuestionNumber": "3.3",
+      "Phrase": "Welchen der folgenden vier Bälle müssen die Schiedsrichter für ein Frauenspiel wählen, für das ein Ball gemäß Regel 3:2a verwendet werden darf?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Umfang 53 cm, Gewicht 350 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Umfang 54 cm, Gewicht 300 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Umfang 55 cm, Gewicht 425 g",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Umfang 56 cm, Gewicht 375 g",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "3:2"
+      ]
+    },
+    {
+      "QuestionNumber": "3.4",
+      "Phrase": "Die Schiedsrichter lassen den Reserveball ins Spiel bringen. Wann sollte der ursprüngliche Spielball wieder verwendet werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bei der nächsten Unterbrechung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Er darf nicht wieder benutzt werden, es sei denn, es ist unmöglich, mit dem Reserveball weiterzuspielen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn die Schiedsrichter es für erforderlich halten, ihn wieder zu benutzen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn eine der Mannschaften es wünscht",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "3:4"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,313 @@
+{
+  "RuleNumber": "17",
+  "Name": "Schiedsrichter",
+  "Questions": [
+    {
+      "QuestionNumber": "17.1",
+      "Phrase": "Die Schiedsrichter sind gegensätzlicher Auffassung, in welche Richtung ein Einwurf auszuführen ist. Wie ist vorzugehen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Feldschiedsrichter entscheidet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Torschiedsrichter entscheidet.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter einigen sich nach kurzer Rücksprache.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Kein Time-out, aber Einwurf nach Anpfiff",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8d",
+        "17:7"
+      ]
+    },
+    {
+      "QuestionNumber": "17.2",
+      "Phrase": "Das automatische Schlusssignal der Zeitmessanlage ist defekt. Der Zeitnehmer hat die Störung nicht bemerkt und reagiert nicht, obwohl die Spielzeit abgelaufen ist. Wer gibt in diesem Fall das Schlusssignal?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Nur der Sekretär",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nur der Feldschiedsrichter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Nur der Delegierte",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Nur einer der Schiedsrichter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Nur der Zeitnehmer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Entweder der Zeitnehmer oder der Delegierte oder einer der Schiedsrichter",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "17:9"
+      ]
+    },
+    {
+      "QuestionNumber": "17.3",
+      "Phrase": "Ein Spieler begeht eine Regelwidrigkeit. Der Feldschiedsrichter entscheidet auf Disqualifikation (rote Karte) und Freiwurf, der Torschiedsrichter auf Hinausstellung und 7-Meter-Wurf. Wie ist der Spieler zu bestrafen und das Spiel fortzusetzen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Kommt es zu keiner gemeinsamen Entscheidung, Hinausstellung für SCHWARZ 2.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn keine gemeinsame Entscheidung getroffen wird, Disqualifikation von SCHWARZ 2.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Kommt es zu keiner gemeinsamen Entscheidung, Spielfortsetzung Freiwurf.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn keine gemeinsame Entscheidung getroffen wird, Spielfortsetzung 7-Meter-Wurf.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Schiedsrichter müssen versuchen, eine gemeinsame Entscheidung zu treffen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "17:6"
+      ]
+    },
+    {
+      "QuestionNumber": "17.4",
+      "Phrase": "Wer entscheidet in Zweifelsfällen über die Richtigkeit der Zeitmessung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Zeitnehmer und Sekretär",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Schiedsrichter gemeinsam",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Zeitnehmer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Schiedsrichter und der Zeitnehmer gemeinsam",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "17:9"
+      ]
+    },
+    {
+      "QuestionNumber": "17.5",
+      "Phrase": "Welche Strafen sind im Spielprotokoll zu begründen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle Disqualifikationen, mit Ausnahme von Disqualifikationen infolge einer dritten Hinausstellung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle Strafen, mit Ausnahme von Ermahnungen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Alle Hinausstellungen und Disqualifikationen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikationen infolge gesundheitsgefährdender Fouls und grob unsportlichen Verhaltens in den letzten 30 Sekunden des Spiels, wenn dem Gegner damit die Möglichkeit genommen werden soll, eine Torchance herauszuspielen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikationen infolge besonders grob unsportlichen Verhaltens",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Alle progressiven Strafen in den letzten 30 Sekunden des Spiels, wenn dem Gegner damit die Möglichkeit genommen werden soll, eine Torchance herauszuspielen",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:5",
+        "8:10a-b",
+        "16:6",
+        "17:10"
+      ]
+    },
+    {
+      "QuestionNumber": "17.6",
+      "Phrase": "Wer hat während des Spiels das Recht, den Schiedsrichter anzusprechen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle Offiziellen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Mannschaftsverantwortliche",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spielführer",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "17:11"
+      ]
+    },
+    {
+      "QuestionNumber": "17.7",
+      "Phrase": "Die Schiedsrichter sind hinsichtlich der verbleibenden Spielzeit unterschiedlicher Auffassung. Im Gespräch will der Torschiedsrichter (Erstgenannter) zunächst 50 Sekunden spielen lassen, der Feldschiedsrichter 42 Sekunden. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die längere Spielzeit (50 Sekunden) ist gültig.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Erstgenannte ist zuständig (50 Sekunden).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Feldschiedsrichter ist zuständig (42 Sekunden).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die beiden Schiedsrichter müssen sich einigen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "17:9"
+      ]
+    },
+    {
+      "QuestionNumber": "17.8",
+      "Phrase": "Welcher Schiedsrichter wird bei Spielbeginn Feld- bzw. Torschiedsrichter?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der in der Ansetzung Erstgenannte wird Feldschiedsrichter.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der in der Ansetzung Erstgenannte wird Torschiedsrichter.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter losen, wer auf welcher Position beginnt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freie Entscheidung der Schiedsrichter",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "17:1"
+      ]
+    },
+    {
+      "QuestionNumber": "17.9",
+      "Phrase": "Bei einem Zusammenprall zweier Spieler pfeifen beide Schiedsrichter. Der Feldschiedsrichter entscheidet auf Stürmerfoul, der Torschiedsrichter auf Vergehen der Abwehr. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Entscheidung des Torschiedsrichters ist maßgebend.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Entscheidung des Feldschiedsrichters ist maßgebend.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter kommunizieren und treffen eine gemeinsame Entscheidung.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out ist obligatorisch.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Time-out ist notwendig, wenn die gemeinsame Entscheidung gegen die angreifende Mannschaft fällt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out ist nicht obligatorisch, wenn die Schiedsrichter elektronische Geräte zur internen Kommunikation benutzen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "17:7"
+      ]
+    }
+  ]
+}

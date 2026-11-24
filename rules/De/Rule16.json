@@ -1,0 +1,833 @@
+{
+  "RuleNumber": "16",
+  "Name": "Strafen",
+  "Questions": [
+    {
+      "QuestionNumber": "16.1",
+      "Phrase": "Ein Mannschaftsoffizieller reklamiert und wird hinausgestellt. Vor Wiederanpfiff protestiert er weiter und wird disqualifiziert. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "16:9"
+      ]
+    },
+    {
+      "QuestionNumber": "16.2",
+      "Phrase": "WEISS 8 wird wegen Stoßens eines Spielers hinausgestellt. Daraufhin beschimpft er den Schiedsrichter: „Du dummer Kerl, du Idiot, du lernst das nie!“ Bevor er das Spielfeld verlässt, spuckt er dem Schiedsrichter ins Gesicht. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 8; Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert (rote Karte).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 8; Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert (rote Karte).",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 8; Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert (rote und blaue Karte).",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 8; Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert (rote und blaue Karte).",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.3",
+      "Phrase": "Wie viele Verwarnungen sollten gegen Offizielle einer Mannschaft in einem Spiel höchstens ausgesprochen werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "1",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "2",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:1 Kommentar"
+      ]
+    },
+    {
+      "QuestionNumber": "16.4",
+      "Phrase": "Wann fängt die Hinausstellungszeit eines Spielers an?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Wenn der Schiedsrichter das Zeichen für die Hinausstellung gegeben hat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn der hinausgestellte Spieler die Seitenlinie passiert hat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn der Schiedsrichter das Spiel wieder anpfeift",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wenn der Zeitnehmer die Stoppuhr startet",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:5"
+      ]
+    },
+    {
+      "QuestionNumber": "16.5",
+      "Phrase": "Wem sind Hinausstellungen anzuzeigen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Dem fehlbaren Spieler sowie Sekretär/Zeitnehmer",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Dem Mannschaftsverantwortlichen und dem Zeitnehmer",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Dem Zeitnehmer/Sekretär",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Dem fehlbaren Spieler, dem Mannschaftsverantwortlichen und dem Sekretär",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:4"
+      ]
+    },
+    {
+      "QuestionNumber": "16.6",
+      "Phrase": "SCHWARZ 5 wurde schon zweimal hinausgestellt, einmal wegen einer progressiv zu bestrafenden Regelwidrigkeit, einmal wegen Wegwerfen des Balls, nachdem der Schiedsrichter auf Freiwurf für Team WEISS entschieden hatte. Jetzt begeht er den zweiten Wechselfehler seiner Mannschaft und vor Wiederaufnahme des Spiels noch eine besonders grobe Unsportlichkeit. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von SCHWARZ 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 5 mit schriftlichem Bericht (rote und blaue Karte); Team SCHWARZ wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 5 mit schriftlichem Bericht (rote und blaue Karte); Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "4:5",
+        "8:10a",
+        "16:3a",
+        "16:6B",
+        "16:6d",
+        "16:9b"
+      ]
+    },
+    {
+      "QuestionNumber": "16.7",
+      "Phrase": "WEISS 5 wird wegen regelwidrigen Verhaltens hinausgestellt. Während des Verlassens der Spielfläche beleidigt er den Schiedsrichter, der daraufhin die rote Karte zieht. WEISS 5 ärgert sich so sehr, dass er den Schiedsrichter schlägt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Schriftlicher Bericht (blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b 16:9c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.8",
+      "Phrase": "WEISS 7 wird wegen unfairen Spiels für zwei Minuten hinausgestellt. Sein Kommentar zum Schiedsrichter: „Du bist doch ein blinder Trottel“. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weitere Hinausstellung von WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 7 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 7 mit schriftlichem Bericht (rote und blaue Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:9c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.9",
+      "Phrase": "WEISS 3 begeht nach einer Hinausstellung gegen ihn im Auswechselraum vor dem Wiederanpfiff des Spiels eine grobe Unsportlichkeit gegen den Offiziellen B von Team SCHWARZ, der vorher auf das Spielfeld gelaufen war, obwohl nicht Time-out gegeben worden war. Gegen die Bank von Team SCHWARZ wurde noch keine Strafe ausgesprochen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 3 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung des Offiziellen B von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:2",
+        "8:9",
+        "16:1b",
+        "16:6b",
+        "16:9c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.10",
+      "Phrase": "Mit der Disqualifikation eines Spielers reduziert sich die Spielerzahl seiner Mannschaft auf dem Spielfeld, es sei denn, die Disqualifikation erfolgte …",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "wegen einer groben Unsportlichkeit in der Halbzeitpause.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "wegen eines Vergehens außerhalb der Spielfläche.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "bereits vor Spielbeginn.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "wegen Beleidigung der Schiedsrichter.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:11b"
+      ]
+    },
+    {
+      "QuestionNumber": "16.11",
+      "Phrase": "Während der Halbzeitpause begeht WEISS 7 auf der Spielfläche eine Tätlichkeit gegen Torwart SCHWARZ 12. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 7, schriftlicher Bericht (rote und blaue Karte); Team WEISS wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Verwarnung von WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 7 wird nur ermahnt, weil das Spiel unterbrochen ist.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:6",
+        "16:6a",
+        "16:10",
+        "17:10"
+      ]
+    },
+    {
+      "QuestionNumber": "16.12",
+      "Phrase": "Ein Schiedsrichter wird während der Pause auf dem Weg in die Kabine von einem Spieler beleidigt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation des Spielers ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Spielers (zu Beginn der zweiten Halbzeit)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Mannschaft wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Spielers, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6b",
+        "16:10",
+        "17:10"
+      ]
+    },
+    {
+      "QuestionNumber": "16.13",
+      "Phrase": "Nach dem Halbzeitpfiff geraten WEISS 9 und SCHWARZ 5 auf der Spielfläche heftig aneinander und schreien sich an. In der Folge stößt WEISS 9 SCHWARZ 5 mit beiden Händen gegen die Brust, so dass dieser die Körperkontrolle verliert. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 9 zu Beginn der zweiten Halbzeit",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 9 ohne schriftlichen Bericht (rote Karte); Team WEISS wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 9, Team WEISS beginnt die zweite Halbzeit mit sechs Feldspielern.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 9 mit schriftlichem Bericht (rote und blaue Karte); Team WEISS wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:9",
+        "16:10",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "16.14",
+      "Phrase": "Nach dem Spiel schreit WEISS 10 den Schiedsrichter an: „Du hast uns den Sieg gestohlen, du Idiot!“ Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von WEISS 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 10, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Schriftlicher Bericht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Verwarnung von WEISS 10, schriftlicher Bericht",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:11c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.15",
+      "Phrase": "WEISS 9 begeht während der Halbzeitpause noch auf der Spielfläche eine Tätlichkeit gegen den Offiziellen B von Team SCHWARZ, der WEISS 9 daraufhin beleidigt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von WEISS 9 mit schriftlichem Bericht (rote und blaue Karte); Team WEISS wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation des Offiziellen B von Team SCHWARZ, schriftlicher Bericht (rote und blaue Karte); Team SCHWARZ wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 9 (rote Karte); Team WEISS beginnt die zweite Halbzeit mit sechs Feldspielern.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Offiziellen B von Team SCHWARZ (rote Karte); Team SCHWARZ beginnt die zweite Halbzeit mit sechs Feldspielern.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:6",
+        "16:10"
+      ]
+    },
+    {
+      "QuestionNumber": "16.16",
+      "Phrase": "WEISS 7 wird aufgrund seiner dritten Hinausstellung disqualifiziert. Anschließend will er mit den Schiedsrichtern diskutieren und verlässt deshalb die Spielfläche nicht. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine weiteren Maßnahmen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:9b"
+      ]
+    },
+    {
+      "QuestionNumber": "16.17",
+      "Phrase": "Der während der Spielzeit verwarnte WEISS 11 begeht während der Halbzeitpause eine Unsportlichkeit. Team WEISS spielte am Ende der ersten Halbzeit mit Vollbestand. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung von WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von WEISS 11",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 11",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird zu Beginn der zweiten Halbzeit auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Spielerzahl von Team WEISS wird zu Beginn der zweiten Halbzeit auf der Spielfläche nicht reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:3d",
+        "16:5",
+        "16:10"
+      ]
+    },
+    {
+      "QuestionNumber": "16.18",
+      "Phrase": "WEISS 4 hat sich verletzt. Die Schiedsrichter geben Time-out und mittels Handzeichen die Erlaubnis zur Versorgung des Spielers auf der Spielfläche. Die Offiziellen A und B von Team WEISS sowie der Offizielle A von Team SCHWARZ, der bereits eine Verwarnung erhalten hatte, betreten die Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Intervention",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team SCHWARZ spielt ab Wiederanpfiff weiterhin mit derselben Anzahl an Spielern wie vor dem Time-out.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung des Offiziellen A von Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Trainers von Team SCHWARZ (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche ab Wiederanpfiff zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Nach Behandlung auf der Spielfläche muss WEISS 4 die Spielfläche verlassen und darf diese erst nach dem dritten Angriff seiner Mannschaft wieder betreten.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "4:11",
+        "16:3e",
+        "16:3 Kommentar",
+        "Erläuterung 8c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.19",
+      "Phrase": "SCHWARZ 9 wird aufgrund einer groben Regelwidrigkeit gegen WEISS 9 disqualifiziert. Vor dem Wiederanpfiff schlägt SCHWARZ 9 dem Offiziellen A von Team WEISS ins Gesicht. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von SCHWARZ 9 ohne schriftlichen Bericht (rote Karte); Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von SCHWARZ 9 ohne schriftlichen Bericht (rote Karte); Team SCHWARZ wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Keine zusätzliche Bestrafung möglich",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 9, schriftlicher Bericht (rote und blaue Karte); Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von SCHWARZ 9, schriftlicher Bericht (rote und blaue Karte); Team SCHWARZ wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:9d"
+      ]
+    },
+    {
+      "QuestionNumber": "16.20",
+      "Phrase": "SCHWARZ 8 wird nach Time-out mit einer Hinausstellung belegt. Beim Hinausgehen, vor dem Wiederanpfiff, äußert er sich gegenüber den Schiedsrichtern unsportlich. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Weitere Hinausstellung von SCHWARZ 8; Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Weitere Hinausstellung von SCHWARZ 8; Team SCHWARZ wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von SCHWARZ 8 (rote Karte); Team SCHWARZ wird auf der Spielfläche zwei Minuten lang um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von SCHWARZ 8 (rote Karte); Team SCHWARZ wird auf der Spielfläche vier Minuten lang um einen Spieler reduziert.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3d",
+        "16:9a"
+      ]
+    },
+    {
+      "QuestionNumber": "16.21",
+      "Phrase": "In welchen der folgenden Fälle muss eine Mannschaft auf der Spielfläche vier Minuten lang um einen Spieler reduziert werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Spieler wird disqualifiziert und protestiert beim Verlassen der Spielfläche in einer Art, die eine Hinausstellung verdient.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ein Spieler, der bereits eine Hinausstellung erhalten hat, beleidigt beim Verlassen der Spielfläche einen Schiedsrichter und wird disqualifiziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein Spieler, der wegen unsportlichen Verhaltens gegen einen Gegenspieler eine Hinausstellung erhalten hat, schlägt diesem noch auf der Spielfläche ins Gesicht und wird disqualifiziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ein Spieler, der wegen unsportlichen Verhaltens eine Hinausstellung erhalten hat, kommt nach dem Überschreiten der Seitenlinie zurück auf die Spielfläche, protestiert und erhält eine zusätzliche Hinausstellung.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Ein Spieler, der bereits eine Disqualifikation wegen Anspuckens eines Gegners erhalten hat, stößt beim Verlassen der Spielfläche den Schiedsrichter.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Ein Spieler, der bereits eine Disqualifikation infolge eines groben Vergehens erhalten hat, beleidigt nach Verlassen der Spielfläche und Wiederanpfiff die Schiedsrichter aus dem Zuschauerbereich.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:9"
+      ]
+    },
+    {
+      "QuestionNumber": "16.22",
+      "Phrase": "WEISS 5 wird bei 07:00 hinausgestellt. Vor Wiederanpfiff reklamiert er und erhält erneut eine Hinausstellung. Genau eine Minute später läuft er auf das Spielfeld. Der Zeitnehmer pfeift. Aufgrund der erneuten Hinausstellung wird WEISS 5 disqualifiziert. Daraufhin beleidigt WEISS 5 die Schiedsrichter. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team WEISS wird auf der Spielfläche von 07:00 bis 08:00 um einen Spieler, von 08:00 bis 10:00 um zwei Spieler und von 10:00 bis 11:00 um einen Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team WEISS wird auf der Spielfläche von 07:00 bis 08:00 um einen Spieler, von 08:00 bis 11:00 um zwei Spieler und von 11:00 bis 12:00 um einen Spieler reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team WEISS wird auf der Spielfläche von 07:00 bis 08:00 um zwei Spieler, von 08:00 bis 10:00 um drei Spieler und von 10:00 bis 11:00 um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team WEISS wird auf der Spielfläche von 07:00 bis 08:00 um zwei Spieler, von 08:00 bis 10:00 um vier Spieler und von 10:00 bis 11:00 um zwei Spieler reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 5, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:10a",
+        "16:3a",
+        "16:6d",
+        "16:9d"
+      ]
+    },
+    {
+      "QuestionNumber": "16.23",
+      "Phrase": "Der Offizielle C von Mannschaft WEISS hatte in der ersten Halbzeit eine Verwarnung wegen unsportlichen Verhaltens erhalten. Bei Spielzeit 35:50 zeigt der Offizielle B von Mannschaft WEISS mit deutlichen Gesten, dass er mit einer Entscheidung der Schiedsrichter nicht einverstanden ist und erhält dafür eine Hinausstellung. Drei Minuten vor Spielschluss betritt der Mannschafts-verantwortliche von WEISS ohne Erlaubnis der Schiedsrichter das Spielfeld. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Verwarnung des Mannschaftsverantwortlichen von WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung für den Mannschaftsverantwortlichen von WEISS, Mannschaft WEISS muss sich auf dem Spielfeld für 2 Minuten um einen Spieler reduzieren, der Mannschaftsverantwortliche kann im Auswechselraum verbleiben",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Hinausstellung für den Mannschaftsverantwortlichen von WEISS, Mannschaft WEISS muss sich auf dem Spielfeld für 2 Minuten um einen Spieler reduzieren, der Mannschaftsverantwortliche muss den Auswechselraum verlassen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation ohne Bericht für den Mannschaftsverantwortlichen von WEISS, Mannschaft WEISS muss sich auf dem Spielfeld für 2 Minuten um einen Spieler reduzieren",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation mit Bericht für den Mannschaftsverantwortlichen von WEISS, Mannschaft WEISS muss sich auf dem Spielfeld für 2 Minuten um einen Spieler reduzieren",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "16:6c"
+      ]
+    },
+    {
+      "QuestionNumber": "16.24",
+      "Phrase": "SCHWARZ 11 erzielt ein Tor. Beim Wurf wird er von WEISS 10 von der Seite gestoßen, so dass er teilweise die Körperkontrolle verliert. Die Schiedsrichter geben eine Hinausstellung für WEISS 10. Spieler WEISS 10 verlässt das Spielfeld. Die Schiedsrichter pfeifen den anschließenden Anwurf an, und bevor der Wurf ausgeführt wird, betritt WEISS 9 als zusätzlicher Spieler das Spielfeld. Der Delegierte pfeift und die Uhr wird angehalten. Die öffentliche Uhr zeigt 1 Minute und 58 Sekunden vor dem Ende der Hinausstellung für WEISS 10 an. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung für WEISS 9",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Mannschaft WEISS wird um zwei Spieler für 2 Minuten auf dem Spielfeld reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Für 1 Minute und 58 Sekunden wird Mannschaft WEISS um zwei Spieler auf dem Spielfeld reduziert. Nach 1 Minute und 58 Sekunden der ersten Hinausstellung, Mannschaft WEISS ist für weitere 2 Sekunden um einen Spieler auf dem Spielfeld reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Anwurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Time-out",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:4-6",
+        "15:7",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "16.25",
+      "Phrase": "Mannschaft WEISS ist in Ballbesitz und der Ball ist im Spiel. Offizieller B vom WEISS beschwert sich über eine fehlende Hinausstellung für Mannschaft SCHWARZ. Der Delegierte unterbricht das Spiel und Offizieller B erhält eine gelbe Karte. Wegen dieser Strafe und bevor das Spiel wieder angepfiffen wird, protestiert er erneut, und die Schiedsrichter geben ihm eine Hinausstellung. Offizieller B nennt den Schiedsrichter daraufhin einen \"Idioten\". Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Mannschaft WEISS wird für 4 Minuten um einen Spieler auf dem Spielfeld reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Mannschaft WEISS wird um zwei Spieler für 2 Minuten auf dem Spielfeld reduziert.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Mannschaft WEISS wird für 2 Minuten um einen Spieler auf dem Spielfeld reduziert.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation ohne schriftlichen Bericht für den Offiziellen B Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation mit schriftlichem Bericht für den Offiziellen B Mannschaft WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Später im Spiel ist es möglich, noch eine gelbe Karte und/oder eine Hinausstellung gegen einen weiteren Offiziellen von Mannschaft WEISS zu geben.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Die Gelbe Karte, die Hinausstellung und Disqualifikation werden im Spielprotokoll vermerkt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:7-10",
+        "13:1a",
+        "16:6",
+        "16:8",
+        "16:9"
+      ]
+    }
+  ]
+}

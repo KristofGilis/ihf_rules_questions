@@ -271,7 +271,7 @@
       "RuleReferences": [
         "6:2c",
         "14:1a",
-        "Clarification 6a"
+        "Verduidelijking 6a"
       ]
     },
     {
@@ -394,7 +394,7 @@
       "RuleReferences": [
         "4:5",
         "6:5",
-        "second paragraph",
+        "2e alinea",
         "13:3",
         "16:3a"
       ]
@@ -584,7 +584,7 @@
       "RuleReferences": [
         "4:5",
         "6:5",
-        "first paragraph",
+        "1e alinea",
         "16:3a"
       ]
     },
@@ -736,7 +736,7 @@
         "6:2",
         "8:8i",
         "14:1a",
-        "Clarification"
+        "Verduidelijking"
       ]
     },
     {
@@ -786,8 +786,8 @@
       ],
       "RuleReferences": [
         "4:11",
-        "clarification 8",
-        "guideline 6:8"
+        "Verduidelijking 8",
+        "Richtlijn 6:8"
       ]
     }
   ]

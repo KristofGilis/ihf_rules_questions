@@ -68,7 +68,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 7"
+        "Interprétation 7"
       ]
     },
     {
@@ -103,7 +103,7 @@
       ],
       "RuleReferences": [
         "18:1",
-        "Clarification 7B"
+        "Interprétation 7B"
       ]
     },
     {
@@ -135,8 +135,8 @@
         "8:10a",
         "13:6",
         "16:6b",
-        "Clarification 7B",
-        "Substitution Area Regulations 5"
+        "Interprétation 7B",
+        "Règlement des zones de changement 5"
       ]
     },
     {
@@ -166,7 +166,7 @@
       ],
       "RuleReferences": [
         "13:4a",
-        "Clarification 7B"
+        "Interprétation 7B"
       ]
     },
     {
@@ -195,8 +195,8 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 7B",
-        "Substitution Area Regulations 5"
+        "Interprétation 7B",
+        "Règlement des zones de changement 5"
       ]
     },
     {
@@ -215,7 +215,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 7B"
+        "Interprétation 7B"
       ]
     },
     {
@@ -234,7 +234,7 @@
         }
       ],
       "RuleReferences": [
-        "Clarification 7B"
+        "Interprétation 7B"
       ]
     }
   ]

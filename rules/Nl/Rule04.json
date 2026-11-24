@@ -212,7 +212,7 @@
         "4:5",
         "13:3",
         "16:3a",
-        "Clarification 7"
+        "Verduidelijking 7"
       ]
     },
     {
@@ -666,7 +666,7 @@
       "RuleReferences": [
         "4:5",
         "13:2",
-        "guideline rule 13:2",
+        "Richtlijn bij regel 13:2",
         "14:2",
         "16:3a"
       ]
@@ -870,7 +870,7 @@
         "4:5",
         "14:1a",
         "16:3a",
-        "clarification 7"
+        "Verduidelijking 7"
       ]
     },
     {
@@ -894,7 +894,7 @@
         }
       ],
       "RuleReferences": [
-        "4:4 comment"
+        "4:4 Commentaar"
       ]
     },
     {
@@ -1337,7 +1337,7 @@
         }
       ],
       "RuleReferences": [
-        "4:11 – Clarification 8"
+        "4:11 – Verduidelijking 8"
       ]
     },
     {
@@ -1356,7 +1356,7 @@
         }
       ],
       "RuleReferences": [
-        "4:11 – Clarification 8"
+        "4:11 – Verduidelijking 8"
       ]
     },
     {
@@ -1410,7 +1410,7 @@
         "4:11",
         "13:2",
         "14:1",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1439,7 +1439,7 @@
         }
       ],
       "RuleReferences": [
-        "4:11 – Clarification 8"
+        "4:11 – Verduidelijking 8"
       ]
     },
     {
@@ -1482,7 +1482,7 @@
         "4:11",
         "8:4",
         "16:3c",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1525,7 +1525,7 @@
         "4.11",
         "8.4",
         "16.3c",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1552,7 +1552,7 @@
         "4:11",
         "8:7",
         "16:1b",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1577,7 +1577,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1602,7 +1602,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1636,7 +1636,7 @@
         }
       ],
       "RuleReferences": [
-        "4:11 third paragraph"
+        "4:11 3e alinea"
       ]
     },
     {
@@ -1661,7 +1661,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1681,7 +1681,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1701,7 +1701,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1721,7 +1721,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1741,7 +1741,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1761,7 +1761,7 @@
       ],
       "RuleReferences": [
         "4:11",
-        "Clarification 8"
+        "Verduidelijking 8"
       ]
     },
     {
@@ -1805,8 +1805,8 @@
         }
       ],
       "RuleReferences": [
-        "4:9 Guidelines",
-        "Regulations on Protective Equipment and Accessories"
+        "4:9 Richtlijnen",
+        "Reglement voor beschermende uitrusting en accessoires"
       ]
     },
     {
@@ -1837,7 +1837,7 @@
       "RuleReferences": [
         "4:7",
         "4:9",
-        "Guidelines"
+        "Richtlijnen"
       ]
     },
     {
@@ -1879,7 +1879,7 @@
         "4:3",
         "4:7",
         "4:8",
-        "New Guideline"
+        "Nieuwe richtlijn"
       ]
     },
     {
@@ -1957,7 +1957,7 @@
         "2:8",
         "4:5",
         "14:1",
-        "Guideline rule 13:2"
+        "Richtlijn bij regel 13:2"
       ]
     },
     {
@@ -2011,8 +2011,8 @@
         "14:1",
         "16:3a",
         "17:13",
-        "Guideline 13:2",
-        "Video Replay Regulations"
+        "Richtlijn 13:2",
+        "Reglement voor videobeoordeling"
       ]
     }
   ]

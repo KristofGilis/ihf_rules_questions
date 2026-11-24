@@ -1,0 +1,2031 @@
+{
+  "RuleNumber": "2",
+  "Name": "Spielzeit, Schlusssignal und Time-out",
+  "Questions": [
+    {
+      "QuestionNumber": "2.1",
+      "Phrase": "Der vom Torwart abgewehrte Ball rollt über die Torauslinie. Direkt danach ertönt das automatische Schlusssignal. Die Schiedsrichter stellen fest, dass das Spiel fünf Minuten zu früh beendet wurde. Da sich die Spieler noch auf der Spielfläche befinden, wird das Spiel wieder aufgenommen mit:",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Abwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ohne Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Mit Anpfiff",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "12:1",
+        "15:5b"
+      ]
+    },
+    {
+      "QuestionNumber": "2.2",
+      "Phrase": "Nach dem automatischen Schlusssignal zur Halbzeitpause stellt der Schiedsrichter fest, dass die erste Halbzeit eine Minute zu früh beendet wurde. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die zweite Halbzeit ist um eine Minute zu verlängern.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die eine Minute wird nicht nachgeholt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Nach der Halbzeitpause ist zuerst eine Minute in denselben Spielfeldhälften wie in der ersten Halbzeit spielen zu lassen. Nach Seitenwechsel ist daraufhin die zweite Halbzeit normal zu beginnen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Spieler sind auf dem Spielfeld zu halten, und die verbleibende Spielzeit von einer Minute ist noch spielen zu lassen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:7"
+      ]
+    },
+    {
+      "QuestionNumber": "2.3",
+      "Phrase": "WEISS 11 wirft, Torwart SCHWARZ 1 hält. In diesem Augenblick ertönt das automatische Schlusssignal. Die Schiedsrichter machen den Zeitnehmer darauf aufmerksam, dass noch 30 Sekunden der zweiten Halbzeit zu spielen sind. Alle Spieler sind auf der Spielfläche geblieben. Wie sollte das Spiel wieder aufgenommen werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Mit Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Ohne Anpfiff",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "12:1",
+        "15:5b"
+      ]
+    },
+    {
+      "QuestionNumber": "2.4",
+      "Phrase": "Nach dem Schlusssignal ist von Team WEISS noch ein Freiwurf auszuführen. Sie wechselt nacheinander die wurfstarken Spieler WEISS 5 und WEISS 6 ein, nachdem WEISS 3 und anschließend WEISS 4 die Spielfläche verlassen haben. Welche der folgenden Aussagen treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Zeitnehmer wird pfeifen und die Schiedsrichter auf einen Wechselfehler von Team WEISS hinweisen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Spieler WEISS 4 ist wegen Wechselfehlers hinauszustellen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spieler WEISS 6 ist wegen Wechselfehlers hinauszustellen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Zeitnehmer wird nicht pfeifen, da kein Anlass besteht.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:5",
+        "4:5",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "2.5",
+      "Phrase": "Es erfolgt ein direkt ausgeführter Freiwurf für Team SCHWARZ unmittelbar vor Spielende. Bevor der unhaltbare Ball die Torlinie überquert hat, ertönt das automatische Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Spielende",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wiederholung des Freiwurfs für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wiederholung des Freiwurfs für Team SCHWARZ mit Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "15:5"
+      ]
+    },
+    {
+      "QuestionNumber": "2.6",
+      "Phrase": "Kurz vor dem Schlusspfiff wird SCHWARZ 2 an der gegnerischen Torraumlinie angespielt, setzt zum Torwurf an und wird dabei regelwidrig behindert. Bevor der Ball die Hand von SCHWARZ 2 verlassen hat, ertönt das Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Spielende",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spielende und Vermerk im Spielprotokoll",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "14:1a"
+      ]
+    },
+    {
+      "QuestionNumber": "2.7",
+      "Phrase": "Kurz vor Ende der ersten Halbzeit ist noch ein 7-Meter-Wurf auszuführen. Der von WEISS 9 geworfene Ball springt von der Latte gegen den Rücken des etwa drei Meter vor seinem Tor stehenden Torwarts und dann ins Tor. Der Pfiff des Zeitnehmers ertönte, als der Ball von der Latte in Richtung Torwartrücken flog. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wiederholung des 7-Meter-Wurfs",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Halbzeit beendet, keine weitere Entscheidung",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4"
+      ]
+    },
+    {
+      "QuestionNumber": "2.8",
+      "Phrase": "Nach dem Schlusssignal ist noch ein 7-Meter-Wurf auszuführen. Das unmittelbare Ergebnis dieses Wurfs wird abgewartet. Welcher Schiedsrichter beendet daraufhin das Spiel?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Erstgenannte",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Einer von beiden",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Feldschiedsrichter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Torschiedsrichter",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4"
+      ]
+    },
+    {
+      "QuestionNumber": "2.9",
+      "Phrase": "Wann beginnt das Spiel?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Mit dem Pfiff des erstgenannten Schiedsrichters",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wenn der Ball die Hand des Werfers verlassen hat",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn der Zeitnehmer die Stoppuhrstartet oder die öffentliche Zeitmessanlage zu laufen beginnt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Mit dem Anpfiff des Anwurfs durch den Feldschiedsrichter",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.10",
+      "Phrase": "Wer bestimmt beim 7-Meter-Werfen, auf welches Tor geworfen wird?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Diejenige Mannschaft, die das Losen gewinnt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Diejenige Mannschaft, die das Losen verliert",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der erstgenannte Schiedsrichter",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:2",
+        "Kommentare"
+      ]
+    },
+    {
+      "QuestionNumber": "2.11",
+      "Phrase": "Nach dem Schlusssignal ist von Team SCHWARZ noch ein Freiwurf auszuführen. Vor der Ausführung wechselt Team WEISS kurz nacheinander die hochgewachsenen WEISS 10 und WEISS 11 ein, nachdem WEISS 8 und WEISS 9 gleichzeitig die Spielfläche verlassen haben. Welche der folgenden Aussagen treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Zeitnehmer wird pfeifen und die Schiedsrichter auf einen Wechselfehler von Team WEISS hinweisen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 10 wird infolge eines Wechselfehlers hinausgestellt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "WEISS 11 wird infolge eines Wechselfehlers hinausgestellt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Zeitnehmer wird nicht pfeifen, da keine Regelwidrigkeit vorliegt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "WEISS 11 muss die Spielfläche verlassen. WEISS 8 oder WEISS 9 darf zurückkehren.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:5",
+        "4:5",
+        "16:3a"
+      ]
+    },
+    {
+      "QuestionNumber": "2.12",
+      "Phrase": "Unmittelbar vor Ende der ersten Halbzeit begeht WEISS 7 eine Tätlichkeit gegen SCHWARZ 5 und nimmt ihm dadurch eine klare Torchance. Bevor der Schiedsrichter pfeifen kann, ertönt das automatische Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ende der ersten Halbzeit, keine Bestrafung von WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ende der ersten Halbzeit, kein Freiwurf oder 7-Meter-Wurf mehr möglich",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation von WEISS 7 mit schriftlichem Bericht",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 7 (rote Karte)",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "8:10a",
+        "14:1a",
+        "16:6b"
+      ]
+    },
+    {
+      "QuestionNumber": "2.13",
+      "Phrase": "Bis wann darf der Schiedsrichter ein bereits anerkanntes Tor annullieren?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bis zum Anpfiff des Anwurfs",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bis zum Schlusssignal",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Wenn das Tor nach einer Unterbrechung durch den Zeitnehmer erzielt wurde, muss er es annullieren, selbst wenn der Anwurf bereits erfolgte.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Überhaupt nicht mehr",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:9 Kommentar",
+        "9:2"
+      ]
+    },
+    {
+      "QuestionNumber": "2.14",
+      "Phrase": "Die Schiedsrichter haben auf Einwurf für Team WEISS entschieden. In diesem Moment beantragt der Mannschaftsverantwortliche von Team WEISS ein Team-Time-out. Welche der folgenden Aussagen treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out nicht möglich, da der Ball nicht im Spiel ist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Zeitnehmer pfeift, hält die Uhr an und zeigt Handzeichen 15.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Schiedsrichter bestätigen das Team-Time-out für Team WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Sekretär trägt das Team-Time-out in das Spielprotokoll ein.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:9",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.15",
+      "Phrase": "Wann ist die Spielzeit verbindlich zu unterbrechen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Entscheidung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bei Einwirkungen auf das Spiel von außen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "Erläuterung 2"
+      ]
+    },
+    {
+      "QuestionNumber": "2.16",
+      "Phrase": "WEISS 9 wirft auf das Tor, Torwart SCHWARZ 12 hält. In diesem Augenblick pfeift der Zeitnehmer das Spiel ab. Die Schiedsrichter machen den Zeitnehmer darauf aufmerksam, dass noch 30 Sekunden der zweiten Halbzeit zu spielen sind. Alle Spieler sind auf der Spielfläche geblieben. Wie wird das Spiel wieder aufgenommen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Anpfiff",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "15:5b"
+      ]
+    },
+    {
+      "QuestionNumber": "2.17",
+      "Phrase": "Nach Ablauf der regulären Spielzeit beim Stand von 20:20 soll bis zur Entscheidung weitergespielt werden. Was ist richtig?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Vor der Verlängerung eine Minute Pause",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Vor der Verlängerung fünf Minuten Pause",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "In der Halbzeit der Verlängerung eine Minute Pause",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "In der Halbzeit der Verlängerung fünf Minuten Pause",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:2"
+      ]
+    },
+    {
+      "QuestionNumber": "2.18",
+      "Phrase": "In welchen dieser Situationen ist verbindlich Time-out zu geben?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Passives Spiel",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wechselfehler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Verwarnung",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Einwurf",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "4:5"
+      ]
+    },
+    {
+      "QuestionNumber": "2.19",
+      "Phrase": "Wer darf an einem 7-Meter-Werfen nicht teilnehmen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Spieler, der die Schiedsrichter nach Ablauf der 2. Verlängerung beleidigt hat",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Torwarte",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein Spieler mit Reststrafzeit aus der Verlängerung",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ein disqualifizierter Spieler",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Ein Spieler, der auf der Spielfläche behandelt wurde und diese noch nicht während drei Angriffen seiner Mannschaft verlassen hatte",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:2 Kommentar",
+        "4:11",
+        "16:5",
+        "16:6b",
+        "16:10"
+      ]
+    },
+    {
+      "QuestionNumber": "2.20",
+      "Phrase": "Fünf Sekunden vor Spielende wehrt der Torwart von Team WEISS einen Wurf ab. Der Ball berührt anschließend die Decke über dem Torraum. Kurz vor Ausführung des Einwurfs für Team SCHWARZ ertönt das automatische Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Einwurf für Team SCHWARZ nach Anpfiff",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Time-out",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spielende",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Wirkung des Einwurfs abwarten, danach Spielende",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:3",
+        "2:4",
+        "11:1"
+      ]
+    },
+    {
+      "QuestionNumber": "2.21",
+      "Phrase": "SCHWARZ 8 wurde bereits verwarnt. Während eines Team-Time-outs äußert er sich von der Auswechselbank aus unsportlich gegenüber den Schiedsrichtern. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Disqualifikation von SCHWARZ 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 8",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Verwarnung von SCHWARZ 8",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Keine Entscheidung möglich",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team SCHWARZ wird auf der Spielfläche ab Wiederanpfiff nach dem Team-Time-out zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:7a",
+        "16:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "2.22",
+      "Phrase": "Wer ist berechtigt, an einer Entscheidung durch 7-Meter-Werfen teilzunehmen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle im Spielprotokoll eingetragenen Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Spieler, die nicht disqualifiziert sind",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spieler, die am Ende der Spielzeit nicht hinausgestellt sind",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spieler, die die Erlaubnis der Schiedsrichter erhalten haben",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:2 Kommentar",
+        "16:5"
+      ]
+    },
+    {
+      "QuestionNumber": "2.23",
+      "Phrase": "Nach dem automatischen Schlusssignal muss noch ein Freiwurf ausgeführt werden. SCHWARZ 9 wirft auf das Tor. Als der Ball seine Hand gerade verlassen hat, pfeift der Zeitnehmer. Der Ball landet im Tor – der Torwart hätte keine Abwehrchance gehabt. Der Zeitnehmer teilt den Schiedsrichtern mit, dass der im Block stehende Spieler WEISS 7 vor der Wurfausführung eingewechselt wurde. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Hinausstellung von WEISS 7",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 7 (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Tor für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Wiederholung des Freiwurfs für Team SCHWARZ mit Anpfiff",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "2:5",
+        "2:9 Kommentar",
+        "4:5",
+        "9:1",
+        "Abs. 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.24",
+      "Phrase": "Bei unentschiedenem Spielstand nach beiden Verlängerungen ist nach dem Reglement ein 7-Meter-Werfen durchzuführen. WEISS 7 erhielt in der 9. Minute der zweiten Verlängerung eine Hinausstellung. Zum 7-Meter-Werfen wird er vom Mannschaftsverantwortlichen von WEISS als fünfter Werfer gemeldet. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "WEISS 7 darf teilnehmen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "WEISS 7 darf nicht teilnehmen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:2 Kommentar",
+        "16:3d"
+      ]
+    },
+    {
+      "QuestionNumber": "2.25",
+      "Phrase": "Wann muss eine Spielzeitunterbrechung erfolgen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Bei einer Hinausstellung eines Offiziellen",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Bei der dritten Hinausstellung eines Spielers",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Bei wiederholt unsportlichem Verhalten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Bei erforderlicher Rücksprache mit dem Partner",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Bei grob unsportlichem Verhalten",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Bei einer gelben Karte für einen Offiziellen",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8"
+      ]
+    },
+    {
+      "QuestionNumber": "2.26",
+      "Phrase": "Unmittelbar vor Ende der ersten Halbzeit begeht WEISS 7 eine Tätlichkeit gegen SCHWARZ 5, dem dadurch eine klare Torchance genommen wird. Bevor der Schiedsrichter pfeifen kann, ertönt das automatische Schlusssignal. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Erste Halbzeit ist zu Ende, keine weiteren Maßnahmen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Disqualifikation von WEISS 7 ohne schriftlichen Bericht (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Disqualifikation von WEISS 7, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "2-Minuten-Reduzierung von Team WEISS ab Beginn der zweiten Halbzeit",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:4",
+        "8:6",
+        "14:1a",
+        "16:6a"
+      ]
+    },
+    {
+      "QuestionNumber": "2.27",
+      "Phrase": "Nach dem Halbzeitsignal ist noch ein Freiwurf auszuführen. Welche Spieler dürfen noch ausgewechselt werden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle Spieler beider Mannschaften",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Nur Abwehrspieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Nur Angriffsspieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Ein Spieler der werfenden Mannschaft",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Für einen Feldspieler der verteidigenden Mannschaft darf ein Torwart eingewechselt werden, wenn die Mannschaft beim Schlusspfiff ohne Torwart gespielt hat.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:5"
+      ]
+    },
+    {
+      "QuestionNumber": "2.28",
+      "Phrase": "Was gilt für die Positionen der Spieler bei der Ausführung eines Freiwurfs nach dem Schlusssignal?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Alle Mitspieler des Werfers müssen sich außerhalb der Freiwurflinie des Gegners befinden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Alle Mitspieler des Werfers müssen sich in der eigenen Spielfeldhälfte aufhalten.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Gegner müssen mindestens 3 Meter vom Werfer entfernt bzw. an der eigenen Torraumlinie stehen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Alle Mitspieler müssen mindestens 3 Meter vom Werfer entfernt stehen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Alle Mitspieler dürfen beim Werfer an der Freiwurflinie des Gegners stehen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:5",
+        "13:8"
+      ]
+    },
+    {
+      "QuestionNumber": "2.29",
+      "Phrase": "WEISS 7 passt den Ball zu WEISS 8. In diesem Moment gibt der Zeitnehmer das Signal zum Team-Time-out für Team WEISS. Die Schiedsrichter und die Spieler hören dieses Signal nicht, und WEISS 8 spielt den Ball zu Außenspieler WEISS 10. Dieser hat eine klare Torchance, wird aber von SCHWARZ 5 regelwidrig behindert. Die Schiedsrichter entscheiden auf 7-Meter-Wurf und Hinausstellung gegen SCHWARZ 5. Jetzt erst nehmen die Schiedsrichter wahr, dass der Zeitnehmer das Signal zum Team-Time-out gegeben hatte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung von SCHWARZ 5",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team-Time-out für Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Anpfiff",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team WEISS an der Position, an der sich WEISS 7 zum Zeitpunkt der Unterbrechung befand",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:9",
+        "2:9 Kommentar",
+        "13:4a",
+        "15:5b",
+        "Erläuterung 3",
+        "Abs. 10"
+      ]
+    },
+    {
+      "QuestionNumber": "2.30",
+      "Phrase": "Die erste Halbzeit wurde eine Minute zu früh abgepfiffen. Es liegt zum Zeitpunkt des Pfiffs weder eine Regelwidrigkeit vor, noch ist eine Mannschaft in Ballbesitz. Der Ball liegt im Spielfeld auf dem Boden. Beide Mannschaften sind noch auf der Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Minute wird nicht nachgespielt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Minute muss vor der Halbzeitpause nachgespielt werden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Minute muss zu Beginn der zweiten Halbzeit nachgespielt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Minute wird der zweiten Halbzeit hinzugefügt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Durch Losentscheid wird entschieden, welche Mannschaft zu Beginn der einen Minute Ballbesitz erhält.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Die Mannschaft, die zuletzt in Ballbesitz war, erhält den Ball.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "13:4b"
+      ]
+    },
+    {
+      "QuestionNumber": "2.31",
+      "Phrase": "Die erste Halbzeit wurde eine Minute zu früh abgepfiffen. Es liegt zum Zeitpunkt des Pfiffs keine Regelwidrigkeit vor, der Ball ist in der Luft über dem Torraum und der Torwart fängt ihn nach dem Pfiff. Beide Mannschaften sind noch auf der Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Minute wird nicht nachgespielt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Die Minute wird noch gespielt, dann beginnt die Halbzeitpause.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Minute muss nach der Pause vor Beginn der zweiten Halbzeit gespielt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Minute wird der zweiten Halbzeit hinzugefügt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Mannschaft, die zuletzt in Ballbesitz war, erhält den Ball.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Spielfortsetzung mit Abwurf",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "13:4a"
+      ]
+    },
+    {
+      "QuestionNumber": "2.32",
+      "Phrase": "Die erste Halbzeit ist eine Minute zu früh abgepfiffen worden. Es liegt zum Zeitpunkt des Pfiffs keine Regelwidrigkeit vor, der Ball befindet sich in der Luft über dem Torraum und fliegt nach dem Pfiff am Tor vorbei ins Toraus. Beide Mannschaften sind noch auf der Spielfläche. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Minute wird nicht nachgespielt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Eine Minute wird noch gespielt, dann beginnt die Halbzeitpause.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Minute muss nach der Pause zu Beginn der zweiten Halbzeit gespielt werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Minute wird der zweiten Halbzeit hinzugefügt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die Mannschaft, die zuletzt in Ballbesitz war, erhält den Ball.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Spielfortsetzung mit Abwurf",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:7",
+        "13:4b"
+      ]
+    },
+    {
+      "QuestionNumber": "2.33",
+      "Phrase": "Team WEISS hat ein Tor erzielt. Team SCHWARZ will einen schnellen Anwurf ausführen. Deswegen prellt SCHWARZ 5 den Ball rasch in Richtung Mittellinie. Dabei läuft er am zurücklaufenden WEISS 3 vorbei, der ihm den Ball mit der offenen Hand wegspitzelt, sodass der Ball SCHWARZ 5 auf den Fuß und von dort über die Mittellinie weit in die Hälfte von Team WEISS prallt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Anwurf für Team SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung von WEISS 3",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Hinausstellung von WEISS 3",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "8:8g",
+        "15:9",
+        "16:1b",
+        "Erläuterung 2c"
+      ]
+    },
+    {
+      "QuestionNumber": "2.34",
+      "Phrase": "In welchen Situationen ist NICHT verbindlich Time-out zu geben?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Ball fliegt sehr weit weg.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Zeitnehmer pfeift.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Ein Spieler scheint verletzt zu sein.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Die Schiedsrichter zeigen bei einer Entscheidung bezüglich der Spielfortsetzung in verschiedene Richtungen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Ein Torwart wird zur Ausführung eines Abwurfs für einen Feldspieler eingewechselt.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "Erläuterung 2"
+      ]
+    },
+    {
+      "QuestionNumber": "2.35",
+      "Phrase": "Wer meldet das Team-Time-out an?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Offizieller",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Ein Spieler",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Nur der Mannschaftsverantwortliche",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Der Mannschaftkapitän",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.36",
+      "Phrase": "Welche der folgenden Aussagen zum Team-Time-out treffen zu?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Team-Time-out kann nur vom Offiziellen A angemeldet werden.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Wird bei Ballbesitz des Gegners ein Team-Time-out angemeldet, gibt der Zeitnehmer die grüne Karte gleich zurück.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Zeit für das Team-Time-out beginnt mit dem Signal des Zeitnehmers.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Regelwidrigkeiten während eines Team-Time-outs haben die gleichen Folgen wie während der Spielzeit.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Nach einem Team-Time-out wird das Spiel immer mit einem Wurf für die beantragende Mannschaft aufgenommen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.37",
+      "Phrase": "Team WEISS ist in Ballbesitz. Ein Offizieller von Team SCHWARZ meldet beim Zeitnehmer Team-Time-out an, indem er die grüne Karte auf den Zeitnehmertisch legt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die grüne Karte wird am Zeitnehmertisch aufgestellt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Zeitnehmer pfeift, sobald Team SCHWARZ in Ballbesitz gelangt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Der Zeitnehmer gibt die grüne Karte zurück.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Nur der Mannschaftsverantwortliche darf Team-Time-out anmelden.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.38",
+      "Phrase": "SCHWARZ 3 führt einen Torwurf so unglücklich aus, dass der Ball, ohne einen weiteren Spieler zu berühren, im Torraum liegen bleibt und die Schiedsrichter auf Abwurf entschieden haben. In diesem Moment beantragt der Mannschaftsverantwortliche von SCHWARZ ein Team-Time-out. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Der Zeitnehmer pfeift, stoppt gleichzeitig die Spielzeituhr und zeigt den Schiedsrichtern das Team-Time-out für Team SCHWARZ an.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Der Zeitnehmer gibt dem Mannschaftsverantwortlichen von SCHWARZ die grüne Karte zurück.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "6:5",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.39",
+      "Phrase": "Torwart WEISS 1 wirft zu WEISS 8, der sich allein mit Torwart SCHWARZ 12 an dessen Torraum befindet. Kurz bevor WEISS 8 den Ball erreicht, pfeift der Zeitnehmer, weil der Offizielle A von Team WEISS in diesem Moment ein Team-Time-out anmeldet. Wie ist das Spiel fortzusetzen?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Freiwurf für Team WEISS außerhalb des eigenen Torraums",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Freiwurf für Team WEISS an der eigenen Auswechsellinie",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf für Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Freiwurf für Team WEISS an der gegnerischen Freiwurflinie",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.40",
+      "Phrase": "WEISS 4 blockt einen Wurf von SCHWARZ 11. Der Ball berührt die Decke über dem Torraum. Einen Augenblick später legt der Offizielle A von Team SCHWARZ die grüne Karte auf den Tisch vor den Zeitnehmer. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team SCHWARZ erhält sofort ein Team-Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team SCHWARZ erhält kein Team-Time-out, da der Ball die Decke über dem Torraum berührte.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team SCHWARZ erhält kein Team-Time-out, da Team WEISS den Ball wieder ins Spiel bringen darf.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Team SCHWARZ erhält ein Team-Time-out, sobald der Ball wieder ins Spiel gebracht wurde.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "2:10",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.41",
+      "Phrase": "Team WEISS ist in Ballbesitz und beantragt Team-Time-out. Aufgrund großen Lärms hören die Schiedsrichter den Pfiff des Zeitnehmers nicht. Erst nach 10 Sekunden – Team SCHWARZ ist bereits in Ballbesitz – hören sie den Pfiff. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Das Team-Time-out wird gegeben.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Team-Time-out wird nicht gewährt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Spielfortsetzung mit Freiwurf für Team WEISS",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "2:9 Kommentar",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.42",
+      "Phrase": "Bei 78:00 erhält WEISS 7 eine Hinausstellung. Das Spiel endet unentschieden, und laut Wettbewerbsbestimmungen ist eine Entscheidung durch 7-Meter-Werfen erforderlich. Der Mannschaftsverantwortliche von Team WEISS nominiert WEISS 7 für das 7-Meter-Werfen. WEISS 7 führt den 7-Meter-Wurf aus und erzielt ein Tor. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor zählt, WEISS 7 zur Teilnahme am 7-Meter-Werfen berechtigt",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Tor zählt nicht, WEISS 7 nicht zur Teilnahme am 7-Meter-Werfen berechtigt",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "7-Meter-Wurf ist als Fehlwurf einzustufen",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation von WEISS 7",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:2 Kommentar"
+      ]
+    },
+    {
+      "QuestionNumber": "2.43",
+      "Phrase": "Bei 55:00 beantragt der Mannschaftsverantwortliche von Team WEISS das zweite Team-Time-out. Bei 59:00 beantragt derselbe Mannschaftsverantwortliche das dritte Team-Time-out. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out möglich",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out nicht möglich",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.44",
+      "Phrase": "Mannschaft WEISS ist im Angriff. Der Mannschaftsverantwortliche von Team WEISS möchte ein Team-Time-out beantragen und geht zum Tisch, um die grüne Karte vor dem Zeitnehmer hinzulegen. Als die grüne Karte auf dem Tisch vor dem Zeitnehmer liegt, wirft WEISS 4 zur gleichen Zeit auf das Tor und erzielt einen Treffer. Der Zeitnehmer pfeift zum Team-Time-out, nachdem der Ball die Torlinie im Tor von Team SCHWARZ überschritten hatte. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Tor für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Tor ist ungültig, weil Mannschaft WEISS ein Team-Time-out beantragt hatte.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Team-Time-out für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Kein Team-Time-out für Mannschaft WEISS, weil sie nicht mehr in Ballbesitz ist",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Die grüne Karte wird der Mannschaft zurückgegeben.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Anwurf für Mannschaft SCHWARZ",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.45",
+      "Phrase": "Mannschaft WEISS hatte ihr zweites Team-Time-out bei Spielzeit 55:10. Der Mannschaftsverantwortliche von WEISS möchte bei Spielzeit 59:25 für seine Mannschaft ein drittes Team-Time-out beantragen und legt die grüne Karte auf den Tisch vor den Zeitnehmer. Team WEISS ist in Ballbesitz. Der Zeitnehmer pfeift und stoppt die Spielzeituhr. Er zeigt Team-Time-out für Mannschaft WEISS an. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Es wird kein Team-Time-out gewährt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung für den Mannschaftsverantwortlichen von Team WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "Erläuterung 3",
+        "2:10"
+      ]
+    },
+    {
+      "QuestionNumber": "2.46",
+      "Phrase": "Mannschaft WEISS möchte ein Team-Time-out beantragen. Der Mannschafts-verantwortliche von Team WEISS legt die grüne Karte auf den Tisch vor den Zeitnehmer. Zur gleichen Zeit wirft WEISS 9 auf das Tor von Team SCHWARZ. Der Zeitnehmer pfeift als der Ball in der Luft ist. Kurz nach dem Pfiff fängt der Torwart SCHWARZ 12 den Ball. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Kein Team-Time-out möglich, weil Mannschaft WEISS nicht mehr in Ballbesitz ist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die grüne Karte wird Mannschaft WEISS zurückgegeben.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Abwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "13:4",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.47",
+      "Phrase": "Mannschaft WEISS möchte ein Team-Time-out beantragen. Der Mannschafts-verantwortliche von Team WEISS legt die grüne Karte auf den Tisch vor den Zeitnehmer. Bevor der Zeitnehmer pfeifen kann, wirft WEISS 9 auf das Tor. Der Wurf wird von Torwart SCHWARZ 12 geblockt. Der Zeitnehmer pfeift, als der Ball im Torraum rollt. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Kein Team-Time-out möglich, weil Mannschaft WEISS nicht in Ballbesitz ist",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die grüne Karte wird Mannschaft WEISS zurückgegeben.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Abwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "6:5",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.48",
+      "Phrase": "Mannschaft WEISS möchte ein Team-Time-out beantragen. Der Mannschaftsverantwortliche von Team WEISS legt die grüne Karte auf den Tisch vor den Zeitnehmer. Bevor der Zeitnehmer pfeifen kann, wirft WEISS 9 auf das Tor. Der Wurf wird von Torwart SCHWARZ 12geblockt. Der Zeitnehmer pfeift, als sich der Ball nach der Abwehr in der Luft über dem Torraum befindet. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Kein Team-Time-out möglich, weil Mannschaft WEISS nicht in Ballbesitz ist",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out für Mannschaft WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die grüne Karte wird Mannschaft WEISS zurückgegeben.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Abwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "13:4",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.49",
+      "Phrase": "Mannschaft WEISS möchte ein Team-Time-out beantragen. Der Mannschafts-verantwortliche von Team WEISS legt die grüne Karte auf den Tisch vor den Zeitnehmer. Bevor der Zeitnehmer pfeifen kann, begeht WEISS 11 ein Angreifervergehen. Der Zeitnehmer pfeift zum Team-Time-out unmittelbar bevor der Schiedsrichter das Angreifervergehen pfeift. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Die Schiedsrichter gewähren das Team-Time-out nicht, weil das Angreifervergehen vor dem Pfiff des Zeitnehmers begangen wurde.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out für Mannschaft WEISS",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die grüne Karte wird Mannschaft WEISS zurückgegeben.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS wieder aufgenommen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3",
+        "in Verbindung mit 2:4"
+      ]
+    },
+    {
+      "QuestionNumber": "2.50",
+      "Phrase": "Im Spiel wird das elektronische Team-Time-out (der Buzzer) genutzt. Team WEISS hatte sein zweites Team-Time-out bei 55:10. Bei 59:35 Uhr möchte der Offizielle A vom Team WEISS ein drittes Team-Time-out für sein Team beantragen und betätigt den Buzzer für das Team-Time-out. Der Ball ist im Spiel und die Mannschaft WEISS ist in Ballbesitz. Das Signal der öffentlichen Zeitmessanlage ertönt und die Uhr wird angehalten. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out für Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out wird nicht gewährt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Progressive Bestrafung für den Offiziellen A der Mannschaft WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Mannschaft SCHWARZ kann zwischen Freiwurf und 7-Meter-Wurf wählen.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3",
+        "Reglement für elektronische Team-Time-outs"
+      ]
+    },
+    {
+      "QuestionNumber": "2.51",
+      "Phrase": "Im Spiel wird das elektronische Team-Time-out (der Buzzer) genutzt. Mannschaft WEISS ist in Ballbesitz. Bei 58:40 begeht WEISS 7 ein Stürmerfoul. Bevor die Schiedsrichter das Stürmerfoul pfeifen können, ertönt das Signal der öffentlichen Zeitmessanlage, weil Offizieller A von Mannschaft WEISS den Team-Time-out-Buzzer betätigt hat, um ein Team-Time-out anzufordern. Unmittelbar danach pfeifen die Schiedsrichter das Stürmerfoul gegen WEISS 7. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Ein Team-Time-out ist nicht möglich, da Mannschaft WEISS nicht mehr in Ballbesitz ist.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out für Mannschaft WEISS.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Mannschaft WEISS verliert ein Team-Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Das Spiel wird mit einem 7-Meter-Wurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Mannschaft SCHWARZ kann zwischen Freiwurf und 7-Meter-Wurf wählen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Progressive Bestrafung gegen den Offiziellen A Mannschaft WEISS.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3",
+        "Reglement für elektronische Team-Time-outs"
+      ]
+    },
+    {
+      "QuestionNumber": "2.52",
+      "Phrase": "Im Spiel wird das elektronische Team-Time-out (der Buzzer) genutzt. Bei 29:50 Uhr der ersten Halbzeit wirft WEISS 9 aufs Tor. Der Ball wird von Torwart SCHWARZ 12 geblockt, und befindet sich in der Luft über dem Torraum. In diesem Moment ertönt das Signal der öffentlichen Zeitmessanlage, weil Offizieller A von Mannschaft SCHWARZ den Buzzer betätigt hat, um ein Team-Time-out zu beantragen. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Kein Team-Time-out möglich, da Mannschaft SCHWARZ nicht in Ballbesitz ist.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Team-Time-out für Mannschaft SCHWARZ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Mannschaft SCHWARZ verliert ein Team-Time-out.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit Abwurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Das Spiel wird mit Freiwurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Mannschaft WEISS kann zwischen einem 7-Meter-Wurf und einem Freiwurf wählen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Das Spiel wird mit einem 7-Meter-Wurf für Mannschaft WEISS fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Progressive Bestrafung gegen den Offiziellen A Mannschaft SCHWARZ.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3",
+        "Reglement für elektronische Team-Time-outs"
+      ]
+    },
+    {
+      "QuestionNumber": "2.53",
+      "Phrase": "Mannschaft SCHWARZ ist im Angriff. Die Schiedsrichter zeigen das Vorwarnzeichen. Nach zwei Pässen ertönt ein Pfiff des Delegierten, weil Offizieller A von SCHWARZ ein Team-Time-out beantragt hat. Weder die Schiedsrichter noch die Spieler hören den Pfiff, und das Spiel wird fortgesetzt. Der vierte Pass der Mannschaft SCHWARZ geht an den Außenspieler, der eine klare Torchance hat. Der Außenspieler springt, und will auf das Tor werfen. Dabei wird er von WEISS 4 gestoßen und verliert teilweise die Körperkontrolle. Der Torwart hält den Wurf. Erst zu diesem Zeitpunkt wird den Schiedsrichtern und den Spielern bewusst, dass der Delegierte das Spiel wegen des beantragten Team-Time-outs unterbrochen hat. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out für Mannschaft SCHWARZ.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für Mannschaft SCHWARZ wieder aufgenommen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Spiel wird mit einem 7-Meter-Wurf für Mannschaft SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "2-Minuten-Strafe für WEISS 4.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Keine Bestrafung.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Das Vorwarnzeichen ist weiterhin gültig - Mannschaft SCHWARZ hat zwei Pässe gespielt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Das Vorwarnzeichen ist weiterhin gültig - Mannschaft SCHWARZ hat vier Pässe gespielt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Das Vorwarnzeichen ist nicht mehr gültig, weil WEISS 4 mit einer 2-Minuten-Strafe belegt wurde.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:9 Kommentar",
+        "2:10",
+        "Erläuterung 3 und 4"
+      ]
+    },
+    {
+      "QuestionNumber": "2.54",
+      "Phrase": "Mannschaft WEISS wirft auf das Tor. Torwart SCHWARZ 1 pariert den Wurf. Der Ball springt im Torraum auf, als der Mannschaftsoffizielle A von Mannschaft WEISS ein Team-Time-out beantragt, indem er die grüne Karte vor den Zeitnehmer ablegt. Der Zeitnehmer pfeift, als der Ball immer noch innerhalb des Torraums aufspringt, aber der Ball sehr nahe an WEISS 13 ist, der sich völlig allein außerhalb des Torraums befindet. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out für Mannschaft WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Es ist kein Team-Time-out möglich, die grüne Karte wird dem Mannschaftsoffiziellen A von Weiß zurückgegeben.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Freiwurf für Mannschaft WEISS.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Abwurf für Mannschaft SCHWARZ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Freiwurf für Mannschaft SCHWARZ.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "7-Meter-Wurf für Mannschaft WEISS.",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "13:4a-b",
+        "Erläuterung 3"
+      ]
+    },
+    {
+      "QuestionNumber": "2.55",
+      "Phrase": "Elektronisches Team-Time-out wird im Spiel verwendet. Die Mannschaft WEISS ist im Angriff, und der Spielstand lautet 31:31. 20 Sekunden vor Ende des Spiels erzielt WEISS 7 ein Tor. Offizieller A von SCHWARZ läuft zum Zeitnehmertisch, um den Buzzer zu drücken und ein Team-Time-out zu beantragen. Bevor der Offizielle A den Buzzer drücken kann, steht SCHWARZ 10 von der Bank auf und drückt den Buzzer, kurz bevor SCHWARZ den Anwurf ausführt. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Team-Time-out für SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Kein Team-Time-out für SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Das Spiel wird mit einem Anwurf für SCHWARZ fortgesetzt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Das Spiel wird mit einem 7-Meter-Wurf für WEISS fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Offizieller A Mannschaft WEISS kann zwischen 7-Meter-Wurf und Freiwurf wählen.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Progressive Bestrafung für Offiziellen A Mannschaft SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Hinausstellung SCHWARZ 10",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Disqualifikation ohne schriftlichen Bericht SCHWARZ 10",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "j",
+          "Phrase": "SCHWARZ verliert ein Team-Time-out.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "2:10",
+        "Erläuterung 3",
+        "Reglement für elektronische Team-Time-outs"
+      ]
+    },
+    {
+      "QuestionNumber": "2.56",
+      "Phrase": "In diesem Spiel kann der Videobeweis (VR) genutzt werden und ein elektronisches Team-Time-out-System ist im Einsatz. 20 Sekunden vor Ende des Spiels läuft WEISS 7 mit dem Ball in den Händen. Der Schiedsrichter pfeift gegen WEISS 7. WEISS 7 hält den Ball für 2 Sekunden fest, bevor er ihn auf den Boden legt. Gerade als SCHWARZ 4 den Ball aufnimmt, drückt der Offizielle B Mannschaft SCHWARZ den Buzzer, um ein TTO zu beantragen. Die Schiedsrichter beschließen, den VR einzusetzen, um einen möglichen Verstoß gegen Regel 8:11a zu überprüfen. Bei der VR-Überprüfung sehen sie, dass WEISS 7 nur drei Schritte gemacht hat. Was ist die richtige Entscheidung?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Es ist in Ordnung, die Videowiederholung zu verwenden.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Das Team-Time-out für SCHWARZ beginnt sofort.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Die Entscheidung über das Team-Time-out wird bis nach der VR vertagt.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Time-out",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Nach VR, Team-Time-Out für SCHWARZ",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "f",
+          "Phrase": "Nach VR, kein Team-Time-Out SCHWARZ",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "g",
+          "Phrase": "Disqualifikation ohne schriftlichen Bericht für WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "h",
+          "Phrase": "Hinausstellung für WEISS 7",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "i",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "j",
+          "Phrase": "Das Spiel wird mit einem 7-Meter-Wurf für SCHWARZ fortgesetzt.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "k",
+          "Phrase": "Das Spiel wird mit einem Freiwurf für WEISS wieder aufgenommen.",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "l",
+          "Phrase": "SCHWARZ verliert ein Team-Time-out.",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "m",
+          "Phrase": "Progressive Bestrafung für den Offiziellen B Mannschaft SCHWARZ",
+          "Correct": false
+        }
+      ],
+      "RuleReferences": [
+        "2:8",
+        "2:9",
+        "Erläuterung Nr. 3",
+        "17:13",
+        "Reglement für elektronische Team-Time-outs",
+        "Reglement für den Videobeweis"
+      ]
+    }
+  ]
+}

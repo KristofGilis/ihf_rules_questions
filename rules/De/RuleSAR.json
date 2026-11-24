@@ -1,0 +1,71 @@
+{
+  "RuleNumber": "ARR",
+  "Name": "Auswechselraum-Reglement",
+  "Questions": [
+    {
+      "QuestionNumber": "ARR1",
+      "Phrase": "Wie groß sollte der Abstand zwischen Auswechselbänken und Mittellinie sein?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "1 Meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "2 Meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "3 Meter",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "3,5 Meter",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "Auswechselraum-Reglement 1"
+      ]
+    },
+    {
+      "QuestionNumber": "ARR2",
+      "Phrase": "Der Offizielle A von Team WEISS hat bereits auf der Auswechselbank eine Verwarnung erhalten. Er verlässt den Auswechselraum, setzt sich auf die Tribüne und protestiert von dort aus weiter gegen Schiedsrichterentscheidungen. Wie ist zu entscheiden?",
+      "Answers": [
+        {
+          "AnswerNumber": "a",
+          "Phrase": "Keine Entscheidung möglich",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "b",
+          "Phrase": "Hinausstellung des Offiziellen A von Team WEISS",
+          "Correct": true
+        },
+        {
+          "AnswerNumber": "c",
+          "Phrase": "Disqualifikation des Offiziellen A von Team WEISS (rote Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "d",
+          "Phrase": "Disqualifikation des Offiziellen A von Team WEISS, schriftlicher Bericht (rote und blaue Karte)",
+          "Correct": false
+        },
+        {
+          "AnswerNumber": "e",
+          "Phrase": "Team WEISS wird auf der Spielfläche zwei Minuten lang um einen Spieler reduziert.",
+          "Correct": true
+        }
+      ],
+      "RuleReferences": [
+        "8:7a",
+        "16:3e",
+        "Auswechselraum-Reglement 5+6"
+      ]
+    }
+  ]
+}
