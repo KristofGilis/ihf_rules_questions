@@ -27,11 +27,6 @@ Here an overview of all versions:
 | French    | 1 juillet 2025 (version décembre 2025)    |
 | German (DHB) | 1. Juli 2025 (Fassung vom November 2026) |
 
-The [German catalogue](rules/De) contains 432 DHB questions.
-It uses the shared English answer key for scoring and rule
-references. [RuleSAR.json](rules/De/RuleSAR.json) contains the German rule
-`ARR` and questions `ARR1` and `ARR2`.
-
 
 ## Adding a New Language
 
@@ -160,7 +155,7 @@ By following these instructions, you can easily add new languages, fill in missi
 <table>
   <tbody>
     <tr>
-    <td align="center" valign="top" width="14.28%"><a href="https://github.com/KristofGilis"><img src="https://avatars.githubusercontent.com/u/2454275?v=4?s=100" width="100px;" alt="Kristof Gilis"/><br /><sub><b>Kristof Gilis</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=KristofGilis" title="Code"> En / Nl / Fr</a></td>
+    <td align="center" valign="top" width="14.28%"><a href="https://github.com/KristofGilis"><img src="https://avatars.githubusercontent.com/u/2454275?v=4?s=100" width="100px;" alt="Kristof Gilis"/><br /><sub><b>Kristof Gilis</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=KristofGilis" title="Code"> En / Nl / Fr / De</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/branislavrt4316"><img src="https://avatars.githubusercontent.com/u/55112798?v=4?s=100" width="100px;" alt="Branislav Vujanovic"/><br /><sub><b>Branislav Vujanovic</b></sub></a><br /><a href="https://github.com/KristofGilis/ihf_rules_questions/commits?author=branislavrt4316" title="Code">Srb</a></td>
     </tr>
   </tbody>
