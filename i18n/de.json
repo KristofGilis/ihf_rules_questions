@@ -24,11 +24,11 @@
     "hero_description": "Teste dein Wissen über die IHF-Handballregeln mit interaktiven Quizfragen.",
     "android_app": {
       "download": "Bei Google Play herunterladen",
-      "badge": "store-badges/google-play-en-us.svg"
+      "badge": "store-badges/google-play-de-de.svg"
     },
     "ios_app": {
       "download": "Im App Store laden",
-      "badge": "store-badges/app-store-en-us.svg"
+      "badge": "store-badges/app-store-de-de.svg"
     },
     "loading": "Wird geladen …",
     "quiz_card": {
